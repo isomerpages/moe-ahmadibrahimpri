@@ -10,13 +10,13 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Announcements
-          description: ""
+          description: "%$^&D"
           url: ""
         - title: Events
-          description: ""
+          description: HER^#190
           url: ""
         - title: Parents' Login
-          description: ""
+          description: 52geeh9
           url: ""
   - infobar:
       title: Infobar title
