@@ -61,12 +61,24 @@ And be proud of our school</p>
 <li>keep trim and fit</li>
 <li>do well in my studies and in all that I do</li>
 </ol>
-</p>
-
     </div>
 	</li>
-	
-	
-	
-  
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">School Rules and Regulation</label>
+    <div>
+      <h4 id="the-prescribed-uniform">THE PRESCRIBED UNIFORM</h4>
+<ol>
+<li><p>You must wear the full uniform / school attire, at school or on outings (including Saturdays, school holidays and camps in school).</p>
+</li>
+<li><p>Name tags are to be worn at all times.</p>
+</li>
+</ol>
+<p>Boys: Name tags to be placed on the upper edge of the pocket.</p>
+<p>Girls: Name tags to be placed below the school crest.</p>
+<p>The pupils’ name tags are colour-coded by cohort, as shown in the table below.</p>
+<p>Please help us to ensure that the name tags are ironed on / sewn on <strong>BELOW THE SCHOOL BADGE</strong>.</p>
+<p><img src="/images/sch%20unifrom.png" alt="School uniform" style="width:75%"></p>
+    </div>
+	</li>  
 </ul>
