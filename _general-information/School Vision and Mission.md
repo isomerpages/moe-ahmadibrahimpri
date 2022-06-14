@@ -29,43 +29,41 @@ To build character, develop life-long learners and strive for excellence.
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">School Song / Creed </label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p><strong>Grow With Resilience and Confidence</strong></p>
+<p>Music: J J de Souza</p>
+<p>Lyrics: Mrs Chan Kwai Foong (First Principal)</p>
+<p>Ahmad Ibrahim Primary School
+You’re our mentor and guiding star
+From which we have all the best in education
+Not forgetting care and concern
+We compete with valour and aspire to
+Always be the best
+We are a team striving for excellence
+And together meet all challenges
+Let us work towards our mission
+With our knowledge
+We can achieve
+Grow with resilience and confidence
+And be proud of our school
+Grow with resilience and confidence
+And be proud of our school</p>
+<p><strong>Pupils&#39; Creed</strong></p>
+<p>As a student of Ahmad Ibrahim Primary School, I will:</p>
+<ol>
+<li>be obedient and respectful to my teachers.</li>
+<li>be proud of my school and my friends.</li>
+<li>be co-operative and helpful to my friends.</li>
+<li>show care and concern for others.</li>
+<li>be considerate and courteous to everyone.</li>
+<li>conduct myself in a manner worthy of my school</li>
+<li>keep trim and fit</li>
+<li>do well in my studies and in all that I do</li>
+</ol>
+</p>
+
     </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
-    <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
-    </div>
-  </li>
+	</li>
+  
 </ul>
