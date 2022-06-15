@@ -3,9 +3,7 @@ title: School Achievements
 permalink: /general-information/school-achievements
 description: ""
 ---
-![SYF1](/images/syf1.png)
 
-![SYF2](/images/syf2.jpg)
 
 <ul class="jekyllcodex_accordion">
   <li>
