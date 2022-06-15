@@ -21,8 +21,8 @@ View our [CCA Overview](https://docs.google.com/spreadsheets/d/1-sZjT7YEXxD0CFL
 <html>
 <body>
 <p><a href="/cca/badminton">
-<img src="/images/badminton%20logo.png"  style="width:35%">
-</a></p><p>Badminton</p>
+<img src="/images/badminton%20logo.png"  style="width:35%"><p>Badminton</p>
+</a></p>
 </body>
 </html>
 
