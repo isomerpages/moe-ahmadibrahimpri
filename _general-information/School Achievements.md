@@ -3,8 +3,6 @@ title: School Achievements
 permalink: /general-information/school-achievements
 description: ""
 ---
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -33,11 +31,7 @@ ArtIst + Technology. </p>
 			<p>K Tanishqa from 5 Honesty participated in a Tamil Singing Competition organised by an Indian TV channel, ZeeChamps. She emerged as the champion in the Junior category.</p>
 			<p><strong>Indian Storytelling Competition</strong> <strong>by a Singapore Indian Publisher</strong></p>
 			<p><img src="/images/indian.png" style="width:70%"></p>
-			<p>Siddharth Ganesh from 4 Honesty took part in this competition and won a Power Star Award.</p>
-
-
-
-			
+			<p>Siddharth Ganesh from 4 Honesty took part in this competition and won a Power Star Award.</p>			
     </div>
 	</li>  
 	
