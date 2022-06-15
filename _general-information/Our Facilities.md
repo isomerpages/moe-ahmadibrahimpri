@@ -107,8 +107,24 @@ Our facilities that we have for our pupils:
 
 <html>
 <body>
-<p><a href="//general-information/our-facilities/study-corner">
+<p><a href="/general-information/our-facilities/study-corner">
 <img src="/images/Study%20Corner1.jpg"  style="width:45%">
 </a>Study Corner</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/general-information/our-facilities/indoor-sports-hall-ish">
+<img src="/images/ISH6.jpg"  style="width:45%">
+</a>Indoor Sports Hall (ISH)</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/general-information/our-facilities/cyber-lab">
+<img src="/images/Cyber%20Lab2.jpeg"  style="width:45%">
+</a>Cyber Lab</p>
 </body>
 </html>
