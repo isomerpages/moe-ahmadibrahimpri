@@ -68,15 +68,16 @@ Our facilities that we have for our pupils:
 <body>
 <p><a href="/general-information/our-facilities/english-learning-space">
 <img src="/images/English%20Learning%20Space3.jpg"  style="width:45%">
-</a>Holistic Health Hub1</p>
+</a>English Learning Space</p>
 </body>
 </html>
 
 <html>
 <body>
-<p><a href="/images/Holistic%20Health%20Hub1.jpg">
-<img src="/images/Holistic%20Health%20Hub1.jpg"  style="width:45%">
-</a>Holistic Health Hub2</p>
+<p><a href="/general-information/our-facilities/habits-of-mind-learning-wall">
+<img src="/images/Habits%20of%20Mind%20Learning%20Wall.jpg"  style="width:45%">
+</a>Habits of Mind Learning Wall
+</p>
 </body>
 </html>
 
