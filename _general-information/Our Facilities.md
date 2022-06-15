@@ -83,8 +83,8 @@ Our facilities that we have for our pupils:
 
 <html>
 <body>
-<p><a href="/images/Holistic%20Health%20Hub1.jpg">
-<img src="/images/Holistic%20Health%20Hub1.jpg"  style="width:45%">
-</a>Holistic Health Hub3</p>
+<p><a href="/general-information/our-facilities/eco-garden">
+<img src="/images/Eco-Garden1.jpg"  style="width:45%">
+</a>Eco-Garden</p>
 </body>
 </html>
