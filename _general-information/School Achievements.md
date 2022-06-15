@@ -69,13 +69,23 @@ ArtIst + Technology. </p>
     
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5">School Achievements 2019</label>
     <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+      <p>2019 CCA Awards</p>
+<p>Rope Skipping (Nationals Competition)</p>
+<ul>
+<li>Top 8 (Senior Boys Speed Relay)</li>
+<li>Top 8 (Junior Boys Double Dutch)</li>
+</ul>
+<p>Art &amp; Craft (SYF Arts Exhibition)
+Certificate of Recognition</p>
+<ul>
+<li>Zhou Jia Yan Carrie (2 Care)</li>
+<li>Nur Alesya Binte Mohd Tajuddin (2 Excellence)</li>
+<li>Thia Priyanka Rai (2 Excellence)</li>
+<li>Luo Yanglin Shannon (2 Honesty)</li>
+</ul>
     </div>
   </li>
 </ul>
+
