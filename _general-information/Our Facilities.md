@@ -52,14 +52,38 @@ Our facilities that we have for our pupils:
 <body>
 <p><a href="/general-information/our-facilities/media-resourse-library">
 <img src="/images/Media%20Resource%20Library2.jpg"  style="width:45%">
-</a></p>
+</a>Media Resource Library</p>
 </body>
 </html>
 
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
-</a></p>
+<p><a href="/general-information/our-facilities/holistic-health-hub">
+<img src="/images/Holistic%20Health%20Hub1.jpg"  style="width:45%">
+</a>Holistic Health Hub</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/general-information/our-facilities/english-learning-space">
+<img src="/images/English%20Learning%20Space3.jpg"  style="width:45%">
+</a>Holistic Health Hub1</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/images/Holistic%20Health%20Hub1.jpg">
+<img src="/images/Holistic%20Health%20Hub1.jpg"  style="width:45%">
+</a>Holistic Health Hub2</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/images/Holistic%20Health%20Hub1.jpg">
+<img src="/images/Holistic%20Health%20Hub1.jpg"  style="width:45%">
+</a>Holistic Health Hub3</p>
 </body>
 </html>
