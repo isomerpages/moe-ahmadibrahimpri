@@ -2,5 +2,6 @@ collections:
   general-information:
     output: true
     order:
+      - School Organisation Chart.md
       - Our Facilities.md
       - School Vision and Mission.md
