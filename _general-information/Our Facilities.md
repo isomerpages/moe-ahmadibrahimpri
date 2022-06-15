@@ -88,3 +88,27 @@ Our facilities that we have for our pupils:
 </a>Eco-Garden</p>
 </body>
 </html>
+
+<html>
+<body>
+<p><a href="/general-information/our-facilities/student-care-centre">
+<img src="/images/Student%20Care%20Centre2.jpg"  style="width:45%">
+</a>Student Care Centre</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/general-information/our-facilities/eco-garden">
+<img src="/images/Eco-Garden1.jpg"  style="width:45%">
+</a>Eco-Garden2</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/general-information/our-facilities/eco-garden">
+<img src="/images/Eco-Garden1.jpg"  style="width:45%">
+</a>Eco-Garden3</p>
+</body>
+</html>
