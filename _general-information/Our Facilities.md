@@ -34,9 +34,9 @@ Our facilities that we have for our pupils:
 
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
-</a></p>
+<p><a href="/general-information/our-facilities/school-bookshop">
+<img src="/images/School%20Bookshop.jpg"  style="width:45%">
+</a>School Bookshop</p>
 </body>
 </html>
 
