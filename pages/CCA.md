@@ -18,12 +18,6 @@ View our [CCA Overview](https://docs.google.com/spreadsheets/d/1-sZjT7YEXxD0CFL
 
 ### SPORTS
 
-![robotics](/images/robotics%20club%20logo.png)
-
-![photo](/images/photography%20logo.png)
-
-![arts](/images/arts%20and%20craft%20logo.png)
-
 <html>
 <body>
 <p><a href="/cca/badminton">
