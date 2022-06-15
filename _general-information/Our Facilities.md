@@ -25,6 +25,39 @@ Our facilities that we have for our pupils:
 
 <html>
 <body>
+<p><a href="/general-information/our-facilities/ne-learning-space">
+<img src="/images/NE%20Learning%20Space2.jpg"  style="width:45%">
+</a>NE Learning Space
+</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
+</a></p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
+</a></p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
+</a></p>
+</body>
+</html>
+
+<html>
+<body>
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
 <img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
 </a></p>
