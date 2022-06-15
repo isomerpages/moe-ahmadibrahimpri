@@ -18,20 +18,125 @@ View our [CCA Overview](https://docs.google.com/spreadsheets/d/1-sZjT7YEXxD0CFL
 
 ### SPORTS
 
+![choir](/images/choir%20logo.png)
+
+![harmonica](/images/harmonica%20logo.png)
+
+![angklung](/images/angklung%20logo.png)
+
+![robotics](/images/robotics%20club%20logo.png)
+
+![photo](/images/photography%20logo.png)
+
+![arts](/images/arts%20and%20craft%20logo.png)
+
+<html>
+<body>
+<p><a href="/cca/badminton">
+<img src="/images/badminton%20logo.png"  style="width:35%">
+</a></p><p>Badminton</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/cca/rope-skipping">
+<img src="/images/rope%20skipping%20logo.png"  style="width:35%">
+</a></p><p>Rope Skipping</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/cca/basketball">
+<img src="/images/basketball%20logo.png"  style="width:35%">
+</a></p><p>Basketball</p>
+</body>
+</html>
 
 
 ### UNIFORMED GROUPS
 
-
+<html>
+<body>
+<p><a href="/cca/cub-scouts">
+<img src="/images/cub%20scouts%20logo.png"  style="width:35%">
+</a></p><p>Cub Scouts</p>
+</body>
+</html>
 
 ### AESTHETICS
 
+<html>
+<body>
+<p><a href="/cca/chinese-dance">
+<img src="/images/chinese%20dance%20logo.png"  style="width:35%">
+</a></p><p>Chinese Dance</p>
+</body>
+</html>
 
+<html>
+<body>
+<p><a href="/cca/malay-dance">
+<img src="/images/malay%20dance%20logo.png"  style="width:35%">
+</a></p><p>Malay Dance</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/cca/indian-dance">
+<img src="/images/indian%20dance%20logo.png"  style="width:35%">
+</a></p><p>Indian Dance</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/cca/choir">
+<img src="/images/choir%20logo.png"  style="width:35%">
+</a></p><p>Choir</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/cca/harmonica">
+<img src="/images/harmonica%20logo.png"  style="width:35%">
+</a></p><p>Harmonica</p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/cca/angklung">
+<img src="/images/angklung%20logo.png"  style="width:35%">
+</a></p><p>Angklung</p>
+</body>
+</html>
 
 ### CLUBS & SOCIETIES
 
+<html>
+<body>
+<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
+</a></p>
+</body>
+</html>
 
+<html>
+<body>
+<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
+</a></p>
+</body>
+</html>
 
-
-
-
+<html>
+<body>
+<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
+</a></p>
+</body>
+</html>
