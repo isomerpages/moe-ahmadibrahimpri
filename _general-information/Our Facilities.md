@@ -99,16 +99,16 @@ Our facilities that we have for our pupils:
 
 <html>
 <body>
-<p><a href="/general-information/our-facilities/eco-garden">
-<img src="/images/Eco-Garden1.jpg"  style="width:45%">
-</a>Eco-Garden2</p>
+<p><a href="/general-information/our-facilities/bottled-plants-corner">
+<img src="/images/Bottled%20Plants%20Corner1.jpg"  style="width:45%">
+</a>Bottled Plants Corner</p>
 </body>
 </html>
 
 <html>
 <body>
-<p><a href="/general-information/our-facilities/eco-garden">
-<img src="/images/Eco-Garden1.jpg"  style="width:45%">
-</a>Eco-Garden3</p>
+<p><a href="//general-information/our-facilities/study-corner">
+<img src="/images/Study%20Corner1.jpg"  style="width:45%">
+</a>Study Corner</p>
 </body>
 </html>
