@@ -34,39 +34,6 @@ ArtIst + Technology. </p>
 			<p>Siddharth Ganesh from 4 Honesty took part in this competition and won a Power Star Award.</p>			
     </div>
 	</li>  
-	
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
-    <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
-    </div>
-  </li>
-	
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
-    <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
-    </div>
-  </li>
-	
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">School Achievements 2019</label>
@@ -85,6 +52,56 @@ Certificate of Recognition</p>
 <li>Thia Priyanka Rai (2 Excellence)</li>
 <li>Luo Yanglin Shannon (2 Honesty)</li>
 </ul>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">School Achievements 2018</label>
+    <div>
+      <h4 id="sports">Sports</h4>
+<p><strong>Rope Skipping</strong> <br>
+<strong>North Zone Rope Skipping Competition</strong></p>
+<ul>
+<li>1 Gold award</li>
+<li>1 Silver award</li>
+<li>3 Bronze awards</li>
+<li>1 2nd Runner-up award</li>
+<li>Senior Girls came 4th in their division</li>
+</ul>
+<h4 id="aesthetics--art">Aesthetics / Art</h4>
+<p><strong>Singapore Youth Festival (SYF)</strong> <br>
+<strong>Angklung</strong></p>
+<ul>
+<li>Certificate of Accomplishment</li>
+</ul>
+<p><strong>Chinese Dance</strong></p>
+<ul>
+<li>Certificate of Distinction</li>
+</ul>
+<p><strong>Choir</strong></p>
+<ul>
+<li>Certificate of Accomplishment</li>
+</ul>
+<p><strong>Harmonica</strong></p>
+<ul>
+<li>Certificate of Accomplishment</li>
+</ul>
+<p><strong>Indian Dance</strong></p>
+<ul>
+<li>Certificate of Distinction</li>
+</ul>
+<p><strong>Malay Dance</strong></p>
+<ul>
+<li>Certificate of Accomplishment</li>
+</ul>
+<h4 id="uniform-group">Uniform Group</h4>
+<p><strong>Cub Scouts</strong> <br>
+<strong>Franks Cooper</strong></p>
+<ul>
+<li>Silver award</li>
+</ul>
+<h4 id="organizational-achievement">Organizational Achievement</h4>
+<p><strong>North West Outstanding School Partner Award (SPA) 2018</strong></p>
     </div>
   </li>
 </ul>
