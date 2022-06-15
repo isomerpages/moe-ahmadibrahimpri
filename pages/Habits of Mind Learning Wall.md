@@ -3,3 +3,4 @@ title: Habits of Mind Learning Wall
 permalink: /general-information/our-facilities/habits-of-mind-learning-wall
 description: ""
 ---
+![Habits of Mind Learning Wall](/images/Habits%20of%20Mind%20Learning%20Wall.jpg)
