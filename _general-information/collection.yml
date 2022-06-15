@@ -2,4 +2,5 @@ collections:
   general-information:
     output: true
     order:
+      - Our Facilities.md
       - School Vision and Mission.md
