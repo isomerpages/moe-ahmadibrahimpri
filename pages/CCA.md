@@ -18,12 +18,6 @@ View our [CCA Overview](https://docs.google.com/spreadsheets/d/1-sZjT7YEXxD0CFL
 
 ### SPORTS
 
-![choir](/images/choir%20logo.png)
-
-![harmonica](/images/harmonica%20logo.png)
-
-![angklung](/images/angklung%20logo.png)
-
 ![robotics](/images/robotics%20club%20logo.png)
 
 ![photo](/images/photography%20logo.png)
@@ -120,23 +114,23 @@ View our [CCA Overview](https://docs.google.com/spreadsheets/d/1-sZjT7YEXxD0CFL
 <html>
 <body>
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
-</a></p>
+<img src="/images/robotics%20club%20logo.png"  style="width:35%">
+</a></p><p>Robotics Club</p>
 </body>
 </html>
 
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
-</a></p>
+<p><a href="/cca/photography">
+<img src="/images/photography%20logo.png"  style="width:35%">
+</a></p><p>Photography</p>
 </body>
 </html>
 
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
-</a></p>
+<p><a href="/cca/arts-and-craft">
+<img src="/images/arts%20and%20craft%20logo.png"  style="width:35%">
+</a></p><p>Arts and Craft</p>
 </body>
 </html>
