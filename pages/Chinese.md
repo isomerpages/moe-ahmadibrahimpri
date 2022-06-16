@@ -3,7 +3,6 @@ title: Chinese
 permalink: /all-departments/mother-tongue/chinese
 description: ""
 ---
-
 -----------------------------
 
 ****依布拉欣小学华文部****
@@ -44,7 +43,11 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">2021 庆祝华人新年</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>由于疫情的关系，今年的华人新年庆祝活动采用线上进行。学生在各自的班级里，欢唱新年歌曲，观看新年习俗的视频，进行有奖竞猜，制作象征大吉大利的手工柑等。我们的老师还扮成可爱的舞狮到各班表演，把庆祝活动推向高潮。新年活动虽然形式不同，但喜庆吉祥的氛围同样浓烈。预祝新的一年，大家平安、健康、快乐！</p>
+<p><img src="/images/accordion3-1.png" alt="2021 庆祝华人新年"></p>
+<p><img src="/images/accordion3-2.png" alt="2021 庆祝华人新年"></p>
+<p><img src="/images/accordion3-3.png" alt="2021 庆祝华人新年"></p>
+<p><img src="/images/accordion3-4.png" alt="2021 庆祝华人新年"></p>
     </div>
 	</li>
 	 <li>
