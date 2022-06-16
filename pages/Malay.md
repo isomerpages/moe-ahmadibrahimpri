@@ -35,7 +35,24 @@ budaya merupakan antara aktiviti-aktiviti menarik yang dijalankan di sini.
     <input type="checkbox" id="accordion1">
     <label for="accordion1">2021</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><strong>Malay Language Department</strong></p>
+<p>Aim:</p>
+<ul>
+<li>To instill interest and passion in the learning of the Malay Language.</li>
+<li>To enrich pupils’ knowledge of the Malay Language and culture through MT Fortnight activities and learning journeys.</li>
+<li>To enhance teachers’ teaching competencies through professional sharing sessions, peer coaching, action research and lesson
+studies.</li>
+</ul>
+<p>We believe that our children are ‘Leaders of Characters and Learners for Life’. As such, the Malay Language Department strive to provide the best for our pupils so they can reach their fullest potential.</p>
+<p><strong>Pupils Competencies</strong> <br>
+The ability to learn a language is when the students are able to acquire and master competencies that are laid for them. As such, these competencies are nurtured to our pupils so that they are able to acquire the language and will be able to use them in their daily conversations and communication, formally or informally.</p>
+<p><strong>Bahasa Melayu @ AIPS</strong></p>
+<p>Yang kurik itu kundi, <br>
+Yang merah itu saga; <br>
+Yang baik itu budi, <br>
+Yang indah itu bahasa.</p>
+<p>Keindahan Bahasa Melayu dapat diperhatikan berdasarkan pantun di atas. Jabatan Bahasa Melayu di AIPS mahu terapkan keindahan Bahasa kepada semua murid kami agar mereka dapat menghayati keindahan Bahasa dan kemurnian budaya Melayu.</p>
+<p>Kami telah menjalankan beberapa aktivit untuk sentiasa menarik minat murid-murid kami. Walaupun diambang COVID-19, pembelajaran Bahasa Melayu tetap giat dilakukan melaui SLS.</p>
     </div>
 	</li>
 	<li>
