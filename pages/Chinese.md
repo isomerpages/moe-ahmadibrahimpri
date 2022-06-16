@@ -130,7 +130,8 @@ description: ""
     <input type="checkbox" id="accordion13">
     <label for="accordion13">2019 母语双周活动 - P3文化交流活动</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/accordion13-1.png" alt="2019 母语双周活动 - P3文化交流活动"></p>
+<p><img src="/images/accordion13-2.png" alt="2019 母语双周活动 - P3文化交流活动"></p>
     </div>
 	</li>
 	 <li>
