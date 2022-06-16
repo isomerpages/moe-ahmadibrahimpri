@@ -154,7 +154,7 @@ description: ""
     <input type="checkbox" id="accordion16">
     <label for="accordion16">2019 母语双周活动 - P6语文问答比赛</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/accordion16-1.png" alt="2019 母语双周活动 - P6语文问答比赛"></p>
     </div>
 	</li>
 	 <li>
