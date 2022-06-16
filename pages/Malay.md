@@ -145,7 +145,9 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion8">
     <label for="accordion8">2021 Rakan Bahasa</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/2021%20Rakan%20Bahasa.jpg" alt="2021 Rakan Bahasa"></p>
+<p>Pada tarikh 9 April, dua orang pelajar Darjah 4 telah dilantik sebagai Rakan Bahasa. Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu.</p>
+<p>Mari kita ucapkan tahniah kepada Nur Asyura dan Nur Alesya dari 4 Care! Semoga berjaya menyelesaikan misi sebagai Rakan Bahasa 2021.</p>
     </div>
 	</li>
 	<li>
