@@ -18,7 +18,67 @@ To provide quality learning experiences and a vibrant, language-rich environment
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Department Members</label>
     <div>
-      <p>This is a simple one line item</p>
+      <table>
+<thead>
+<tr>
+<th align="center">Department Members</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Ms Inderjeet Kaur (HOD EL)</td>
+</tr>
+<tr>
+<td align="center">Mr Daniel Goh (LH EL)</td>
+</tr>
+<tr>
+<td align="center">Mdm Rajeswari (ST)</td>
+</tr>
+<tr>
+<td align="center">Mrs Michelle Tan (ST)</td>
+</tr>
+<tr>
+<td align="center">Mr Adrian de Silva</td>
+</tr>
+<tr>
+<td align="center">Mdm Sarimah Salleh</td>
+</tr>
+<tr>
+<td align="center">Mdm Nur Farah</td>
+</tr>
+<tr>
+<td align="center">Mdm Nadiah</td>
+</tr>
+<tr>
+<td align="center">Mrs Cheryl Chhabra</td>
+</tr>
+<tr>
+<td align="center">Mdm Shivani</td>
+</tr>
+<tr>
+<td align="center">Mdm Seriyati</td>
+</tr>
+<tr>
+<td align="center">Mr Melvin Yeoh</td>
+</tr>
+<tr>
+<td align="center">Mrs Kalpana</td>
+</tr>
+<tr>
+<td align="center">Ms Shamala Devi</td>
+</tr>
+<tr>
+<td align="center">Mr Alfred Goh</td>
+</tr>
+<tr>
+<td align="center">Mdm Nur Azimah</td>
+</tr>
+<tr>
+<td align="center">Ms Abbi Chow</td>
+</tr>
+<tr>
+<td align="center">Ms Dawn Teo</td>
+</tr>
+</tbody></table>
     </div>
 	</li>  
   <li>
