@@ -144,14 +144,29 @@ To provide quality learning experiences and a vibrant, language-rich environment
     <input type="checkbox" id="accordion5">
     <label for="accordion5">PEAR TREES and Annotations</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="pear-trees-strategy-for-daily-conversations">PEAR TREES strategy for daily conversations</h3>
+<hr>
+<p>PEAR TREES is a strategy that students can use in their daily conversations. It helps students focus on how they pronounce their words, express themselves clearly and expand on their ideas that they share with others. It can also help students to converse with their teacher on any particular topic.</p>
+<p><img src="/images/pear%20trees.png" alt="PEAR TREES"></p>
+<h3 id="annotation-for-reading-comprehension">Annotation for reading comprehension</h3>
+<hr>
+<p>At AIPS, students are taught annotating skills. Annotating a text can help students understand difficult material better and encourage active reading. Porter-O’Donnell (2004) suggested that students be given a bookmark each that detailed ideas for symbols to use in annotation and the types of comments they could make. Thus, a set of teacher-designed guidelines for the annotation of narrative texts is carefully crafted. This set of guidelines, which is made into a bookmark, is to help guide the students as they make their thinking visible. There is a common language and understanding for annotation among the students and the teacher. Students are strongly encouraged to use these symbols until they are able to establish their own preferred annotation styles and modes over time.</p>
+<p><img src="/images/Annotation%20symbols.png" alt="Annotation Symbols"></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Modified Language Experience Approach (MLEA)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>The main pedagogical approach adopted in teaching English is STELLAR (Strategies for English Language Learning and Reading). The Modified Language Experience (MLEA) is one of the three approaches adopted in teaching English at the lower primary levels. Following Shared Book Reading, MLEA comprises a shared experience that is linked to the Big Book that has been currently read. Some of these shared experiences include students making sandwiches, blowing bubbles and growing caterpillars. These shared experiences provide both the context and content for students to practise the four language skills of listening, speaking, reading and writing. With instructional scaffolding from the teacher, students think, talk, read and write about their experiences as they are guided through to make the connections between oral and written language.</p>
+<p>As it centers on personal experiences and is based on self-generated vocabulary and grammar by students, MLEA is highly learner-centered. It is also aligned to the Shared Book Approach’s focus on the reading process while integrating it with writing, speaking, and listening.</p>
+<p>A typical MLEA lesson spans over three days as students navigate from Class Writing (MLEA 1) to Group Writing (MLEA 2) to Individual Writing (MLEA 3). With the aid of the teacher who transcribes their oral input, students first come up with a piece of class writing. This becomes the basis for group writing, when students collaborate in small mixed ability groups before they go on to individual writing.</p>
+<p><strong>Students preparing to experience making their own sandwich:</strong></p>
+<p><img src="/images/mlea%207.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea1.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea3.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea4.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea2.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
     </div>
 	</li>
 	<li>
