@@ -85,6 +85,7 @@ To provide quality learning experiences and a vibrant, language-rich environment
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">English Curriculum @ AIPS</label>
+		<div>
       <p><a href="http://www.stellarliteracy.sg/">STELLAR</a></p>
 <p><strong>Lower Primary Strategies:</strong></p>
 			<p><img src="/images/STELLAR_chart_LP1.png" alt="Lower Primary Strategies"></p>
@@ -115,6 +116,7 @@ To provide quality learning experiences and a vibrant, language-rich environment
 <p><strong>Writing Process Cycle (WPC)</strong> is built from the principles of the MLEA taught at the lower primary level. It continues to provide students with guidance in the processes of planning, writing and reviewing before they apply these skills in writing, independently. At the Upper Primary, the focus is more on the creative aspects of writing and encouraging the voice of the young writer.</p>
 <p><strong>Retelling (RT)</strong> is a reading comprehension strategy that engages students at different levels of language from interpreting meaning at the whole text level, to individual words and phrases and back to the whole text again. It provides opportunities for students to engage in a whole range of important language and cognitive processes including recall of events/information, main points and characters, text structures and language features. It also provides opportunities for all of the major language skills to be applied – listening, reading and viewing as well as speaking, representing and writing – as students actively make meaning of texts and share their understanding with their peers.</p>
 <p><strong>Differentiated Instruction (DI)</strong> provides students with differentiated support at various points of instruction to optimise their learning. Appropriate activities are designed to support, reinforce and extend their learning.</p>
+			</div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
