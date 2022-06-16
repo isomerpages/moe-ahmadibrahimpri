@@ -106,7 +106,9 @@ description: ""
     <input type="checkbox" id="accordion10">
     <label for="accordion10">2019 庆祝华人新年</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="2019-庆祝华人新年">2019 庆祝华人新年</h3>
+<p><img src="/images/accordion10-1.png" alt="2019 庆祝华人新年"></p>
+<p><img src="/images/accordion10-2.png" alt="2019 庆祝华人新年"></p>
     </div>
 	</li>
 	 <li>
