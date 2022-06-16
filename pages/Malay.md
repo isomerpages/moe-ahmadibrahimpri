@@ -185,28 +185,44 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion12">
     <label for="accordion12">2019 Rakan Bahasa</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Pada tahun ini, dua murid darjah empat dari AIPS telah dicalonkan sebagai Rakan Bahasa. Kedua murid itu ialah Norhendra Irfan Paton (4 Care) dan Hannan Shafaatul Auli’a Bte Mohd Hanafi (4 Excellence).</p>
+<p>Mereka telah menerima pencalonan dalam satu majlis khas yang diadakan pada 13 April 2019 yang lalu di Pusat Kebudayaan Cina Singapura. Dalam majlis itu, mereka telah bertemu dengan para Rakan Bahasa dari serata Singapura. Mereka juga disajikan dengan taklimat berkenaan bengkel-bengkel dan peraduan-peraduan yang akan mereka lalui sepanjang tempoh perkhidmatan mereka sebagai Rakan Bahasa. Ini termasuk aktiviti-aktiviti bulanan (dalam kad misi) yang perlu mereka selesaikan untuk meraih lencana Rakan Bahasa di akhirnya.</p>
+<p><img src="/images/2019%20Rakan%20Bahasa1.jpg" alt="2019 Rakan Bahasa"></p>
+<p>Acara pertama yang telah mereka sertai baru-baru ini ialah Pertandingan NewsMaker 2019. Berlangsung pada tanggal 22 Mei 2019, pertandingan itu telah diadakan di Taman Warisan.</p>
+<p>Dengan tema ‘Sejarah Singapuraku’ sebagai panduan, para peserta dikehendaki membuat laporan berupa video selama 2 minit. Menggunakan aplikasi NewsMaker, ia memberikan satu pengalaman yang menarik bagi kedua Rakan Bahasa kita. Dari memikirkan laporan, rakaman hingga penyuntingan video, Hannan dan Hendra bertungkus-lumus menyiapkannya dalam masa 2 jam yang diberikan. Ya, dua jam sahaja. Hebatkan mereka?</p>
+<p><img src="/images/2019%20Rakan%20Bahasa2.jpg" alt="2019 Rakan Bahasa"></p>
+<p>Masa yang agak suntuk tapi kedua Rakan Bahasa kita berjaya menyelesaikan tugasan yang diberi. Malah mereka berasa seronok kerana banyak yang telah diraih pada hari tersebut.</p>
+<p>Yang pastinya, lagi banyak peluang yang menanti mereka. Kami berharap mereka dapat membanggakan AIPS dengan menjalankan tanggungjawab dengan penuh dedikasi dan terus melestarikan budaya dan Bahasa Melayu</p>
+<p><img src="/images/2019%20Rakan%20Bahasa3.jpg" alt="2019 Rakan Bahasa"></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion13">
     <label for="accordion13">2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Program ini telah dijayakan dengan gabungan usaha ahli PSG AIPS. Ahli PSG yang berdedikasi tinggi bukan sahaja telah membantu kami membimbing para pelajar supaya dapat membaca dengan lebih lancar. Malah, mereka telah memberikan motivasi dan menanamkan minat pada Bahasa Melayu di dalam diri para pelajar ini.</p>
+<p>Peserta program ini terdiri daripada para pelajar darjah 1 dan 2. Program ini dijalankan pada hari Selasa dari jam 2.15 ptg hingga 3 ptg.</p>
+<p><img src="/images/malaybuddyreading1.png" alt="2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)"></p>
+<p><img src="/images/malaybuddyreading2.jpg" alt="2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)"></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion14">
     <label for="accordion14">2019 AIPS dalam Fokus</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>On 3 July 2019, selected Malay students from Primary 2 had the privilege of meeting Assoc Prof Faishal Ibrahim, MP for Nee Soon GRC, during a 2 hour lesson. The entire lesson was on Singapura Kita (Our Singapore) and the students, together with Prof Faishal, had to brainstorm ideas on how life in the future will be. The entire 2 hour lesson was filmed and was then broadcasted on the Suria channel news on 17 August 2019.</p>
+<p><img src="/images/2019%20AIPS%20dalam%20Fokus1.jpeg" alt="2019 AIPS dalam Fokus"></p>
+<p><img src="/images/2019%20AIPS%20dalam%20Fokus2.png" alt="2019 AIPS dalam Fokus"></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion15">
     <label for="accordion15">2019 Interactive Children’s Theatre Drama and Workshop</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>On the 21st September 2019, a group of Primary 3 Malay students had the opportunity to attend an ‘Interactive Children’s Theatre Drama and Workshop’. Organised by T.I.E (Theatre In Education), the workshop was held in Pek Kio CC Performing Theatre. The theatre directed by Awal’liyah Jaafar was based on an old Malay folklore named ‘Singapura Dilanggar Todak’. It was interesting as our students had the chance to be involved during the theatre. From being part of the ‘villagers’ to form a rampart with one of the plaintain stems to being part of the ‘sea’ where the swordfish were being passed down the audience, it allowed the students to be immersed in the theatre meaningfully. During the workshop, students went through an hour of interesting activities. Apart from drama games, they were taught how to project their voice and speech as well as the idea of characterisation. All these were lined up to prepare them with the skills for their mini performance at the end of the workshop. It was exciting to see the students able to be in character for the scenes that they acted out.</p>
+<p><img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop1.png" alt="2019 Interactive Children’s Theatre Drama and Workshop"></p>
+<p><img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop2.png" alt="2019 Interactive Children’s Theatre Drama and Workshop"></p>
+<p><img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop3.png" alt="2019 Interactive Children’s Theatre Drama and Workshop"></p>
     </div>
 	</li>
 	<li>
