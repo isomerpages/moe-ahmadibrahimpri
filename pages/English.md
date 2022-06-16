@@ -230,7 +230,25 @@ The students definitely look forward to the next Speech and Drama Fest next year
     <input type="checkbox" id="accordion11">
     <label for="accordion11">P6 Post Exam Activity</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h4 id="2019">2019</h4>
+<hr>
+<p>It was the end of PSLE, but not the end of learning for our Primary 6 students. Post PSLE, the students had been working hard during their English lessons, with the encouragement and support of their English teachers, of course!</p>
+<p>We are certain that this is a memory that the students will treasure for life.</p>
+<p>These are the newsletters that the students crafted.</p>
+<p><strong>Level Newsletter by 6 Care:</strong></p>
+<p><a href="https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton">https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton</a></p>
+<p><strong>Newletter by 6 Diligence:</strong></p>
+<p><a href="https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink">https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink</a></p>
+<p><strong>Newsletter by 6 Excellence:</strong></p>
+<p><a href="https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing">https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing</a></p>
+<p><strong>Newsletter by 6 Honesty:</strong></p>
+<p><a href="https://madmagz.com/magazine/1688563#/">https://madmagz.com/magazine/1688563#/</a></p>
+<p><strong>Newsletter by 6 Resilience:</strong></p>
+<p><a href="https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink">https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink</a></p>
+<h4 id="2020">2020</h4>
+<hr>
+<p><strong>Newsletter by the P6 students:</strong></p>
+<p><a href="https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit">https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit</a></p>
     </div>
 	</li>
 </ul>
