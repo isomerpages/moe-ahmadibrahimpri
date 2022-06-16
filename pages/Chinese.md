@@ -3,6 +3,8 @@ title: Chinese
 permalink: /all-departments/mother-tongue/chinese
 description: ""
 ---
+
+
 ****依布拉欣小学华文部****
 
 <ul class="jekyllcodex_accordion">
@@ -10,7 +12,12 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">2022 庆祝华人新年</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>今年的华人新年庆祝活动继续在线上进行。学生们穿上华族传统服装，在各自的班级里庆祝。他们欢唱新年歌曲，观看线上木偶表演《西游记》，进行有奖竞猜。学校歌咏团的学生进行了线上表演。学生们也收到了装有新年祝语的红包。二年级学生还进行了与虎年主题有关的上色活动。在此，祝大家虎年大吉，平安喜乐！</p>
+<p><img src="/images/accordion1-1.png" alt="2022 庆祝华人新年"></p>
+<p><img src="/images/accordion1-2.jpg" alt="2022 庆祝华人新年"></p>
+<p><img src="/images/accordion1-3.jpg" alt="2022 庆祝华人新年"></p>
+<p><img src="/images/accordion1-4.jpg" alt="2022 庆祝华人新年"></p>
+<p><img src="/images/accordion1-5.jpg" alt="2022 庆祝华人新年"></p>
     </div>
 	</li>
 	 <li>
