@@ -6,6 +6,8 @@ description: ""
 ![Principal of AIPS](/images/principal.jpg)
 
 
+
+
 	
 I am Ms Ong Lee Choo, the new Principal of Ahmad Ibrahim Primary School. I am very happy to have the privilege to work alongside a team of dedicated educators to serve the school and the community. I would like to welcome you back to the new school year and also to extend my warmest welcome to those who have just joined the Ahmad Ibrahim Primary family.  
 
@@ -22,4 +24,4 @@ We strongly believe that parents are the school’s most crucial collaborative p
 Ms Ong Lee Choo
 
   
-Principal  
+Principal
