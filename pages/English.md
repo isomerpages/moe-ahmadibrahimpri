@@ -8,26 +8,6 @@ description: ""
 
 Effective communicators, passionate learners
 
-Pictures courtesy of STELLAR Website.
-
-The Upper Primary STELLAR Pedagogical Model consists of:
-
-1.  Supported Reading (SR)
-2.  Know-Want to Know-Learnt (KWL) 
-3.  Writing Process Cycle (WPC) 
-4.  Retelling (RT) 
-5.  Differentiated Instruction (DI)
-
-**Supported Reading (SR)** provides a bridge between teacher supported reading aloud and independent silent reading. It provides opportunities for students to make predictions, read assigned section silently, discuss the text and difficult words as a whole class, led by the teacher. The strategy is usually carried out for narrative and information texts.
-
-**Know-Want to Know-Learnt (KWL)** is used mainly for non-fiction texts such as information reports. This strategy helps students to extract information and relate it to what they already know about the topic. Teachers guide students to organise, access and remember information. This enables students to understand and follow the logic of information presented in a text, recognise information that is repeated and distinguish between main ideas and details. The teacher’s support is gradually reduced as the students learn to be more independent in extracting information they need.
-
-**Writing Process Cycle (WPC)** is built from the principles of the MLEA taught at the lower primary level. It continues to provide students with guidance in the processes of planning, writing and reviewing before they apply these skills in writing, independently. At the Upper Primary, the focus is more on the creative aspects of writing and encouraging the voice of the young writer.
-
-**Retelling (RT)** is a reading comprehension strategy that engages students at different levels of language from interpreting meaning at the whole text level, to individual words and phrases and back to the whole text again. It provides opportunities for students to engage in a whole range of important language and cognitive processes including recall of events/information, main points and characters, text structures and language features. It also provides opportunities for all of the major language skills to be applied – listening, reading and viewing as well as speaking, representing and writing – as students actively make meaning of texts and share their understanding with their peers.
-
-**Differentiated Instruction (DI)** provides students with differentiated support at various points of instruction to optimise their learning. Appropriate activities are designed to support, reinforce and extend their learning.
-
 
 ### Mission:
 --------
@@ -122,6 +102,20 @@ To provide quality learning experiences and a vibrant, language-rich environment
 <p>The <strong>Modified Language Experience Approach (MLEA)</strong> allows for the provision of scaffolding and guidance on the part of the teachers so that the shared experience attained during the SBA can be further developed and translated into group as well as individual writing. The Learning Centre Activities will promote differentiated learning among the students in the class so as to enhance literacy skills like reading and listening.</p>
 <p><strong>Upper Primary Strategies:</strong></p>
 			<p><img src="/images/UpperPrimary2.png" alt="Upper Primary Strategies"></p>
+			<p>Pictures courtesy of STELLAR Website.</p>
+<p>The Upper Primary STELLAR Pedagogical Model consists of:</p>
+<ol>
+<li>Supported Reading (SR)</li>
+<li>Know-Want to Know-Learnt (KWL) </li>
+<li>Writing Process Cycle (WPC) </li>
+<li>Retelling (RT) </li>
+<li>Differentiated Instruction (DI)</li>
+</ol>
+<p><strong>Supported Reading (SR)</strong> provides a bridge between teacher supported reading aloud and independent silent reading. It provides opportunities for students to make predictions, read assigned section silently, discuss the text and difficult words as a whole class, led by the teacher. The strategy is usually carried out for narrative and information texts.</p>
+<p><strong>Know-Want to Know-Learnt (KWL)</strong> is used mainly for non-fiction texts such as information reports. This strategy helps students to extract information and relate it to what they already know about the topic. Teachers guide students to organise, access and remember information. This enables students to understand and follow the logic of information presented in a text, recognise information that is repeated and distinguish between main ideas and details. The teacher’s support is gradually reduced as the students learn to be more independent in extracting information they need.</p>
+<p><strong>Writing Process Cycle (WPC)</strong> is built from the principles of the MLEA taught at the lower primary level. It continues to provide students with guidance in the processes of planning, writing and reviewing before they apply these skills in writing, independently. At the Upper Primary, the focus is more on the creative aspects of writing and encouraging the voice of the young writer.</p>
+<p><strong>Retelling (RT)</strong> is a reading comprehension strategy that engages students at different levels of language from interpreting meaning at the whole text level, to individual words and phrases and back to the whole text again. It provides opportunities for students to engage in a whole range of important language and cognitive processes including recall of events/information, main points and characters, text structures and language features. It also provides opportunities for all of the major language skills to be applied – listening, reading and viewing as well as speaking, representing and writing – as students actively make meaning of texts and share their understanding with their peers.</p>
+<p><strong>Differentiated Instruction (DI)</strong> provides students with differentiated support at various points of instruction to optimise their learning. Appropriate activities are designed to support, reinforce and extend their learning.</p>
     </div>
 	</li>
 	<li>
