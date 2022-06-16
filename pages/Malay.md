@@ -154,14 +154,20 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion9">
     <label for="accordion9">2021 Persahabatan Sedunia (International Friendship Day)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/2021%20Persahabatan%20Sedunia%20(International%20Friendship%20Day).jpg" alt="2021 Persahabatan Sedunia (International Friendship Day)"></p>
+<p>Pada tanggal 16 April, kami telah menyambut Hari Persahabatan Sedunia. Semua pelajar AIPS digalakkan memakai pakaian tradisional masing-masing untuk memeriahkan suasana sambutan pada hari itu. Banyak aktiviti menarik yang telah dijalankan dalam kelas Bahasa Melayu sempena sambutan Hari Persahabatan Sedunia. Melalui aktiviti dan permainan tersebut, para pelajar berpeluang untuk lebih mengenali tentang budaya negara-negara ASEAN.</p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">2021 Hari Pertahanan Mutlak</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Kami telah menyambut Hari Pertahanan Mutlak pada tarikh 18 Februari 2021. Sempena memperingati hari Singapura jatuh ke dalam cengkaman penjajah Jepun, pengetua sekolah telah membacakan amanat untuk mengingatkan kami tentang kepentingan Pertahanan Mutlak. Terdapat pelbagai aktiviti menarik yang telah dijalankan sewaktu kelas Bahasa Melayu sempena menyambut Hari Pertahanan Mutlak.</p>
+<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" alt="2021 Hari Pertahanan Mutlak"></p>
+<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" alt="2021 Hari Pertahanan Mutlak"></p>
+<p>Contohnya, para pelajar Darjah 4 telah melakonkan sketsa secara berkumpulan untuk menunjukkan bagaimana kita boleh sama-sama memainkan peranan untuk menjaga keselamatan Singapura.</p>
+<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak3.png" alt="2021 Hari Pertahanan Mutlak"></p>
+<p>Para pelajar Darjah Dua pula telah cuba permainan yang direka khas sempena Hari Pertahanan Mutlak. Melalui permainan ini, mereka mempelajari cara-cara mudah yang dapat mereka lakukan di rumah dan di sekolah untuk memastikan Singapura selamat dan bersedia untuk mempertahankan diri dari ancaman di dalam dan di luar negara.</p>
     </div>
 	</li>
 	<li>
