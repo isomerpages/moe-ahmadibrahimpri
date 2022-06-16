@@ -4,11 +4,6 @@ permalink: /cca/angklung
 description: ""
 ---
 
-
-
-
-------
-
 Ahmad Ibrahim Primary School's Angklung Instrumental Ensemble is a long-established Co-Curricular Activity in the school. As a Performing Arts Group, the Angklung Ensemble aims to instill continuous learning, discipline, teamwork and resilience in our pupils. Our pupils have done well in the past Singapore Youth Festivals achieving Silver (2010, 2012), Certificate of Distinction (2014) and Certificate of Accomplishment (2016 &amp; 2018).
 
 ### CCA Details
