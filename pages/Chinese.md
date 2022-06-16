@@ -5,6 +5,8 @@ description: ""
 ---
 
 
+-----------------------------
+
 ****依布拉欣小学华文部****
 
 <ul class="jekyllcodex_accordion">
@@ -24,7 +26,19 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">2021 校外比赛</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>恭喜我校学生在全国第4届中小学课文朗读比赛中取得佳绩！</p>
+<p><strong>个人银奖:</strong> 陈誉心（CHEN YUXIN) P2 CARE</p>
+<p><img src="/images/accordion2-1.jpg" alt="个人银奖：陈誉心（CHEN YUXIN) P2 CARE"></p>
+<p>小组银奖：<br>
+陈中漪 CHEN ZHONG YI (P3 HONESTY) <br>
+何佳铭 HO KAH MENG (P3 CARE) <br>
+陈㛄妏 YVONNE CHIN YEE WEN (P3 EXCELLENCE)</p>
+<p><img src="/images/accordion2-2.jpg" alt="CHEN ZHONG YI, HO KAH MENG, YVONNE CHIN YEE WEN"></p>
+<p>小组铜奖：<br>
+朱旭迪 ZHU XUDI, JADEN (P2 GRATITUDE) <br>
+陈乐轩 CHEN LEXUAN (P2 GRATITUDE) <br>
+郭佳锜  KOY JIA QI (P2 RESPECT)                                     </p>
+<p><img src="/images/accordion2-3.jpg" alt="ZHU XUDI, CHEN LEXUAN, KOY JIA QI"></p>
     </div>
 	</li>
 	 <li>
