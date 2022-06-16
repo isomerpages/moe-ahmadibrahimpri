@@ -72,7 +72,10 @@ description: ""
     <input type="checkbox" id="accordion6">
     <label for="accordion6">2020 母语双周活动 - 小四课堂文化活动</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="小四学生在课堂上学习灯笼制作">小四学生在课堂上学习灯笼制作</h3>
+<p><img src="/images/accordion6-1.png" alt="小四学生在课堂上学习灯笼制作"></p>
+<p><img src="/images/accordion6-2.png" alt="小四学生在课堂上学习灯笼制作"></p>
+<p><img src="/images/accordion6-3.png" alt="小四学生在课堂上学习灯笼制作"></p>
     </div>
 	</li>
 	 <li>
