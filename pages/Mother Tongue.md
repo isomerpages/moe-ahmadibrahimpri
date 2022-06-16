@@ -101,3 +101,9 @@ All AIPS students are active, passionate and proficient learners of the Mother T
     </div>
 	</li>  
 </ul>
+
+### [Chinese](/all-departments/mother-tongue/chinese)
+
+Malay
+
+Tamil 
