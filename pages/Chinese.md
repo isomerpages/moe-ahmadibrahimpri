@@ -4,6 +4,7 @@ permalink: /all-departments/mother-tongue/chinese
 description: ""
 ---
 
+
 -----------------------------
 
 ****依布拉欣小学华文部****
@@ -161,7 +162,8 @@ description: ""
     <input type="checkbox" id="accordion17">
     <label for="accordion17">2019 母语双周活动 - 访问南凤善堂医药中心</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/accordion17-1.png" alt="2019 母语双周活动 - 访问南凤善堂医药中心"></p>
+<p><img src="/images/accordion17-2.png" alt="2019 母语双周活动 - 访问南凤善堂医药中心"></p>
     </div>
 	</li>
 </ul>
