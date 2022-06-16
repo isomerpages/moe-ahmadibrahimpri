@@ -5,7 +5,7 @@ description: ""
 ---
 <html>
 <body>
-<p><a href="/cca/badminton">
+<p><a href="/departments/english">
 <img src="/images/english.jpg"  style="width:35%"><p>English</p>
 </a></p>
 </body>
@@ -66,4 +66,3 @@ description: ""
 </a></p>
 </body>
 </html>
-
