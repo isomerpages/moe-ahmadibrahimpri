@@ -29,3 +29,118 @@ Guru-guru kami mementingkan;
 * Pelbagai kaedah pengajaran dan pembelajaran yang bermutu telah diterapkan di dalam bilik darjah.
 * Kerja kumpulan, kerja individu, pembelajaran secara holistik, peraduan bahasa dan pembelajaran moral serta
 budaya merupakan antara aktiviti-aktiviti menarik yang dijalankan di sini.
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">2021</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">2022 Rakan Bahasa</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">2022 Seminar Bahasa Melayu</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">2021 Pertandingan Pentas Radio</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">2021 Peraduan Karya Minda Kreatif</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">2021 Pertandingan Newsmaker</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">2021 Program Dwimingguan Bahasa Ibunda</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">2021 Rakan Bahasa</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">2021 Persahabatan Sedunia (International Friendship Day)</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">2021 Hari Pertahanan Mutlak</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">2020 Sambutan Hari Raya</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">2019 Rakan Bahasa</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">2019 AIPS dalam Fokus</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">2019 Interactive Children’s Theatre Drama and Workshop</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">2019 Peraduan Karya Minda Kreatif</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+</ul>
