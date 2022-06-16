@@ -64,7 +64,8 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">2020 庆祝华人新年</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="今年1月24日我校举行了欢乐的新年庆祝会。早上，学生们先在课室观看华人新年习俗的录影，参与生动有趣的课堂活动。过后，学生们移入礼堂，新年庆祝会在王校长的击鼓声中正式拉开了序幕">今年1月24日我校举行了欢乐的新年庆祝会。早上，学生们先在课室观看华人新年习俗的录影，参与生动有趣的课堂活动。过后，学生们移入礼堂，新年庆祝会在王校长的击鼓声中正式拉开了序幕</h3>
+<p><img src="/images/accordion5-1.jpg" alt="2020 庆祝华人新年"></p>
     </div>
 	</li>
 	 <li>
