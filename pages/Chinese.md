@@ -82,7 +82,8 @@ description: ""
     <input type="checkbox" id="accordion7">
     <label for="accordion7">2020 母语双周活动 - 小六语文问答比赛</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="2020-母语双周活动---小六语文问答比赛">2020 母语双周活动 - 小六语文问答比赛</h3>
+<p><img src="/images/accordion7-1.png" alt="2020 母语双周活动 - 小六语文问答比赛"></p>
     </div>
 	</li>
 	 <li>
