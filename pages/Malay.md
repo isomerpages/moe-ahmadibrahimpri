@@ -118,7 +118,9 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion6">
     <label for="accordion6">2021 Pertandingan Newsmaker</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Pada tahun 2021, Rakan Bahasa kita, Nur Asyura &amp; Nur Alesya telah menyertai Pertandingan NewsMaker. Pertandingan ini memberi peluang untuk para pelajar merakam dan menyunting video dengan menggunakan aplikasi NewsMaker. Mereka harus menghasilkan video mengikut tema yang diberikan. Tema pada tahun ini ialah &#39;Legenda Melayu dan Cerita Dongeng&#39;. </p>
+<p>Dengan bimbingan Cikgu Aishah dan bantuan teman-teman dari Darjah 4, mereka telah menghasilkan video untuk pertandingan ini. Mari kita tonton hasil kerja mereka. Semoga terhibur!</p>
+<p><strong>video to be embedded here</strong></p>
     </div>
 	</li>
 	<li>
