@@ -3,19 +3,7 @@ title: English
 permalink: /departments/english
 description: ""
 ---
-### Speech and Drama Fest 2021
---------
-As part of our school's effort to provide quality learning experiences and a language-rich environment for our students to learn English, the English Department has been conducting Speech and Drama lessons for our Primary One and Two students annually. With the new SMMs in place this year, we were not able to have our usual Speech and Drama concert. Instead, the performances were recorded by the English teachers and shared with the school. Each student also created their own mask during their art lessons. The students had a lot of fun!
 
-![Speech and Drama Fest 2021](/images/speech%20&%20drama1.jpeg)
-
-![Speech and Drama Fest 2021](/images/speech%20&%20drama2.jpeg)
-
-![Speech and Drama Fest 2021](/images/speech%20&%20drama3.jpeg)
-
-![Speech and Drama Fest 2021](/images/speech%20&%20drama4.jpeg)
-
-![Speech and Drama Fest 2021](/images/speech%20&%20drama5.jpg)
 
 ### Vision:
 -------
@@ -227,7 +215,15 @@ The interactive session was an enjoyable one for all who attended!</p>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">Speech and Drama</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="speech-and-drama-fest-2021">Speech and Drama Fest 2021</h3>
+<hr>
+<p>As part of our school&#39;s effort to provide quality learning experiences and a language-rich environment for our students to learn English, the English Department has been conducting Speech and Drama lessons for our Primary One and Two students annually. With the new SMMs in place this year, we were not able to have our usual Speech and Drama concert. Instead, the performances were recorded by the English teachers and shared with the school. Each student also created their own mask during their art lessons. The students had a lot of fun!</p>
+<p><img src="/images/speech%20&%20drama1.jpeg" alt="Speech and Drama Fest 2021"></p>
+<p><img src="/images/speech%20&%20drama2.jpeg" alt="Speech and Drama Fest 2021"></p>
+<p><img src="/images/speech%20&%20drama3.jpeg" alt="Speech and Drama Fest 2021"></p>
+<p><img src="/images/speech%20&%20drama4.jpeg" alt="Speech and Drama Fest 2021"></p>
+<p><img src="/images/speech%20&%20drama5.jpg" alt="Speech and Drama Fest 2021">
+The students definitely look forward to the next Speech and Drama Fest next year!</p>
     </div>
 	</li>
 	<li>
