@@ -59,7 +59,15 @@ Yang indah itu bahasa.</p>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">2022 Rakan Bahasa</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Tahniah kami ucapkan kepada Sofia Rai (4 Honesty) &amp; Ishq Eshan (4 Honesty) kerana telah dilantik sebagai Rakan Bahasa 2022!</p>
+<p><img src="/images/malay2-1.jpg" alt="2022 Rakan Bahasa"></p>
+<p>Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu. Moga kedua-dua Rakan Bahasa dapat menyelesaikan kad misi dan melaksanakan tanggungjawab mereka dengan baik pada tahun ini!</p>
+<p>Sempena menyambut bulan Syawal yang baru sahaja tiba, berikut merupakan pesanan Rakan Bahasa buat semua murid-murid AIPS:</p>
+<p><strong>video to be embedded here</strong></p>
+<p>Jalan raya bersama-sama, <br>
+                                                                                             Hati riang tidak terhingga; <br>
+                                                                                       Ketika kita seronok beraya,<br>
+                                                                                              Adab kita jangan dilupa.</p>
     </div>
 	</li>
 	<li>
