@@ -98,7 +98,8 @@ description: ""
     <input type="checkbox" id="accordion9">
     <label for="accordion9">2020 母语双周活动 - 报章报道</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="新明日报近日对我校中医中药课程进行了报道">新明日报近日对我校中医中药课程进行了报道</h3>
+<p><img src="/images/accordion9-1.jpg" alt="新明日报近日对我校中医中药课程进行了报道"></p>
     </div>
 	</li>
 	 <li>
