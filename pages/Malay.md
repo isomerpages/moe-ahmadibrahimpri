@@ -102,7 +102,16 @@ Syabas, kumpulan Suara AIPS!</p>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">2021 Peraduan Karya Minda Kreatif</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Peraduan Karya Minda Kreatif merupakan sebuah pertandingan menulis yang dianjurkan oleh syarikat EDN pada setiap tahun. Melalui pertandingan ini, para pelajar dapat kemahiran menulis mereka dengan menghasilkan karya penulisan yang kreatif. </p>
+<p>Dengar berbesar hati, kami ingin mengumumkan bahawa cerpen yang ditulis oleh dua orang pelajar kami telah digolongkan dalam 15 karya terbaik pada tahun ini. Para pelajar itu ialah:</p>
+<ol>
+<li><p>Rachelle Alisya (4 Diligence)</p>
+</li>
+<li><p>Alria Isabella (3 Diligence)</p>
+</li>
+</ol>
+<p><img src="/images/2021%20Peraduan%20Karya%20Minda%20Kreatif.jpeg" alt="2021 Peraduan Karya Minda Kreatif">
+Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam diri mereka.</p>
     </div>
 	</li>
 	<li>
