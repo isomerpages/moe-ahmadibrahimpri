@@ -3,6 +3,8 @@ title: English
 permalink: /departments/english
 description: ""
 ---
+
+
 ### Vision:
 -------
 
@@ -85,7 +87,8 @@ To provide quality learning experiences and a vibrant, language-rich environment
     <input type="checkbox" id="accordion2">
     <label for="accordion2">English Curriculum @ AIPS</label
     <div>
-      <p>This is a simple one line item</p>
+      <p><a href="http://www.stellarliteracy.sg/">STELLAR</a></p>
+<p>Lower Primary Strategies</p>
     </div>
 	</li>
 	<li>
