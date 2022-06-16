@@ -229,7 +229,17 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion16">
     <label for="accordion16">2019 Peraduan Karya Minda Kreatif</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>37 of our selected students from P3 to P6 taking Malay Language have participated in the Malay Essay Writing Competition at National Level in 2019. They have been trained to write creatively using their imaginations and writing skills thought by their Malay language teachers. Five of them won the top 20 Gold award in category P3/P4 and P5/P6. We are also proud to announce that our school won first place for the Best team award for the year 2019.</p>
+<p>Our proud winners are as follows ;</p>
+<ul>
+<li>Nur Syifa’ Emelda Binte Said (4 Excellence) - 17th place </li>
+<li>Alya Batrisyia Binte Asrizal (4 Diligence) - 12th place</li>
+<li>Norhendra Irfan Paton from (4 Care) - 5th place</li>
+<li>Eliza Isabella Binte Wande (5 Honesty) - 18th place</li>
+<li>Nur Adrina Binte Kasmadi (6 Honesty) - 8th place</li>
+</ul>
+<p><img src="/images/2019%20Peraduan%20Karya%20Minda%20Kreatif1.png" alt="2019 Peraduan Karya Minda Kreatif"></p>
+<p><img src="/images/2019%20Peraduan%20Karya%20Minda%20Kreatif2.png" alt="2019 Peraduan Karya Minda Kreatif"></p>
     </div>
 	</li>
 </ul>
