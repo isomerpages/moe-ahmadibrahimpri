@@ -133,7 +133,11 @@ To provide quality learning experiences and a vibrant, language-rich environment
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Reading Culture @ AIPS</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>To build a pervasive reading culture and develop positive life-long reading habits in our pupils, the school has in place a Reading Programme to nurture pupils who love reading.</p>
+<p><img src="/images/read1.jpeg" alt="Reading Culture @ AIPS"></p>
+<p><img src="/images/read2.jpg" alt="Reading Culture @ AIPS"></p>
+<p><img src="/images/read3.jpg" alt="Reading Culture @ AIPS"></p>
+<p><img src="/images/read4.jpg" alt="Reading Culture @ AIPS"></p>
     </div>
 	</li>
 	<li>
