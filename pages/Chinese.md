@@ -138,7 +138,8 @@ description: ""
     <input type="checkbox" id="accordion14">
     <label for="accordion14">Simple</label>
     <div>
-      <p>2019 母语双周活动 - P5扇画活动</p>
+      <p><img src="/images/accordion14-1.png" alt="2019 母语双周活动 - P5扇画活动"></p>
+<p><img src="/images/accordion14-2.png" alt="2019 母语双周活动 - P5扇画活动"></p>
     </div>
 	</li>
 	 <li>
