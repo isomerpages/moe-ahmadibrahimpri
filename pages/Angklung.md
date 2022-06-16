@@ -3,32 +3,7 @@ title: Angklung
 permalink: /cca/angklung
 description: ""
 ---
-Program Dwimingguan Bahasa Ibunda baru sahaja diadakan pada awal penggal ketiga. Para pelajar diberikan peluang untuk mempelajari bahasa dan budaya Melayu dengan lebih mendalam. Mereka juga diberikan peluang untuk menggunakan Bahasa Melayu dengan cara yang berbeza melalui beberapa pertandingan yang menarik.
 
- 
-
-Mari kita lihat apakah aktiviti serta pertandingan yang telah diadakan bagi setiap peringkat!
-
-
-![2021 Program Dwimingguan Bahasa Ibunda](/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda1.jpg)
-
-![2021 Program Dwimingguan Bahasa Ibunda](/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda2.jpg)
-
-![2021 Program Dwimingguan Bahasa Ibunda](/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda3.jpg)
-
-![2021 Program Dwimingguan Bahasa Ibunda](/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda4.jpg)
-
-![2021 Program Dwimingguan Bahasa Ibunda](/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda5.jpg)
-
-![2021 Program Dwimingguan Bahasa Ibunda](/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda6.jpg)
-
-Sang Kancil masuk belukar,
-
-Mencari teman Si Kura-kura;
-
-Moga marak semangat pelajar,
-
-Mendalami bahasa ibunda.
 
 
 
