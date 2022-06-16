@@ -3,6 +3,8 @@ title: Chinese
 permalink: /all-departments/mother-tongue/chinese
 description: ""
 ---
+
+
 -----------------------------
 
 ****依布拉欣小学华文部****
@@ -54,7 +56,8 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">2020 校外比赛</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="恭喜我校小二学生在木偶中文大赛中取得优异成绩（merit-award）">恭喜我校小二学生在木偶中文大赛中取得优异成绩（merit award）</h3>
+<p><strong>video to be embedded here</strong> </p>
     </div>
 	</li>
 	 <li>
