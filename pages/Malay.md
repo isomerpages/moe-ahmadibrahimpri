@@ -127,7 +127,18 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion7">
     <label for="accordion7">2021 Program Dwimingguan Bahasa Ibunda</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Program Dwimingguan Bahasa Ibunda baru sahaja diadakan pada awal penggal ketiga. Para pelajar diberikan peluang untuk mempelajari bahasa dan budaya Melayu dengan lebih mendalam. Mereka juga diberikan peluang untuk menggunakan Bahasa Melayu dengan cara yang berbeza melalui beberapa pertandingan yang menarik.</p>
+<p>Mari kita lihat apakah aktiviti serta pertandingan yang telah diadakan bagi setiap peringkat!</p>
+<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda1.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
+<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda2.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
+<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda3.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
+<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda4.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
+<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda5.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
+<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda6.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
+<p>Sang Kancil masuk belukar,</p>
+<p>Mencari teman Si Kura-kura;</p>
+<p>Moga marak semangat pelajar,</p>
+<p>Mendalami bahasa ibunda.</p>
     </div>
 	</li>
 	<li>
