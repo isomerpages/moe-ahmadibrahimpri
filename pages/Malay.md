@@ -174,7 +174,11 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion11">
     <label for="accordion11">2020 Sambutan Hari Raya</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Salah satu aktivit yang meriah pada tahun ini merupakan sambutan Hari Raya. Walaupun tidak dapat berkumpul atau ziarah menziarahi, hubungan tetap erat dan semangat Hari Raya tetap meriah.</p>
+<p>Sambutan Hari Raya tahun ini tidak kurang meriah.Ikuti video Hari Raya yang telah dihasilkan oleh tenaga kerja Melayu di AIPS.</p>
+<h3 id="2020-hari-raya-video">2020 Hari Raya Video</h3>
+<p>Ini merupakan video sambutan Hari Raya yang kami hasilkan. Kami harap semua akan dapat menikmati Hari Raya dengan meriah.</p>
+<p><strong>VIDEO TO BE EMBEDDED HERE</strong></p>
     </div>
 	</li>
 	<li>
