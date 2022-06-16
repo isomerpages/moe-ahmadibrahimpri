@@ -4,7 +4,6 @@ permalink: /all-departments/mother-tongue/chinese
 description: ""
 ---
 
-
 -----------------------------
 
 ****依布拉欣小学华文部****
@@ -123,7 +122,8 @@ description: ""
     <input type="checkbox" id="accordion12">
     <label for="accordion12">2019 母语双周活动 - P2动物园学习之旅</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/accordion12-1.png" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
+<p><img src="/images/accordion12-2.png" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
     </div>
 	</li>
 	 <li>
