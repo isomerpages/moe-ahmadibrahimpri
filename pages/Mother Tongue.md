@@ -106,4 +106,4 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 
 ### [Malay](/departments/all-departments/mother-tongue/malay)
 
-Tamil
+### [Tamil](/departments/all-departments/mother-tongue/tamil)
