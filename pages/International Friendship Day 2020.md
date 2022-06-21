@@ -17,3 +17,7 @@ The CCE team also included the Kindsville Times newsletter by the Singapore Kind
 ### A sneak peek on school life in other countries.
 -----------------------------------------------
 
+
+
+### Kindsville comic strip for our students to enjoy.
+-------------------------------------------------
