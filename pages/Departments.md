@@ -53,7 +53,7 @@ description: ""
 
 <html>
 <body>
-<p><a href="/cca/badminton">
+<p><a href="/departments/ict">
 <img src="/images/ict.jpg"  style="width:35%"><p>ICT</p>
 </a></p>
 </body>
