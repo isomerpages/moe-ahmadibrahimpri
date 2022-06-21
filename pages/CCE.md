@@ -174,10 +174,10 @@ The Class Mentors then led the classes in a string of class activities. Our stud
 
 #### **NE commemorative Days Archive:**
 
-[Total Defence Day&nbsp;2020](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/departments/all-departments/cce/cce-experiences/ne-commemorative-days/total-defence-day-2020)  
+Total Defence Day&nbsp;2020 **(broken link)**
   
 
-[International Friendship Day&nbsp;2020](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/departments/all-departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020)  
+[International Friendship Day&nbsp;2020](/departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020)  
 
   
 
