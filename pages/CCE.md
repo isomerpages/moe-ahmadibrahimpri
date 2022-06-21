@@ -181,8 +181,8 @@ Total Defence Day&nbsp;2020 **(broken link)**
 
   
 
-[Racial Harmony Day&nbsp;2020](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/departments/all-departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020)
+[Racial Harmony Day&nbsp;2020](/departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020)
 
   
 
-[National Day Celebrations 2019](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/departments/all-departments/cce/cce-experiences/national-day-celebration-in-2019)
+[National Day Celebrations 2019](/departments/cce/cce-experiences/national-day-celebration-in-2019)
