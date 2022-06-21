@@ -45,7 +45,7 @@ description: ""
 
 <html>
 <body>
-<p><a href="/cca/badminton">
+<p><a href="/departments/physical-health-and-fitness">
 <img src="/images/pe.jpg"  style="width:35%"><p>Physical Health and Fitness</p>
 </a></p>
 </body>
