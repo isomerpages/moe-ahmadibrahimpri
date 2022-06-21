@@ -32,7 +32,10 @@ _Science teachers cultivate learners to be civic-minded, inquisitive and equippe
     <input id="accordion3" type="checkbox">
     <label for="accordion3">ICAS Science Competition Awardees</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Congratulations to our P4 and P5 students for achieving either a MERIT, CREDIT or HIGH DISTINCTION for Science.</p>
+<p><img src="/images/science1.png" alt=""></p>
+<p><img src="/images/science2.png" alt=""></p>
     </div>
 	</li>
-</ul>	
+</ul>
+
