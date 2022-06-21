@@ -94,55 +94,30 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Art Department</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a star’. The Art programmes are developed to help students learn to observe their surroundings, identify and describe the colours, shapes and texture of the things they see. They share their thoughts and feelings about these observations through artwork, discussion and writing. They learn to use different materials and media to create the artworks. We want our students to enjoy looking at and creating art and to have opportunities to showcase their artworks.</p>
+<h3 id="new-online-annual-art-exhibition">NEW ONLINE ANNUAL ART EXHIBITION</h3>
+<p>Come and visit our very first online Art Exhibition curated by our Art Specialist teachers, for our students. </p>
+<p>Click on this link to enter Gallery:  <a href="https://www.artsteps.com/embed/61888ce1ac85446ad7358165/560/315">ARTVENTURES IN AIPS</a></p>
+<p>OR </p>
+<p>use your mobile devices to scan the QR code:</p>
+<p><img src="/images/QR%20CODE.png" alt=""></p>
+<p>* best viewed using the app &quot;Art Steps&quot;. You may download it for free from Play Store/ Apple Store.</p>
+<p><img src="/images/ADVENTURES.jpg" alt=""></p>
+<p><img src="/images/ART1.png" alt=""></p>
+<p><img src="/images/ART2.png" alt=""></p>
+<p><img src="/images/ART3.png" alt=""></p>
+<h3 id="artstravaganza-2021">ARTSTRAVAGANZA 2021</h3>
+<hr>
+<p><strong>TERMLY ART COMPETITION</strong></p>
+<p><img src="/images/ARTSTRAVAGANZA%202021.jpg" alt=""></p>
+<p><img src="/images/ARTSTRAVAGANZA%202021_2.jpg" alt=""></p>
+<p><img src="/images/ARTSTRAVAGANZA%202021_3.jpg" alt=""></p>
+<p><img src="/images/ARTSTRAVAGANZA%202021_4.jpg" alt=""></p>
+<p><img src="/images/ARTSTRAVAGANZA%202021_5.jpg" alt=""></p>
+<p><img src="/images/ARTSTRAVAGANZA%202021_6.jpg" alt=""></p>
+
     </div>
 	</li>
 </ul>	
 
 
-At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a star’. The Art programmes are developed to help students learn to observe their surroundings, identify and describe the colours, shapes and texture of the things they see. They share their thoughts and feelings about these observations through artwork, discussion and writing. They learn to use different materials and media to create the artworks. We want our students to enjoy looking at and creating art and to have opportunities to showcase their artworks.
-
-  
-
-### NEW ONLINE ANNUAL ART EXHIBITION
-
-Come and visit our very first online Art Exhibition curated by our Art Specialist teachers, for our students. 
-
-  
-
-Click on this link to enter Gallery:  [ARTVENTURES IN AIPS](https://www.artsteps.com/embed/61888ce1ac85446ad7358165/560/315)
-
-  
-
-OR 
-
-use your mobile devices to scan the QR code:
-
-![](/images/QR%20CODE.png)
-
-\* best viewed using the app "Art Steps". You may download it for free from Play Store/ Apple Store.
-
-![](/images/ADVENTURES.jpg)
-
-![](/images/ART1.png)
-
-![](/images/ART2.png)
-
-![](/images/ART3.png)
-
-### ARTSTRAVAGANZA 2021
--------------------
-
-**TERMLY ART COMPETITION**
-
-![](/images/ARTSTRAVAGANZA%202021.jpg)
-
-![](/images/ARTSTRAVAGANZA%202021_2.jpg)
-
-![](/images/ARTSTRAVAGANZA%202021_3.jpg)
-
-![](/images/ARTSTRAVAGANZA%202021_4.jpg)
-
-![](/images/ARTSTRAVAGANZA%202021_5.jpg)
-
-![](/images/ARTSTRAVAGANZA%202021_6.jpg)
