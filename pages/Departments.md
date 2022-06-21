@@ -61,7 +61,7 @@ description: ""
 
 <html>
 <body>
-<p><a href="/cca/badminton">
+<p><a href="/departments/music-and-arts">
 <img src="/images/artmusic.jpg"  style="width:35%"><p>Music and Arts</p>
 </a></p>
 </body>
