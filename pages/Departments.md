@@ -21,7 +21,7 @@ description: ""
 
 <html>
 <body>
-<p><a href="/cca/badminton">
+<p><a href="/departments/mathematics">
 <img src="/images/maths.jpg"  style="width:35%"><p>Mathematics</p>
 </a></p>
 </body>
