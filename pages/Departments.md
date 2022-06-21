@@ -13,7 +13,7 @@ description: ""
 
 <html>
 <body>
-<p><a href="/mother-tongue">
+<p><a href="/departments/mother-tongue">
 <img src="/images/mothertongue.jpg"  style="width:35%"><p>Mother Tongue</p>
 </a></p>
 </body>
