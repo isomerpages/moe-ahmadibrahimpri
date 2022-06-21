@@ -29,7 +29,7 @@ description: ""
 
 <html>
 <body>
-<p><a href="/cca/badminton">
+<p><a href="/departments/science">
 <img src="/images/science.jpg"  style="width:35%"><p>Science</p>
 </a></p>
 </body>
