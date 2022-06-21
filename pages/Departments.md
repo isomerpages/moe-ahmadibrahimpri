@@ -37,7 +37,7 @@ description: ""
 
 <html>
 <body>
-<p><a href="/cca/badminton">
+<p><a href="/departments/cce">
 <img src="/images/cce.jpg"  style="width:35%"><p>CCE</p>
 </a></p>
 </body>
