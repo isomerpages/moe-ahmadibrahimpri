@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Resources for Parents and Students.md
       - Student Care.md
       - SAC Members.md
       - Alumni.md
