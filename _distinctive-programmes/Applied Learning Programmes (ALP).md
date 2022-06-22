@@ -129,28 +129,57 @@ Students exploring the environment and sorting the different items into groups</
     <input type="checkbox" id="accordion9">
     <label for="accordion9">P5 Community Outreach</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning scopes:</p>
+<ol>
+<li><p>Students advocate messages on the &#39;importance of saving water&#39; to the public as ambassadors</p>
+</li>
+<li><p>Students develop confidence in engaging public audience</p>
+</li>
+</ol>
+<p><img src="/images/p5%20community%20outreach.png" alt=""></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">P6 Eco-camp (Coney Island)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning Scopes:</p>
+<ol>
+<li><p>Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat</p>
+</li>
+<li><p>Students contribute to the cleaning up of the Punggol Promenade coast</p>
+</li>
+</ol>
+<p><img src="/images/p6%20eco%20camp.png" alt=""></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion11">
     <label for="accordion11">P6 Community Outreach</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning scopes:  </p>
+<ol>
+<li><p>Students advocate messages on “Reduce, Reuse and Recycle” to the public as ambassadors</p>
+</li>
+<li><p>Students develop confidence in engaging public audience</p>
+</li>
+</ol>
+<p><img src="/images/p6%20community%20outreach.png" alt="Our students interacting with the public"></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion12">
     <label for="accordion12">World Water Day</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning scopes:</p>
+<ol>
+<li><p>Students learn about local &amp; global water wastage &amp; pollution issues</p>
+</li>
+<li><p>Students appreciate the importance to use water wisely</p>
+</li>
+</ol>
+<p><img src="/images/world%20water%20day1.png" alt=""></p>
+<p><img src="/images/world%20water%20day2.png" alt=""></p>
     </div>
 	</li>
 	<li>
@@ -168,3 +197,4 @@ Students exploring the environment and sorting the different items into groups</
     </div>
 	</li>
 </ul>
+
