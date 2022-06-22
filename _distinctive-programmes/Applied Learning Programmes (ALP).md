@@ -186,14 +186,24 @@ Students exploring the environment and sorting the different items into groups</
     <input type="checkbox" id="accordion13">
     <label for="accordion13">Youth for the Environmental Sustainability (YES) Day</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning scopes:</p>
+<p>1) Students learn about local issues related to waste recycling.</p>
+<p>2) Students appreciate the importance to reducing waste &amp; recycling waste right.</p>
+<p><img src="/images/YES.png" alt=""></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion14">
     <label for="accordion14">Science Book Promotion</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning scopes:</p>
+<ol>
+<li><p>Students learn about reading Science books.</p>
+</li>
+<li><p>Students understand and appreciate the joy of reading.</p>
+</li>
+</ol>
+<p><img src="/images/science%20book%20promo.png" alt=""></p>
     </div>
 	</li>
 </ul>
