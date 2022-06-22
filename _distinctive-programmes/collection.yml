@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Applied Learning Programmes (ALP).md
       - Learning for Life Programmes (LLP).md
       - Inter Disciplinary Project (IPW).md
