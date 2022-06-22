@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - Traditional Asian Medicine (TAM).md
       - Applied Learning Programmes (ALP).md
       - Learning for Life Programmes (LLP).md
