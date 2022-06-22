@@ -26,14 +26,31 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">P3 “Organic Veggie Wall” Programme</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning scopes:</p>
+<ol>
+<li><p>Students experience growing their own organic vegetables in school</p>
+</li>
+<li><p>Students develop a sense of responsibility in growing their vegetables</p>
+</li>
+</ol>
+<p><img src="/images/organic_veggie1.png" alt=""></p>
+<p><img src="/images/organic_veggie2.png" alt="">
+Students planting their own organic vegetables</p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">P3 “Every Child a Seed” programme</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Learning scopes:</p>
+<ol>
+<li><p>Students experience growing their own potted plants</p>
+</li>
+<li><p>Students develop a sense of responsibility in growing their plants</p>
+</li>
+</ol>
+<p><img src="/images/every%20child%20a%20seed.png" alt="">
+Student growing their own pot of plant in their homes.</p>
     </div>
 	</li>
 	<li>
