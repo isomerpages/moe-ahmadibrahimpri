@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Resources for Parents,Students/Home Based Learning Instructions 2021.md
-      - Resources for Parents,Students/Resources for Parents and Students.md
       - Resources for Parents,Students/.keep
+      - Resources for Parents,Students/Resources for Parents and Students.md
+      - Resources for Parents,Students/Home Based Learning Instructions 2021.md
       - Student Care.md
       - SAC Members.md
       - Alumni.md
