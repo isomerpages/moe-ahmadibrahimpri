@@ -6,7 +6,6 @@ description: ""
 
 
 
-
 ---
 
 **“When drinking water, remember the source”**
@@ -112,14 +111,42 @@ description: ""
 <p>The school is turning 20! I would like to wish AIPS a &#39;HAPPY 20th BIRTHDAY&#39;! To all the teachers at AIPS, continue the good work in nurturing and developing young minds. And to all my juniors, grow with resilience and bring AIPS to greater heights!</p>
 <p>Vivian Too Yee</p>
 <p>AIPS Graduate (2008)</p>
-
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Our Alumni Achievements</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="vivian-too-yee-2008">Vivian Too Yee (2008)</h3>
+<hr>
+<p><img src="/images/viviantooyee.png" alt=""></p>
+<p>Vivian Too Yee, 2008 AIPS alumnus, collaborated with the Singapore Chinese Druggists Association (SCDA) in 2016 to design a comic poster for a campaign to educate the public of the need to have an individual medication record.</p>
+<p>This public awareness campaign by SCDA was featured in the news and it can found on the SCDA website --scda.org.sg.</p>
+<p>Vivian is currently reading Pharmacy (Year 2) at the National University of Singapore.</p>
+<h3 id="yu-kexin-2009">Yu Kexin (2009)</h3>
+<hr>
+<p><img src="/images/yukexin.png" alt=""></p>
+<p>Our 2009 AIPS graduand, Yu Kexin, was awarded the Chinese Language Elective Scholarship (CLES) in 2015. The nine awardees for this award were featured in Lian He Zao Bao in May 2015 -(<a href="http://www.zaobao.com.sg/lifestyle/education/news/story20150524-483495">http://www.zaobao.com.sg/lifestyle/education/news/story20150524-483495</a>)</p>
+<p>The CLES for the study of Chinese at H2 Level is offered by the Ministry of Education to encourage academically able and linguistically talented students to pursue the Chinese Language course at H2 Level under the Chinese Language Elective Programme.</p>
+<p>Kexin is currently reading Chemistry (Medicinal, Year1) at the National University of Singapore.</p>
+<h3 id="muhammad-hadi-bin-rahman-2006">Muhammad Hadi Bin Rahman (2006)</h3>
+<hr>
+<p><img src="/images/muhamamdhadibinrahman.png" alt=""></p>
+<p>2006 AIPS alumnus, Muhammad Hadi Bin Rahman was admitted into Nanyang Technological University’s (NTU) C. N. Yang Scholar&#39;s Programme in Aerospace Engineering in 2015.</p>
+<p>C.N. Yang Scholar&#39;s Programme is one of the premier scholars programmes at NTU for science and engineering students. Scholars admitted excel academically and possess strong passion in research and are awarded the Nanyang Scholarship from NTU.</p>
+<h3 id="mohd-hazzuwan-bin-mohd-halim-2006">Mohd Hazzuwan bin Mohd Halim (2006)</h3>
+<hr>
+<p><img src="/images/Mohd%20Hazzuwan%20bin%20Mohd%20Halim%20.png" alt=""></p>
+<p>Hazzuwan&#39;s talent in soccer was first discovered in AIPS by his then soccer coach, Mr Kumar.</p>
+<p>Hazzuwan played UNDER 16 with the Football Association of Singapore (Geylang United FC) from 2010 to 2011. He then moved on to UNDER 18 (Home United) in 2012. Not neglecting his studies, he read Mechatronics Engineering (Nitec) at the Institute of Technical Education from 2011 to 2013 while remaining active in the local soccer scene.</p>
+<p>As a professional soccer player, Hazzuwan joined the Prime League (Tanjong Pagar United FC) in 2013. In 2016, he signed a contract with Balestier Khalsa FC and is currently playing in the S League.</p>
+<h3 id="jiang-sijian-2006">Jiang Sijian (2006)</h3>
+<hr>
+<p><img src="/images/Jiang%20Sijian.png" alt=""></p>
+<p>Jiang Sijian, 2006 AIPS alumnus, is one shining example of one who knows what he loves, believes in himself and actively pursues his passion -- Singing.</p>
+<p>His singing career kick started when he took part in the National Singing Competition &quot;Power Duet&quot;, organised by MediaCorp in 2012, with a group of like-minded friends. His group won the Group Grand Champion title. From then onwards, there was no stopping him.</p>
+<p>Sijian has been very active in the local Xin Yao&#39;s arena since then, having participated in many public performances as can be seen in the series of photographs above :</p>
+<p>Sijian is currently a performing artiste under local company, Tan Chang Ren Music Station (TCR Music Station) while studying for a BA HONS Arts Management degree in LASALLE College of the Arts (Year 2).</p>
     </div>
 	</li>
 </ul>
