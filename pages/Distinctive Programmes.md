@@ -8,7 +8,8 @@ Over the years, the school has developed a few programs to assist the pupils in 
 <html>
 <body>
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/Inter%20Disciplinary%20Project.jpg"  style="width:35%">
+<img src="/images/Inter%20Disciplinary%20Project.jpg"  style="width:35%"><p>Inter Disciplinary Project (IPW)</p>
+
 </a></p>
 </body>
 </html>
@@ -16,16 +17,7 @@ Over the years, the school has developed a few programs to assist the pupils in 
 <html>
 <body>
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/Learning%20for%20Life%20Programme.jpg"  style="width:35%">
-</a></p>
-</body>
-</html>
-
-
-<html>
-<body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/Applied%20Learning%20Programmes.jpg"  style="width:35%">
+<img src="/images/Learning%20for%20Life%20Programme.jpg"  style="width:35%"><p>Learning for Life Programme (LLP)</p>
 </a></p>
 </body>
 </html>
@@ -34,7 +26,7 @@ Over the years, the school has developed a few programs to assist the pupils in 
 <html>
 <body>
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/Traditional%20Asian%20Medicine.jpg"  style="width:35%">
+<img src="/images/Applied%20Learning%20Programmes.jpg"  style="width:35%"><p>Applied Learning Programmes (ALP)</p>
 </a></p>
 </body>
 </html>
@@ -43,7 +35,16 @@ Over the years, the school has developed a few programs to assist the pupils in 
 <html>
 <body>
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/Programme%20for%20Active%20Learning.jpg"  style="width:35%">
+<img src="/images/Traditional%20Asian%20Medicine.jpg"  style="width:35%"><p>Traditional Asian Medicine (TAM)</p>
+</a></p>
+</body>
+</html>
+
+
+<html>
+<body>
+<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<img src="/images/Programme%20for%20Active%20Learning.jpg"  style="width:35%"><p>Programme for Active Learning (PAL)</p>
 </a></p>
 </body>
 </html>
