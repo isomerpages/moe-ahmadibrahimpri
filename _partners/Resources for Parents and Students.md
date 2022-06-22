@@ -52,3 +52,16 @@ description: ""
 	</li>
 </ul>
 
+[MConline](https://www.mconline.sg/LEAD/login/lms_login.aspx)
+
+  
+
+[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
+
+  
+
+[eZhiShi](https://www.ezhishi.net/)  
+
+  
+
+[Home Based Learning Instructions 2021](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/partners/resources-for-parents-students/home-based-learning-instructions-2021)
