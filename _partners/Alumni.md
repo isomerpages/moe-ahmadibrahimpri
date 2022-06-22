@@ -63,7 +63,16 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Primary 6 Graduation Magazine 2020</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/Primary%206%20Graduation%20Magazine%202020_01.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_02.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_03.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_04.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_05.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_06.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_07.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_08.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_09.jpg" alt=""></p>
+<p><img src="/images/Primary%206%20Graduation%20Magazine%202020_10.jpg" alt=""></p>
     </div>
 	</li>
 	<li>
@@ -81,4 +90,3 @@ description: ""
     </div>
 	</li>
 </ul>
-
