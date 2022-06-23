@@ -5,4 +5,5 @@ description: ""
 third_nav_title: Our Facilities
 ---
 
-![School Bookshop](/images/School%20Bookshop.jpg)
+<img src="/images/School%20Bookshop.jpg"  
+style="width:60%">
