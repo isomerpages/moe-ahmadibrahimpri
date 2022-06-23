@@ -10,8 +10,8 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Announcements
-          description: "%$^&D"
-          url: ""
+          description: ""
+          url: /announcements
         - title: Events
           description: ""
           url: /partners/resources-for-parents-students
