@@ -5,7 +5,7 @@ description: ""
 ---
 ![Parent Support Group](/images/PSG.jpg)
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
 &nbsp;&nbsp;<li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Our Philosophy</label>  
@@ -36,5 +36,4 @@ Each Child Matters</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<iframe allowfullscreen="true" height="350" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTo2fRrwn30dA9nTWyoApxww7817DQV_gweS2LrohvGwPMevTPaAnqmoPM3VwmsTiZtac_SbD6bI7Fp/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
-</ul>	
-	
+</ul>
