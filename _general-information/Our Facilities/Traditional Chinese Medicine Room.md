@@ -5,8 +5,13 @@ description: ""
 third_nav_title: Our Facilities
 ---
 
-![Traditional Chinese Medicine Room](/images/tcmroom1.jpg)
+<img src="/images/tcmroom1.jpg"  
+style="width:60%">
 
-![Traditional Chinese Medicine Room](/images/tcmroom2.jpg)
 
-![Traditional Chinese Medicine Room](/images/tcmroom3.jpg)
+<img src="/images/tcmroom2.jpg"  
+style="width:60%">
+
+
+<img src="/images/tcmroom3.jpg"  
+style="width:60%">
