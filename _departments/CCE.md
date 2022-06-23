@@ -3,8 +3,6 @@ title: CCE
 permalink: /departments/cce
 description: ""
 ---
-
-
 #### Our Philosophy
 --------------
 
@@ -32,9 +30,9 @@ To provide quality learning experiences for every child to develop good characte
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Character and Citizenship Education</label>
     <div>
-      <p><img alt="" src="/images/Character%20and%20Citizenship%20Education1.jpg">
+      <p><img alt="" src="/images/Character%20and%20Citizenship%20Education1.jpg" style="width:75%">
 Our school has a comprehensive plan to promote the importance of National Education in our school. Using a three prong approach to achieve this, the NE department is committed to support the teaching and learning of what it means to be a Globally Aware Singaporean who has a heart of compassion and love for our country.</p>
-<p><img alt="" src="/images/Character%20and%20Citizenship%20Education2.jpg">
+<p><img alt="" src="/images/Character%20and%20Citizenship%20Education2.jpg" style="width:75%">
 <strong>Staff</strong></p>
 <p>As educators, the staff take National Education seriously. We conduct several discussions to talk through issues and form a common united understanding with the help of Newsteach videos and other resources. These help us develop a better understanding of National issues so that the teachers can impart the right values to our pupils. Staff also go for learning journeys to learn best practices as well as to equip ourselves with National Education issues in order to have maximum impact on the pupils.</p>
 <p><strong>Student Focused Processes</strong></p>
@@ -56,7 +54,7 @@ Students also get enriching learning experiences through interaction with the ag
       <p><strong>AIPS NE Vision</strong> <br>
 We are ONE family.</p>
 <p><strong>AIPS NE Framework</strong>
-<img alt="" src="/images/Mission%20and%20Framework.jpg"></p>
+<img alt="" src="/images/Mission%20and%20Framework.jpg" style="width:75%"></p>
     </div>
 	</li>
 	<li>
@@ -82,109 +80,55 @@ We are ONE family.</p>
 	</li>
 	<li>
     <input id="accordion6" type="checkbox">
-    <label for="accordion6">PNE Commemorative Days</label>
+    <label for="accordion6">NE Commemorative Days</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>These commemorative days are linked to important points in Singapore&#39;s history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students&#39; experiences in National Education.</p>
+<h4 id="total-defence-day-2021-together-we-keep-singapore-strong">Total Defence Day 2021: &quot;Together We Keep Singapore Strong&quot;</h4>
+<hr>
+<p>Total Defence Day was commemorated on Monday, 8th January 2021, with the theme “Together We Keep Singapore Strong”.</p>
+<p> Students were engaged with an e-assembly programme and a string of class activities where they learnt more about the six pillars of Total Defence: Military Defence, Civil Defence, Social Defence, Psychological Defence, Economic Defence and Digital Defence.</p>
+<p> The team put together a video which showcased our male teachers sharing their contributions towards Military Defence through National Service, and our students suggesting ways to enhance Social Defence in school.</p>
+<p><img src="/images/NE%20Commemorative%20Days1.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days2.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days3.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days4.jpg" alt=""></p>
+<h4 id="international-friendship-day-2021-singapore-in-the-world"><strong><em>International Friendship Day 2021: &quot;Singapore in the world&quot;</em></strong></h4>
+<hr>
+<p>We celebrated International Friendship Day on Friday, 16th April 2021. The theme for this year’s International Friendship Day is&nbsp;<em>“Singapore in the World”</em>.</p>
+<p>On this special day, students could don their ethnic clothings to school and share about their cultures with their peers. In one of their class activities, the students were thrilled to learn to greet in the different ASEAN languages.</p>
+<p>Students were also engaged in a digital storybook theatre where they learnt that every one of us is unique and special, and we ought to be proud to be a multi-cultural and multi-religious society.</p>
+<iframe allowfullscreen="true" height="350" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+
+<h4 id="racial-harmony-day-2021-common-spaces-connected-communities">Racial Harmony Day 2021: &quot;Common Spaces, Connected Communities&quot;</h4>
+<hr>
+<p>Racial Harmony Day was commemorated on Wednesday, 21 July 2021 with the theme “Common Spaces, Connected Communities”.</p>
+<p>On this day, students could don their traditional costumes to school. Through the assembly programme led by student presenters, Akshara of 5 Resilience and Ann Wong of 4 Excellence, students learnt the importance of racial harmony and gained better awareness of the various Places of Worship in Yishun.&nbsp;</p>
+<p>Students were engaged in a string of class activities to promote interaction in a multi-cultural classroom and to appreciate diversity.</p>
+<p>Understanding that the traditional games that originated from different cultures were played by many regardless of race or religion, our lower primary students worked in pairs to play one of the traditional games, pick-up sticks.&nbsp;&nbsp;</p>
+<p>In the activity, “A New Way to Say”, our middle primary students learnt and penned down phrases in the different Mother Tongue languages and pieced their learning to form a beautiful masterpiece.&nbsp;</p>
+<p>In “Talking Point”, our upper primary students took part in an in-depth class discussion on the topic of racial harmony, to raise racial and cultural awareness among them.</p>
+<p><img src="/images/NE%20Commemorative%20Days10.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days11.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days12.jpg" alt=""></p>
+<h4 id="national-day-observance-ceremony-2021-together-our-singapore-spirit">National Day Observance Ceremony 2021: &quot;Together, Our Singapore Spirit&quot;</h4>
+<hr>
+<p>The National Day Observance ceremony was held on Friday, 6 August 2021. The theme for this year’s National Day is “Together, Our Singapore Spirit”.</p>
+<p>Students were thrilled by the “Don’t Forget the Lyrics (NDP songs edition)” segment where they would stand to win attractive prizes if they could correctly recall the song lyrics from a variety of NDP songs.</p>
+<p>In the “News Flash” segment, our student newscasters took us through some of the current challenges and how we could, as a nation, show resilience and be united as one to overcome these obstacles.</p>
+<p>On this special day, we pay tribute to our unsung heroes at AIPS for supporting the school during the pandemic to ensure that meaningful learning continues to take place.</p>
+<p>The ceremony ended with a fun Chairobics workout for students and staff to move to the beat.</p>
+<p>The Class Mentors then led the classes in a string of class activities. Our students learnt more about the various SG mascots and had a better understanding of this year’s National Day theme and logo.</p>
+<p><img src="/images/NE%20Commemorative%20Days13.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days14.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days15.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days16.jpg" alt=""></p>
+<h4 id="ne-commemorative-days-archive"><strong>NE commemorative Days Archive:</strong></h4>
+<p>Total Defence Day&nbsp;2020 <strong>(broken link!!)</strong></p>
+<p><a href="/departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020">International Friendship Day&nbsp;2020</a>  </p>
+<p><a href="/departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020">Racial Harmony Day&nbsp;2020</a></p>
+<p><a href="/departments/cce/cce-experiences/national-day-celebration-in-2019">National Day Celebrations 2019</a></p>
+
     </div>
 	</li>
 </ul>
 
-These commemorative days are linked to important points in Singapore's history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students' experiences in National Education.
-
-
-#### Total Defence Day 2021: "Together We Keep Singapore Strong"
----
-
-Total Defence Day was commemorated on Monday, 8th January 2021, with the theme “Together We Keep Singapore Strong”.
-
- Students were engaged with an e-assembly programme and a string of class activities where they learnt more about the six pillars of Total Defence: Military Defence, Civil Defence, Social Defence, Psychological Defence, Economic Defence and Digital Defence.
-
- The team put together a video which showcased our male teachers sharing their contributions towards Military Defence through National Service, and our students suggesting ways to enhance Social Defence in school.
-
-![](/images/NE%20Commemorative%20Days1.jpg)
-
-![](/images/NE%20Commemorative%20Days2.jpg)
-
-![](/images/NE%20Commemorative%20Days3.jpg)
-
-![](/images/NE%20Commemorative%20Days4.jpg)
-
-#### **_International Friendship Day 2021: "Singapore in the world"_**
----
-
-We celebrated International Friendship Day on Friday, 16th April 2021. The theme for this year’s International Friendship Day is&nbsp;_“Singapore in the World”_.
-
-On this special day, students could don their ethnic clothings to school and share about their cultures with their peers. In one of their class activities, the students were thrilled to learn to greet in the different ASEAN languages.
-
-Students were also engaged in a digital storybook theatre where they learnt that every one of us is unique and special, and we ought to be proud to be a multi-cultural and multi-religious society.
-
-<iframe allowfullscreen="true" height="350" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
-
-#### Racial Harmony Day 2021: "Common Spaces, Connected Communities" 
-----
-
-Racial Harmony Day was commemorated on Wednesday, 21 July 2021 with the theme “Common Spaces, Connected Communities”.
-
-On this day, students could don their traditional costumes to school. Through the assembly programme led by student presenters, Akshara of 5 Resilience and Ann Wong of 4 Excellence, students learnt the importance of racial harmony and gained better awareness of the various Places of Worship in Yishun.&nbsp;
-
-Students were engaged in a string of class activities to promote interaction in a multi-cultural classroom and to appreciate diversity.
-
-Understanding that the traditional games that originated from different cultures were played by many regardless of race or religion, our lower primary students worked in pairs to play one of the traditional games, pick-up sticks.&nbsp;&nbsp;
-
-In the activity, “A New Way to Say”, our middle primary students learnt and penned down phrases in the different Mother Tongue languages and pieced their learning to form a beautiful masterpiece.&nbsp;
-
-In “Talking Point”, our upper primary students took part in an in-depth class discussion on the topic of racial harmony, to raise racial and cultural awareness among them.
-
-![](/images/NE%20Commemorative%20Days10.jpg)
-
-![](/images/NE%20Commemorative%20Days11.jpg)
-
-![](/images/NE%20Commemorative%20Days12.jpg)
-
-#### National Day Observance Ceremony 2021: "Together, Our Singapore Spirit"   
----
-
-The National Day Observance ceremony was held on Friday, 6 August 2021. The theme for this year’s National Day is “Together, Our Singapore Spirit”.
-
-  
-
-Students were thrilled by the “Don’t Forget the Lyrics (NDP songs edition)” segment where they would stand to win attractive prizes if they could correctly recall the song lyrics from a variety of NDP songs.
-
-  
-
-In the “News Flash” segment, our student newscasters took us through some of the current challenges and how we could, as a nation, show resilience and be united as one to overcome these obstacles.
-
-  
-
-On this special day, we pay tribute to our unsung heroes at AIPS for supporting the school during the pandemic to ensure that meaningful learning continues to take place.
-
-  
-
-The ceremony ended with a fun Chairobics workout for students and staff to move to the beat.
-
-  
-
-The Class Mentors then led the classes in a string of class activities. Our students learnt more about the various SG mascots and had a better understanding of this year’s National Day theme and logo.
-
-![](/images/NE%20Commemorative%20Days13.jpg)
-
-![](/images/NE%20Commemorative%20Days14.jpg)
-
-![](/images/NE%20Commemorative%20Days15.jpg)
-
-![](/images/NE%20Commemorative%20Days16.jpg)
-
-#### **NE commemorative Days Archive:**
-
-Total Defence Day&nbsp;2020 **(broken link)**
-  
-
-[International Friendship Day&nbsp;2020](/departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020)  
-
-  
-
-[Racial Harmony Day&nbsp;2020](/departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020)
-
-  
-
-[National Day Celebrations 2019](/departments/cce/cce-experiences/national-day-celebration-in-2019)
