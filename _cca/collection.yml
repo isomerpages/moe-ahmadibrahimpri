@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Arts and Craft.md
       - Photography.md
       - Robotics Club.md
       - Angklung.md
