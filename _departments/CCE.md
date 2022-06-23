@@ -97,7 +97,7 @@ We are ONE family.</p>
 <p>We celebrated International Friendship Day on Friday, 16th April 2021. The theme for this year’s International Friendship Day is&nbsp;<em>“Singapore in the World”</em>.</p>
 <p>On this special day, students could don their ethnic clothings to school and share about their cultures with their peers. In one of their class activities, the students were thrilled to learn to greet in the different ASEAN languages.</p>
 <p>Students were also engaged in a digital storybook theatre where they learnt that every one of us is unique and special, and we ought to be proud to be a multi-cultural and multi-religious society.</p>
-<iframe allowfullscreen="true" height="350" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 
 <h4 id="racial-harmony-day-2021-common-spaces-connected-communities">Racial Harmony Day 2021: &quot;Common Spaces, Connected Communities&quot;</h4>
 <hr>
@@ -131,4 +131,3 @@ We are ONE family.</p>
     </div>
 	</li>
 </ul>
-
