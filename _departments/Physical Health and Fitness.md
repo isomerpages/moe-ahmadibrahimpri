@@ -3,7 +3,6 @@ title: Physical Health and Fitness
 permalink: /departments/physical-health-and-fitness
 description: ""
 ---
-
 #### Vision:
 -------
 
@@ -137,8 +136,6 @@ They are passionate bout developing their talents towards sporting excellence.
 <p><img src="/images/Active%20SG3.jpg" alt=""></p>
 <p><img src="/images/Active%20SG4.jpg" alt=""></p>
 <p>Pupils were given the opportunity to play mini table tennis.</p>
-  
     </div>  
 </li>   
 </ul>
-
