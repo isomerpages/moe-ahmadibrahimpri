@@ -3,7 +3,6 @@ title: Cub Scouts
 permalink: /cca/cub-scouts
 description: ""
 ---
-
 As part of the Singapore Scouts Association (SSA), the objective of the Cub Scouts program is to provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying the child’s basic need to face and overcome challenges. Based on the Scout Promise and Law, we provide life skills activities such as first-aid, knotting, outdoor cooking, hikes, camps and rock-climbing.
 
   
@@ -22,13 +21,15 @@ There are also proficiency and progress badges to be obtained, and these can be 
 ### Highlights
 ----------
 
-![_Our Cub Scouts enjoying themselves pitching tents and cooking pasta during the North Area Year End Camp._](/images/scouts1.png)
+<img src="/images/scouts1.png"  
+style="width:80%">
 
 ![Our Cub Scouts enjoying themselves in the Laser Tag game during the North Area Year End Camp.](/images/scouts2.png)
 
 Our Cub Scouts enjoying themselves from pitching tents and cooking pasta to taking part in the Laser Tag game during the North Area Year End Camp.
 
-![Conquering great heights at Onsight Climbing Gym, an indoor rock climbing facility.](/images/scouts3.png)
+<img src="/images/scouts3.png"  
+style="width:80%">
 
 ![Our Cub Scouts had successfully achieved their Climbing Proficiency Badge with pride.](/images/scouts4.png)
 
