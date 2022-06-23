@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Our Facilities/Traditional Chinese Medicine Room.md
       - Our Facilities/CCE Gallery.md
       - Our Facilities/Our Facilities.md
       - Our Facilities/.keep
