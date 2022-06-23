@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
+      - Departments.md
+      - English.md
+      - Mother Tongue/.keep
       - Mother Tongue/Tamil.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Mother Tongue.md
-      - Mother Tongue/.keep
-      - Departments.md
-      - English.md
       - Mathematics.md
       - Science.md
       - CCE.md
