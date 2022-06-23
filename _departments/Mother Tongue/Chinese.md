@@ -4,7 +4,6 @@ permalink: /all-departments/mother-tongue/chinese
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 -----------------------------
 
 **依布拉欣小学华文部**
@@ -28,17 +27,17 @@ third_nav_title: Mother Tongue
     <div>
       <p>恭喜我校学生在全国第4届中小学课文朗读比赛中取得佳绩！</p>
 <p><strong>个人银奖:</strong> 陈誉心（CHEN YUXIN) P2 CARE</p>
-<p><img src="/images/accordion2-1.jpg" alt="个人银奖：陈誉心（CHEN YUXIN) P2 CARE"></p>
+<p><img src="/images/accordion2-1.jpg" style="width:60%" alt="个人银奖：陈誉心（CHEN YUXIN) P2 CARE"></p>
 <p>小组银奖：<br>
 陈中漪 CHEN ZHONG YI (P3 HONESTY) <br>
 何佳铭 HO KAH MENG (P3 CARE) <br>
 陈㛄妏 YVONNE CHIN YEE WEN (P3 EXCELLENCE)</p>
-<p><img src="/images/accordion2-2.jpg" alt="CHEN ZHONG YI, HO KAH MENG, YVONNE CHIN YEE WEN"></p>
+<p><img src="/images/accordion2-2.jpg" style="width:60%" alt="CHEN ZHONG YI, HO KAH MENG, YVONNE CHIN YEE WEN"></p>
 <p>小组铜奖：<br>
 朱旭迪 ZHU XUDI, JADEN (P2 GRATITUDE) <br>
 陈乐轩 CHEN LEXUAN (P2 GRATITUDE) <br>
 郭佳锜  KOY JIA QI (P2 RESPECT)                                     </p>
-<p><img src="/images/accordion2-3.jpg" alt="ZHU XUDI, CHEN LEXUAN, KOY JIA QI"></p>
+<p><img src="/images/accordion2-3.jpg" style="width:60%" alt="ZHU XUDI, CHEN LEXUAN, KOY JIA QI"></p>
     </div>
 	</li>
 	 <li>
@@ -99,7 +98,7 @@ third_nav_title: Mother Tongue
     <label for="accordion9">2020 母语双周活动 - 报章报道</label>
     <div>
       <h3 id="新明日报近日对我校中医中药课程进行了报道">新明日报近日对我校中医中药课程进行了报道</h3>
-<p><img src="/images/accordion9-1.jpg" alt="新明日报近日对我校中医中药课程进行了报道"></p>
+<p><img src="/images/accordion9-1.jpg" style="width:60%" alt="新明日报近日对我校中医中药课程进行了报道"></p>
     </div>
 	</li>
 	 <li>
@@ -123,8 +122,8 @@ third_nav_title: Mother Tongue
     <input type="checkbox" id="accordion12">
     <label for="accordion12">2019 母语双周活动 - P2动物园学习之旅</label>
     <div>
-      <p><img src="/images/accordion12-1.png" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
-<p><img src="/images/accordion12-2.png" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
+      <p><img src="/images/accordion12-1.png" style="width:70%" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
+<p><img src="/images/accordion12-2.png" style="width:70%" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
     </div>
 	</li>
 	 <li>
@@ -140,7 +139,7 @@ third_nav_title: Mother Tongue
     <label for="accordion14">2019 母语双周活动 - P5扇画活动</label>
     <div>
       <p><img src="/images/accordion14-1.png" alt="2019 母语双周活动 - P5扇画活动"></p>
-<p><img src="/images/accordion14-2.png" alt="2019 母语双周活动 - P5扇画活动"></p>
+<p><img src="/images/accordion14-2.png" style="width:75%" alt="2019 母语双周活动 - P5扇画活动"></p>
     </div>
 	</li>
 	 <li>
@@ -148,7 +147,7 @@ third_nav_title: Mother Tongue
     <label for="accordion15">2019 母语双周活动 - P4认识端午节</label>
     <div>
       <p><img src="/images/accordion15-1.png" alt="2019 母语双周活动 - P4认识端午节"></p>
-<p><img src="/images/accordion15-2.png" alt="2019 母语双周活动 - P4认识端午节"></p>
+<p><img src="/images/accordion15-2.png" style="width:80%" alt="2019 母语双周活动 - P4认识端午节"></p>
     </div>
 	</li>
 	 <li>
@@ -163,7 +162,7 @@ third_nav_title: Mother Tongue
     <label for="accordion17">2019 母语双周活动 - 访问南凤善堂医药中心</label>
     <div>
       <p><img src="/images/accordion17-1.png" alt="2019 母语双周活动 - 访问南凤善堂医药中心"></p>
-<p><img src="/images/accordion17-2.png" alt="2019 母语双周活动 - 访问南凤善堂医药中心"></p>
+<p><img src="/images/accordion17-2.png" style="width:70%" alt="2019 母语双周活动 - 访问南凤善堂医药中心"></p>
     </div>
 	</li>
 </ul>
