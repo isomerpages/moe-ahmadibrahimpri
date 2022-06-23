@@ -15,7 +15,7 @@ sections:
         - title: Events
           description: HER^#190
           url: ""
-        - title: Parents' Login
+        - title: Quick Links
           description: 52geeh9
           url: ""
   - infobar:
