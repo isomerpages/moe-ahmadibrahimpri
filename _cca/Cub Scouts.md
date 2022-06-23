@@ -35,8 +35,11 @@ style="width:80%">
 
 Conquering great heights at Onsight Climbing Gym, an indoor rock climbing facility, our Cub Scouts had successfully achieved their Climbing Proficiency Badge with pride.
 
-![During Leadership Camps, our cubs learn many skills such as knotting and first aid.](/images/scouts5.png)
+<img src="/images/scouts5.png"  
+style="width:80%">
 
 During Leadership Camps, our cubs learn many skills such as knotting and first aid.
 
-![Cub Scouts](/images/scouts6.png)
+
+<img src="/images/scouts6.png"  
+style="width:80%">
