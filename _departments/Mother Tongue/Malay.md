@@ -4,7 +4,6 @@ permalink: /departments/all-departments/mother-tongue/malay
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 #### BAHASA MELAYU @ AIPS
 
 "Language is important as it is a vehicle for us to communicate with others about our ideas and feelings. It is also pertinent in transmitting our values and heritage to our young. There is a Malay saying ‘Bahasa menunjukkan Bangsa’, which means that the ‘language reflect ones identity or race’. Hence, to better understand the values and traditions embodied in their cultural heritage, our young must develop a sense of cultural awareness and confidence that comes from knowing their own Mother Tongue.
@@ -62,10 +61,10 @@ Yang indah itu bahasa.</p>
     <label for="accordion2">2022 Rakan Bahasa</label>
     <div>
       <p>Tahniah kami ucapkan kepada Sofia Rai (4 Honesty) &amp; Ishq Eshan (4 Honesty) kerana telah dilantik sebagai Rakan Bahasa 2022!</p>
-<p><img src="/images/malay2-1.jpg" alt="2022 Rakan Bahasa"></p>
+<p><img src="/images/malay2-1.jpg" style="width:60%" alt="2022 Rakan Bahasa"></p>
 <p>Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu. Moga kedua-dua Rakan Bahasa dapat menyelesaikan kad misi dan melaksanakan tanggungjawab mereka dengan baik pada tahun ini!</p>
 <p>Sempena menyambut bulan Syawal yang baru sahaja tiba, berikut merupakan pesanan Rakan Bahasa buat semua murid-murid AIPS:</p>
-<p><strong>video to be embedded here</strong></p>
+<p><strong>video to be embedded here!!</strong></p>
 <p>Jalan raya bersama-sama, <br>
                                                                                              Hati riang tidak terhingga; <br>
                                                                                        Ketika kita seronok beraya,<br>
@@ -77,7 +76,7 @@ Yang indah itu bahasa.</p>
     <label for="accordion3">2022 Seminar Bahasa Melayu</label>
     <div>
       <p>Pada tanggal 15 Mac, empat orang guru Bahasa Melayu kami telah berkongsi di Seminar Bahasa Melayu 2022. Seminar yang dianjurkan oleh Pusat Bahasa Melayu Singapura (MLCS) itu telah diadakan melalui ruangan Zoom. Kumpulan kami diketuai oleh guru kanan, Cikgu Badrolhaizat dan dianggotai oleh Cikgu Halina, Cikgu Zubaidah dan Cikgu Aishah.</p>
-<p><img src="/images/2022%20Seminar%20Bahasa%20Melayu1.jpeg" alt="2022 Seminar Bahasa Melayu"></p>
+<p><img src="/images/2022%20Seminar%20Bahasa%20Melayu1.jpeg" style="width:70%"  alt="2022 Seminar Bahasa Melayu"></p>
 <p><img src="/images/2022%20Seminar%20Bahasa%20Melayu2.jpeg" alt="2022 Seminar Bahasa Melayu"></p>
 <p>Guru-guru kami telah berkongsi tentang penggunaan kaedah akrostik dalam pengajaran imbuhan meN-. Syabas kami ucapkan kepada guru-guru yang terlibat kerana telah meluangkan masa sewaktu cuti sekolah untuk sesi perkongsian ini! </p>
 <p>Moga ilmu yang dikongsi bermanfaat kepada semua yang telah menyertai sesi tersebut.</p>
@@ -122,7 +121,7 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <div>
       <p>Pada tahun 2021, Rakan Bahasa kita, Nur Asyura &amp; Nur Alesya telah menyertai Pertandingan NewsMaker. Pertandingan ini memberi peluang untuk para pelajar merakam dan menyunting video dengan menggunakan aplikasi NewsMaker. Mereka harus menghasilkan video mengikut tema yang diberikan. Tema pada tahun ini ialah &#39;Legenda Melayu dan Cerita Dongeng&#39;. </p>
 <p>Dengan bimbingan Cikgu Aishah dan bantuan teman-teman dari Darjah 4, mereka telah menghasilkan video untuk pertandingan ini. Mari kita tonton hasil kerja mereka. Semoga terhibur!</p>
-<p><strong>video to be embedded here</strong></p>
+<p><strong>video to be embedded here!!</strong></p>
     </div>
 	</li>
 	<li>
@@ -147,7 +146,7 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion8">
     <label for="accordion8">2021 Rakan Bahasa</label>
     <div>
-      <p><img src="/images/2021%20Rakan%20Bahasa.jpg" alt="2021 Rakan Bahasa"></p>
+      <p><img src="/images/2021%20Rakan%20Bahasa.jpg" style="width:60%"alt="2021 Rakan Bahasa"></p>
 <p>Pada tarikh 9 April, dua orang pelajar Darjah 4 telah dilantik sebagai Rakan Bahasa. Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu.</p>
 <p>Mari kita ucapkan tahniah kepada Nur Asyura dan Nur Alesya dari 4 Care! Semoga berjaya menyelesaikan misi sebagai Rakan Bahasa 2021.</p>
     </div>
@@ -156,7 +155,7 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <input type="checkbox" id="accordion9">
     <label for="accordion9">2021 Persahabatan Sedunia (International Friendship Day)</label>
     <div>
-      <p><img src="/images/2021%20Persahabatan%20Sedunia%20(International%20Friendship%20Day).jpg" alt="2021 Persahabatan Sedunia (International Friendship Day)"></p>
+      <p><img src="/images/2021%20Persahabatan%20Sedunia%20(International%20Friendship%20Day).jpg" style="width:60%" alt="2021 Persahabatan Sedunia (International Friendship Day)"></p>
 <p>Pada tanggal 16 April, kami telah menyambut Hari Persahabatan Sedunia. Semua pelajar AIPS digalakkan memakai pakaian tradisional masing-masing untuk memeriahkan suasana sambutan pada hari itu. Banyak aktiviti menarik yang telah dijalankan dalam kelas Bahasa Melayu sempena sambutan Hari Persahabatan Sedunia. Melalui aktiviti dan permainan tersebut, para pelajar berpeluang untuk lebih mengenali tentang budaya negara-negara ASEAN.</p>
     </div>
 	</li>
@@ -165,8 +164,8 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <label for="accordion10">2021 Hari Pertahanan Mutlak</label>
     <div>
       <p>Kami telah menyambut Hari Pertahanan Mutlak pada tarikh 18 Februari 2021. Sempena memperingati hari Singapura jatuh ke dalam cengkaman penjajah Jepun, pengetua sekolah telah membacakan amanat untuk mengingatkan kami tentang kepentingan Pertahanan Mutlak. Terdapat pelbagai aktiviti menarik yang telah dijalankan sewaktu kelas Bahasa Melayu sempena menyambut Hari Pertahanan Mutlak.</p>
-<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" alt="2021 Hari Pertahanan Mutlak"></p>
-<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" alt="2021 Hari Pertahanan Mutlak"></p>
+<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak"></p>
+<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak"></p>
 <p>Contohnya, para pelajar Darjah 4 telah melakonkan sketsa secara berkumpulan untuk menunjukkan bagaimana kita boleh sama-sama memainkan peranan untuk menjaga keselamatan Singapura.</p>
 <p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak3.png" alt="2021 Hari Pertahanan Mutlak"></p>
 <p>Para pelajar Darjah Dua pula telah cuba permainan yang direka khas sempena Hari Pertahanan Mutlak. Melalui permainan ini, mereka mempelajari cara-cara mudah yang dapat mereka lakukan di rumah dan di sekolah untuk memastikan Singapura selamat dan bersedia untuk mempertahankan diri dari ancaman di dalam dan di luar negara.</p>
@@ -180,7 +179,7 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
 <p>Sambutan Hari Raya tahun ini tidak kurang meriah.Ikuti video Hari Raya yang telah dihasilkan oleh tenaga kerja Melayu di AIPS.</p>
 <h3 id="2020-hari-raya-video">2020 Hari Raya Video</h3>
 <p>Ini merupakan video sambutan Hari Raya yang kami hasilkan. Kami harap semua akan dapat menikmati Hari Raya dengan meriah.</p>
-<p><strong>VIDEO TO BE EMBEDDED HERE</strong></p>
+<p><strong>VIDEO TO BE EMBEDDED HERE!!!</strong></p>
     </div>
 	</li>
 	<li>
@@ -189,13 +188,13 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <div>
       <p>Pada tahun ini, dua murid darjah empat dari AIPS telah dicalonkan sebagai Rakan Bahasa. Kedua murid itu ialah Norhendra Irfan Paton (4 Care) dan Hannan Shafaatul Auli’a Bte Mohd Hanafi (4 Excellence).</p>
 <p>Mereka telah menerima pencalonan dalam satu majlis khas yang diadakan pada 13 April 2019 yang lalu di Pusat Kebudayaan Cina Singapura. Dalam majlis itu, mereka telah bertemu dengan para Rakan Bahasa dari serata Singapura. Mereka juga disajikan dengan taklimat berkenaan bengkel-bengkel dan peraduan-peraduan yang akan mereka lalui sepanjang tempoh perkhidmatan mereka sebagai Rakan Bahasa. Ini termasuk aktiviti-aktiviti bulanan (dalam kad misi) yang perlu mereka selesaikan untuk meraih lencana Rakan Bahasa di akhirnya.</p>
-<p><img src="/images/2019%20Rakan%20Bahasa1.jpg" alt="2019 Rakan Bahasa"></p>
+<p><img src="/images/2019%20Rakan%20Bahasa1.jpg" style="width:75%"alt="2019 Rakan Bahasa"></p>
 <p>Acara pertama yang telah mereka sertai baru-baru ini ialah Pertandingan NewsMaker 2019. Berlangsung pada tanggal 22 Mei 2019, pertandingan itu telah diadakan di Taman Warisan.</p>
 <p>Dengan tema ‘Sejarah Singapuraku’ sebagai panduan, para peserta dikehendaki membuat laporan berupa video selama 2 minit. Menggunakan aplikasi NewsMaker, ia memberikan satu pengalaman yang menarik bagi kedua Rakan Bahasa kita. Dari memikirkan laporan, rakaman hingga penyuntingan video, Hannan dan Hendra bertungkus-lumus menyiapkannya dalam masa 2 jam yang diberikan. Ya, dua jam sahaja. Hebatkan mereka?</p>
-<p><img src="/images/2019%20Rakan%20Bahasa2.jpg" alt="2019 Rakan Bahasa"></p>
+<p><img src="/images/2019%20Rakan%20Bahasa2.jpg" style="width:70%" alt="2019 Rakan Bahasa"></p>
 <p>Masa yang agak suntuk tapi kedua Rakan Bahasa kita berjaya menyelesaikan tugasan yang diberi. Malah mereka berasa seronok kerana banyak yang telah diraih pada hari tersebut.</p>
 <p>Yang pastinya, lagi banyak peluang yang menanti mereka. Kami berharap mereka dapat membanggakan AIPS dengan menjalankan tanggungjawab dengan penuh dedikasi dan terus melestarikan budaya dan Bahasa Melayu</p>
-<p><img src="/images/2019%20Rakan%20Bahasa3.jpg" alt="2019 Rakan Bahasa"></p>
+<p><img src="/images/2019%20Rakan%20Bahasa3.jpg" style="width:70%" alt="2019 Rakan Bahasa"></p>
     </div>
 	</li>
 	<li>
