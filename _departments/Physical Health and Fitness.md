@@ -31,7 +31,7 @@ They are passionate bout developing their talents towards sporting excellence.
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">Physical Education - The AIPS Approach</label>  
     <div>  
-      <p><img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" alt=""></p>
+      <p><img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:55%" alt=""></p>
 <p><strong>Fitness Friday</strong></p>
 <p>Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students&#39; academics at the same time.</p>
 <p><strong>Health Fest</strong></p>
@@ -101,7 +101,7 @@ They are passionate bout developing their talents towards sporting excellence.
     <label for="accordion4">Primary 5 Outdoor Education Camp</label>  
     <div>  
       <p>Our Primary 5 cohort had their Outdoor Experience at Dairy Farm OALC, from 19 April - 21 April. The students enjoyed their day-camp, partaking in various team building and educational activities such as their Journey - a short hike through the nature trails nearby the campsite and Longkang fishing - where students observed the eco-system of the local pond and attempted to catch guppies using primitive means. It was an authentic, experiential camp anchored on our school values of Gratitude and Resilience, allowing our students to learn more about themselves, amidst exploring the biodiversity around them.</p>
-<p><img src="/images/Day%20Journey.jpg" alt="">
+<p><img src="/images/Day%20Journey.jpg" style="width:80%" alt="">
 <strong>Day Journey</strong>: Dairy Farm Quarry</p>
 <p><img src="/images/concrete%20art.png" alt="">
 <strong>Concrete Art</strong>: Learning about nature and the environment</p>
@@ -131,7 +131,7 @@ They are passionate bout developing their talents towards sporting excellence.
     <label for="accordion6">Active SG Programme</label>  
     <div>  
       <p>In collaboration with the Health Promotion Board (HPB), our Active SG programme aims to share with the students about the various sports programme that are available to them during the June holidays.</p>
-<p><img src="/images/Active%20SG1.jpg" alt=""></p>
+<p><img src="/images/Active%20SG1.jpg" style="width:70%" alt=""></p>
 <p><img src="/images/Active%20SG2.jpg" alt=""></p>
 <p><img src="/images/Active%20SG3.jpg" alt=""></p>
 <p><img src="/images/Active%20SG4.jpg" alt=""></p>
