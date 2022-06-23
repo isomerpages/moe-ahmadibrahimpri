@@ -3,7 +3,6 @@ title: English
 permalink: /departments/english
 description: ""
 ---
-
 ### Vision:
 -------
 
@@ -133,10 +132,10 @@ To provide quality learning experiences and a vibrant, language-rich environment
     <label for="accordion4">Reading Culture @ AIPS</label>
     <div>
       <p>To build a pervasive reading culture and develop positive life-long reading habits in our pupils, the school has in place a Reading Programme to nurture pupils who love reading.</p>
-<p><img src="/images/read1.jpeg" alt="Reading Culture @ AIPS"></p>
-<p><img src="/images/read2.jpg" alt="Reading Culture @ AIPS"></p>
+<p><img src="/images/read1.jpeg" style="width:70%" alt="Reading Culture @ AIPS"></p>
+<p><img src="/images/read2.jpg"  alt="Reading Culture @ AIPS"></p>
 <p><img src="/images/read3.jpg" alt="Reading Culture @ AIPS"></p>
-<p><img src="/images/read4.jpg" alt="Reading Culture @ AIPS"></p>
+<p><img src="/images/read4.jpg" style="width:70%" alt="Reading Culture @ AIPS"></p>
     </div>
 	</li>
 	<li>
@@ -146,7 +145,7 @@ To provide quality learning experiences and a vibrant, language-rich environment
       <h3 id="pear-trees-strategy-for-daily-conversations">PEAR TREES strategy for daily conversations</h3>
 <hr>
 <p>PEAR TREES is a strategy that students can use in their daily conversations. It helps students focus on how they pronounce their words, express themselves clearly and expand on their ideas that they share with others. It can also help students to converse with their teacher on any particular topic.</p>
-<p><img src="/images/pear%20trees.png" alt="PEAR TREES"></p>
+<p><img src="/images/pear%20trees.png" style="width:60%" alt="PEAR TREES"></p>
 <h3 id="annotation-for-reading-comprehension">Annotation for reading comprehension</h3>
 <hr>
 <p>At AIPS, students are taught annotating skills. Annotating a text can help students understand difficult material better and encourage active reading. Porter-O’Donnell (2004) suggested that students be given a bookmark each that detailed ideas for symbols to use in annotation and the types of comments they could make. Thus, a set of teacher-designed guidelines for the annotation of narrative texts is carefully crafted. This set of guidelines, which is made into a bookmark, is to help guide the students as they make their thinking visible. There is a common language and understanding for annotation among the students and the teacher. Students are strongly encouraged to use these symbols until they are able to establish their own preferred annotation styles and modes over time.</p>
@@ -161,10 +160,10 @@ To provide quality learning experiences and a vibrant, language-rich environment
 <p>As it centers on personal experiences and is based on self-generated vocabulary and grammar by students, MLEA is highly learner-centered. It is also aligned to the Shared Book Approach’s focus on the reading process while integrating it with writing, speaking, and listening.</p>
 <p>A typical MLEA lesson spans over three days as students navigate from Class Writing (MLEA 1) to Group Writing (MLEA 2) to Individual Writing (MLEA 3). With the aid of the teacher who transcribes their oral input, students first come up with a piece of class writing. This becomes the basis for group writing, when students collaborate in small mixed ability groups before they go on to individual writing.</p>
 <p><strong>Students preparing to experience making their own sandwich:</strong></p>
-<p><img src="/images/mlea%207.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
-<p><img src="/images/mlea1.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
-<p><img src="/images/mlea3.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
-<p><img src="/images/mlea4.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea%207.jpg"  alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea1.jpg" style="width:70%" alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea3.jpg" style="width:70%" alt="Modified Language Experience Approach (MLEA)"></p>
+<p><img src="/images/mlea4.jpg" style="width:70%" alt="Modified Language Experience Approach (MLEA)"></p>
 <p><img src="/images/mlea2.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
     </div>
 	</li>
@@ -177,7 +176,7 @@ To provide quality learning experiences and a vibrant, language-rich environment
 <p>Sessions in the three Learning Centres provide valuable practice and extension of all of the language skills: listening, speaking, reading and writing. Successful implementation of these sessions at the end of each SBA/MLEA Unit reinforces and complements the language teaching and learning opportunities that precede them.</p>
 <h3 id="p1--p2-english-fiesta-2021">P1 &amp; P2 English Fiesta 2021</h3>
 <p>To end their school term with a bang, the Primary One and Two students participated in various activities such as Charades, postcard writing, acrostic poem writing and crossword puzzles which were based on their STELLAR big books - <em>The Broken Bangle</em> (P1) and <em>Roti Prata</em> (P2). The students had a lot of fun that week and thought it was the best way to end the school term!</p>
-<p><img src="/images/Learning%20Centres1.jpeg" alt="P1 &amp; P2 English Fiesta 2021"></p>
+<p><img src="/images/Learning%20Centres1.jpeg" style="width:80%" alt="P1 &amp; P2 English Fiesta 2021"></p>
 <p><img src="/images/Learning%20Centres2.jpg" alt="P1 &amp; P2 English Fiesta 2021"></p>
 <p><img src="/images/Learning%20Centres3.jpg" alt="P1 &amp; P2 English Fiesta 2021"></p>
     </div>
@@ -191,7 +190,7 @@ To provide quality learning experiences and a vibrant, language-rich environment
 <p>What better way to learn than through doing and playing games? Level-based activities such as mystery guest readers, Picture reveal, were carried out during English lessons in that week. Students had a ball of time as they explored the English language in a fun and exciting way!</p>
 <p>English Week is never complete without a Character Parade! Everyone in school, including teachers, was encouraged to come dressed up according to their level theme. The range of costume themes from students' favourite books added vibrancy to the atmosphere in school on that day.</p>
 <p>It was truly an educational English Week at AIPS!</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK8U3qoK3MB5Ek9sa5DbUaipnhVu1Riaw8_jc-6pt1afdrvIrJ7WVwT1WoBHQ53YGDeZpUjUcYVLER/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="550" height="350" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK8U3qoK3MB5Ek9sa5DbUaipnhVu1Riaw8_jc-6pt1afdrvIrJ7WVwT1WoBHQ53YGDeZpUjUcYVLER/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <p>Students' work:</p>
 <p><img alt="Students' work" src="/images/students'%20work.png"></p>
@@ -208,7 +207,7 @@ The interactive session was an enjoyable one for all who attended!</p>
 <p><strong>video to be embedded here</strong></p>
 <h3 id="nlb---read-for-books-charity-drive">NLB - Read For Books Charity Drive</h3>
 <p>Read for Books is a charity book drive with the intention of raising awareness of reading and share the gift of reading with the less privileged. From 11 to 26 July 2020, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. That year, we were able to raise 95 books for charity.</p>
-<iframe allowfullscreen="true" height="350" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQup625odTXY3i6SG6RGvzXJK4KkvDG5ZQkQWyhfeGe4ZIwwNWUtP4f0xZ9Qyha9idNltRIglmeQXKJ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQup625odTXY3i6SG6RGvzXJK4KkvDG5ZQkQWyhfeGe4ZIwwNWUtP4f0xZ9Qyha9idNltRIglmeQXKJ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
     </div>
 	</li>
 	<li>
@@ -218,10 +217,10 @@ The interactive session was an enjoyable one for all who attended!</p>
       <h3 id="speech-and-drama-fest-2021">Speech and Drama Fest 2021</h3>
 <hr>
 <p>As part of our school&#39;s effort to provide quality learning experiences and a language-rich environment for our students to learn English, the English Department has been conducting Speech and Drama lessons for our Primary One and Two students annually. With the new SMMs in place this year, we were not able to have our usual Speech and Drama concert. Instead, the performances were recorded by the English teachers and shared with the school. Each student also created their own mask during their art lessons. The students had a lot of fun!</p>
-<p><img src="/images/speech%20&%20drama1.jpeg" alt="Speech and Drama Fest 2021"></p>
-<p><img src="/images/speech%20&%20drama2.jpeg" alt="Speech and Drama Fest 2021"></p>
+<p><img src="/images/speech%20&%20drama1.jpeg" style="width:65%"alt="Speech and Drama Fest 2021"></p>
+<p><img src="/images/speech%20&%20drama2.jpeg" style="width:65%" alt="Speech and Drama Fest 2021"></p>
 <p><img src="/images/speech%20&%20drama3.jpeg" alt="Speech and Drama Fest 2021"></p>
-<p><img src="/images/speech%20&%20drama4.jpeg" alt="Speech and Drama Fest 2021"></p>
+<p><img src="/images/speech%20&%20drama4.jpeg" style="width:70%" alt="Speech and Drama Fest 2021"></p>
 <p><img src="/images/speech%20&%20drama5.jpg" alt="Speech and Drama Fest 2021">
 The students definitely look forward to the next Speech and Drama Fest next year!</p>
     </div>
