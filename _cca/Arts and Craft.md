@@ -3,7 +3,6 @@ title: Arts and Craft
 permalink: /cca/arts-and-craft
 description: ""
 ---
-
 Started with only 10 members in 2015, Art &amp; Craft Club has grown impressively to our current numbers of 60 members, under the supervision of Ms Farhana, Mdm Azi, Mdm Halina and Mdm Zubaidah.
 
   
@@ -52,4 +51,4 @@ Members are also given opportunities to participate in art exhibitions such as t
 
 ### Highlights
 ----------
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbJ35mGfLTNYSjjB0DCQ0BS8Uu54YlGiQvMyKoWU6JYaxJLoF24KgcWi848a1a_NmHqvAx8lapXsNN/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="659" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbJ35mGfLTNYSjjB0DCQ0BS8Uu54YlGiQvMyKoWU6JYaxJLoF24KgcWi848a1a_NmHqvAx8lapXsNN/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
