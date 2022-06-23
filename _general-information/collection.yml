@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Our Facilities/Study Corner.md
       - Our Facilities/Bottled Plants Corner.md
       - Our Facilities/Student Care Centre.md
       - Our Facilities/Eco Garden.md
