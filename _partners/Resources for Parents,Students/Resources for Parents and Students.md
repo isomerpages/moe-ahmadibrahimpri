@@ -4,8 +4,6 @@ permalink: /partners/resources-for-parents-students
 description: ""
 third_nav_title: Resources for Parents,Students
 ---
-
-
 [2022 May Notification to Parents.pdf](/files/May%20Notification%20to%20Parents%202022.pdf)
 
 [2022 April Notification to Parents.pdf](/files/Notification%20to%20Parents_April%202022.pdf)
@@ -50,21 +48,11 @@ third_nav_title: Resources for Parents,Students
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Resources for Parents / Students</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><a href="https://www.mconline.sg/LEAD/login/lms_login.aspx">MConline</a></p>
+<p><a href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>  </p>
+<p><a href="https://www.ezhishi.net/">eZhiShi</a>  </p>
+<p><a href="/partners/resources-for-parents-students/home-based-learning-instructions-2021">Home Based Learning Instructions 2021</a></p>
     </div>
 	</li>
 </ul>
 
-[MConline](https://www.mconline.sg/LEAD/login/lms_login.aspx)
-
-  
-
-[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
-
-  
-
-[eZhiShi](https://www.ezhishi.net/)  
-
-  
-
-[Home Based Learning Instructions 2021](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/partners/resources-for-parents-students/home-based-learning-instructions-2021)
