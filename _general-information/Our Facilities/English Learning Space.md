@@ -5,8 +5,13 @@ description: ""
 third_nav_title: Our Facilities
 ---
 
-![English Learning Space](/images/English%20Learning%20Space1.jpg)
+<img src="/images/English%20Learning%20Space1.jpg"  
+style="width:80%">
 
-![English Learning Space](/images/English%20Learning%20Space2.jpg)
 
-![English Learning Space](/images/English%20Learning%20Space3.jpg)
+<img src="/images/English%20Learning%20Space2.jpg"  
+style="width:80%">
+
+
+<img src="/images/English%20Learning%20Space3.jpg"  
+style="width:80%">
