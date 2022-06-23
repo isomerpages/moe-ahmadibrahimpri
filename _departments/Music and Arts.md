@@ -3,7 +3,6 @@ title: Music and Arts
 permalink: /departments/music-and-arts
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -101,7 +100,7 @@ description: ""
 <p>Click on this link to enter Gallery:  <a href="https://www.artsteps.com/embed/61888ce1ac85446ad7358165/560/315">ARTVENTURES IN AIPS</a></p>
 <p>OR </p>
 <p>use your mobile devices to scan the QR code:</p>
-<p><img src="/images/QR%20CODE.png" alt=""></p>
+<p><img src="/images/QR%20CODE.png" style="width:55%" alt=""></p>
 <p>* best viewed using the app &quot;Art Steps&quot;. You may download it for free from Play Store/ Apple Store.</p>
 <p><img src="/images/ADVENTURES.jpg" alt=""></p>
 <p><img src="/images/ART1.png" alt=""></p>
@@ -119,6 +118,4 @@ description: ""
 
     </div>
 	</li>
-</ul>	
-
-
+</ul>
