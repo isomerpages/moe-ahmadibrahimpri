@@ -3,7 +3,6 @@ title: Rope Skipping
 permalink: /cca/rope-skipping
 description: ""
 ---
-
 Rope Skipping aims to help our pupils develop their acrobatic and creative talents as they enhance their agility through coordination, strength and endurance skills. This CCA also provides ample opportunities for pupils to participate in National School Games competitions, as well as, school programmes like National Day and Awards' Day celebrations.
 
 ### CCA Details
@@ -24,7 +23,8 @@ Rope Skipping aims to help our pupils develop their acrobatic and creative talen
 
 #### National School Games 2019 - Juniors Double Under
 
-![National School Games 2019 - Juniors Double Under](/images/Juniors%20Double%20Under.jpg)
+<img src="/images/Juniors%20Double%20Under.jpg"  
+style="width:60%">
 
 #### National School Games 2019 – Juniors Division
 
