@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Our Facilities
 ---
 
-![Study Corner](/images/Study%20Corner1.jpg)
+<img src="/images/Study%20Corner1.jpg"  
+style="width:80%">
 
-![Study Corner](/images/Study%20Corner2.jpg)
+<img src="/images/Study%20Corner2.jpg"  
+style="width:80%">
