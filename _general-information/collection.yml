@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Our Facilities/School Bookshop.md
       - Our Facilities/NE Learning Space.md
       - Our Facilities/Traditional Chinese Medicine Room.md
       - Our Facilities/CCE Gallery.md
