@@ -2,6 +2,8 @@ collections:
   general-information:
     output: true
     order:
+      - School Vision and Mission.md
+      - Our Facilities/.keep
       - Our Facilities/Cyber Lab.md
       - Our Facilities/Indoor Sports Hall (ISH).md
       - Our Facilities/Study Corner.md
@@ -18,8 +20,6 @@ collections:
       - Our Facilities/Traditional Chinese Medicine Room.md
       - Our Facilities/CCE Gallery.md
       - Our Facilities/Our Facilities.md
-      - Our Facilities/.keep
-      - School Vision and Mission.md
       - School Organisation Chart.md
       - Our Staff.md
       - Principal's Message.md
