@@ -24,14 +24,16 @@ There are also proficiency and progress badges to be obtained, and these can be 
 <img src="/images/scouts1.png"  
 style="width:80%">
 
-![Our Cub Scouts enjoying themselves in the Laser Tag game during the North Area Year End Camp.](/images/scouts2.png)
+<img src="/images/scouts2.png"  
+style="width:80%">
 
 Our Cub Scouts enjoying themselves from pitching tents and cooking pasta to taking part in the Laser Tag game during the North Area Year End Camp.
 
 <img src="/images/scouts3.png"  
 style="width:80%">
 
-![Our Cub Scouts had successfully achieved their Climbing Proficiency Badge with pride.](/images/scouts4.png)
+<img src="/images/scouts4.png"  
+style="width:80%">
 
 Conquering great heights at Onsight Climbing Gym, an indoor rock climbing facility, our Cub Scouts had successfully achieved their Climbing Proficiency Badge with pride.
 
