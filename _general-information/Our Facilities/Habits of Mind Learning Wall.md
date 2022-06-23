@@ -5,4 +5,5 @@ description: ""
 third_nav_title: Our Facilities
 ---
 
-![Habits of Mind Learning Wall](/images/Habits%20of%20Mind%20Learning%20Wall.jpg)
+<img src="/images/Habits%20of%20Mind%20Learning%20Wall.jpg"  
+style="width:60%">
