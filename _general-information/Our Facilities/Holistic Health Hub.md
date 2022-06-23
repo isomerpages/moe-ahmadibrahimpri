@@ -5,14 +5,20 @@ description: ""
 third_nav_title: Our Facilities
 ---
 
-![Holistic Health Hub](/images/Holistic%20Health%20Hub1.jpg)
+<img src="/images/Holistic%20Health%20Hub1.jpg"  
+style="width:60%">
 
-![Holistic Health Hub](/images/Holistic%20Health%20Hub2.jpg)
+<img src="/images/Holistic%20Health%20Hub2.jpg"  
+style="width:60%">
 
-![Holistic Health Hub](/images/Holistic%20Health%20Hub3.jpg)
+<img src="/images/Holistic%20Health%20Hub3.jpg"  
+style="width:60%">
 
-![Holistic Health Hub](/images/Holistic%20Health%20Hub4.jpg)
+<img src="/images/Holistic%20Health%20Hub4.jpg"  
+style="width:60%">
 
-![Holistic Health Hub](/images/Holistic%20Health%20Hub5.jpg)
+<img src="/images/Holistic%20Health%20Hub5.jpg"  
+style="width:60%">
 
-![Holistic Health Hub](/images/Holistic%20Health%20Hub6.jpg)
+<img src="/images/Holistic%20Health%20Hub6.jpg"  
+style="width:60%">
