@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE.md
       - Physical Health and Fitness.md
       - ICT.md
       - Music and Arts.md
