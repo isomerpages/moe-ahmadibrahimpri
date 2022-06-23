@@ -3,7 +3,6 @@ title: Basketball
 permalink: /cca/basketball
 description: ""
 ---
-
 The Basketball CCA conducts its training once a week. Weekly training not only focus on fundamental skills, fitness conditioning and game play, it also emphasizes discipline and team building. In the pursuit of the very best in each and every students, students will also have chances to develop their leadership potential. The students strive to excel in learning and refining their skills so as to represent Ahmad Ibrahim Primary valiantly.  
   
 
@@ -21,6 +20,8 @@ The Basketball CCA conducts its training once a week. Weekly training not only f
 
 ![Basketball Highlights](/images/Highlights1.jpeg)
 
-![Basketball Highlights](/images/Highlights2.jpeg)
+<img src="/images/Highlights2.jpeg"  
+style="width:65%">
 
-![Basketball Highlights](/images/Highlights3.jpeg)
+<img src="/images/Highlights3.jpeg"  
+style="width:65%">
