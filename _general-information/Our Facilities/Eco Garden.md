@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Our Facilities
 ---
 
-![Eco-Garden](/images/Eco-Garden1.jpg)
+<img src="/images/Eco-Garden1.jpg"  
+style="width:65%">
 
-![Eco-Garden](/images/Eco-Garden2.jpg)
+<img src="/images/Eco-Garden2.jpg"  
+style="width:65%">
