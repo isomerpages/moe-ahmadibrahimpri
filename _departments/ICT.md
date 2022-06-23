@@ -3,7 +3,6 @@ title: ICT
 permalink: /departments/ict
 description: ""
 ---
-
 #### Vision:
 -------
 
@@ -36,7 +35,7 @@ Equip and Empower the Learners
 
 (6) To build strong partnership with key stakeholders: MOE, Parents, IHLs, NGOs, strategic vendors and Twinning School
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Department Members:</label>  
@@ -70,4 +69,3 @@ Equip and Empower the Learners
     </div>  
 </li>  
 </ul>
-
