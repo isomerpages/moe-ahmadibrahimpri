@@ -3,7 +3,6 @@ title: Photography
 permalink: /cca/photography
 description: ""
 ---
-
 The AIPS Photography Club aims to educate students on the intricacies of operating a camera and capturing beautiful photos, contributing to their holistic development. Photos taken by club members are frequently submitted for competitions. Below, you will find some highlights of our AIPS Photography Club.  
   
 
@@ -55,7 +54,8 @@ The AIPS Photography Club aims to educate students on the intricacies of operati
 
 ![Shortlisted for the 16th Ngee Ann Photographic Exhibition](/images/Photography5.jpg)
 
-![Shortlisted for the 16th Ngee Ann Photographic Exhibition](/images/Photography6.jpg)
+<img src="/images/Photography6.jpg"  
+style="width:65%">
 
 ### Learning About Light Painting @ AIPS
 ------------------------------------
