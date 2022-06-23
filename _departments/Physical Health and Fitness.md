@@ -19,7 +19,7 @@ They are passionate bout developing their talents towards sporting excellence.
 
 **E**quipping with knowledge and skills to lead a healthy lifestyle.
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Department Members:</label>  
