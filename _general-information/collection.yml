@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Our Facilities/Student Care Centre.md
       - Our Facilities/Eco Garden.md
       - Our Facilities/Habits of Mind Learning Wall.md
       - Our Facilities/English Learning Space.md
