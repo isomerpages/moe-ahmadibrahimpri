@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Physical Health and Fitness.md
       - ICT.md
       - Music and Arts.md
