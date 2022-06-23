@@ -16,12 +16,6 @@ sections:
           description: HER^#190
           url: ""
         - title: Quick Links
-          description: 52geeh9
-          url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+          description: ""
+          url: /quick-links/sexuality-education
 ---
