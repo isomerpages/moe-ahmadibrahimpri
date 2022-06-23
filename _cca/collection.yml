@@ -2,17 +2,17 @@ collections:
   cca:
     output: true
     order:
-      - Arts and Craft.md
-      - Photography.md
-      - Robotics Club.md
-      - Angklung.md
-      - Harmonica.md
-      - Choir.md
-      - Indian Dance.md
-      - Malay Dance.md
-      - Chinese Dance.md
-      - Cub Scouts.md
-      - Basketball.md
-      - Rope Skipping.md
-      - Badminton.md
       - CCA.md
+      - Badminton.md
+      - Rope Skipping.md
+      - Basketball.md
+      - Cub Scouts.md
+      - Chinese Dance.md
+      - Malay Dance.md
+      - Indian Dance.md
+      - Choir.md
+      - Harmonica.md
+      - Angklung.md
+      - Robotics Club.md
+      - Photography.md
+      - Arts and Craft.md
