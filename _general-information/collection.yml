@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Our Facilities/Cyber Lab.md
       - Our Facilities/Indoor Sports Hall (ISH).md
       - Our Facilities/Study Corner.md
       - Our Facilities/Bottled Plants Corner.md
