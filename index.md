@@ -13,8 +13,8 @@ sections:
           description: "%$^&D"
           url: ""
         - title: Events
-          description: HER^#190
-          url: ""
+          description: ""
+          url: /partners/resources-for-parents-students
         - title: Quick Links
           description: ""
           url: /quick-links/sexuality-education
