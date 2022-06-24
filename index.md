@@ -10,7 +10,7 @@ sections:
       background: /images/AIPS.gif
       key_highlights:
         - title: Announcements
-          description: ""
+          description: Click here for latest announcements!
           url: /announcements
         - title: Events
           description: ""
@@ -19,5 +19,3 @@ sections:
           description: ""
           url: /quick-links/sexuality-education
 ---
-
-
