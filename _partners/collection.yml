@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Resources for Parents Students/Resources for Parents and Students.md
-      - Resources for Parents Students/.keep
       - Parent Support Group.md
       - Alumni.md
       - SAC Members.md
       - Student Care.md
+      - Resources for Parents Students/.keep
+      - Resources for Parents Students/Resources for Parents and Students.md
