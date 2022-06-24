@@ -5,9 +5,9 @@ links:
   - title: CCA
     collection: cca
   - title: Departments
-    url: /departments
+    collection: departments
   - title: Distinctive Programmes
-    url: /distinctive-programmes
+    collection: distinctive-programmes
   - title: Partners
     collection: partners
   - title: Contact Us
