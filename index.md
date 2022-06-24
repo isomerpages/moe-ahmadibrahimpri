@@ -13,7 +13,7 @@ sections:
           description: Click here for latest announcements!
           url: /announcements
         - title: Events
-          description: ""
+          description: Click here for latest events!
           url: /partners/resources-for-parents-students
         - title: Quick Links
           description: ""
