@@ -188,7 +188,7 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
     <div>
       <p>Pada tahun ini, dua murid darjah empat dari AIPS telah dicalonkan sebagai Rakan Bahasa. Kedua murid itu ialah Norhendra Irfan Paton (4 Care) dan Hannan Shafaatul Auli’a Bte Mohd Hanafi (4 Excellence).</p>
 <p>Mereka telah menerima pencalonan dalam satu majlis khas yang diadakan pada 13 April 2019 yang lalu di Pusat Kebudayaan Cina Singapura. Dalam majlis itu, mereka telah bertemu dengan para Rakan Bahasa dari serata Singapura. Mereka juga disajikan dengan taklimat berkenaan bengkel-bengkel dan peraduan-peraduan yang akan mereka lalui sepanjang tempoh perkhidmatan mereka sebagai Rakan Bahasa. Ini termasuk aktiviti-aktiviti bulanan (dalam kad misi) yang perlu mereka selesaikan untuk meraih lencana Rakan Bahasa di akhirnya.</p>
-<p><img src="/images/2019%20Rakan%20Bahasa1.jpg" style="width:75%" alt="2019 Rakan Bahasa"></p>
+<p><img src="/images/2019%20Rakan%20Bahasa1.jpg" style="width:70%" alt=""></p>
 <p>Acara pertama yang telah mereka sertai baru-baru ini ialah Pertandingan NewsMaker 2019. Berlangsung pada tanggal 22 Mei 2019, pertandingan itu telah diadakan di Taman Warisan.</p>
 <p>Dengan tema ‘Sejarah Singapuraku’ sebagai panduan, para peserta dikehendaki membuat laporan berupa video selama 2 minit. Menggunakan aplikasi NewsMaker, ia memberikan satu pengalaman yang menarik bagi kedua Rakan Bahasa kita. Dari memikirkan laporan, rakaman hingga penyuntingan video, Hannan dan Hendra bertungkus-lumus menyiapkannya dalam masa 2 jam yang diberikan. Ya, dua jam sahaja. Hebatkan mereka?</p>
 <p><img src="/images/2019%20Rakan%20Bahasa2.jpg" style="width:70%" alt="2019 Rakan Bahasa"></p>
