@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /all-departments/mother-tongue/chinese
+permalink: /all-departments/mother-tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
 ---
@@ -87,7 +87,7 @@ third_nav_title: Mother Tongue
 	</li>
 	 <li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">22020 母语双周活动 - 小五语文问答比赛</label>
+    <label for="accordion8">2020 母语双周活动 - 小五语文问答比赛</label>
     <div>
       <h3 id="2020-母语双周活动---小五语文问答比赛">2020 母语双周活动 - 小五语文问答比赛</h3>
 <p><img src="/images/accordion8-1.png" alt="2020 母语双周活动 - 小五语文问答比赛"></p>
