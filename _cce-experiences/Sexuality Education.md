@@ -81,7 +81,7 @@ Information for Parents
 
 9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below:
 
-[Parent Opt-Out Form](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/qql/slot/u431/2022%20Growing%20years/here.docx)  
+[Parent Opt-Out Form](/files/here.pdf) 
 
 The completed opt-out form is to be submitted by 26 January 2022.
 
