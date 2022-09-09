@@ -2,5 +2,6 @@ collections:
   cce-experiences:
     output: true
     order:
+      - "Singapore Kindness Movement: Friends of Singa.md"
       - "Aspirations@AIPS: Putting Social Defence into Action!.md"
       - "Brightspots@AIPS: Vibrant Classroom Award.md"
