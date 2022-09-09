@@ -2,4 +2,5 @@ collections:
   cce-experiences:
     output: true
     order:
+      - "Aspirations@AIPS: Putting Social Defence into Action!.md"
       - "Brightspots@AIPS: Vibrant Classroom Award.md"
