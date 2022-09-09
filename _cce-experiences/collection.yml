@@ -1,4 +1,5 @@
 collections:
   cce-experiences:
     output: true
-    order: []
+    order:
+      - "Brightspots@AIPS: Vibrant Classroom Award.md"
