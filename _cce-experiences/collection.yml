@@ -2,10 +2,10 @@ collections:
   cce-experiences:
     output: true
     order:
-      - Sexuality Education.md
-      - NE Learning Journey.md
-      - Use Your Hands Campaign.md
-      - P6 Service learning.md
-      - "Singapore Kindness Movement: Friends of Singa.md"
-      - "Aspirations@AIPS: Putting Social Defence into Action!.md"
       - "Brightspots@AIPS: Vibrant Classroom Award.md"
+      - "Aspirations@AIPS: Putting Social Defence into Action!.md"
+      - "Singapore Kindness Movement: Friends of Singa.md"
+      - P6 Service learning.md
+      - Use Your Hands Campaign.md
+      - NE Learning Journey.md
+      - Sexuality Education.md
