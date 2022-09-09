@@ -49,6 +49,42 @@ c.       Character and Citizenship Education (CCE)
 At Ahmad Ibrahim Primary School, the following Sexuality Education lessons will be taught in 2022: Primary 6
 ------------------------------------------------------------------------------------------------------------
 
-![](/images/first%20image.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/first%20image.jpeg" alt="At Ahmad Ibrahim Primary School, the following Sexuality Education lessons will be taught in 2022: Primary 6" style="width:90%;">  
+  
+</body>
 
-![](/images/2nd%20image.jpeg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/2nd%20image.jpeg" alt="At Ahmad Ibrahim Primary School, the following Sexuality Education lessons will be taught in 2022: Primary 6" style="width:90%;">  
+  
+</body>
+
+Information for Parents
+-----------------------
+
+  
+
+8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below:
+
+[Parent Opt-Out Form](https://ahmadibrahimpri-moe-edu-sg-admin.cwp.sg/qql/slot/u431/2022%20Growing%20years/here.docx)  
+
+The completed opt-out form is to be submitted by 26 January 2022.
+
+10.       Parents can contact the school at 67592906 for discussion or to seek clarification about the school’s sexuality education programme.
+
+11.       Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
