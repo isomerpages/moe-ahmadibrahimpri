@@ -66,7 +66,7 @@ We are ONE family.</p>
 <p><a href="/cce-experiences/aspirations-at-aips-putting-social-defence-into-action">Aspirations@AIPS:&nbsp;<em>Putting Social Defence into Action!</em></a>&nbsp;</p>
 <p><a href="/cce-experiences/singapore-kindness-movement-friends-of-singa">Singapore Kindness Movement:&nbsp;<em>Friends of Singa</em></a>&nbsp;</p>
 <p><a href="/cce-experiences/p6-service-learning">P6 Service Learning:&nbsp;<em>In collaboration with All Saints Home</em></a>&nbsp;</p>
-<p><a href="/cce-experiences/use-your-hands-campaign">Use-Your-Hands Campaign</a>&nbsp;</p>
+<p><a href="/cce-experiences/use-your-hands-campaign/">Use-Your-Hands Campaign</a>&nbsp;</p>
 <p><a href="/cce-experiences/ne-learning-journey">NE Learning Journeys</a></p>
 <p><a href="/cce-experiences/sexuality-education">Sexuality Education</a></p>
     </div>
