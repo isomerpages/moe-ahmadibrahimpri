@@ -4,7 +4,7 @@ title: Ahmad Ibrahim Primary School
 description: Ahmad Ibrahim Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: AHMAD IBRAHIM PRIMARY SCHOOL
 sections:
   - hero:
       background: /images/AIPS.gif
