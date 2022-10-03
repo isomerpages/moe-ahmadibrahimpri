@@ -1,10 +1,10 @@
 ---
 title: Resources for Parents and Students
-permalink: /partners/resources-for-parents-students
+permalink: /partners/resources-for-parents-students/
 description: ""
 third_nav_title: Resources for Parents Students
 ---
-
+[2022 Oct Notification to Parents.pdf](/files/October%20Notification%20to%20Parents%202022.pdf)
 
 [2022 May Notification to Parents.pdf](/files/May%20Notification%20to%20Parents%202022.pdf)
 
@@ -57,4 +57,3 @@ third_nav_title: Resources for Parents Students
     </div>
 	</li>
 </ul>
-
