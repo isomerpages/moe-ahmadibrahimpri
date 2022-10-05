@@ -80,20 +80,5 @@ And be proud of our school</p>
 <p>Please help us to ensure that the name tags are ironed on / sewn on <strong>BELOW THE SCHOOL BADGE</strong>.</p>
 <p><img src="/images/sch%20unifrom.png" alt="School uniform" style="width:75%"></p>
     </div>
-		
-		<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">General Guidelines for P1 Snack Break</label>
-    <div>
-      <p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break1.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break2.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break3.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break4.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break5.jpg" alt=""></p>
-    </div>
-	</li>
-		
-		
-		
 	</li>  
 </ul>
