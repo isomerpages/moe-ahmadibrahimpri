@@ -1,6 +1,6 @@
 ---
 title: School Vision and Mission
-permalink: /general-information/school-vision-and-mission
+permalink: /general-information/school-vision-and-mission/
 description: ""
 ---
 **Vision:**  
@@ -82,3 +82,11 @@ And be proud of our school</p>
     </div>
 	</li>  
 </ul>
+
+
+
+  <input type="checkbox" id="accordion3">
+    <label for="accordion4">TEST</label>
+    <div>
+	kjfdkdjfkasdj;fdj
+	alkfj;sdajkfsd
