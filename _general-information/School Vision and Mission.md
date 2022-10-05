@@ -82,16 +82,3 @@ And be proud of our school</p>
     </div>
 	</li>  
 </ul>
-
-
-</div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">General Guidelines for P1 Snack Break</label>
-    <div>
-      <p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break1.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break2.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break3.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break4.jpg" alt=""></p>
-<p><img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break5.jpg" alt=""></p>
