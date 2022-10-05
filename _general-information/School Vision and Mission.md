@@ -85,8 +85,7 @@ And be proud of our school</p>
 
 
 
-  <input type="checkbox" id="accordion3">
-    <label for="accordion4">TEST</label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">School Song / Creed </label>
     <div>
-	kjfdkdjfkasdj;fdj
-	alkfj;sdajkfsd
+		sakdjf;skdjfsdf
