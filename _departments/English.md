@@ -121,7 +121,7 @@ A typical MLEA lesson spans over three days as students navigate from Class Writ
 
 **Students preparing to experience making their own sandwich:**
 ![](/images/mlea%207.jpg)
-![](/images/mlea1.jpg")
+![](/images/mlea1.jpg)
 ![](/images/mlea3.jpg)
 ![](/images/mlea4.jpg)
 ![](/images/mlea2.jpg)
