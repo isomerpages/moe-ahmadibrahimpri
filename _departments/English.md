@@ -188,7 +188,7 @@ These are the newsletters that the students crafted.
 
 **Level Newsletter by 6 Care:**
 
-[https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton}(https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton
+[https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton](https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton
 
 **Newletter by 6 Diligence:**
 
