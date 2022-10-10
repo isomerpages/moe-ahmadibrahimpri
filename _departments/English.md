@@ -36,13 +36,14 @@ Department Members:
 18. Ms Dawn Teo
 	
 	
-### English Curriculum @ AIPS<
+### English Curriculum @ AIPS
  
-<a href="http://www.stellarliteracy.sg/">STELLAR</a>
+ [STELLAR](http://www.stellarliteracy.sg/)
 
 **Lower Primary Strategies:**
 
-<img src="/images/STELLAR_chart_LP1.png" alt="Lower Primary Strategies">
+![](/images/STELLAR_chart_LP1.png)
+
 The Lower Primary STELLAR Pedagogical Model consists of three features for the development of a strong foundation in EL namely:
 1. 	The Shared Book Approach (SBA)
 2. 	Modified Language Experience Approach (MLEA)
@@ -54,7 +55,7 @@ The **Modified Language Experience Approach (MLEA)** allows for the provision of
 	
 **Upper Primary Strategies:**
 
-<img src="/images/UpperPrimary2.png" alt="Upper Primary Strategies">
+![](/images/UpperPrimary2.png)
 Pictures courtesy of STELLAR Website.
 
 The Upper Primary STELLAR Pedagogical Model consists of:
@@ -87,129 +88,119 @@ These include the Learning Support Programme (LSP), School-based Dyslexia Remedi
 |  | Reading Remediation Programme (RRP) A remediation programme for P3 and P4 students with weak literacy skills but not diagnosed with dyslexia |
 | Primary 5 – Primary 6 | School-based Pullout Programme A remediation programme for selected P5 and P6 students who need more support in foundational English Language skills |
 
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Reading Culture @ AIPS</label>
-    <div>
-      <p>To build a pervasive reading culture and develop positive life-long reading habits in our pupils, the school has in place a Reading Programme to nurture pupils who love reading.</p>
-<p><img src="/images/read1.jpeg" style="width:70%" alt="Reading Culture @ AIPS"></p>
-<p><img src="/images/read2.jpg"  alt="Reading Culture @ AIPS"></p>
-<p><img src="/images/read3.jpg" alt="Reading Culture @ AIPS"></p>
-<p><img src="/images/read4.jpg" style="width:70%" alt="Reading Culture @ AIPS"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">PEAR TREES and Annotations</label>
-    <div>
-      <h3 id="pear-trees-strategy-for-daily-conversations">PEAR TREES strategy for daily conversations</h3>
-<hr>
-<p>PEAR TREES is a strategy that students can use in their daily conversations. It helps students focus on how they pronounce their words, express themselves clearly and expand on their ideas that they share with others. It can also help students to converse with their teacher on any particular topic.</p>
-<p><img src="/images/pear%20trees.png" style="width:60%" alt="PEAR TREES"></p>
-<h3 id="annotation-for-reading-comprehension">Annotation for reading comprehension</h3>
-<hr>
-<p>At AIPS, students are taught annotating skills. Annotating a text can help students understand difficult material better and encourage active reading. Porter-O’Donnell (2004) suggested that students be given a bookmark each that detailed ideas for symbols to use in annotation and the types of comments they could make. Thus, a set of teacher-designed guidelines for the annotation of narrative texts is carefully crafted. This set of guidelines, which is made into a bookmark, is to help guide the students as they make their thinking visible. There is a common language and understanding for annotation among the students and the teacher. Students are strongly encouraged to use these symbols until they are able to establish their own preferred annotation styles and modes over time.</p>
-<p><img src="/images/Annotation%20symbols.png" alt="Annotation Symbols"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Modified Language Experience Approach (MLEA)</label>
-    <div>
-      <p>The main pedagogical approach adopted in teaching English is STELLAR (Strategies for English Language Learning and Reading). The Modified Language Experience (MLEA) is one of the three approaches adopted in teaching English at the lower primary levels. Following Shared Book Reading, MLEA comprises a shared experience that is linked to the Big Book that has been currently read. Some of these shared experiences include students making sandwiches, blowing bubbles and growing caterpillars. These shared experiences provide both the context and content for students to practise the four language skills of listening, speaking, reading and writing. With instructional scaffolding from the teacher, students think, talk, read and write about their experiences as they are guided through to make the connections between oral and written language.</p>
-<p>As it centers on personal experiences and is based on self-generated vocabulary and grammar by students, MLEA is highly learner-centered. It is also aligned to the Shared Book Approach’s focus on the reading process while integrating it with writing, speaking, and listening.</p>
-<p>A typical MLEA lesson spans over three days as students navigate from Class Writing (MLEA 1) to Group Writing (MLEA 2) to Individual Writing (MLEA 3). With the aid of the teacher who transcribes their oral input, students first come up with a piece of class writing. This becomes the basis for group writing, when students collaborate in small mixed ability groups before they go on to individual writing.</p>
-<p><strong>Students preparing to experience making their own sandwich:</strong></p>
-<p><img src="/images/mlea%207.jpg"  alt="Modified Language Experience Approach (MLEA)"></p>
-<p><img src="/images/mlea1.jpg" style="width:70%" alt="Modified Language Experience Approach (MLEA)"></p>
-<p><img src="/images/mlea3.jpg" style="width:70%" alt="Modified Language Experience Approach (MLEA)"></p>
-<p><img src="/images/mlea4.jpg" style="width:70%" alt="Modified Language Experience Approach (MLEA)"></p>
-<p><img src="/images/mlea2.jpg" alt="Modified Language Experience Approach (MLEA)"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">Learning Centres</label>
-    <div>
-      <p>Learning Centres are designated areas in the classroom where small groups of children at similar progress levels can gather for the reinforcement and extension of Shared Book Approach (SBA) and Modified Language Experience Approach (MLEA) lessons. Once the teacher has demonstrated to your pupils how to use these centres, they can work there independently while the teacher focuses on a group that needs further specific instruction.</p>
-<p>Teachers use various types of Learning Centres for different purposes, but for STELLAR classes in Primary One and Two, there would be a Listening Centre, a Reading Centre and a Word Study Centre. Each centre is supplied with appropriate materials and equipment to facilitate independent activities that provide opportunities for the children to use the language skills they have acquired during the preceding unit's work. In addition to practising their language skills, proper use of the Learning Centres helps children develop generic social skills for group interaction such as co-operation, respect for others and responsibility while fostering independence from the teacher.</p>
-<p>Sessions in the three Learning Centres provide valuable practice and extension of all of the language skills: listening, speaking, reading and writing. Successful implementation of these sessions at the end of each SBA/MLEA Unit reinforces and complements the language teaching and learning opportunities that precede them.</p>
-<h3 id="p1--p2-english-fiesta-2021">P1 &amp; P2 English Fiesta 2021</h3>
-<p>To end their school term with a bang, the Primary One and Two students participated in various activities such as Charades, postcard writing, acrostic poem writing and crossword puzzles which were based on their STELLAR big books - <em>The Broken Bangle</em> (P1) and <em>Roti Prata</em> (P2). The students had a lot of fun that week and thought it was the best way to end the school term!</p>
-<p><img src="/images/Learning%20Centres1.jpeg" style="width:80%" alt="P1 &amp; P2 English Fiesta 2021"></p>
-<p><img src="/images/Learning%20Centres2.jpg" alt="P1 &amp; P2 English Fiesta 2021"></p>
-<p><img src="/images/Learning%20Centres3.jpg" alt="P1 &amp; P2 English Fiesta 2021"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">ELIAS- English Language Interests All Students and Staff</label>
-    <div>
-      <p>Teachers of the English department came together to organize a variety of fun-filled and meaningful activities in an effort to promote the love of the English language. Students were provided with the opportunity to learn through play as they immersed themselves in various fascinating activities.</p>
-<p>On top of that, captivating contests and quizzes such as the Caption Contest, order of adjectives paper plate activity (P1-P2) sparked much interest in the students’ passion for the English Language. Even our teachers had their share of fun in the Teachers’ Caption Contests! The winners for the top three entries in each level were awarded prizes.</p>
-<p>What better way to learn than through doing and playing games? Level-based activities such as mystery guest readers, Picture reveal, were carried out during English lessons in that week. Students had a ball of time as they explored the English language in a fun and exciting way!</p>
-<p>English Week is never complete without a Character Parade! Everyone in school, including teachers, was encouraged to come dressed up according to their level theme. The range of costume themes from students' favourite books added vibrancy to the atmosphere in school on that day.</p>
-<p>It was truly an educational English Week at AIPS!</p>
+### Reading Culture @ AIPS
+
+To build a pervasive reading culture and develop positive life-long reading habits in our pupils, the school has in place a Reading Programme to nurture pupils who love reading.
+![](/images/read1.jpeg)
+
+![](/images/read2.jpg)
+![](/images/read3.jpg)
+![](/images/read4.jpg)
+   
+### PEAR TREES and Annotations
+
+**PEAR TREES strategy for daily conversations**
+
+PEAR TREES is a strategy that students can use in their daily conversations. It helps students focus on how they pronounce their words, express themselves clearly and expand on their ideas that they share with others. It can also help students to converse with their teacher on any particular topic.
+
+![](/images/pear%20trees.png)
+
+#### Annotation for reading comprehension
+	
+At AIPS, students are taught annotating skills. Annotating a text can help students understand difficult material better and encourage active reading. Porter-O’Donnell (2004) suggested that students be given a bookmark each that detailed ideas for symbols to use in annotation and the types of comments they could make. Thus, a set of teacher-designed guidelines for the annotation of narrative texts is carefully crafted. This set of guidelines, which is made into a bookmark, is to help guide the students as they make their thinking visible. There is a common language and understanding for annotation among the students and the teacher. Students are strongly encouraged to use these symbols until they are able to establish their own preferred annotation styles and modes over time.
+	
+![](/images/Annotation%20symbols.png)
+    
+### Modified Language Experience Approach (MLEA)
+
+The main pedagogical approach adopted in teaching English is STELLAR (Strategies for English Language Learning and Reading). The Modified Language Experience (MLEA) is one of the three approaches adopted in teaching English at the lower primary levels. Following Shared Book Reading, MLEA comprises a shared experience that is linked to the Big Book that has been currently read. Some of these shared experiences include students making sandwiches, blowing bubbles and growing caterpillars. These shared experiences provide both the context and content for students to practise the four language skills of listening, speaking, reading and writing. With instructional scaffolding from the teacher, students think, talk, read and write about their experiences as they are guided through to make the connections between oral and written language.
+
+As it centers on personal experiences and is based on self-generated vocabulary and grammar by students, MLEA is highly learner-centered. It is also aligned to the Shared Book Approach’s focus on the reading process while integrating it with writing, speaking, and listening.
+
+A typical MLEA lesson spans over three days as students navigate from Class Writing (MLEA 1) to Group Writing (MLEA 2) to Individual Writing (MLEA 3). With the aid of the teacher who transcribes their oral input, students first come up with a piece of class writing. This becomes the basis for group writing, when students collaborate in small mixed ability groups before they go on to individual writing.
+
+**Students preparing to experience making their own sandwich:**
+![](/images/mlea%207.jpg)
+![](/images/mlea1.jpg")
+![](/images/mlea3.jpg)
+![](/images/mlea4.jpg)
+![](/images/mlea2.jpg)
+    
+### Learning Centres
+
+Learning Centres are designated areas in the classroom where small groups of children at similar progress levels can gather for the reinforcement and extension of Shared Book Approach (SBA) and Modified Language Experience Approach (MLEA) lessons. Once the teacher has demonstrated to your pupils how to use these centres, they can work there independently while the teacher focuses on a group that needs further specific instruction.
+Teachers use various types of Learning Centres for different purposes, but for STELLAR classes in Primary One and Two, there would be a Listening Centre, a Reading Centre and a Word Study Centre. Each centre is supplied with appropriate materials and equipment to facilitate independent activities that provide opportunities for the children to use the language skills they have acquired during the preceding unit's work. In addition to practising their language skills, proper use of the Learning Centres helps children develop generic social skills for group interaction such as co-operation, respect for others and responsibility while fostering independence from the teacher.
+Sessions in the three Learning Centres provide valuable practice and extension of all of the language skills: listening, speaking, reading and writing. Successful implementation of these sessions at the end of each SBA/MLEA Unit reinforces and complements the language teaching and learning opportunities that precede them.
+
+P1 & P2 English Fiesta 2021
+To end their school term with a bang, the Primary One and Two students participated in various activities such as Charades, postcard writing, acrostic poem writing and crossword puzzles which were based on their STELLAR big books - <em>The Broken Bangle</em> (P1) and <em>Roti Prata</em> (P2). The students had a lot of fun that week and thought it was the best way to end the school term!
+![](/images/Learning%20Centres1.jpeg)
+![](/images/Learning%20Centres2.jpg)
+![](/images/Learning%20Centres3.jpg)
+    
+### ELIAS- English Language Interests All Students and Staff
+
+Teachers of the English department came together to organize a variety of fun-filled and meaningful activities in an effort to promote the love of the English language. Students were provided with the opportunity to learn through play as they immersed themselves in various fascinating activities.
+On top of that, captivating contests and quizzes such as the Caption Contest, order of adjectives paper plate activity (P1-P2) sparked much interest in the students’ passion for the English Language. Even our teachers had their share of fun in the Teachers’ Caption Contests! The winners for the top three entries in each level were awarded prizes.
+What better way to learn than through doing and playing games? Level-based activities such as mystery guest readers, Picture reveal, were carried out during English lessons in that week. Students had a ball of time as they explored the English language in a fun and exciting way!
+English Week is never complete without a Character Parade! Everyone in school, including teachers, was encouraged to come dressed up according to their level theme. The range of costume themes from students' favourite books added vibrancy to the atmosphere in school on that day.
+It was truly an educational English Week at AIPS!
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK8U3qoK3MB5Ek9sa5DbUaipnhVu1Riaw8_jc-6pt1afdrvIrJ7WVwT1WoBHQ53YGDeZpUjUcYVLER/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-<p>Students' work:</p>
-<p><img alt="Students' work" src="/images/students'%20work.png"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">Highlights 2019-2020</label>
-    <div>
-      <h3 id="p2--p3---a-drama-tic-experience">P2 &amp; P3 - A 'DRAMA-tic' Experience</h3>
-<hr>
-<p>To further instil the joy in learning in our students, the P2 and P3 levels embarked on a learning journey to watch 'The Ugly Duckling' and 'The Gruffalo' respectively at the beginning of this year!
-The interactive session was an enjoyable one for all who attended!</p>
-<p><strong>video to be embedded here</strong></p>
-<h3 id="nlb---read-for-books-charity-drive">NLB - Read For Books Charity Drive</h3>
-<p>Read for Books is a charity book drive with the intention of raising awareness of reading and share the gift of reading with the less privileged. From 11 to 26 July 2020, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. That year, we were able to raise 95 books for charity.</p>
+Students' work:
+
+![](/images/students'%20work.png)
+    
+Highlights 2019-2020
+
+P2 & P3 - A 'DRAMA-tic' Experience
+
+To further instil the joy in learning in our students, the P2 and P3 levels embarked on a learning journey to watch 'The Ugly Duckling' and 'The Gruffalo' respectively at the beginning of this year!
+The interactive session was an enjoyable one for all who attended!
+<strong>video to be embedded here</strong>
+
+NLB - Read For Books Charity Drive
+
+Read for Books is a charity book drive with the intention of raising awareness of reading and share the gift of reading with the less privileged. From 11 to 26 July 2020, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. That year, we were able to raise 95 books for charity.
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQup625odTXY3i6SG6RGvzXJK4KkvDG5ZQkQWyhfeGe4ZIwwNWUtP4f0xZ9Qyha9idNltRIglmeQXKJ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">Speech and Drama</label>
-    <div>
-      <h3 id="speech-and-drama-fest-2021">Speech and Drama Fest 2021</h3>
-<hr>
-<p>As part of our school&#39;s effort to provide quality learning experiences and a language-rich environment for our students to learn English, the English Department has been conducting Speech and Drama lessons for our Primary One and Two students annually. With the new SMMs in place this year, we were not able to have our usual Speech and Drama concert. Instead, the performances were recorded by the English teachers and shared with the school. Each student also created their own mask during their art lessons. The students had a lot of fun!</p>
-<p><img src="/images/speech%20&%20drama1.jpeg" style="width:65%"alt="Speech and Drama Fest 2021"></p>
-<p><img src="/images/speech%20&%20drama2.jpeg" style="width:65%" alt="Speech and Drama Fest 2021"></p>
-<p><img src="/images/speech%20&%20drama3.jpeg" alt="Speech and Drama Fest 2021"></p>
-<p><img src="/images/speech%20&%20drama4.jpeg" style="width:70%" alt="Speech and Drama Fest 2021"></p>
-<p><img src="/images/speech%20&%20drama5.jpg" alt="Speech and Drama Fest 2021">
-The students definitely look forward to the next Speech and Drama Fest next year!</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">P6 Post Exam Activity</label>
-    <div>
-      <h4 id="2019">2019</h4>
-<hr>
-<p>It was the end of PSLE, but not the end of learning for our Primary 6 students. Post PSLE, the students had been working hard during their English lessons, with the encouragement and support of their English teachers, of course!</p>
-<p>We are certain that this is a memory that the students will treasure for life.</p>
-<p>These are the newsletters that the students crafted.</p>
-<p><strong>Level Newsletter by 6 Care:</strong></p>
-<p><a href="https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton">https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton</a></p>
-<p><strong>Newletter by 6 Diligence:</strong></p>
-<p><a href="https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink">https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink</a></p>
-<p><strong>Newsletter by 6 Excellence:</strong></p>
-<p><a href="https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing">https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing</a></p>
-<p><strong>Newsletter by 6 Honesty:</strong></p>
-<p><a href="https://madmagz.com/magazine/1688563#/">https://madmagz.com/magazine/1688563#/</a></p>
-<p><strong>Newsletter by 6 Resilience:</strong></p>
-<p><a href="https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink">https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink</a></p>
-<h4 id="2020">2020</h4>
-<hr>
-<p><strong>Newsletter by the P6 students:</strong></p>
-<p><a href="https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit">https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit</a></p>
-    </div>
-	</li>
-</ul>
+    
+### Speech and Drama    
+
+Speech and Drama Fest 2021
+
+As part of our school’s effort to provide quality learning experiences and a language-rich environment for our students to learn English, the English Department has been conducting Speech and Drama lessons for our Primary One and Two students annually. With the new SMMs in place this year, we were not able to have our usual Speech and Drama concert. Instead, the performances were recorded by the English teachers and shared with the school. Each student also created their own mask during their art lessons. The students had a lot of fun!
+![](/images/speech%20&%20drama1.jpeg)
+![](/images/speech%20&%20drama2.jpeg)
+![](/images/speech%20&%20drama3.jpeg)
+![](/images/speech%20&%20drama4.jpeg)
+![](/images/speech%20&%20drama5.jpg)
+The students definitely look forward to the next Speech and Drama Fest next year!
+    
+### P6 Post Exam Activity
+
+2019
+
+It was the end of PSLE, but not the end of learning for our Primary 6 students. Post PSLE, the students had been working hard during their English lessons, with the encouragement and support of their English teachers, of course!
+We are certain that this is a memory that the students will treasure for life.
+These are the newsletters that the students crafted.
+
+**Level Newsletter by 6 Care:**
+[https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton}(https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton
+
+**Newletter by 6 Diligence:**
+[https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink]
+(https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
+
+**Newsletter by 6 Excellence:**
+
+[https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing](https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing)
+
+**Newsletter by 6 Honesty:**
+[https://madmagz.com/magazine/1688563#/](https://madmagz.com/magazine/1688563#/)
+
+**Newsletter by 6 Resilience:**
+[https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink](https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
+
+**Newsletter by the P6 students:**
+[https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit](https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit)
