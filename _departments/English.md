@@ -158,7 +158,8 @@ P2 & P3 - A 'DRAMA-tic' Experience
 
 To further instil the joy in learning in our students, the P2 and P3 levels embarked on a learning journey to watch 'The Ugly Duckling' and 'The Gruffalo' respectively at the beginning of this year!
 The interactive session was an enjoyable one for all who attended!
-<strong>video to be embedded here</strong>
+
+**video to be embedded here**
 
 NLB - Read For Books Charity Drive
 
