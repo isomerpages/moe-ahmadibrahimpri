@@ -187,9 +187,11 @@ We are certain that this is a memory that the students will treasure for life.
 These are the newsletters that the students crafted.
 
 **Level Newsletter by 6 Care:**
+
 [https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton}(https://www.canva.com/design/DADpu-8sNYY/CLtczauDO8Czv00nPUUQhQ/view?utm_content=DADpu-8sNYY&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton
 
 **Newletter by 6 Diligence:**
+
 [https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink]
 (https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
 
@@ -198,10 +200,13 @@ These are the newsletters that the students crafted.
 [https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing](https://drive.google.com/file/d/1xXJ9SdHENdDuT2RwE_Ux-6rnia-MvnZ6/view?usp=sharing)
 
 **Newsletter by 6 Honesty:**
+
 [https://madmagz.com/magazine/1688563#/](https://madmagz.com/magazine/1688563#/)
 
 **Newsletter by 6 Resilience:**
+
 [https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink](https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
 
 **Newsletter by the P6 students:**
+
 [https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit](https://www.canva.com/design/DAELx6QdO9M/txr9OMwwVVXAJ7L7FYHPjg/edit)
