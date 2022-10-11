@@ -1,6 +1,6 @@
 ---
 title: Arts and Craft
-permalink: /cca/arts-and-craft
+permalink: /cca/arts-and-craft/
 description: ""
 ---
 Started with only 10 members in 2015, Art &amp; Craft Club has grown impressively to our current numbers of 60 members, under the supervision of Ms Farhana, Mdm Azi, Mdm Halina and Mdm Zubaidah.
@@ -20,34 +20,10 @@ Members are also given opportunities to participate in art exhibitions such as t
 ### CCA Details
 -----------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Teachers-in-charge </th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Nurul Farhana (nurul_farhana_ali@moe.edu.sg)</span><br><span style="color:#222;background-color:#EAEAEA">Mrs Dave (nur_aisyah_abdul_latiff@moe.edu.sg)</span><br><span style="color:#222;background-color:#EAEAEA">Mdm Azi (nur_azimah_mohd_jailani@moe.edu.sg)</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n4qt">Venue</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Art Room 1 &amp; 2</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Day and Time</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Tuesday, 2 - 4pm</span></td>
-  </tr>
-</tbody>
-</table>
+| Teachers-in-charge | Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg) Mdm Tan Mei Ling (tan_mei_ling@moe.edu.sg) Mdm Zubaidah (siti_zubaidah_shaik_ibrahim@moe.edu.sg) |
+|:---:|:---:|
+| Venue | Via Google Meet |
+| Day and Time | Tuesdays, 2:30pm-4:30pm Juniors: 2:30pm-3:30pm Seniors: 3:30pm-4:30pm |
 
 ### Highlights
 ----------
