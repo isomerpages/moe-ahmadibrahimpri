@@ -1,9 +1,8 @@
 ---
 title: Departments
-permalink: /departments
+permalink: /departments/
 description: ""
 ---
-
 <html>
 <body>
 <p><a href="/departments/english">
