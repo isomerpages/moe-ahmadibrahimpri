@@ -70,27 +70,29 @@ Jalan raya bersama-sama,
 
 ##### 2022 Seminar Bahasa Melayu
 
-      <p>Pada tanggal 15 Mac, empat orang guru Bahasa Melayu kami telah berkongsi di Seminar Bahasa Melayu 2022. Seminar yang dianjurkan oleh Pusat Bahasa Melayu Singapura (MLCS) itu telah diadakan melalui ruangan Zoom. Kumpulan kami diketuai oleh guru kanan, Cikgu Badrolhaizat dan dianggotai oleh Cikgu Halina, Cikgu Zubaidah dan Cikgu Aishah.</p>
-<p><img src="/images/2022%20Seminar%20Bahasa%20Melayu1.jpeg" style="width:70%"  alt="2022 Seminar Bahasa Melayu"></p>
-<p><img src="/images/2022%20Seminar%20Bahasa%20Melayu2.jpeg" alt="2022 Seminar Bahasa Melayu"></p>
-<p>Guru-guru kami telah berkongsi tentang penggunaan kaedah akrostik dalam pengajaran imbuhan meN-. Syabas kami ucapkan kepada guru-guru yang terlibat kerana telah meluangkan masa sewaktu cuti sekolah untuk sesi perkongsian ini! </p>
-<p>Moga ilmu yang dikongsi bermanfaat kepada semua yang telah menyertai sesi tersebut.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">2021 Pertandingan Pentas Radio</label>
-    <div>
-      <p>Buat julung-julung kalinya, sekolah kami telah menyertai pertandingan Pentas Radio. Pertandingan Pentas Radio telah dianjurkan oleh A&#39;Art sempena Bulan Bahasa 2021. Pada 11 September 2011, 4 orang pelajar Darjah 4 telah menyertai bengkel sebelum menyertai peraduan ini:</p>
-<ol>
-<li>Anaqi Fudail Danish (4 Honesty)</li>
-<li>Nur Sya&#39;qilla Umairah (4 Excellence)</li>
-<li>Noor Aleena Eva ( 4 Resilience)</li>
-<li>Abdul Muhaimeen (4 Resilience)</li>
-</ol>
-<p>Melalui bengkel ini yang telah dijalankan selama 2 jam, para pelajar mempelajari cara-cara untuk membaca skrip dengan penuh gaya dan ekspresi. Mereka juga diperkenalkan kepada kesan bunyi yang dapat dihasilkan untuk membuat persembahan Pentas Radio lebih menarik. Dengan bimbingan Cikgu Aishah, kumpulan Suara AIPS telah menghasilkan sebuah persembahan Pentas Radio yang bertemakan &#39;Pengorbanan&#39;.</p>
-<p>Dengan sukacita, kami ingin mengumumkan bahawa kumpulan sekolah kita, Suara AIPS, telah berjaya merangkul gelaran juara di dalam pertandingan ini. Syabas, para pelajar sekalian! Moga kejayaan ini menyemarakkan lagi semangat dan minat para pelajar untuk mendalami bahasa Melayu.</p>
-<p><img src="/images/2021%20Pertandingan%20Pentas%20Radio.jpeg" alt="2021 Pertandingan Pentas Radio">
+Pada tanggal 15 Mac, empat orang guru Bahasa Melayu kami telah berkongsi di Seminar Bahasa Melayu 2022. Seminar yang dianjurkan oleh Pusat Bahasa Melayu Singapura (MLCS) itu telah diadakan melalui ruangan Zoom. Kumpulan kami diketuai oleh guru kanan, Cikgu Badrolhaizat dan dianggotai oleh Cikgu Halina, Cikgu Zubaidah dan Cikgu Aishah.
+
+<img src="/images/2022%20Seminar%20Bahasa%20Melayu1.jpeg" style="width:70%"  alt="2022 Seminar Bahasa Melayu">
+<img src="/images/2022%20Seminar%20Bahasa%20Melayu2.jpeg" alt="2022 Seminar Bahasa Melayu">
+Guru-guru kami telah berkongsi tentang penggunaan kaedah akrostik dalam pengajaran imbuhan meN-. Syabas kami ucapkan kepada guru-guru yang terlibat kerana telah meluangkan masa sewaktu cuti sekolah untuk sesi perkongsian ini! 
+
+Moga ilmu yang dikongsi bermanfaat kepada semua yang telah menyertai sesi tersebut.
+
+##### 2021 Pertandingan Pentas Radio
+
+
+Buat julung-julung kalinya, sekolah kami telah menyertai pertandingan Pentas Radio. Pertandingan Pentas Radio telah dianjurkan oleh A&#39;Art sempena Bulan Bahasa 2021. Pada 11 September 2011, 4 orang pelajar Darjah 4 telah menyertai bengkel sebelum menyertai peraduan ini:
+
+1. Anaqi Fudail Danish (4 Honesty)
+2. Nur Sya'qilla Umairah (4 Excellence)
+3. Noor Aleena Eva ( 4 Resilience)
+4. Abdul Muhaimeen (4 Resilience)
+	
+Melalui bengkel ini yang telah dijalankan selama 2 jam, para pelajar mempelajari cara-cara untuk membaca skrip dengan penuh gaya dan ekspresi. Mereka juga diperkenalkan kepada kesan bunyi yang dapat dihasilkan untuk membuat persembahan Pentas Radio lebih menarik. Dengan bimbingan Cikgu Aishah, kumpulan Suara AIPS telah menghasilkan sebuah persembahan Pentas Radio yang bertemakan "Pengorbanan".
+
+Dengan sukacita, kami ingin mengumumkan bahawa kumpulan sekolah kita, Suara AIPS, telah berjaya merangkul gelaran juara di dalam pertandingan ini. Syabas, para pelajar sekalian! Moga kejayaan ini menyemarakkan lagi semangat dan minat para pelajar untuk mendalami bahasa Melayu.
+
+<img src="/images/2021%20Pertandingan%20Pentas%20Radio.jpeg" alt="2021 Pertandingan Pentas Radio">
 Syabas, kumpulan Suara AIPS!</p>
     </div>
 	</li>
