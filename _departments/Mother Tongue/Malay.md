@@ -93,31 +93,24 @@ Melalui bengkel ini yang telah dijalankan selama 2 jam, para pelajar mempelajari
 Dengan sukacita, kami ingin mengumumkan bahawa kumpulan sekolah kita, Suara AIPS, telah berjaya merangkul gelaran juara di dalam pertandingan ini. Syabas, para pelajar sekalian! Moga kejayaan ini menyemarakkan lagi semangat dan minat para pelajar untuk mendalami bahasa Melayu.
 
 <img src="/images/2021%20Pertandingan%20Pentas%20Radio.jpeg" alt="2021 Pertandingan Pentas Radio">
-Syabas, kumpulan Suara AIPS!</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">2021 Peraduan Karya Minda Kreatif</label>
-    <div>
-      <p>Peraduan Karya Minda Kreatif merupakan sebuah pertandingan menulis yang dianjurkan oleh syarikat EDN pada setiap tahun. Melalui pertandingan ini, para pelajar dapat kemahiran menulis mereka dengan menghasilkan karya penulisan yang kreatif. </p>
-<p>Dengar berbesar hati, kami ingin mengumumkan bahawa cerpen yang ditulis oleh dua orang pelajar kami telah digolongkan dalam 15 karya terbaik pada tahun ini. Para pelajar itu ialah:</p>
-<ol>
-<li><p>Rachelle Alisya (4 Diligence)</p>
-</li>
-<li><p>Alria Isabella (3 Diligence)</p>
-</li>
-</ol>
-<p><img src="/images/2021%20Peraduan%20Karya%20Minda%20Kreatif.jpeg" alt="2021 Peraduan Karya Minda Kreatif">
-Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam diri mereka.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">2021 Pertandingan Newsmaker</label>
-    <div>
-      <p>Pada tahun 2021, Rakan Bahasa kita, Nur Asyura &amp; Nur Alesya telah menyertai Pertandingan NewsMaker. Pertandingan ini memberi peluang untuk para pelajar merakam dan menyunting video dengan menggunakan aplikasi NewsMaker. Mereka harus menghasilkan video mengikut tema yang diberikan. Tema pada tahun ini ialah &#39;Legenda Melayu dan Cerita Dongeng&#39;. </p>
-<p>Dengan bimbingan Cikgu Aishah dan bantuan teman-teman dari Darjah 4, mereka telah menghasilkan video untuk pertandingan ini. Mari kita tonton hasil kerja mereka. Semoga terhibur!</p>
+Syabas, kumpulan Suara AIPS!
+
+##### 2021 Peraduan Karya Minda Kreatif
+
+Peraduan Karya Minda Kreatif merupakan sebuah pertandingan menulis yang dianjurkan oleh syarikat EDN pada setiap tahun. Melalui pertandingan ini, para pelajar dapat kemahiran menulis mereka dengan menghasilkan karya penulisan yang kreatif. 
+Dengar berbesar hati, kami ingin mengumumkan bahawa cerpen yang ditulis oleh dua orang pelajar kami telah digolongkan dalam 15 karya terbaik pada tahun ini. Para pelajar itu ialah:
+
+1. Rachelle Alisya (4 Diligence)
+2. Alria Isabella (3 Diligence)
+
+<img src="/images/2021%20Peraduan%20Karya%20Minda%20Kreatif.jpeg" alt="2021 Peraduan Karya Minda Kreatif">
+Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam diri mereka.
+
+##### 2021 Pertandingan Newsmaker
+
+Pada tahun 2021, Rakan Bahasa kita, Nur Asyura &amp; Nur Alesya telah menyertai Pertandingan NewsMaker. Pertandingan ini memberi peluang untuk para pelajar merakam dan menyunting video dengan menggunakan aplikasi NewsMaker. Mereka harus menghasilkan video mengikut tema yang diberikan. Tema pada tahun ini ialah &#39;Legenda Melayu dan Cerita Dongeng&#39;. 
+
+Dengan bimbingan Cikgu Aishah dan bantuan teman-teman dari Darjah 4, mereka telah menghasilkan video untuk pertandingan ini. Mari kita tonton hasil kerja mereka. Semoga terhibur!</p>
 <p><strong>video to be embedded here!!</strong></p>
     </div>
 	</li>
@@ -132,36 +125,31 @@ Tahniah! Moga semangat untuk menghasilkan karya kreatif semakin semarak di dalam
 <p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda3.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
 <p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda4.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
 <p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda5.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
-<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda6.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
-<p>Sang Kancil masuk belukar,</p>
-<p>Mencari teman Si Kura-kura;</p>
-<p>Moga marak semangat pelajar,</p>
-<p>Mendalami bahasa ibunda.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">2021 Rakan Bahasa</label>
-    <div>
-      <p><img src="/images/2021%20Rakan%20Bahasa.jpg"  style="width:60%" alt="2021 Rakan Bahasa"></p>
-<p>Pada tarikh 9 April, dua orang pelajar Darjah 4 telah dilantik sebagai Rakan Bahasa. Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu.</p>
-<p>Mari kita ucapkan tahniah kepada Nur Asyura dan Nur Alesya dari 4 Care! Semoga berjaya menyelesaikan misi sebagai Rakan Bahasa 2021.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">2021 Persahabatan Sedunia (International Friendship Day)</label>
-    <div>
-      <p><img src="/images/2021%20Persahabatan%20Sedunia%20(International%20Friendship%20Day).jpg" style="width:60%" alt="2021 Persahabatan Sedunia (International Friendship Day)"></p>
-<p>Pada tanggal 16 April, kami telah menyambut Hari Persahabatan Sedunia. Semua pelajar AIPS digalakkan memakai pakaian tradisional masing-masing untuk memeriahkan suasana sambutan pada hari itu. Banyak aktiviti menarik yang telah dijalankan dalam kelas Bahasa Melayu sempena sambutan Hari Persahabatan Sedunia. Melalui aktiviti dan permainan tersebut, para pelajar berpeluang untuk lebih mengenali tentang budaya negara-negara ASEAN.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">2021 Hari Pertahanan Mutlak</label>
-    <div>
-      <p>Kami telah menyambut Hari Pertahanan Mutlak pada tarikh 18 Februari 2021. Sempena memperingati hari Singapura jatuh ke dalam cengkaman penjajah Jepun, pengetua sekolah telah membacakan amanat untuk mengingatkan kami tentang kepentingan Pertahanan Mutlak. Terdapat pelbagai aktiviti menarik yang telah dijalankan sewaktu kelas Bahasa Melayu sempena menyambut Hari Pertahanan Mutlak.</p>
-<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak"></p>
+<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda6.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
+	
+	Sang Kancil masuk belukar,
+	Mencari teman Si Kura-kura;
+	Moga marak semangat pelajar,
+	Mendalami bahasa ibunda.
+	
+##### 2021 Rakan Bahasa
+			
+<img src="/images/2021%20Rakan%20Bahasa.jpg"  style="width:60%" alt="2021 Rakan Bahasa">
+Pada tarikh 9 April, dua orang pelajar Darjah 4 telah dilantik sebagai Rakan Bahasa. Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu.
+	
+Mari kita ucapkan tahniah kepada Nur Asyura dan Nur Alesya dari 4 Care! Semoga berjaya menyelesaikan misi sebagai Rakan Bahasa 2021.
+	
+##### 2021 Persahabatan Sedunia (International Friendship Day)
+			
+
+<img src="/images/2021%20Persahabatan%20Sedunia%20(International%20Friendship%20Day).jpg" style="width:60%" alt="2021 Persahabatan Sedunia (International Friendship Day)"></p>
+<p>Pada tanggal 16 April, kami telah menyambut Hari Persahabatan Sedunia. Semua pelajar AIPS digalakkan memakai pakaian tradisional masing-masing untuk memeriahkan suasana sambutan pada hari itu. Banyak aktiviti menarik yang telah dijalankan dalam kelas Bahasa Melayu sempena sambutan Hari Persahabatan Sedunia. Melalui aktiviti dan permainan tersebut, para pelajar berpeluang untuk lebih mengenali tentang budaya negara-negara ASEAN.
+	
+##### 2021 Hari Pertahanan Mutlak
+	
+Kami telah menyambut Hari Pertahanan Mutlak pada tarikh 18 Februari 2021. Sempena memperingati hari Singapura jatuh ke dalam cengkaman penjajah Jepun, pengetua sekolah telah membacakan amanat untuk mengingatkan kami tentang kepentingan Pertahanan Mutlak. Terdapat pelbagai aktiviti menarik yang telah dijalankan sewaktu kelas Bahasa Melayu sempena menyambut Hari Pertahanan Mutlak.
+	
+<img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak"></p>
 <p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak"></p>
 <p>Contohnya, para pelajar Darjah 4 telah melakonkan sketsa secara berkumpulan untuk menunjukkan bagaimana kita boleh sama-sama memainkan peranan untuk menjaga keselamatan Singapura.</p>
 <p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak3.png" alt="2021 Hari Pertahanan Mutlak"></p>
