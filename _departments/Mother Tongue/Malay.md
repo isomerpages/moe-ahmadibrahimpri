@@ -31,50 +31,45 @@ Guru-guru kami mementingkan;
 * Kerja kumpulan, kerja individu, pembelajaran secara holistik, peraduan bahasa dan pembelajaran moral serta
 budaya merupakan antara aktiviti-aktiviti menarik yang dijalankan di sini.
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">2021</label>
-    <div>
-      <p><strong>Malay Language Department</strong></p>
-<p>Aim:</p>
-<ul>
-<li>To instill interest and passion in the learning of the Malay Language.</li>
-<li>To enrich pupils’ knowledge of the Malay Language and culture through MT Fortnight activities and learning journeys.</li>
-<li>To enhance teachers’ teaching competencies through professional sharing sessions, peer coaching, action research and lesson
-studies.</li>
-</ul>
-<p>We believe that our children are ‘Leaders of Characters and Learners for Life’. As such, the Malay Language Department strive to provide the best for our pupils so they can reach their fullest potential.</p>
-<p><strong>Pupils Competencies</strong> <br>
-The ability to learn a language is when the students are able to acquire and master competencies that are laid for them. As such, these competencies are nurtured to our pupils so that they are able to acquire the language and will be able to use them in their daily conversations and communication, formally or informally.</p>
-<p><strong>Bahasa Melayu @ AIPS</strong></p>
-<p>Yang kurik itu kundi, <br>
-Yang merah itu saga; <br>
-Yang baik itu budi, <br>
-Yang indah itu bahasa.</p>
-<p>Keindahan Bahasa Melayu dapat diperhatikan berdasarkan pantun di atas. Jabatan Bahasa Melayu di AIPS mahu terapkan keindahan Bahasa kepada semua murid kami agar mereka dapat menghayati keindahan Bahasa dan kemurnian budaya Melayu.</p>
-<p>Kami telah menjalankan beberapa aktivit untuk sentiasa menarik minat murid-murid kami. Walaupun diambang COVID-19, pembelajaran Bahasa Melayu tetap giat dilakukan melaui SLS.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">2022 Rakan Bahasa</label>
-    <div>
-      <p>Tahniah kami ucapkan kepada Sofia Rai (4 Honesty) &amp; Ishq Eshan (4 Honesty) kerana telah dilantik sebagai Rakan Bahasa 2022!</p>
-<p><img src="/images/malay2-1.jpg" style="width:40%" alt="2022 Rakan Bahasa"></p>
-<p>Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu. Moga kedua-dua Rakan Bahasa dapat menyelesaikan kad misi dan melaksanakan tanggungjawab mereka dengan baik pada tahun ini!</p>
-<p>Sempena menyambut bulan Syawal yang baru sahaja tiba, berikut merupakan pesanan Rakan Bahasa buat semua murid-murid AIPS:</p>
-<p><strong>video to be embedded here!!</strong></p>
-<p>Jalan raya bersama-sama, <br>
-                                                                                             Hati riang tidak terhingga; <br>
-                                                                                       Ketika kita seronok beraya,<br>
-                                                                                              Adab kita jangan dilupa.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">2022 Seminar Bahasa Melayu</label>
-    <div>
+##### 2021
+
+**Malay Language Department**
+
+Aim:
+* To instill interest and passion in the learning of the Malay Language.
+* To enrich pupils’ knowledge of the Malay Language and culture through MT Fortnight activities and learning journeys.
+* To enhance teachers’ teaching competencies through professional sharing sessions, peer coaching, action research and lesson
+* studies.
+
+We believe that our children are ‘Leaders of Characters and Learners for Life’. As such, the Malay Language Department strive to provide the best for our pupils so they can reach their fullest potential.
+**Pupils Competencies**
+The ability to learn a language is when the students are able to acquire and master competencies that are laid for them. As such, these competencies are nurtured to our pupils so that they are able to acquire the language and will be able to use them in their daily conversations and communication, formally or informally.
+**Bahasa Melayu @ AIPS**
+Yang kurik itu kundi,
+Yang merah itu saga;
+Yang baik itu budi,
+Yang indah itu bahasa.
+Keindahan Bahasa Melayu dapat diperhatikan berdasarkan pantun di atas. Jabatan Bahasa Melayu di AIPS mahu terapkan keindahan Bahasa kepada semua murid kami agar mereka dapat menghayati keindahan Bahasa dan kemurnian budaya Melayu.
+Kami telah menjalankan beberapa aktivit untuk sentiasa menarik minat murid-murid kami. Walaupun diambang COVID-19, pembelajaran Bahasa Melayu tetap giat dilakukan melaui SLS.
+
+
+##### 2022 Rakan Bahasa
+
+Tahniah kami ucapkan kepada Sofia Rai (4 Honesty) &amp; Ishq Eshan (4 Honesty) kerana telah dilantik sebagai Rakan Bahasa 2022!
+
+<img src="/images/malay2-1.jpg" style="width:40%" alt="2022 Rakan Bahasa">
+
+Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu. Moga kedua-dua Rakan Bahasa dapat menyelesaikan kad misi dan melaksanakan tanggungjawab mereka dengan baik pada tahun ini!
+Sempena menyambut bulan Syawal yang baru sahaja tiba, berikut merupakan pesanan Rakan Bahasa buat semua murid-murid AIPS:<
+**video to be embedded here!!**
+
+Jalan raya bersama-sama,
+                                                                                             Hati riang tidak terhingga;
+                                                                                       Ketika kita seronok beraya,
+                                                                                              Adab kita jangan dilupa.
+
+##### 2022 Seminar Bahasa Melayu
+
       <p>Pada tanggal 15 Mac, empat orang guru Bahasa Melayu kami telah berkongsi di Seminar Bahasa Melayu 2022. Seminar yang dianjurkan oleh Pusat Bahasa Melayu Singapura (MLCS) itu telah diadakan melalui ruangan Zoom. Kumpulan kami diketuai oleh guru kanan, Cikgu Badrolhaizat dan dianggotai oleh Cikgu Halina, Cikgu Zubaidah dan Cikgu Aishah.</p>
 <p><img src="/images/2022%20Seminar%20Bahasa%20Melayu1.jpeg" style="width:70%"  alt="2022 Seminar Bahasa Melayu"></p>
 <p><img src="/images/2022%20Seminar%20Bahasa%20Melayu2.jpeg" alt="2022 Seminar Bahasa Melayu"></p>
