@@ -66,11 +66,11 @@ We also organised enrichment activities to stretch the high-progress students.
 
 **Singapore Math Kangaroo Contest (SMKC)**
 
-**Levels**&nbsp;: Primary 1 to Primary 6
-**Website**&nbsp;:&nbsp;
+**Levels**: Primary 1 to Primary 6
+**Website**:
 <a href="https://mathkangaroo.sg/">https://mathkangaroo.sg/</a>
 
-**2022 Award Winners**&nbsp;:
+**2022 Award Winners** :
 
 | WONG QI HUAN | BRONZE |
 |:---:|:---:|
