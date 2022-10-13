@@ -22,22 +22,24 @@ At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a st
 <p><img src="/images/p1.jpg" alt=""></p>
 <h4 id="primary-2-hand-bells">Primary 2: Hand Bells</h4>
 <hr>
-<p>In Primary 2, our students are introduced to Hand Bells. These are interesting instruments where students will learn about hand-eye coordination, distinguish the sound of different pitches and the importance of team work.</p>
-<p><img src="/images/p2.png" alt=""></p>
-<h4 id="primary-3-recorder--cajon">Primary 3: Recorder &amp; Cajon</h4>
-<hr>
-<p>The Primary 3 students will start to learn the fundamentals of playing the recorder. Recorder is the main melodic instrument used in our school and we hope that our students will be able to master it well under the guidance of our music teachers. The students also have the opportunity to explore the rhythms and sounds produced by the Cajon.</p>
-<p><img src="/images/p3.jpg" alt=""></p>
-<h4 id="primary-4-ukulele--recorder">Primary 4: Ukulele &amp; Recorder</h4>
-<hr>
-<p>Our students have the opportunity of learning how to play the Ukulele in Primary 4. This is to ensure our students get the exposure to different types of instruments. The students will also continue to learn the recorder as part of the music curriculum.</p>
-<p><img src="/images/p4.jpg" alt=""></p>
-<h4 id="primary-5-garageband">Primary 5: GarageBand</h4>
-<hr>
-<p>The Primary 5 students infused Information and Communications Technology (ICT) into their music lesson. They are introduced to GarageBand. Using the app, they can showcase their creativity by arranging a song using the smart instruments and loops.</p>
-<h4 id="primary-6-music-project--global-percussion">Primary 6: Music Project &amp; Global Percussion</h4>
-<hr>
-<p>Using their music knowledge acquired over the 6 years of music lessons in school, the Primary 6 students use classroom instruments to form a pop band in groups. Their stage confidence is built up in the process.</p>
+<p>In Primary 2, our students are introduced to Hand Bells. These are interesting instruments where students will learn about hand-eye coordination, distinguish the sound of different pitches and the importance of team work.
+<img src="/images/p2.png" alt="">
+#### Primary 3: Recorder &amp; Cajon
+	
+The Primary 3 students will start to learn the fundamentals of playing the recorder. Recorder is the main melodic instrument used in our school and we hope that our students will be able to master it well under the guidance of our music teachers. The students also have the opportunity to explore the rhythms and sounds produced by the Cajon.
+<img src="/images/p3.jpg" alt="">
+Primary 4: Ukulele &amp; Recorder
+
+Our students have the opportunity of learning how to play the Ukulele in Primary 4. This is to ensure our students get the exposure to different types of instruments. The students will also continue to learn the recorder as part of the music curriculum.
+	
+<img src="/images/p4.jpg" alt="">
+#### Primary 5: GarageBand
+	
+The Primary 5 students infused Information and Communications Technology (ICT) into their music lesson. They are introduced to GarageBand. Using the app, they can showcase their creativity by arranging a song using the smart instruments and loops.
+	
+#### Primary 6: Music Project &amp; Global Percussion
+
+Using their music knowledge acquired over the 6 years of music lessons in school, the Primary 6 students use classroom instruments to form a pop band in groups. Their stage confidence is built up in the process.</p>
 <p>As a post-PSLE activity, the students will learn about the different types of percussion all over the world and have the opportunity to learn to play some of the instruments. </p>
 <p>The students had fun exploring the various instruments. They also learnt about teamwork and cooperation from this enrichment lesson.</p>
 <p><img src="/images/p6.png" alt=""></p>
