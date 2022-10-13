@@ -138,41 +138,31 @@ We also organised enrichment activities to stretch the high-progress students.
 | Lu Meijun | Credit |
 
 
-<h3 id="enrichment-activities">Enrichment activities</h3>
-<hr>
-<p><strong>Primary 2</strong>&nbsp;- Enrichment programme (building 21st competencies through games)</p>
+### Enrichment activities
+
+<strong>Primary 2</strong>&nbsp;- Enrichment programme (building 21st competencies through games)</p>
 <p><strong>Primary 3</strong>&nbsp;- Enrichment programme (building 21st competencies through games)</p>
 <p><strong>Primary 4</strong>&nbsp;- Excellence 2000 Mathematics</p>
 <p><strong>Primary 5</strong>&nbsp;- Excellence 2000 Mathematics</p>
-<p><strong>Primary 6</strong>&nbsp;- Excellence 2000 Mathematics</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Math Practical (P1 - P6)</label>
-    <div>
-      <p>Math Practical enables our students to learn Mathematics through hands-on experiences and deepen their understanding of Math concepts.</p>
-<p><img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)1.jpg" style="width:55%"></p>
-<p><img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)2.jpg"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">P4 Culinary Mathematics</label>
-    <div>
-      <p>The objective of Culinary Math programme is to raise our Primary 4 students’ interest in Math through baking and help them relate Math to real–life experiences. Besides learning Math concepts, students learn soft skills such as respect for one another, work cooperatively with friends and display resilience when solving problems.</p>
-<p><img alt="" src="/images/P4%20Culinary%20Mathematics1.jpg" style="width:65%"></p>
-<p><img alt="" src="/images/P4%20Culinary%20Mathematics2.jpg" style="width:65%"></p>
-<p><img alt="" src="/images/P4%20Culinary%20Mathematics3.jpg" style="width:65%"></p>
-<p><img alt="" src="/images/P4%20Culinary%20Mathematics4.jpg"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">Maths Carnival</label>
-    <div>
-      <p>The Math Carnival provides an excellent platform for our graduating students to be active contributors who are able to apply mathematics concepts they have learnt by designing creative games for their juniors.</p>
+<p><strong>Primary 6</strong>&nbsp;- Excellence 2000 Mathematics
+	
+## Math Practical (P1 - P6)
+	
+Math Practical enables our students to learn Mathematics through hands-on experiences and deepen their understanding of Math concepts.
+
+<img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)1.jpg" style="width:55%">
+<img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)2.jpg">
+	
+## P4 Culinary Mathematics
+	
+The objective of Culinary Math programme is to raise our Primary 4 students’ interest in Math through baking and help them relate Math to real–life experiences. Besides learning Math concepts, students learn soft skills such as respect for one another, work cooperatively with friends and display resilience when solving problems.
+
+<img alt="" src="/images/P4%20Culinary%20Mathematics1.jpg" style="width:65%">
+<img alt="" src="/images/P4%20Culinary%20Mathematics2.jpg" style="width:65%">
+<img alt="" src="/images/P4%20Culinary%20Mathematics3.jpg" style="width:65%">
+<img alt="" src="/images/P4%20Culinary%20Mathematics4.jpg">
+
+## Maths Carnival
+
+	The Math Carnival provides an excellent platform for our graduating students to be active contributors who are able to apply mathematics concepts they have learnt by designing creative games for their juniors.</p>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd_UUAJ87stfdGuvcozRAL8BhL5a1OI2hTCJsZNfDV4uDV_JlPIewZkEufbJIoD1_TZrAio2VQ9N9q/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
-    </div>
-	</li>
-</ul>
