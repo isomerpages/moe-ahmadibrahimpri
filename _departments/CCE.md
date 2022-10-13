@@ -82,27 +82,27 @@ We are ONE family.</p>
     <label for="accordion5">Title</label>
     <div>
       <p>Content</p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">NE Commemorative Days</label>
-    <div>
-      <p>These commemorative days are linked to important points in Singapore&#39;s history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students&#39; experiences in National Education.</p>
-<h4 id="total-defence-day-2021-together-we-keep-singapore-strong">Total Defence Day 2021: &quot;Together We Keep Singapore Strong&quot;</h4>
-<hr>
-<p>Total Defence Day was commemorated on Monday, 8th January 2021, with the theme “Together We Keep Singapore Strong”.</p>
-<p> Students were engaged with an e-assembly programme and a string of class activities where they learnt more about the six pillars of Total Defence: Military Defence, Civil Defence, Social Defence, Psychological Defence, Economic Defence and Digital Defence.</p>
-<p> The team put together a video which showcased our male teachers sharing their contributions towards Military Defence through National Service, and our students suggesting ways to enhance Social Defence in school.</p>
-<p><img src="/images/NE%20Commemorative%20Days1.jpg" alt=""></p>
-<p><img src="/images/NE%20Commemorative%20Days2.jpg" alt=""></p>
-<p><img src="/images/NE%20Commemorative%20Days3.jpg" alt=""></p>
-<p><img src="/images/NE%20Commemorative%20Days4.jpg" alt=""></p>
-<h4 id="international-friendship-day-2021-singapore-in-the-world"><strong><em>International Friendship Day 2021: &quot;Singapore in the world&quot;</em></strong></h4>
-<hr>
-<p>We celebrated International Friendship Day on Friday, 16th April 2021. The theme for this year’s International Friendship Day is&nbsp;<em>“Singapore in the World”</em>.</p>
-<p>On this special day, students could don their ethnic clothings to school and share about their cultures with their peers. In one of their class activities, the students were thrilled to learn to greet in the different ASEAN languages.</p>
-<p>Students were also engaged in a digital storybook theatre where they learnt that every one of us is unique and special, and we ought to be proud to be a multi-cultural and multi-religious society.</p>
+
+## NE Commemorative Days
+			
+These commemorative days are linked to important points in Singapore&#39;s history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students&#39; experiences in National Education.
+			
+#### Total Defence Day 2021: &quot;Together We Keep Singapore Strong&quot;
+
+Total Defence Day was commemorated on Monday, 8th January 2021, with the theme “Together We Keep Singapore Strong”.
+Students were engaged with an e-assembly programme and a string of class activities where they learnt more about the six pillars of Total Defence: Military Defence, Civil Defence, Social Defence, Psychological Defence, Economic Defence and Digital Defence.
+The team put together a video which showcased our male teachers sharing their contributions towards Military Defence through National Service, and our students suggesting ways to enhance Social Defence in school.
+
+<img src="/images/NE%20Commemorative%20Days1.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days2.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days3.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days4.jpg" alt="">
+
+***International Friendship Day 2021: &quot;Singapore in the world&quot;***
+	
+We celebrated International Friendship Day on Friday, 16th April 2021. The theme for this year’s International Friendship Day is&nbsp;*“Singapore in the World”*.
+On this special day, students could don their ethnic clothings to school and share about their cultures with their peers. In one of their class activities, the students were thrilled to learn to greet in the different ASEAN languages.
+Students were also engaged in a digital storybook theatre where they learnt that every one of us is unique and special, and we ought to be proud to be a multi-cultural and multi-religious society.
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 
 <h4 id="racial-harmony-day-2021-common-spaces-connected-communities">Racial Harmony Day 2021: &quot;Common Spaces, Connected Communities&quot;</h4>
