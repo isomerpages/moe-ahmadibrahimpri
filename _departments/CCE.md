@@ -38,10 +38,10 @@ To provide quality learning experiences for every child to develop good characte
 			
 ## Character and Citizenship Education
 
-<img alt="" src="/images/Character%20and%20Citizenship%20Education1.jpg" style="width:75%">
+<img style="width:75%" src="/images/Character%20and%20Citizenship%20Education1.jpg" alt="">
 Our school has a comprehensive plan to promote the importance of National Education in our school. Using a three prong approach to achieve this, the NE department is committed to support the teaching and learning of what it means to be a Globally Aware Singaporean who has a heart of compassion and love for our country.
 			
-<img alt="" src="/images/Character%20and%20Citizenship%20Education2.jpg" style="width:75%">
+<img style="width:75%" src="/images/Character%20and%20Citizenship%20Education2.jpg" alt="">
 
 **Staff**
 			
@@ -50,9 +50,9 @@ As educators, the staff take National Education seriously. We conduct several di
 **Student Focused Processes**
 
 For students, they are immersed in National Education in various subjects through different mediums. National Education is infused in all formal and informal curriculum e.g.:Traditional Asian Medicines, Ethnic Crafts &amp; Dances and Community Singing etc.
-Students also get enriching learning experiences through interaction with the aged. Here they learn about service learning and what it takes to grow into a citizen that contributes.<p></p>
-<p>Our Primary 3 students also go through a 3rd Language Conversational Course started in our school since 2003. Our students learn short phrases and greetings to converse with other races as they understand and appreciate the intricacies of each language.</p>
-<p>Values education is also another important aspect. The school capitalises on our very own Amazing NE Trail@ AIPS similar to an amazing race for our pupils to learn more about our nation's rich heritage.
+Students also get enriching learning experiences through interaction with the aged. Here they learn about service learning and what it takes to grow into a citizen that contributes.
+Our Primary 3 students also go through a 3rd Language Conversational Course started in our school since 2003. Our students learn short phrases and greetings to converse with other races as they understand and appreciate the intricacies of each language.
+Values education is also another important aspect. The school capitalises on our very own Amazing NE Trail@ AIPS similar to an amazing race for our pupils to learn more about our nation's rich heritage.
 
 **Resources**
 
@@ -70,7 +70,7 @@ We are ONE family.
 
 **AIPS NE Framework**
 
-<img alt="" src="/images/Mission%20and%20Framework.jpg" style="width:75%">
+<img style="width:75%" src="/images/Mission%20and%20Framework.jpg" alt="">
 
 ## CCE Experiences
 	
@@ -81,7 +81,7 @@ Following the Head-Heart-Hand approach, the CCE experiences encompasses National
 <a href="/cce-experiences/p6-service-learning/">P6 Service Learning:&nbsp;<em>In collaboration with All Saints Home</em></a>
 <a href="/cce-experiences/use-your-hands-campaign/">Use-Your-Hands Campaign</a>
 <a href="/cce-experiences/ne-learning-journey/">NE Learning Journeys</a>
-<a href="/cce-experiences/sexuality-education/">Sexuality Education</a></p>
+<a href="/cce-experiences/sexuality-education/">Sexuality Education</a>
 
 ## Title
 
@@ -97,10 +97,10 @@ Total Defence Day was commemorated on Monday, 8th January 2021, with the theme �
 Students were engaged with an e-assembly programme and a string of class activities where they learnt more about the six pillars of Total Defence: Military Defence, Civil Defence, Social Defence, Psychological Defence, Economic Defence and Digital Defence.
 The team put together a video which showcased our male teachers sharing their contributions towards Military Defence through National Service, and our students suggesting ways to enhance Social Defence in school.
 
-<img src="/images/NE%20Commemorative%20Days1.jpg" alt="">
-<img src="/images/NE%20Commemorative%20Days2.jpg" alt="">
-<img src="/images/NE%20Commemorative%20Days3.jpg" alt="">
-<img src="/images/NE%20Commemorative%20Days4.jpg" alt="">
+<img alt="" src="/images/NE%20Commemorative%20Days1.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days2.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days3.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days4.jpg">
 
 ***International Friendship Day 2021: "Singapore in the world"***
 	
@@ -108,7 +108,7 @@ We celebrated International Friendship Day on Friday, 16th April 2021. The theme
 On this special day, students could don their ethnic clothings to school and share about their cultures with their peers. In one of their class activities, the students were thrilled to learn to greet in the different ASEAN languages.
 Students were also engaged in a digital storybook theatre where they learnt that every one of us is unique and special, and we ought to be proud to be a multi-cultural and multi-religious society.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Racial Harmony Day 2021: "Common Spaces, Connected Communities"
 			
@@ -118,25 +118,29 @@ Students were engaged in a string of class activities to promote interaction in 
 Understanding that the traditional games that originated from different cultures were played by many regardless of race or religion, our lower primary students worked in pairs to play one of the traditional games, pick-up sticks.&nbsp;&nbsp;
 In the activity, “A New Way to Say”, our middle primary students learnt and penned down phrases in the different Mother Tongue languages and pieced their learning to form a beautiful masterpiece.&nbsp;
 In “Talking Point”, our upper primary students took part in an in-depth class discussion on the topic of racial harmony, to raise racial and cultural awareness among them.
-<img src="/images/NE%20Commemorative%20Days10.jpg" alt="">
-<img src="/images/NE%20Commemorative%20Days11.jpg" alt="">
-<img src="/images/NE%20Commemorative%20Days12.jpg" alt="">
+<img alt="" src="/images/NE%20Commemorative%20Days10.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days11.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days12.jpg">
 			
 #### National Day Observance Ceremony 2021: "Together, Our Singapore Spirit"
 	
-The National Day Observance ceremony was held on Friday, 6 August 2021. The theme for this year’s National Day is “Together, Our Singapore Spirit”.<p></p>
-<p>Students were thrilled by the “Don’t Forget the Lyrics (NDP songs edition)” segment where they would stand to win attractive prizes if they could correctly recall the song lyrics from a variety of NDP songs.</p>
-<p>In the “News Flash” segment, our student newscasters took us through some of the current challenges and how we could, as a nation, show resilience and be united as one to overcome these obstacles.</p>
-<p>On this special day, we pay tribute to our unsung heroes at AIPS for supporting the school during the pandemic to ensure that meaningful learning continues to take place.</p>
-<p>The ceremony ended with a fun Chairobics workout for students and staff to move to the beat.</p>
-<p>The Class Mentors then led the classes in a string of class activities. Our students learnt more about the various SG mascots and had a better understanding of this year’s National Day theme and logo.</p>
-<p><img src="/images/NE%20Commemorative%20Days13.jpg" alt=""></p>
-<p><img src="/images/NE%20Commemorative%20Days14.jpg" alt=""></p>
-<p><img src="/images/NE%20Commemorative%20Days15.jpg" alt="">
-<img src="/images/NE%20Commemorative%20Days16.jpg" alt="">
+The National Day Observance ceremony was held on Friday, 6 August 2021. The theme for this year’s National Day is “Together, Our Singapore Spirit”.
+Students were thrilled by the “Don’t Forget the Lyrics (NDP songs edition)” segment where they would stand to win attractive prizes if they could correctly recall the song lyrics from a variety of NDP songs.
+In the “News Flash” segment, our student newscasters took us through some of the current challenges and how we could, as a nation, show resilience and be united as one to overcome these obstacles.
+On this special day, we pay tribute to our unsung heroes at AIPS for supporting the school during the pandemic to ensure that meaningful learning continues to take place.
+
+The ceremony ended with a fun Chairobics workout for students and staff to move to the beat.
+The Class Mentors then led the classes in a string of class activities. Our students learnt more about the various SG mascots and had a better understanding of this year’s National Day theme and logo.
+<img alt="" src="/images/NE%20Commemorative%20Days13.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days14.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days15.jpg">
+<img alt="" src="/images/NE%20Commemorative%20Days16.jpg">
 	
-####<strong>NE commemorative Days Archive:</strong>
-</p><p>Total Defence Day&nbsp;2020 <strong>(broken link!!)</strong></p>
-<p><a href="/departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020">International Friendship Day&nbsp;2020</a>  </p>
-<p><a href="/departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020">Racial Harmony Day&nbsp;2020</a></p>
-<p><a href="/departments/cce/cce-experiences/national-day-celebration-in-2019">National Day Celebrations 2019</a></p>
+#### NE commemorative Days Archive:
+
+**Total Defence Day&nbsp;2020 (broken link!!)**
+
+<a href="/departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020">International Friendship Day&nbsp;2020</a> 
+
+<a href="/departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020">Racial Harmony Day&nbsp;2020</a>
+<a href="/departments/cce/cce-experiences/national-day-celebration-in-2019">National Day Celebrations 2019</a>
