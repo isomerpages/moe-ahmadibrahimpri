@@ -38,10 +38,10 @@ To provide quality learning experiences for every child to develop good characte
 			
 ## Character and Citizenship Education
 
-<img style="width:75%" src="/images/Character%20and%20Citizenship%20Education1.jpg" alt="">
+<img alt="" src="/images/Character%20and%20Citizenship%20Education1.jpg" style="width:75%">
 Our school has a comprehensive plan to promote the importance of National Education in our school. Using a three prong approach to achieve this, the NE department is committed to support the teaching and learning of what it means to be a Globally Aware Singaporean who has a heart of compassion and love for our country.
 			
-<img style="width:75%" src="/images/Character%20and%20Citizenship%20Education2.jpg" alt="">
+<img alt="" src="/images/Character%20and%20Citizenship%20Education2.jpg" style="width:75%">
 
 **Staff**
 			
@@ -65,23 +65,23 @@ We hope through all these efforts, our pupils are able to appreciate our past, a
 	
 ## Mission and Framework
 
-<strong>AIPS NE Vision</strong>
+**AIPS NE Vision**
 We are ONE family.
 
 **AIPS NE Framework**
 
-<img style="width:75%" src="/images/Mission%20and%20Framework.jpg" alt="">
+<img alt="" src="/images/Mission%20and%20Framework.jpg" style="width:75%">
 
 ## CCE Experiences
 	
-Following the Head-Heart-Hand approach, the CCE experiences encompasses National Education (NE) programme and Values-in-action (VIA) activities in which students put their knowledge, skills and values into actions. These experiences enrich the learning of the students, thus nurturing them to be active and concerned citizens.</p>
-<p><a href="/cce-experiences/brightspots-at-aips-vibrant-classroom-award/">Brightspots @ AIPS:&nbsp;<em>Vibrant Classroom Award</em></a></p>
-<p><a href="/cce-experiences/aspirations-at-aips-putting-social-defence-into-action/">Aspirations@AIPS:&nbsp;<em>Putting Social Defence into Action!</em></a>&nbsp;</p>
-<p><a href="/cce-experiences/singapore-kindness-movement-friends-of-singa/">Singapore Kindness Movement:&nbsp;<em>Friends of Singa</em></a>&nbsp;</p>
-<p><a href="/cce-experiences/p6-service-learning/">P6 Service Learning:&nbsp;<em>In collaboration with All Saints Home</em></a>&nbsp;</p>
-<p><a href="/cce-experiences/use-your-hands-campaign/">Use-Your-Hands Campaign</a>&nbsp;</p>
-<p><a href="/cce-experiences/ne-learning-journey/">NE Learning Journeys</a></p>
-<p><a href="/cce-experiences/sexuality-education/">Sexuality Education</a></p>
+Following the Head-Heart-Hand approach, the CCE experiences encompasses National Education (NE) programme and Values-in-action (VIA) activities in which students put their knowledge, skills and values into actions. These experiences enrich the learning of the students, thus nurturing them to be active and concerned citizens.
+<a href="/cce-experiences/brightspots-at-aips-vibrant-classroom-award/">Brightspots @ AIPS:&nbsp;<em>Vibrant Classroom Award</em></a>
+<a href="/cce-experiences/aspirations-at-aips-putting-social-defence-into-action/">Aspirations@AIPS:&nbsp;<em>Putting Social Defence into Action!</em>
+</a><a href="/cce-experiences/singapore-kindness-movement-friends-of-singa/">Singapore Kindness Movement:&nbsp;<em>Friends of Singa</em></a>
+<a href="/cce-experiences/p6-service-learning/">P6 Service Learning:&nbsp;<em>In collaboration with All Saints Home</em></a>
+<a href="/cce-experiences/use-your-hands-campaign/">Use-Your-Hands Campaign</a>
+<a href="/cce-experiences/ne-learning-journey/">NE Learning Journeys</a>
+<a href="/cce-experiences/sexuality-education/">Sexuality Education</a></p>
 
 ## Title
 
@@ -97,10 +97,10 @@ Total Defence Day was commemorated on Monday, 8th January 2021, with the theme �
 Students were engaged with an e-assembly programme and a string of class activities where they learnt more about the six pillars of Total Defence: Military Defence, Civil Defence, Social Defence, Psychological Defence, Economic Defence and Digital Defence.
 The team put together a video which showcased our male teachers sharing their contributions towards Military Defence through National Service, and our students suggesting ways to enhance Social Defence in school.
 
-<img alt="" src="/images/NE%20Commemorative%20Days1.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days2.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days3.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days4.jpg">
+<img src="/images/NE%20Commemorative%20Days1.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days2.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days3.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days4.jpg" alt="">
 
 ***International Friendship Day 2021: "Singapore in the world"***
 	
@@ -108,7 +108,7 @@ We celebrated International Friendship Day on Friday, 16th April 2021. The theme
 On this special day, students could don their ethnic clothings to school and share about their cultures with their peers. In one of their class activities, the students were thrilled to learn to greet in the different ASEAN languages.
 Students were also engaged in a digital storybook theatre where they learnt that every one of us is unique and special, and we ought to be proud to be a multi-cultural and multi-religious society.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPYaOye_FvYcEXqjF_q_nKxn0kvhAB6PS_6RXtyaWlgJwxUifPj0ciHwJfmPE2hW-p0OYUlfX5UOnV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 
 #### Racial Harmony Day 2021: "Common Spaces, Connected Communities"
 			
@@ -118,9 +118,9 @@ Students were engaged in a string of class activities to promote interaction in 
 Understanding that the traditional games that originated from different cultures were played by many regardless of race or religion, our lower primary students worked in pairs to play one of the traditional games, pick-up sticks.&nbsp;&nbsp;
 In the activity, “A New Way to Say”, our middle primary students learnt and penned down phrases in the different Mother Tongue languages and pieced their learning to form a beautiful masterpiece.&nbsp;
 In “Talking Point”, our upper primary students took part in an in-depth class discussion on the topic of racial harmony, to raise racial and cultural awareness among them.
-<img alt="" src="/images/NE%20Commemorative%20Days10.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days11.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days12.jpg">
+<img src="/images/NE%20Commemorative%20Days10.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days11.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days12.jpg" alt="">
 			
 #### National Day Observance Ceremony 2021: "Together, Our Singapore Spirit"
 	
@@ -130,15 +130,13 @@ The National Day Observance ceremony was held on Friday, 6 August 2021. The them
 <p>On this special day, we pay tribute to our unsung heroes at AIPS for supporting the school during the pandemic to ensure that meaningful learning continues to take place.</p>
 <p>The ceremony ended with a fun Chairobics workout for students and staff to move to the beat.</p>
 <p>The Class Mentors then led the classes in a string of class activities. Our students learnt more about the various SG mascots and had a better understanding of this year’s National Day theme and logo.</p>
-<p><img alt="" src="/images/NE%20Commemorative%20Days13.jpg"></p>
-<p><img alt="" src="/images/NE%20Commemorative%20Days14.jpg"></p>
-<p><img alt="" src="/images/NE%20Commemorative%20Days15.jpg"></p>
-<p><img alt="" src="/images/NE%20Commemorative%20Days16.jpg"></p>
-<h4 id="ne-commemorative-days-archive"><strong>NE commemorative Days Archive:</strong></h4>
-<p>Total Defence Day&nbsp;2020 <strong>(broken link!!)</strong></p>
+<p><img src="/images/NE%20Commemorative%20Days13.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days14.jpg" alt=""></p>
+<p><img src="/images/NE%20Commemorative%20Days15.jpg" alt="">
+<img src="/images/NE%20Commemorative%20Days16.jpg" alt="">
+	
+####<strong>NE commemorative Days Archive:</strong>
+</p><p>Total Defence Day&nbsp;2020 <strong>(broken link!!)</strong></p>
 <p><a href="/departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020">International Friendship Day&nbsp;2020</a>  </p>
 <p><a href="/departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020">Racial Harmony Day&nbsp;2020</a></p>
 <p><a href="/departments/cce/cce-experiences/national-day-celebration-in-2019">National Day Celebrations 2019</a></p>
-
-    
-	
