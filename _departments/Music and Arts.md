@@ -43,22 +43,22 @@ At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a st
 <p><img src="/images/p6.png" alt=""></p>
 <h4 id="shine-at-aips-2021">Shine at AIPS 2021</h4>
 <hr>
-<p>Shine at AIPS is a music competition held virtually this year. The objective of this competition is to provide students with a platform to showcase their talent, and allow them to build stage confidence. This competition is open to Primary 4 and 5 students this year, and students could choose from one of the following categories: Dancing, Instrumental, or Singing.</p>
-<p><strong>2021 Winners:</strong></p>
-<p>Category 1: Dancing</p>
-<p><img src="/images/cat1%20dancing.png" alt=""></p>
-<p>1st Prize: Siti Aisyah Binte Pungot (5 Honesty)</p>
-<p>2nd Prize: Yichelle Ng Ying Xuan (4 Resilience)</p>
-<p>Category 2: Instrumental</p>
-<p><img src="/images/cat2%20instru.png" alt=""></p>
-<p>1st Prize: Tay Ren Kai (5 Honesty)</p>
-<p>2nd Prize: Puhazhendhi Rithika (4 Resilience)</p>
-<p>3rd Prize: Tan Yee Xin (5 Honesty)</p>
-<p>Category 3: Singing</p>
-<p><img src="/images/cat3%20sing.png" alt=""></p>
-<p>1st Prize: Gonzales Elisha Brielle (4 Resilience)</p>
-<p>2nd Prize: K Tanishqa (5 Honesty)</p>
-<p>3rd Prize: Sophie Eilynn Chow (4 Resilience)</p>
+<p>Shine at AIPS is a music competition held virtually this year. The objective of this competition is to provide students with a platform to showcase their talent, and allow them to build stage confidence. This competition is open to Primary 4 and 5 students this year, and students could choose from one of the following categories: Dancing, Instrumental, or Singing.
+	<strong>2021 Winners:</strong>
+	Category 1: Dancing
+	<img src="/images/cat1%20dancing.png" alt="">
+	1st Prize: Siti Aisyah Binte Pungot (5 Honesty)
+	2nd Prize: Yichelle Ng Ying Xuan (4 Resilience
+	Category 2: Instrumental
+	<img src="/images/cat2%20instru.png" alt="">
+	1st Prize: Tay Ren Kai (5 Honesty)
+	2nd Prize: Puhazhendhi Rithika (4 Resilience)
+	3rd Prize: Tan Yee Xin (5 Honesty)
+	Category 3: Singing
+	<img src="/images/cat3%20sing.png" alt="">
+	1st Prize: Gonzales Elisha Brielle (4 Resilience)
+	2nd Prize: K Tanishqa (5 Honesty)
+	3rd Prize: Sophie Eilynn Chow (4 Resilience)
 
 ### Art Department
 
