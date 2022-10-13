@@ -1,40 +1,13 @@
 ---
 title: Music and Arts
-permalink: /departments/music-and-arts
+permalink: /departments/music-and-arts/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f3bv{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ty9o{background-color:#E31D3C;border-color:inherit;color:#FFFCFD;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-d298{background-color:#FFFCFD;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-wpvf{background-color:#FFFCFD;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ty9o" colspan="2"><span style="color:#FFFCFD;background-color:#E31D3C">Vision</span></th>
-    <th class="tg-f3bv" colspan="2"><span style="color:#FFFCFD;background-color:#E31D3C">Mission</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-wpvf" colspan="2"><span style="color:#222;background-color:#FFFCFD">Confident &amp; creative students, passionate about developing their Potential &amp; Talents in the Arts.</span></td>
-    <td class="tg-wpvf" colspan="2"><span style="color:#222;background-color:#FFFCFD">To provide quality experiences that promote students' awareness and passion for the Arts</span></td>
-  </tr>
-  <tr>
-    <td class="tg-d298" colspan="4">       Department</td>
-  </tr>
-  <tr>
-    <td class="tg-wpvf" colspan="2"><span style="color:#222;background-color:#FFFCFD">  Mdm Sulasni (covering)</span><br><span style="color:#222;background-color:#FFFCFD">Ms Nurul Farhana</span><br><span style="color:#222;background-color:#FFFCFD">Mdm Azimah</span></td>
-    <td class="tg-wpvf" colspan="2"><span style="color:#222;background-color:#FFFCFD"> Ms Dawn Teo</span><br><span style="color:#222;background-color:#FFFCFD">Ms Abbi Chow</span><br><span style="color:#222;background-color:#FFFCFD">Mrs Exther Tan</span></td>
-  </tr>
-</tbody>
-</table>
+| Vision | Mission |
+|---|---|
+| Confident & creative students, passionate about developing their Potential & Talents in the Arts. | To provide quality experiences that promote students' awareness and passion for the Arts |
+| Department |  |
+| Mdm Sulasni (covering) Ms Nurul Farhana Mdm Azimah | Ms Dawn Teo Ms Abbi Chow Mrs Exther Tan |
 
 ![Music and Arts](/images/PAM%20Informal.jpg)
 
