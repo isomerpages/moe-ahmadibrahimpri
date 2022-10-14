@@ -55,45 +55,46 @@ An annual affair, the AIPS Health Fest is an event where students get to partici
 * Healthy Plate Menu in the Canteen
 * Daily Snack Breaks
 	
-<p><strong>PE Lessons</strong></p>
-<p>Students are expected to be attired in their PE T-Shirt and PE shorts for all lessons.</p>
-<p>Students should bring a water bottle for their PE lessons.</p>
-<p>The PE teacher should be informed if students:</p>
-<ul>
-<li>have a medical certificate / letter from a doctor stating he/she is unfit</li>
-<li>do not feel well before, during or after any activity</li>
-<li>have just recovered from an illness / operation</li>
-<li>have any medical condition e.g. asthma</li>
-</ul>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">AIPS Safety Guidelines</label>  
-    <div>  
-      <p>Safety is of the paramount importance in all our activities.</p>
-<p>The guidelines, as stated below, are practiced by the teachers prior and during all physical activities.</p>
-<p><strong>Sports Related Activities (CCA and PE lessons)</strong></p>
-<p>The guidelines below, reflects the precaution undertaken by teachers before, during and after any sports related activity.</p>
-<ul>
-<li>All unwell pupils are exempted, as supported with a medical certificate or from teacher&#39;s observation.</li>
-<li>Proper warm-up and cool down to be observed, respectively pre and post activity.</li>
-<li>Equipments and facilities are checked for maintainance and safety.</li>
-<li>Discipline to be ensured at all times.</li>
-<li>Correct and progressively exposure and teaching of skills in handling of equipment such as bats, floorball sticks and hard balls.</li>
-<li>For our gymnastics lessons, we ensure that proper support is essential for the execution of stunts (e.g. hand stands, head stands, cartwheel)</li>
-</ul>
-<p><strong>Safety Precautions For Pupils Outside School</strong></p>
-<ul>
-<li>Only roadworthy vehicles are used for transport driver drives cautiously</li>
-<li>Pupils behave themselves in the bus and are supervised at all time during the outing</li>
-<li>Pupils do not climb trees</li>
-<li>No swimming unless there is a lifeguard present</li>
-<li>Pupils keep together as a group or small groups under supervision</li>
-<li>First Aid equipment is available at all times</li>
-<li>No injury, however minor, should be left unattended.</li>
-</ul>
-<p>Proper attention must be given to pupils who are ill or injured.</p>
+**PE Lessons**
+
+Students are expected to be attired in their PE T-Shirt and PE shorts for all lessons.
+Students should bring a water bottle for their PE lessons.
+The PE teacher should be informed if students:
+
+* have a medical certificate / letter from a doctor stating he/she is unfit>do not feel well before, during or after any activity
+* have just recovered from an illness / operation
+* have any medical condition e.g. asthma
+
+
+### AIPS Safety Guidelines
+
+Safety is of the paramount importance in all our activities.
+
+The guidelines, as stated below, are practiced by the teachers prior and during all physical activities.
+
+**Sports Related Activities (CCA and PE lessons)**
+
+The guidelines below, reflects the precaution undertaken by teachers before, during and after any sports related activity.
+
+* All unwell pupils are exempted, as supported with a medical certificate or from teacher&#39;s observation.
+* Proper warm-up and cool down to be observed, respectively pre and post activity.
+* Equipments and facilities are checked for maintainance and safety.
+* Discipline to be ensured at all times.
+* Correct and progressively exposure and teaching of skills in handling of equipment such as bats, floorball sticks and hard balls.
+* For our gymnastics lessons, we ensure that proper support is essential for the execution of stunts (e.g. hand stands, head stands, cartwheel)
+
+**Safety Precautions For Pupils Outside School**
+
+* Only roadworthy vehicles are used for transport driver drives cautiously
+* Pupils behave themselves in the bus and are supervised at all time during the outing
+* Pupils do not climb trees
+* No swimming unless there is a lifeguard present
+* Pupils keep together as a group or small groups under supervision
+* First Aid equipment is available at all times
+* No injury, however minor, should be left unattended.
+
+
+Proper attention must be given to pupils who are ill or injured.</p>
 <p>The procedure for this, is as such</p>
 <ul>
 <li>Ascertain the nature of the ailment</li>
