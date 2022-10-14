@@ -25,16 +25,14 @@ To build character, develop life-long learners and strive for excellence.
 <p>It stands as a reminder of the courage, determination and pride of our leaders who dedicated their lives to the building of our nation. When AIPS first started functioning, it had 23 classes from P1 – P6, with pupils and staff mainly from Sembawang School which closed its doors in November 1994. The school went single session in 2003, after the completion of PRIME (Programme for Rebuilding and Improving Existing Schools).</p>
 <p><a href="https://www.youtube.com/watch?v=G5ZE5adxCuE">Click here to view video</a></p>
 
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">School Song / Creed </label>
-    <div>
-      <p><strong>Grow With Resilience and Confidence</strong></p>
-<p>Music: J J de Souza</p>
-<p>Lyrics: Mrs Chan Kwai Foong (First Principal)</p>
-<p>Ahmad Ibrahim Primary School
+#### School Song / Creed
+			
+**Grow With Resilience and Confidence**
+				
+Music: J J de Souza
+Lyrics: Mrs Chan Kwai Foong (First Principal)
+
+Ahmad Ibrahim Primary School
 You’re our mentor and guiding star
 From which we have all the best in education
 Not forgetting care and concern
@@ -48,22 +46,19 @@ We can achieve
 Grow with resilience and confidence
 And be proud of our school
 Grow with resilience and confidence
-And be proud of our school</p>
-<p><strong>Pupils&#39; Creed</strong></p>
-<p>As a student of Ahmad Ibrahim Primary School, I will:</p>
-<ol>
-<li>be obedient and respectful to my teachers.</li>
-<li>be proud of my school and my friends.</li>
-<li>be co-operative and helpful to my friends.</li>
-<li>show care and concern for others.</li>
-<li>be considerate and courteous to everyone.</li>
-<li>conduct myself in a manner worthy of my school</li>
-<li>keep trim and fit</li>
-<li>do well in my studies and in all that I do</li>
-</ol>
-    </div>
-	</li>
-	<li>
+And be proud of our school
+**Pupils&#39; Creed**
+As a student of Ahmad Ibrahim Primary School, I will:
+
+1. be obedient and respectful to my teachers.
+2. be proud of my school and my friends.
+3. be co-operative and helpful to my friends.
+4. show care and concern for others.
+5. be considerate and courteous to everyone.
+6. conduct myself in a manner worthy of my school
+7. keep trim and fit
+8. do well in my studies and in all that I do
+
     <input type="checkbox" id="accordion3">
     <label for="accordion3">School Rules and Regulation</label>
     <div>
