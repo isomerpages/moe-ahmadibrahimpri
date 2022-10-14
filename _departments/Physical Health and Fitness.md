@@ -38,20 +38,23 @@ They are passionate bout developing their talents towards sporting excellence.
 
 **Fitness Friday**
 
-Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students&#39; academics at the same time.</p>
-<p><strong>Health Fest</strong></p>
-<p>An annual affair, the AIPS Health Fest is an event where students get to participate in sports and physical activities such as the handball carnival and mini games carnival. Students get to apply various skills and knowledge that they have learnt in their PE lessons on this day. In addition to the fun and games, students also get to learn more about leading a healthy lifestyle. They are introduced to various topics that complement what they have learnt during PHF lessons. For more details on Health Fest, do visit the event page.</p>
-<p><strong>Holistic Health Programmes</strong></p>
-<ul>
-<li>NAPFA for Primary 4 &amp; Primary 6</li>
-<li>Reccess@Play</li>
-<li>SwimSafer for Primary 3</li>
-<li>Dental Awareness Talks</li>
-<li>Height &amp; Weight Taking</li>
-<li>Medical Screening</li>
-<li>Healthy Plate Menu in the Canteen</li>
-<li>Daily Snack Breaks</li>
-</ul>
+Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students&#39; academics at the same time.
+
+**Health Fest**
+
+An annual affair, the AIPS Health Fest is an event where students get to participate in sports and physical activities such as the handball carnival and mini games carnival. Students get to apply various skills and knowledge that they have learnt in their PE lessons on this day. In addition to the fun and games, students also get to learn more about leading a healthy lifestyle. They are introduced to various topics that complement what they have learnt during PHF lessons. For more details on Health Fest, do visit the event page.
+
+**Holistic Health Programmes**
+
+* NAPFA for Primary 4 &amp; Primary 6
+* Reccess@Play
+* SwimSafer for Primary 3
+* Dental Awareness Talks
+* Height &amp; Weight Taking
+* Medical Screening
+* Healthy Plate Menu in the Canteen
+* Daily Snack Breaks
+	
 <p><strong>PE Lessons</strong></p>
 <p>Students are expected to be attired in their PE T-Shirt and PE shorts for all lessons.</p>
 <p>Students should bring a water bottle for their PE lessons.</p>
