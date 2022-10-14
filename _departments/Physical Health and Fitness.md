@@ -1,6 +1,6 @@
 ---
 title: Physical Health and Fitness
-permalink: /departments/physical-health-and-fitness
+permalink: /departments/physical-health-and-fitness/
 description: ""
 ---
 #### Vision:
@@ -19,21 +19,26 @@ They are passionate bout developing their talents towards sporting excellence.
 
 **E**quipping with knowledge and skills to lead a healthy lifestyle.
 
-<ul class="jekyllcodex_accordion">  
-  <li>  
-    <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Department Members:</label>  
-    <div>  
-      <table class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Rubik, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 742.4px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">NAME</strong></td><td width="216" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">EMAIL</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mr Sakthi Ganapathi</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">sakthi_ganapathi_ramachandra@moe.edu.sg</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mr Eric Wu</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">wu_jianrong_eric@moe.edu.sg</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mr Alfred Goh</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">goh_sze_wee_alfred@moe.edu.sg</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mr Ryan Pek</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">ryan_pek@moe.edu.sg</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Ms Cia Zhi Xian</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">zhi_xian_cia@moe.edu.sg</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Ms Camilia Ho</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">ho_yun_hui_camilia@moe.edu.sg</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mdm Zoey Wong</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">wong_yin_hong@moe.edu.sg</td></tr></tbody></table>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">Physical Education - The AIPS Approach</label>  
-    <div>  
-      <p><img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:55%" alt=""></p>
-<p><strong>Fitness Friday</strong></p>
-<p>Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students&#39; academics at the same time.</p>
+### Department Members:
+
+| NAME | EMAIL |
+|:---:|:---:|
+| Mr Sakthi Ganapathi | sakthi_ganapathi_ramachandra@moe.edu.sg |
+| Mr Eric Wu | wu_jianrong_eric@moe.edu.sg |
+| Mr Alfred Goh | goh_sze_wee_alfred@moe.edu.sg |
+| Mr Ryan Pek | ryan_pek@moe.edu.sg |
+| Ms Cia Zhi Xian | zhi_xian_cia@moe.edu.sg |
+| Ms Camilia Ho | ho_yun_hui_camilia@moe.edu.sg |
+| Mdm Zoey Wong | wong_yin_hong@moe.edu.sg |
+	 
+
+#### Physical Education - The AIPS Approach
+
+<img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:55%" alt="">
+
+**Fitness Friday**
+
+Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students&#39; academics at the same time.</p>
 <p><strong>Health Fest</strong></p>
 <p>An annual affair, the AIPS Health Fest is an event where students get to participate in sports and physical activities such as the handball carnival and mini games carnival. Students get to apply various skills and knowledge that they have learnt in their PE lessons on this day. In addition to the fun and games, students also get to learn more about leading a healthy lifestyle. They are introduced to various topics that complement what they have learnt during PHF lessons. For more details on Health Fest, do visit the event page.</p>
 <p><strong>Holistic Health Programmes</strong></p>
