@@ -122,28 +122,22 @@ An annual affair, the AIPS Health Fest is an event where students get to partici
 <p><img src="/images/longkang%20fishing.png" alt="">
 <img src="/images/longkang%20fishing2.png" alt="">
 <strong>Longkang Fishing</strong>: A test of Patience &amp; Resilience</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion5">  
-    <label for="accordion5">Sports Education Programme (SEP) - Gymnastics for Primary 1 & 2</label>  
-    <div>  
-      <p>This was our SEP Programme for Primary One and Two, Gymnastics Explore and Play respectively. This programme allows the pupils to experience what gymnastics is. There are a few benefits for pupils who do gymnastics. It increases the coordination and flexibility of the child and it also helps to develop strong, healthy bones, which is important to develop at a young age.</p>
-<p><img src="/images/SEP1.jpg" alt=""></p>
-<p><img src="/images/SEP2.jpg" alt=""></p>
-<p>The pupils had a great time learning the different moves and would always look forward to the programme.</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion6">  
-    <label for="accordion6">Active SG Programme</label>  
-    <div>  
-      <p>In collaboration with the Health Promotion Board (HPB), our Active SG programme aims to share with the students about the various sports programme that are available to them during the June holidays.</p>
-<p><img src="/images/Active%20SG1.jpg" style="width:70%" alt=""></p>
-<p><img src="/images/Active%20SG2.jpg" alt=""></p>
-<p><img src="/images/Active%20SG3.jpg" alt=""></p>
-<p><img src="/images/Active%20SG4.jpg" alt=""></p>
-<p>Pupils were given the opportunity to play mini table tennis.</p>
-    </div>  
-</li>   
-</ul>
+
+#### Sports Education Programme (SEP) - Gymnastics for Primary 1 & 2
+    
+This was our SEP Programme for Primary One and Two, Gymnastics Explore and Play respectively. This programme allows the pupils to experience what gymnastics is. There are a few benefits for pupils who do gymnastics. It increases the coordination and flexibility of the child and it also helps to develop strong, healthy bones, which is important to develop at a young age.
+
+<img src="/images/SEP1.jpg" alt="">
+<img src="/images/SEP2.jpg" alt="">
+				
+The pupils had a great time learning the different moves and would always look forward to the programme.
+	
+	
+#### Active SG Programme
+	
+In collaboration with the Health Promotion Board (HPB), our Active SG programme aims to share with the students about the various sports programme that are available to them during the June holidays.
+<img src="/images/Active%20SG1.jpg" style="width:70%" alt="">
+<img src="/images/Active%20SG2.jpg" alt="">
+<img src="/images/Active%20SG3.jpg" alt="">
+<img src="/images/Active%20SG4.jpg" alt="">
+Pupils were given the opportunity to play mini table tennis.
