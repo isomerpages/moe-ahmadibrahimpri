@@ -140,11 +140,15 @@ We also organised enrichment activities to stretch the high-progress students.
 
 ### Enrichment activities
 
-<strong>Primary 2</strong>&nbsp;- Enrichment programme (building 21st competencies through games)</p>
-<p><strong>Primary 3</strong>&nbsp;- Enrichment programme (building 21st competencies through games)</p>
-<p><strong>Primary 4</strong>&nbsp;- Excellence 2000 Mathematics</p>
-<p><strong>Primary 5</strong>&nbsp;- Excellence 2000 Mathematics</p>
-<p><strong>Primary 6</strong>&nbsp;- Excellence 2000 Mathematics
+**Primary 2**&nbsp;- Enrichment programme (building 21st competencies through games)
+
+**Primary 3**&nbsp;- Enrichment programme (building 21st competencies through games)
+
+**Primary 4**&nbsp;- Excellence 2000 Mathematics
+
+**Primary 5**&nbsp;- Excellence 2000 Mathematics</p>
+
+**Primary 6**&nbsp;- Excellence 2000 Mathematics
 	
 ## Math Practical (P1 - P6)
 	
