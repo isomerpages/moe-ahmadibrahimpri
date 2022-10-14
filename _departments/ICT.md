@@ -35,10 +35,7 @@ Equip and Empower the Learners
 
 (6) To build strong partnership with key stakeholders: MOE, Parents, IHLs, NGOs, strategic vendors and Twinning School
 
-<ul class="jekyllcodex_accordion">  
-  <li>  
-    <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Department Members:</label>  
+### Department Members:
 
 | Department Members: |
 |---|
@@ -61,31 +58,32 @@ Equip and Empower the Learners
 | Mdm Nadiah |
 | Mr Wu Hao |
 | Mdm Zhang Li |
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">School ICT Approach</label>  
-    <div>  
-      <h4 id="information-technology-for-learning-and-teaching">Information Technology for Learning and Teaching</h4>
-<p><strong>IT for Collaboration and Self-directed Learning</strong>  </p>
-<p>IT is embedded in the curriculum and pupils use Information and Communication Technology tools for collaboration and self-directed learning. These tools include web 2.0 technologies such as Google sites, Google documents, etc. Teachers also use online forums and communication technologies to engage students in deeper discussions of concepts and developments.</p>
-<p><strong>Robotics Club</strong></p>
-<p>Students who have an interest or talent in IT can join the school Robotics clubs to explore using technologies in their projects and participate in national competitions. These students can look forward to enhancing their skills to the next level and also take advantage of available platforms to learn from talented peers.</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Cyber Wellness</label>  
-    <div>  
-      <p><strong>Cyber Wellness Education</strong></p>
-<p>We have an innovative Cyber Wellness programme to educate our students from Primary 1 onwards, advocating the Cyber Wellness principles of “Safe and Responsible Use” and “Respect for Self and Others” as well as the 3-step approach “Sense”, “Think” and “Act”.</p>
-<p>The key purpose of AIPS’ Cyber Wellness Programme is to provide a holistic cyber wellness education, addressing concerns of online safety, security and well-being of our students when using modern technologies and understanding the potential dangers of harmful online behaviours and be aware of how to protect oneself from them.</p>
-<p>The main topics covered in our cyber wellness education include Netiquette, Dangers with Cyber Contacts, Cyber bullying, Handling Inappropriate Content, Games Addiction and Copyright.</p>
-<p><strong>Cyber Wellness Week</strong></p>
-<p><img src="/images/CyberWellnessWeek.png" alt=""></p>
-<p><img src="/images/CyberWellnessWeek2.png" alt=""></p>
+
+### School ICT Approach
+
+		
+#### Information Technology for Learning and Teaching
+		
+**IT for Collaboration and Self-directed Learning**
+		
+IT is embedded in the curriculum and pupils use Information and Communication Technology tools for collaboration and self-directed learning. These tools include web 2.0 technologies such as Google sites, Google documents, etc. Teachers also use online forums and communication technologies to engage students in deeper discussions of concepts and developments.
+
+**Robotics Club**
+		
+Students who have an interest or talent in IT can join the school Robotics clubs to explore using technologies in their projects and participate in national competitions. These students can look forward to enhancing their skills to the next level and also take advantage of available platforms to learn from talented peers.
+
+### Cyber Wellness
+
+**Cyber Wellness Education**
+
+We have an innovative Cyber Wellness programme to educate our students from Primary 1 onwards, advocating the Cyber Wellness principles of “Safe and Responsible Use” and “Respect for Self and Others” as well as the 3-step approach “Sense”, “Think” and “Act”.
+
+The key purpose of AIPS’ Cyber Wellness Programme is to provide a holistic cyber wellness education, addressing concerns of online safety, security and well-being of our students when using modern technologies and understanding the potential dangers of harmful online behaviours and be aware of how to protect oneself from them.
+
+The main topics covered in our cyber wellness education include Netiquette, Dangers with Cyber Contacts, Cyber bullying, Handling Inappropriate Content, Games Addiction and Copyright.
+
+**Cyber Wellness Week**
+
+<img src="/images/CyberWellnessWeek.png" alt="">
+<img src="/images/CyberWellnessWeek2.png" alt="">
   
-    </div>  
-</li>  
-</ul>
