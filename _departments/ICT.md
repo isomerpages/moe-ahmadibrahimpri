@@ -1,6 +1,6 @@
 ---
 title: ICT
-permalink: /departments/ict
+permalink: /departments/ict/
 description: ""
 ---
 #### Vision:
@@ -39,8 +39,28 @@ Equip and Empower the Learners
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Department Members:</label>  
-    <div>  
-      <table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); color: rgb(0, 0, 0); font-family: Rubik, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mr Nurul Hatta</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mr Ben Koh</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Nursyahirah</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Fang Jing</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Sarina Banu</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Ms Chee Jia Pei</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Ismiralda</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Siti Aishah</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Kalpana</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Seriyati</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mr Melvin Yeoh</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Ms Haslinda</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Ms Lynn Lim</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Suriyanti</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mr Daniel Goh</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Meredith Goh</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Nadiah</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mr Wu Hao</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="566" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Mdm Zhang Li</p></td></tr></tbody></table>  
+
+| Department Members: |
+|---|
+| Mr Nurul Hatta |
+| Mr Ben Koh |
+| Mdm Nursyahirah |
+| Mdm Fang Jing |
+| Mdm Sarina Banu |
+| Ms Chee Jia Pei |
+| Mdm Ismiralda |
+| Mdm Siti Aishah |
+| Mdm Kalpana |
+| Mdm Seriyati |
+| Mr Melvin Yeoh |
+| Ms Haslinda |
+| Ms Lynn Lim |
+| Mdm Suriyanti |
+| Mr Daniel Goh |
+| Mdm Meredith Goh |
+| Mdm Nadiah |
+| Mr Wu Hao |
+| Mdm Zhang Li |
     </div>  
 </li>  
 <li>  
