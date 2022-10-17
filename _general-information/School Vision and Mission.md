@@ -23,7 +23,7 @@ Ahmad Ibrahim Primary School (AIPS) set up in 1995, is named after Mr Ahmad Ibra
 
 It stands as a reminder of the courage, determination and pride of our leaders who dedicated their lives to the building of our nation. When AIPS first started functioning, it had 23 classes from P1 – P6, with pupils and staff mainly from Sembawang School which closed its doors in November 1994. The school went single session in 2003, after the completion of PRIME (Programme for Rebuilding and Improving Existing Schools).
 
-<a href="https://www.youtube.com/watch?v=G5ZE5adxCuE">Click here to view video</a></p>
+<a href="https://www.youtube.com/watch?v=G5ZE5adxCuE">Click here to view video</a>
 
 #### School Song / Creed
 			
