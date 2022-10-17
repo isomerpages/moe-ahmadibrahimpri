@@ -71,28 +71,21 @@ Learning scopes:
 #### P5 Totally Outrageous Day Project
 
 Learning scopes:
-<ol>
-<li><p>Students work in teams to reinforce their learning on water conservation through a problem-based learning platform</p>
-</li>
-<li><p>Students develop 21st Century Competencies like confidence, cooperation, creativity, curiosity &amp; cultural awareness</p>
-</li>
-</ol>
-<p><img alt="" style="width:75%" src="/images/totally%20outrageous1.png"></p>
-<p><img alt="" src="/images/totally%20outrageous2.png style="></p>
-<p><img alt="" style="width:75%" src="/images/totally%20outrageous3.png"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">P5 Eco - Camp</label>
-    <div>
-      <p>Learning scopes:</p>
-<ol>
-<li><p>Students pick up hands-on skills in water quality testing</p>
-</li>
-<li><p>Students understand and appreciate the importance of water conservation</p>
-</li>
-</ol>
+
+1. Students work in teams to reinforce their learning on water conservation through a problem-based learning platform
+2. Students develop 21st Century Competencies like confidence, cooperation, creativity, curiosity &amp; cultural awareness
+
+<img alt="" style="width:75%" src="/images/totally%20outrageous1.png">
+<img alt="" src="/images/totally%20outrageous2.png style=">
+<img alt="" style="width:75%" src="/images/totally%20outrageous3.png">
+
+#### P5 Eco - Camp
+
+Learning scopes:
+
+1. Students pick up hands-on skills in water quality testing
+2. Students understand and appreciate the importance of water conservation
+
 <p><img alt="" src="/images/p5%20eco%20camp.png"></p>
     </div>
 	</li>
