@@ -86,88 +86,58 @@ Learning scopes:
 1. Students pick up hands-on skills in water quality testing
 2. Students understand and appreciate the importance of water conservation
 
-<p><img alt="" src="/images/p5%20eco%20camp.png"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion9" type="checkbox">
-    <label for="accordion9">P5 Community Outreach</label>
-    <div>
-      <p>Learning scopes:</p>
-<ol>
-<li><p>Students advocate messages on the 'importance of saving water' to the public as ambassadors</p>
-</li>
-<li><p>Students develop confidence in engaging public audience</p>
-</li>
-</ol>
-<p><img alt="" src="/images/p5%20community%20outreach.png"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion10" type="checkbox">
-    <label for="accordion10">P6 Eco-camp (Coney Island)</label>
-    <div>
-      <p>Learning Scopes:</p>
-<ol>
-<li><p>Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat</p>
-</li>
-<li><p>Students contribute to the cleaning up of the Punggol Promenade coast</p>
-</li>
-</ol>
-<p><img alt="" src="/images/p6%20eco%20camp.png"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">P6 Community Outreach</label>
-    <div>
-      <p>Learning scopes:  </p>
-<ol>
-<li><p>Students advocate messages on “Reduce, Reuse and Recycle” to the public as ambassadors</p>
-</li>
-<li><p>Students develop confidence in engaging public audience</p>
-</li>
-</ol>
-<p><img alt="Our students interacting with the public" src="/images/p6%20community%20outreach.png"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion12" type="checkbox">
-    <label for="accordion12">World Water Day</label>
-    <div>
-      <p>Learning scopes:</p>
-<ol>
-<li><p>Students learn about local &amp; global water wastage &amp; pollution issues</p>
-</li>
-<li><p>Students appreciate the importance to use water wisely</p>
-</li>
-</ol>
-<p><img alt="" src="/images/world%20water%20day1.png"></p>
-<p><img alt="" src="/images/world%20water%20day2.png"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion13" type="checkbox">
-    <label for="accordion13">Youth for the Environmental Sustainability (YES) Day</label>
-    <div>
-      <p>Learning scopes:</p>
-<p>1)&nbsp;Students learn about local issues related to waste recycling.</p>
-<p>2)&nbsp;Students appreciate the importance to reducing waste &amp; recycling waste right.</p>
-<p><img alt="" src="/images/YES.png"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion14" type="checkbox">
-    <label for="accordion14">Science Book Promotion</label>
-    <div>
-      <p>Learning scopes:</p>
-<ol>
-<li><p>Students learn about reading Science books.</p>
-</li>
-<li><p>Students understand and appreciate the joy of reading.</p>
-</li>
-</ol>
-<p><img alt="" src="/images/science%20book%20promo.png"></p>
-    </div>
-	</li>
-</ul>
+<img alt="" src="/images/p5%20eco%20camp.png">
+
+#### P5 Community Outreach
+
+Learning scopes:
+
+1. Students advocate messages on the 'importance of saving water' to the public as ambassadors
+2. Students develop confidence in engaging public audience
+
+<img alt="" src="/images/p5%20community%20outreach.png">
+
+####P6 Eco-camp (Coney Island)
+
+Learning Scopes:
+
+1. Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat
+2. Students contribute to the cleaning up of the Punggol Promenade coast
+
+<img alt="" src="/images/p6%20eco%20camp.png">
+
+#### P6 Community Outreach</label>
+
+Learning scopes: 
+
+1. Students advocate messages on “Reduce, Reuse and Recycle” to the public as ambassadors
+2. Students develop confidence in engaging public audience
+	
+<img alt="Our students interacting with the public" src="/images/p6%20community%20outreach.png">
+
+#### World Water Day
+
+Learning scopes:
+
+1. Students learn about local &amp; global water wastage &amp; pollution issues
+2. Students appreciate the importance to use water wisely
+
+<img alt="" src="/images/world%20water%20day1.png"><img alt="" src="/images/world%20water%20day2.png">
+
+#### Youth for the Environmental Sustainability (YES) Day<
+
+Learning scopes:
+
+1. Students learn about local issues related to waste recycling.
+2. Students appreciate the importance to reducing waste &amp; recycling waste right.
+
+<img alt="" src="/images/YES.png">
+
+#### Science Book Promotion
+
+Learning scopes:
+
+1. Students learn about reading Science books.
+2. Students understand and appreciate the joy of reading.
+
+<img alt="" src="/images/science%20book%20promo.png">
