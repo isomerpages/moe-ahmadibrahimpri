@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - English Folder/curriculum.md
-      - English Folder/.keep
       - Departments.md
       - English.md
       - Mother Tongue/.keep
