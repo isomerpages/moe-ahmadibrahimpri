@@ -9,55 +9,13 @@ The students were invited to suggest activities that could help develop good rel
 
 The lower primary students came up with class-based suggestions, while the upper primary students made independent suggestions. They submitted their suggestions via online platforms, either by QR code or the SLS platform. Thus, being environmentally-friendly and reducing the need for paper!
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/pic1_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
-  
-</body>
+<img src="/images/pic1_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
 
-<br>
+<img src="/images/Pic3_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Pic3_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
-  
-</body>
+<img src="/images/Pic4_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
 
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Pic4_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
-  
-</body>
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/pic5_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
-  
-</body>
+<img src="/images/pic5_edited.jpeg" alt="Aspirations@AIPS: Putting Social Defence into Action" style="width:60%;">  
 
 Based on suggestions from students from Term 1’s Aspiration@Aips theme, all classes were to make a mailbox out of a clear plastic folder and pin it on the class noticeboard. Students could start using this ‘mailbox’ to write their messages and wishes to their birthday friends.  
 
