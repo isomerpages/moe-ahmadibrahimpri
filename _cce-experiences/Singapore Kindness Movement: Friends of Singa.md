@@ -13,13 +13,4 @@ For the first mission, students learnt more about path sharing between cyclists 
 
 ![Singapore Kindness Movement: Friends of Singa](/images/Singapore%20Kindness%20Movement:%20Friends%20of%20Singa_2.jpg)
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/FOS%202.jpeg" alt="Singapore Kindness Movement: Friends of Singa" style="width:40%;">  
-  
-</body>
+<img src="/images/FOS%202.jpeg" alt="Singapore Kindness Movement: Friends of Singa" style="width:40%;">  
