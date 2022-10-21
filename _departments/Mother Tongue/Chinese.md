@@ -47,20 +47,19 @@ third_nav_title: Mother Tongue
 恭喜我校小二学生在木偶中文大赛中取得优异成绩（merit award)
 <strong>video to be embedded here</strong>
 
-##### 2020 庆祝华人新年</label>
-    <div>
-      <h3 id="今年1月24日我校举行了欢乐的新年庆祝会。早上，学生们先在课室观看华人新年习俗的录影，参与生动有趣的课堂活动。过后，学生们移入礼堂，新年庆祝会在王校长的击鼓声中正式拉开了序幕">今年1月24日我校举行了欢乐的新年庆祝会。早上，学生们先在课室观看华人新年习俗的录影，参与生动有趣的课堂活动。过后，学生们移入礼堂，新年庆祝会在王校长的击鼓声中正式拉开了序幕</h3>
-<p><img src="/images/accordion5-1.jpg" alt="2020 庆祝华人新年"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">2020 母语双周活动 - 小四课堂文化活动</label>
-    <div>
-      <h3 id="小四学生在课堂上学习灯笼制作">小四学生在课堂上学习灯笼制作</h3>
-<p><img src="/images/accordion6-1.png" alt="小四学生在课堂上学习灯笼制作"></p>
-<p><img src="/images/accordion6-2.png" alt="小四学生在课堂上学习灯笼制作"></p>
-<p><img src="/images/accordion6-3.png" alt="小四学生在课堂上学习灯笼制作"></p>
+##### 2020 庆祝华人新年
+
+今年1月24日我校举行了欢乐的新年庆祝会。早上，学生们先在课室观看华人新年习俗的录影，参与生动有趣的课堂活动。过后，学生们移入礼堂，新年庆祝会在王校长的击鼓声中正式拉开了序幕
+
+<img src="/images/accordion5-1.jpg" alt="2020 庆祝华人新年">
+
+##### 2020 母语双周活动 - 小四课堂文化活动
+
+小四学生在课堂上学习灯笼制作
+
+<img src="/images/accordion6-1.png" alt="小四学生在课堂上学习灯笼制作">
+<img src="/images/accordion6-2.png" alt="小四学生在课堂上学习灯笼制作">
+<img src="/images/accordion6-3.png" alt="小四学生在课堂上学习灯笼制作"></p>
     </div>
 	</li>
 	 <li>
@@ -92,47 +91,33 @@ third_nav_title: Mother Tongue
     <label for="accordion10">2019 庆祝华人新年</label>
     <div>
       <h3 id="2019-庆祝华人新年">2019 庆祝华人新年</h3>
-<p><img src="/images/accordion10-1.png" alt="2019 庆祝华人新年"></p>
-<p><img src="/images/accordion10-2.png" alt="2019 庆祝华人新年"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">2019 学生荣誉榜</label>
-    <div>
-      <h3 id="恭喜田雅匀（4diligence）荣获北区讲故事比赛冠军">恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军</h3>
-<p><img src="/images/accordion11-1.jpg" alt="恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12">2019 母语双周活动 - P2动物园学习之旅</label>
-    <div>
-      <p><img src="/images/accordion12-1.png" style="width:70%" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
-<p><img src="/images/accordion12-2.png" style="width:70%" alt="2019 母语双周活动 - P2动物园学习之旅"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion13">
-    <label for="accordion13">2019 母语双周活动 - P3文化交流活动</label>
-    <div>
-      <p><img src="/images/accordion13-1.png" alt="2019 母语双周活动 - P3文化交流活动"></p>
-<p><img src="/images/accordion13-2.png" alt="2019 母语双周活动 - P3文化交流活动"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14">2019 母语双周活动 - P5扇画活动</label>
-    <div>
-      <p><img src="/images/accordion14-1.png" alt="2019 母语双周活动 - P5扇画活动"></p>
-<p><img src="/images/accordion14-2.png" style="width:75%" alt="2019 母语双周活动 - P5扇画活动"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15">2019 母语双周活动 - P4认识端午节</label>
-    <div>
-      <p><img src="/images/accordion15-1.png" alt="2019 母语双周活动 - P4认识端午节"></p>
+<p><img src="/images/accordion10-1.png" alt="2019 庆祝华人新年">
+<img src="/images/accordion10-2.png" alt="2019 庆祝华人新年">
+
+##### 2019 学生荣誉榜
+	
+恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军</h3>
+<p><img src="/images/accordion11-1.jpg" alt="恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军">
+	
+##### 2019 母语双周活动 - P2动物园学习之旅
+			
+<img src="/images/accordion12-1.png" style="width:70%" alt="2019 母语双周活动 - P2动物园学习之旅">
+				
+<img src="/images/accordion12-2.png" style="width:70%" alt="2019 母语双周活动 - P2动物园学习之旅">
+	
+##### 2019 母语双周活动 - P3文化交流活
+			
+<img src="/images/accordion13-1.png" alt="2019 母语双周活动 - P3文化交流活动">
+<img src="/images/accordion13-2.png" alt="2019 母语双周活动 - P3文化交流活动">
+
+##### 2019 母语双周活动 - P5扇画活动
+			
+<img src="/images/accordion14-1.png" alt="2019 母语双周活动 - P5扇画活动"></p>
+<p><img src="/images/accordion14-2.png" style="width:75%" alt="2019 母语双周活动 - P5扇画活动">
+
+##### 2019 母语双周活动 - P4认识端午节
+			
+<img src="/images/accordion15-1.png" alt="2019 母语双周活动 - P4认识端午节"></p>
 <p><img src="/images/accordion15-2.png" style="width:80%" alt="2019 母语双周活动 - P4认识端午节"></p>
     </div>
 	</li>
