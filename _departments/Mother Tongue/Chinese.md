@@ -59,45 +59,39 @@ third_nav_title: Mother Tongue
 
 <img src="/images/accordion6-1.png" alt="小四学生在课堂上学习灯笼制作">
 <img src="/images/accordion6-2.png" alt="小四学生在课堂上学习灯笼制作">
-<img src="/images/accordion6-3.png" alt="小四学生在课堂上学习灯笼制作"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">2020 母语双周活动 - 小六语文问答比赛</label>
-    <div>
-      <h3 id="2020-母语双周活动---小六语文问答比赛">2020 母语双周活动 - 小六语文问答比赛</h3>
-<p><img src="/images/accordion7-1.png" alt="2020 母语双周活动 - 小六语文问答比赛"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">2020 母语双周活动 - 小五语文问答比赛</label>
-    <div>
-      <h3 id="2020-母语双周活动---小五语文问答比赛">2020 母语双周活动 - 小五语文问答比赛</h3>
-<p><img src="/images/accordion8-1.png" alt="2020 母语双周活动 - 小五语文问答比赛"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">2020 母语双周活动 - 报章报道</label>
-    <div>
-      <h3 id="新明日报近日对我校中医中药课程进行了报道">新明日报近日对我校中医中药课程进行了报道</h3>
-<p><img src="/images/accordion9-1.jpg" style="width:60%" alt="新明日报近日对我校中医中药课程进行了报道"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">2019 庆祝华人新年</label>
-    <div>
-      <h3 id="2019-庆祝华人新年">2019 庆祝华人新年</h3>
-<p><img src="/images/accordion10-1.png" alt="2019 庆祝华人新年">
+<img src="/images/accordion6-3.png" alt="小四学生在课堂上学习灯笼制作">
+
+##### 2020 母语双周活动 - 小六语文问答比赛
+
+2020 母语双周活动 - 小六语文问答比赛
+
+<img src="/images/accordion7-1.png" alt="2020 母语双周活动 - 小六语文问答比赛">
+
+##### 2020 母语双周活动 - 小五语文问答比赛
+
+2020 母语双周活动 - 小五语文问答比赛
+
+<img src="/images/accordion8-1.png" alt="2020 母语双周活动 - 小五语文问答比赛"></p>
+
+##### 2020 母语双周活动 - 报章报道
+			
+新明日报近日对我校中医中药课程进行了报道
+				
+<img src="/images/accordion9-1.jpg" style="width:60%" alt="新明日报近日对我校中医中药课程进行了报道">
+   
+			
+##### 2019 庆祝华人新年
+			
+2019 庆祝华人新年
+			
+<img src="/images/accordion10-1.png" alt="2019 庆祝华人新年">
 <img src="/images/accordion10-2.png" alt="2019 庆祝华人新年">
 
 ##### 2019 学生荣誉榜
 	
-恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军</h3>
-<p><img src="/images/accordion11-1.jpg" alt="恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军">
+恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军
+	
+<img src="/images/accordion11-1.jpg" alt="恭喜田雅匀（4Diligence）荣获北区讲故事比赛冠军">
 	
 ##### 2019 母语双周活动 - P2动物园学习之旅
 			
@@ -112,28 +106,20 @@ third_nav_title: Mother Tongue
 
 ##### 2019 母语双周活动 - P5扇画活动
 			
-<img src="/images/accordion14-1.png" alt="2019 母语双周活动 - P5扇画活动"></p>
-<p><img src="/images/accordion14-2.png" style="width:75%" alt="2019 母语双周活动 - P5扇画活动">
+<img src="/images/accordion14-1.png" alt="2019 母语双周活动 - P5扇画活动">
+<img src="/images/accordion14-2.png" style="width:75%" alt="2019 母语双周活动 - P5扇画活动">
 
 ##### 2019 母语双周活动 - P4认识端午节
 			
-<img src="/images/accordion15-1.png" alt="2019 母语双周活动 - P4认识端午节"></p>
-<p><img src="/images/accordion15-2.png" style="width:80%" alt="2019 母语双周活动 - P4认识端午节"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion16">
-    <label for="accordion16">2019 母语双周活动 - P6语文问答比赛</label>
-    <div>
-      <p><img src="/images/accordion16-1.png" alt="2019 母语双周活动 - P6语文问答比赛"></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion17">
-    <label for="accordion17">2019 母语双周活动 - 访问南凤善堂医药中心</label>
-    <div>
-      <p><img src="/images/accordion17-1.png" alt="2019 母语双周活动 - 访问南凤善堂医药中心"></p>
-<p><img src="/images/accordion17-2.png" style="width:70%" alt="2019 母语双周活动 - 访问南凤善堂医药中心"></p>
-    </div>
-	</li>
-</ul>
+<img src="/images/accordion15-1.png" alt="2019 母语双周活动 - P4认识端午节"><
+<img src="/images/accordion15-2.png" style="width:80%" alt="2019 母语双周活动 - P4认识端午节">
+	
+##### 2019 母语双周活动 - P6语文问答比赛
+	
+<img src="/images/accordion16-1.png" alt="2019 母语双周活动 - P6语文问答比赛">
+	
+	
+##### 2019 母语双周活动 - 访问南凤善堂医药中心
+	
+<img src="/images/accordion17-1.png" alt="2019 母语双周活动 - 访问南凤善堂医药中心">
+<img src="/images/accordion17-2.png" style="width:70%" alt="2019 母语双周活动 - 访问南凤善堂医药中心">
