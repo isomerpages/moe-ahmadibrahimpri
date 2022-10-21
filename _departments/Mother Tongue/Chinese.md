@@ -71,7 +71,7 @@ third_nav_title: Mother Tongue
 
 2020 母语双周活动 - 小五语文问答比赛
 
-<img src="/images/accordion8-1.png" alt="2020 母语双周活动 - 小五语文问答比赛"></p>
+<img src="/images/accordion8-1.png" alt="2020 母语双周活动 - 小五语文问答比赛">
 
 ##### 2020 母语双周活动 - 报章报道
 			
