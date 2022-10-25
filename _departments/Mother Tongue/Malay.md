@@ -112,20 +112,24 @@ Pada tahun 2021, Rakan Bahasa kita, Nur Asyura &amp; Nur Alesya telah menyertai 
 
 Dengan bimbingan Cikgu Aishah dan bantuan teman-teman dari Darjah 4, mereka telah menghasilkan video untuk pertandingan ini. Mari kita tonton hasil kerja mereka. Semoga terhibur!</p>
 <p><strong>video to be embedded here!!</strong></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">2021 Program Dwimingguan Bahasa Ibunda</label>
-    <div>
-      <p>Program Dwimingguan Bahasa Ibunda baru sahaja diadakan pada awal penggal ketiga. Para pelajar diberikan peluang untuk mempelajari bahasa dan budaya Melayu dengan lebih mendalam. Mereka juga diberikan peluang untuk menggunakan Bahasa Melayu dengan cara yang berbeza melalui beberapa pertandingan yang menarik.</p>
-<p>Mari kita lihat apakah aktiviti serta pertandingan yang telah diadakan bagi setiap peringkat!</p>
-<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda1.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
-<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda2.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
-<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda3.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
-<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda4.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
-<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda5.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda"></p>
-<p><img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda6.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
+
+#### 2021 Program Dwimingguan Bahasa Ibunda
+
+Program Dwimingguan Bahasa Ibunda baru sahaja diadakan pada awal penggal ketiga. Para pelajar diberikan peluang untuk mempelajari bahasa dan budaya Melayu dengan lebih mendalam. Mereka juga diberikan peluang untuk menggunakan Bahasa Melayu dengan cara yang berbeza melalui beberapa pertandingan yang menarik.
+
+Mari kita lihat apakah aktiviti serta pertandingan yang telah diadakan bagi setiap peringkat!
+
+<img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda1.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
+
+<img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda2.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
+
+<img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda3.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
+
+<img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda4.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
+
+<img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda5.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
+
+<img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda6.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
 	
 	Sang Kancil masuk belukar,
 	Mencari teman Si Kura-kura;
@@ -142,90 +146,95 @@ Mari kita ucapkan tahniah kepada Nur Asyura dan Nur Alesya dari 4 Care! Semoga b
 ##### 2021 Persahabatan Sedunia (International Friendship Day)
 			
 
-<img src="/images/2021%20Persahabatan%20Sedunia%20(International%20Friendship%20Day).jpg" style="width:60%" alt="2021 Persahabatan Sedunia (International Friendship Day)"></p>
-<p>Pada tanggal 16 April, kami telah menyambut Hari Persahabatan Sedunia. Semua pelajar AIPS digalakkan memakai pakaian tradisional masing-masing untuk memeriahkan suasana sambutan pada hari itu. Banyak aktiviti menarik yang telah dijalankan dalam kelas Bahasa Melayu sempena sambutan Hari Persahabatan Sedunia. Melalui aktiviti dan permainan tersebut, para pelajar berpeluang untuk lebih mengenali tentang budaya negara-negara ASEAN.
+<img src="/images/2021%20Persahabatan%20Sedunia%20(International%20Friendship%20Day).jpg" style="width:60%" alt="2021 Persahabatan Sedunia (International Friendship Day)">
+
+Pada tanggal 16 April, kami telah menyambut Hari Persahabatan Sedunia. Semua pelajar AIPS digalakkan memakai pakaian tradisional masing-masing untuk memeriahkan suasana sambutan pada hari itu. Banyak aktiviti menarik yang telah dijalankan dalam kelas Bahasa Melayu sempena sambutan Hari Persahabatan Sedunia. Melalui aktiviti dan permainan tersebut, para pelajar berpeluang untuk lebih mengenali tentang budaya negara-negara ASEAN.
 	
 ##### 2021 Hari Pertahanan Mutlak
 	
 Kami telah menyambut Hari Pertahanan Mutlak pada tarikh 18 Februari 2021. Sempena memperingati hari Singapura jatuh ke dalam cengkaman penjajah Jepun, pengetua sekolah telah membacakan amanat untuk mengingatkan kami tentang kepentingan Pertahanan Mutlak. Terdapat pelbagai aktiviti menarik yang telah dijalankan sewaktu kelas Bahasa Melayu sempena menyambut Hari Pertahanan Mutlak.
 	
-<img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak"></p>
-<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak"></p>
-<p>Contohnya, para pelajar Darjah 4 telah melakonkan sketsa secara berkumpulan untuk menunjukkan bagaimana kita boleh sama-sama memainkan peranan untuk menjaga keselamatan Singapura.</p>
-<p><img src="/images/2021%20Hari%20Pertahanan%20Mutlak3.png" alt="2021 Hari Pertahanan Mutlak"></p>
-<p>Para pelajar Darjah Dua pula telah cuba permainan yang direka khas sempena Hari Pertahanan Mutlak. Melalui permainan ini, mereka mempelajari cara-cara mudah yang dapat mereka lakukan di rumah dan di sekolah untuk memastikan Singapura selamat dan bersedia untuk mempertahankan diri dari ancaman di dalam dan di luar negara.</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">2020 Sambutan Hari Raya</label>
-    <div>
-      <p>Salah satu aktivit yang meriah pada tahun ini merupakan sambutan Hari Raya. Walaupun tidak dapat berkumpul atau ziarah menziarahi, hubungan tetap erat dan semangat Hari Raya tetap meriah.</p>
-<p>Sambutan Hari Raya tahun ini tidak kurang meriah.Ikuti video Hari Raya yang telah dihasilkan oleh tenaga kerja Melayu di AIPS.</p>
-<h3 id="2020-hari-raya-video">2020 Hari Raya Video</h3>
-<p>Ini merupakan video sambutan Hari Raya yang kami hasilkan. Kami harap semua akan dapat menikmati Hari Raya dengan meriah.</p>
-<p><strong>VIDEO TO BE EMBEDDED HERE!!!</strong></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12">2019 Rakan Bahasa</label>
-    <div>
-      <p>Pada tahun ini, dua murid darjah empat dari AIPS telah dicalonkan sebagai Rakan Bahasa. Kedua murid itu ialah Norhendra Irfan Paton (4 Care) dan Hannan Shafaatul Auli’a Bte Mohd Hanafi (4 Excellence).</p>
-<p>Mereka telah menerima pencalonan dalam satu majlis khas yang diadakan pada 13 April 2019 yang lalu di Pusat Kebudayaan Cina Singapura. Dalam majlis itu, mereka telah bertemu dengan para Rakan Bahasa dari serata Singapura. Mereka juga disajikan dengan taklimat berkenaan bengkel-bengkel dan peraduan-peraduan yang akan mereka lalui sepanjang tempoh perkhidmatan mereka sebagai Rakan Bahasa. Ini termasuk aktiviti-aktiviti bulanan (dalam kad misi) yang perlu mereka selesaikan untuk meraih lencana Rakan Bahasa di akhirnya.</p>
-<p><img src="/images/2019%20Rakan%20Bahasa1.jpg" style="width:60%" alt=""></p>
-<p>Acara pertama yang telah mereka sertai baru-baru ini ialah Pertandingan NewsMaker 2019. Berlangsung pada tanggal 22 Mei 2019, pertandingan itu telah diadakan di Taman Warisan.</p>
-<p>Dengan tema ‘Sejarah Singapuraku’ sebagai panduan, para peserta dikehendaki membuat laporan berupa video selama 2 minit. Menggunakan aplikasi NewsMaker, ia memberikan satu pengalaman yang menarik bagi kedua Rakan Bahasa kita. Dari memikirkan laporan, rakaman hingga penyuntingan video, Hannan dan Hendra bertungkus-lumus menyiapkannya dalam masa 2 jam yang diberikan. Ya, dua jam sahaja. Hebatkan mereka?</p>
-<p><img src="/images/2019%20Rakan%20Bahasa2.jpg" style="width:70%" alt="2019 Rakan Bahasa"></p>
-<p>Masa yang agak suntuk tapi kedua Rakan Bahasa kita berjaya menyelesaikan tugasan yang diberi. Malah mereka berasa seronok kerana banyak yang telah diraih pada hari tersebut.</p>
-<p>Yang pastinya, lagi banyak peluang yang menanti mereka. Kami berharap mereka dapat membanggakan AIPS dengan menjalankan tanggungjawab dengan penuh dedikasi dan terus melestarikan budaya dan Bahasa Melayu</p>
-<p><img src="/images/2019%20Rakan%20Bahasa3.jpg" style="width:70%" alt="2019 Rakan Bahasa"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion13">
-    <label for="accordion13">2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)</label>
-    <div>
-      <p>Program ini telah dijayakan dengan gabungan usaha ahli PSG AIPS. Ahli PSG yang berdedikasi tinggi bukan sahaja telah membantu kami membimbing para pelajar supaya dapat membaca dengan lebih lancar. Malah, mereka telah memberikan motivasi dan menanamkan minat pada Bahasa Melayu di dalam diri para pelajar ini.</p>
-<p>Peserta program ini terdiri daripada para pelajar darjah 1 dan 2. Program ini dijalankan pada hari Selasa dari jam 2.15 ptg hingga 3 ptg.</p>
-<p><img src="/images/malaybuddyreading1.png" alt="2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)"></p>
-<p><img src="/images/malaybuddyreading2.jpg" alt="2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14">2019 AIPS dalam Fokus</label>
-    <div>
-      <p>On 3 July 2019, selected Malay students from Primary 2 had the privilege of meeting Assoc Prof Faishal Ibrahim, MP for Nee Soon GRC, during a 2 hour lesson. The entire lesson was on Singapura Kita (Our Singapore) and the students, together with Prof Faishal, had to brainstorm ideas on how life in the future will be. The entire 2 hour lesson was filmed and was then broadcasted on the Suria channel news on 17 August 2019.</p>
-<p><img src="/images/2019%20AIPS%20dalam%20Fokus1.jpeg" alt="2019 AIPS dalam Fokus"></p>
-<p><img src="/images/2019%20AIPS%20dalam%20Fokus2.png" alt="2019 AIPS dalam Fokus"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15">2019 Interactive Children’s Theatre Drama and Workshop</label>
-    <div>
-      <p>On the 21st September 2019, a group of Primary 3 Malay students had the opportunity to attend an ‘Interactive Children’s Theatre Drama and Workshop’. Organised by T.I.E (Theatre In Education), the workshop was held in Pek Kio CC Performing Theatre. The theatre directed by Awal’liyah Jaafar was based on an old Malay folklore named ‘Singapura Dilanggar Todak’. It was interesting as our students had the chance to be involved during the theatre. From being part of the ‘villagers’ to form a rampart with one of the plaintain stems to being part of the ‘sea’ where the swordfish were being passed down the audience, it allowed the students to be immersed in the theatre meaningfully. During the workshop, students went through an hour of interesting activities. Apart from drama games, they were taught how to project their voice and speech as well as the idea of characterisation. All these were lined up to prepare them with the skills for their mini performance at the end of the workshop. It was exciting to see the students able to be in character for the scenes that they acted out.</p>
-<p><img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop1.png" alt="2019 Interactive Children’s Theatre Drama and Workshop"></p>
-<p><img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop2.png" alt="2019 Interactive Children’s Theatre Drama and Workshop"></p>
-<p><img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop3.png" alt="2019 Interactive Children’s Theatre Drama and Workshop"></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion16">
-    <label for="accordion16">2019 Peraduan Karya Minda Kreatif</label>
-    <div>
-      <p>37 of our selected students from P3 to P6 taking Malay Language have participated in the Malay Essay Writing Competition at National Level in 2019. They have been trained to write creatively using their imaginations and writing skills thought by their Malay language teachers. Five of them won the top 20 Gold award in category P3/P4 and P5/P6. We are also proud to announce that our school won first place for the Best team award for the year 2019.</p>
-<p>Our proud winners are as follows ;</p>
-<ul>
-<li>Nur Syifa’ Emelda Binte Said (4 Excellence) - 17th place </li>
-<li>Alya Batrisyia Binte Asrizal (4 Diligence) - 12th place</li>
-<li>Norhendra Irfan Paton from (4 Care) - 5th place</li>
-<li>Eliza Isabella Binte Wande (5 Honesty) - 18th place</li>
-<li>Nur Adrina Binte Kasmadi (6 Honesty) - 8th place</li>
-</ul>
-<p><img src="/images/2019%20Peraduan%20Karya%20Minda%20Kreatif1.png" alt="2019 Peraduan Karya Minda Kreatif"></p>
-<p><img src="/images/2019%20Peraduan%20Karya%20Minda%20Kreatif2.png" alt="2019 Peraduan Karya Minda Kreatif"></p>
-    </div>
-	</li>
-</ul>
+<img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak">
+
+<img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak">
+
+Contohnya, para pelajar Darjah 4 telah melakonkan sketsa secara berkumpulan untuk menunjukkan bagaimana kita boleh sama-sama memainkan peranan untuk menjaga keselamatan Singapura.
+
+<img src="/images/2021%20Hari%20Pertahanan%20Mutlak3.png" alt="2021 Hari Pertahanan Mutlak">
+
+Para pelajar Darjah Dua pula telah cuba permainan yang direka khas sempena Hari Pertahanan Mutlak. Melalui permainan ini, mereka mempelajari cara-cara mudah yang dapat mereka lakukan di rumah dan di sekolah untuk memastikan Singapura selamat dan bersedia untuk mempertahankan diri dari ancaman di dalam dan di luar negara.
+
+#### 2020 Sambutan Hari Raya
+
+Salah satu aktivit yang meriah pada tahun ini merupakan sambutan Hari Raya. Walaupun tidak dapat berkumpul atau ziarah menziarahi, hubungan tetap erat dan semangat Hari Raya tetap meriah.
+
+Sambutan Hari Raya tahun ini tidak kurang meriah.Ikuti video Hari Raya yang telah dihasilkan oleh tenaga kerja Melayu di AIPS.
+
+##### 2020 Hari Raya Video
+
+Ini merupakan video sambutan Hari Raya yang kami hasilkan. Kami harap semua akan dapat menikmati Hari Raya dengan meriah.
+
+**VIDEO TO BE EMBEDDED HERE!!!**
+
+#### 2019 Rakan Bahasa<
+
+Pada tahun ini, dua murid darjah empat dari AIPS telah dicalonkan sebagai Rakan Bahasa. Kedua murid itu ialah Norhendra Irfan Paton (4 Care) dan Hannan Shafaatul Auli’a Bte Mohd Hanafi (4 Excellence).
+
+Mereka telah menerima pencalonan dalam satu majlis khas yang diadakan pada 13 April 2019 yang lalu di Pusat Kebudayaan Cina Singapura. Dalam majlis itu, mereka telah bertemu dengan para Rakan Bahasa dari serata Singapura. Mereka juga disajikan dengan taklimat berkenaan bengkel-bengkel dan peraduan-peraduan yang akan mereka lalui sepanjang tempoh perkhidmatan mereka sebagai Rakan Bahasa. Ini termasuk aktiviti-aktiviti bulanan (dalam kad misi) yang perlu mereka selesaikan untuk meraih lencana Rakan Bahasa di akhirnya.
+
+<img src="/images/2019%20Rakan%20Bahasa1.jpg" style="width:60%" alt="">
+
+Acara pertama yang telah mereka sertai baru-baru ini ialah Pertandingan NewsMaker 2019. Berlangsung pada tanggal 22 Mei 2019, pertandingan itu telah diadakan di Taman Warisan.
+
+Dengan tema ‘Sejarah Singapuraku’ sebagai panduan, para peserta dikehendaki membuat laporan berupa video selama 2 minit. Menggunakan aplikasi NewsMaker, ia memberikan satu pengalaman yang menarik bagi kedua Rakan Bahasa kita. Dari memikirkan laporan, rakaman hingga penyuntingan video, Hannan dan Hendra bertungkus-lumus menyiapkannya dalam masa 2 jam yang diberikan. Ya, dua jam sahaja. Hebatkan mereka?
+
+<img src="/images/2019%20Rakan%20Bahasa2.jpg" style="width:70%" alt="2019 Rakan Bahasa">
+
+Masa yang agak suntuk tapi kedua Rakan Bahasa kita berjaya menyelesaikan tugasan yang diberi. Malah mereka berasa seronok kerana banyak yang telah diraih pada hari tersebut.
+
+Yang pastinya, lagi banyak peluang yang menanti mereka. Kami berharap mereka dapat membanggakan AIPS dengan menjalankan tanggungjawab dengan penuh dedikasi dan terus melestarikan budaya dan Bahasa Melayu
+
+<img src="/images/2019%20Rakan%20Bahasa3.jpg" style="width:70%" alt="2019 Rakan Bahasa">
+
+#### 2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)
+
+Program ini telah dijayakan dengan gabungan usaha ahli PSG AIPS. Ahli PSG yang berdedikasi tinggi bukan sahaja telah membantu kami membimbing para pelajar supaya dapat membaca dengan lebih lancar. Malah, mereka telah memberikan motivasi dan menanamkan minat pada Bahasa Melayu di dalam diri para pelajar ini.
+
+Peserta program ini terdiri daripada para pelajar darjah 1 dan 2. Program ini dijalankan pada hari Selasa dari jam 2.15 ptg hingga 3 ptg.
+
+<img src="/images/malaybuddyreading1.png" alt="2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)">
+
+<img src="/images/malaybuddyreading2.jpg" alt="2019 Program Bacaan Bahasa Melayu (Malay Buddy Reading)">
+
+#### 2019 AIPS dalam Fokus
+
+On 3 July 2019, selected Malay students from Primary 2 had the privilege of meeting Assoc Prof Faishal Ibrahim, MP for Nee Soon GRC, during a 2 hour lesson. The entire lesson was on Singapura Kita (Our Singapore) and the students, together with Prof Faishal, had to brainstorm ideas on how life in the future will be. The entire 2 hour lesson was filmed and was then broadcasted on the Suria channel news on 17 August 2019.
+
+<img src="/images/2019%20AIPS%20dalam%20Fokus1.jpeg" alt="2019 AIPS dalam Fokus">
+
+<img src="/images/2019%20AIPS%20dalam%20Fokus2.png" alt="2019 AIPS dalam Fokus">
+
+#### 2019 Interactive Children’s Theatre Drama and Workshop
+
+On the 21st September 2019, a group of Primary 3 Malay students had the opportunity to attend an ‘Interactive Children’s Theatre Drama and Workshop’. Organised by T.I.E (Theatre In Education), the workshop was held in Pek Kio CC Performing Theatre. The theatre directed by Awal’liyah Jaafar was based on an old Malay folklore named ‘Singapura Dilanggar Todak’. It was interesting as our students had the chance to be involved during the theatre. From being part of the ‘villagers’ to form a rampart with one of the plaintain stems to being part of the ‘sea’ where the swordfish were being passed down the audience, it allowed the students to be immersed in the theatre meaningfully. During the workshop, students went through an hour of interesting activities. Apart from drama games, they were taught how to project their voice and speech as well as the idea of characterisation. All these were lined up to prepare them with the skills for their mini performance at the end of the workshop. It was exciting to see the students able to be in character for the scenes that they acted out.
+
+<img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop1.png" alt="2019 Interactive Children’s Theatre Drama and Workshop">
+
+<img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop2.png" alt="2019 Interactive Children’s Theatre Drama and Workshop">
+
+<img src="/images/2019%20Interactive%20Children%E2%80%99s%20Theatre%20Drama%20and%20Workshop3.png" alt="2019 Interactive Children’s Theatre Drama and Workshop">
+
+#### 2019 Peraduan Karya Minda Kreatif
+
+37 of our selected students from P3 to P6 taking Malay Language have participated in the Malay Essay Writing Competition at National Level in 2019. They have been trained to write creatively using their imaginations and writing skills thought by their Malay language teachers. Five of them won the top 20 Gold award in category P3/P4 and P5/P6. We are also proud to announce that our school won first place for the Best team award for the year 2019.
+
+Our proud winners are as follows ;
+
+* Nur Syifa’ Emelda Binte Said (4 Excellence) - 17th place 
+* Alya Batrisyia Binte Asrizal (4 Diligence) - 12th place
+* Norhendra Irfan Paton from (4 Care) - 5th place
+* Eliza Isabella Binte Wande (5 Honesty) - 18th place
+* Nur Adrina Binte Kasmadi (6 Honesty) - 8th place
+
+<img src="/images/2019%20Peraduan%20Karya%20Minda%20Kreatif1.png" alt="2019 Peraduan Karya Minda Kreatif">
+<img src="/images/2019%20Peraduan%20Karya%20Minda%20Kreatif2.png" alt="2019 Peraduan Karya Minda Kreatif">
