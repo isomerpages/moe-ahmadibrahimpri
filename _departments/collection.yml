@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English/Department Members.md
-      - English/English.md
+      - English/Vision and Mission.md
       - English/.keep
       - Departments.md
       - Mother Tongue/.keep
