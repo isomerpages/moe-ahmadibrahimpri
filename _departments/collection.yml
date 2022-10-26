@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Learning Centres.md
       - English/Modified Language Experience Approach (MLEA).md
       - English/PEAR TREES and Annotations.md
       - English/Reading Culture @ AIPS.md
