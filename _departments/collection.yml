@@ -2,16 +2,16 @@ collections:
   departments:
     output: true
     order:
-      - English/Speech and Drama.md
-      - English/ELIAS English Language Interests All Students and Staff.md
-      - English/Learning Centres.md
-      - English/Modified Language Experience Approach (MLEA).md
-      - English/PEAR TREES and Annotations.md
-      - English/Reading Culture @ AIPS.md
-      - English/English Curriculum @ AIPS.md
-      - English/Department Members.md
-      - English/Vision and Mission.md
       - English/.keep
+      - English/Vision and Mission.md
+      - English/Department Members.md
+      - English/English Curriculum @ AIPS.md
+      - English/Reading Culture @ AIPS.md
+      - English/PEAR TREES and Annotations.md
+      - English/Modified Language Experience Approach (MLEA).md
+      - English/Learning Centres.md
+      - English/ELIAS English Language Interests All Students and Staff.md
+      - English/Speech and Drama.md
       - Departments.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
