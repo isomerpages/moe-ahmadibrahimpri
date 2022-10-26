@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Reading Culture @ AIPS.md
       - English/English Curriculum @ AIPS.md
       - English/Department Members.md
       - English/Vision and Mission.md
