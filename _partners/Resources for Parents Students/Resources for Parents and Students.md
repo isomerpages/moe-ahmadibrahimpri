@@ -52,10 +52,4 @@ third_nav_title: Resources for Parents Students
 	
 ### Resources for Parents / Students
 	
-<a href="https://www.mconline.sg/LEAD/login/lms_login.aspx">MConline</a>
-	
-<a href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>
-
-<a href="https://www.ezhishi.net/">eZhiShi</a>
-	
 <a href="/partners/resources-for-parents-students/home-based-learning-instructions-2021">Home Based Learning Instructions 2021</a>
