@@ -15,4 +15,3 @@ To end their school term with a bang, the Primary One and Two students participa
 ![](/images/Learning%20Centres1.jpeg)
 ![](/images/Learning%20Centres2.jpg)
 ![](/images/Learning%20Centres3.jpg)
-    
