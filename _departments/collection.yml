@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Speech and Drama.md
       - English/ELIAS English Language Interests All Students and Staff.md
       - English/Learning Centres.md
       - English/Modified Language Experience Approach (MLEA).md
