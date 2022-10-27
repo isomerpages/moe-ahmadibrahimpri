@@ -8,7 +8,7 @@ Safety is of the paramount importance in all our activities.
 
 The guidelines, as stated below, are practiced by the teachers prior and during all physical activities.
 
-**Sports Related Activities (CCA and PE lessons)**
+**<u>Sports Related Activities (CCA and PE lessons)</u>**
 
 The guidelines below, reflects the precaution undertaken by teachers before, during and after any sports related activity.
 
@@ -19,7 +19,7 @@ The guidelines below, reflects the precaution undertaken by teachers before, dur
 * Correct and progressively exposure and teaching of skills in handling of equipment such as bats, floorball sticks and hard balls.
 * For our gymnastics lessons, we ensure that proper support is essential for the execution of stunts (e.g. hand stands, head stands, cartwheel)
 
-**Safety Precautions For Pupils Outside School**
+**<u>Safety Precautions For Pupils Outside School</u>**
 
 * Only roadworthy vehicles are used for transport driver drives cautiously
 * Pupils behave themselves in the bus and are supervised at all time during the outing
