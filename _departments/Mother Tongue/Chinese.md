@@ -4,8 +4,6 @@ permalink: /all-departments/mother-tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
 ---
------------------------------
-
 **依布拉欣小学华文部**
 
 ##### 2022 庆祝华人新年
