@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - ICT/.keep
+      - ICT/ICT.md
       - ICT/Information Technology for Learning and Teaching.md
       - ICT/Cyber Wellness Education.md
-      - ICT/ICT.md
-      - ICT/.keep
       - Physical Health and Fitness/.keep
       - Physical Health and Fitness/Vision and Mission.md
       - "Physical Health and Fitness/Physical Education: The AIPS Approach.md"
