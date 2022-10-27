@@ -4,7 +4,9 @@ permalink: /departments/Physical-Health-and-Fitness/PhysicalEducationTheAIPSAppr
 description: ""
 third_nav_title: Physical Health and Fitness
 ---
-<img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:55%" alt="Physical Education - The AIPS Approach">
+<img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:45%" alt="Physical Education - The AIPS Approach">
+
+<p style="text-align:center;"> <strong>AIPS Key Programmes</strong></p>
 
 **<u>Fitness Friday</u>**
 
@@ -34,4 +36,3 @@ The PE teacher should be informed if students:
 * have a medical certificate / letter from a doctor stating he/she is unfit>do not feel well before, during or after any activity
 * have just recovered from an illness / operation
 * have any medical condition e.g. asthma
-
