@@ -2,14 +2,14 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
       - Mathematics/Mathematics Framework.md
       - Mathematics/Learning Support.md
       - Mathematics/Math Enrichment.md
       - Mathematics/Math Practical (P1 to P6).md
       - Mathematics/P4 Culinary Mathematics.md
       - Mathematics/Maths Carnival.md
-      - Mathematics/Mathematics.md
-      - Mathematics/.keep
       - Departments.md
       - English/.keep
       - English/Vision and Mission.md
