@@ -3,9 +3,6 @@ title: Resources for Students and Parents
 permalink: /partners/resources-for-parents-students/
 description: ""
 ---
-
-
-
 [2022 Oct Notification to Parents.pdf](/files/October%20Notification%20to%20Parents%202022.pdf)
 
 [2022 May Notification to Parents.pdf](/files/May%20Notification%20to%20Parents%202022.pdf)
@@ -21,6 +18,8 @@ description: ""
 2022 Cyberwellness Newsletter Issue March How To STAY SAFE.pdf **(file too big!)**
 
 [2022 P1 Parent Engagement Day.pdf](/files/2022%20P1%20Parent%20Engagement%20Day.pdf)
+
+<a href="/partners/resources-for-parents-students/home-based-learning-instructions-2021">Home Based Learning Instructions 2021</a>
 
 ### School Articles
 
@@ -52,6 +51,4 @@ description: ""
 	
 <img src="/images/General%20Guidelines%20for%20P1%20Snack%20Break5.jpg" alt="">
 	
-### Resources for Parents / Students
 	
-<a href="/partners/resources-for-parents-students/home-based-learning-instructions-2021">Home Based Learning Instructions 2021</a>
