@@ -4,7 +4,6 @@ permalink: /departments/mathematics/visionandmission/
 description: ""
 third_nav_title: Mathematics
 ---
-
 #### Vision:
 -------
 
@@ -14,6 +13,8 @@ Confident, Competent and Analytical students
 --------
 
 To help our students build strong foundation in numeracy and competencies in higher order thinking skills which will lead to confidence and success in their mathematical problem solving skills
+
+#### Department Members
 
 
 | Department Members: |
@@ -35,4 +36,3 @@ To help our students build strong foundation in numeracy and competencies in hig
 |  Ms Nurul Farhana |
 | Ms Haslinda Baba |
 |  Mrs Rachel Tan |
-			
