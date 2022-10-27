@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT/ICT.md
       - ICT/.keep
       - Physical Health and Fitness/.keep
       - Physical Health and Fitness/Vision and Mission.md
