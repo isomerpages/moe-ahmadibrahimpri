@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - CCE/CCE.md
+      - CCE/Vision and Mission.md
       - CCE/Character and Citizenship Education.md
       - CCE/Mission and Framework.md
       - CCE/CCE Experiences.md
