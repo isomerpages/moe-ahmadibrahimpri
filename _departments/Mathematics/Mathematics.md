@@ -152,10 +152,3 @@ We also organised enrichment activities to stretch the high-progress students.
 
 **Primary 6**&nbsp;- Excellence 2000 Mathematics
 	
-## Math Practical (P1 - P6)
-	
-Math Practical enables our students to learn Mathematics through hands-on experiences and deepen their understanding of Math concepts.
-
-<img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)1.jpg" style="width:55%">
-<img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)2.jpg">
-	
