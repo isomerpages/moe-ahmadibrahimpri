@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Mathematics/.keep
-      - Mathematics/Mathematics.md
+      - Mathematics/Vision and Mission.md
       - Mathematics/Mathematics Framework.md
       - Mathematics/Learning Support.md
       - Mathematics/Math Enrichment.md
