@@ -9,7 +9,7 @@ third_nav_title: Alumni
   
 
 <img src="/images/alumni.jpg"  
-style="width:60%">
+style="width:45%">
 
 <p style="text-align:center;"> <strong>Ahmad Ibrahim Primary School Alumni<br>(AIPS Alumni)</strong></p>
 
