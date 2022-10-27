@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Achievements/2021.md
-      - School Achievements/School Achievements.md
       - School Achievements/.keep
       - School Vision and Mission.md
       - Our Facilities/.keep
