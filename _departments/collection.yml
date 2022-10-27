@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
       - Science/.keep
       - Science/Vision and Mission.md
       - Science/The Curriculum.md
