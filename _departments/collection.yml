@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
+      - CCE/CCE.md
       - CCE/Character and Citizenship Education.md
       - CCE/Mission and Framework.md
       - CCE/CCE Experiences.md
       - CCE/NE Commemorative Days.md
-      - CCE/CCE.md
-      - CCE/.keep
       - Science/.keep
       - Science/Vision and Mission.md
       - Science/The Curriculum.md
