@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - Mathematics/.keep
       - Mathematics/Vision and Mission.md
       - Mathematics/Mathematics Framework.md
