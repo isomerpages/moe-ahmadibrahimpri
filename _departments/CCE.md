@@ -62,12 +62,3 @@ Our parents play an important role in our school as stakeholders. They form an i
 In addition to resources from the CCE Branch, the school also builds up our school's National Education teaching resources using the contributions from teachers and students and developed our very own Ahmad Ibrahim Interactive CD and 'A Piece From The Past' publication.
 
 We hope through all these efforts, our pupils are able to appreciate our past, and be prepared for the challenges in the future.
-	
-## Mission and Framework
-
-**AIPS NE Vision**
-We are ONE family.
-
-**AIPS NE Framework**
-
-<img style="width:75%" src="/images/Mission%20and%20Framework.jpg" alt="">
