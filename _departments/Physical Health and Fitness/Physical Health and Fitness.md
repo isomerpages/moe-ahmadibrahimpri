@@ -103,27 +103,3 @@ The procedure for this, is as such
 * Principal will permit the call for ambulance.
 * No medication can be administered to pupil without parent&#39;s consent.
 * Parents will be informed of injury, irregardless of severity.
-
-#### Primary 5 Outdoor Education Camp
-
-Our Primary 5 cohort had their Outdoor Experience at Dairy Farm OALC, from 19 April - 21 April. The students enjoyed their day-camp, partaking in various team building and educational activities such as their Journey - a short hike through the nature trails nearby the campsite and Longkang fishing - where students observed the eco-system of the local pond and attempted to catch guppies using primitive means. It was an authentic, experiential camp anchored on our school values of Gratitude and Resilience, allowing our students to learn more about themselves, amidst exploring the biodiversity around them.
-
-<img src="/images/Day%20Journey.jpg" style="width:80%" alt="">
-
-**Day Journey**: Dairy Farm Quarry
-<img src="/images/concrete%20art.png" alt="">
-
-**Concrete Art**: Learning about nature and the environment
-<img src="/images/life%20in%20a%20tent.png" alt="">
-
-**Life In A Tent**: Learning and understanding the difficulties of others who live in a small space
-<img src="/images/team%20building.png" alt="Team Building: Learning to communicate and work together as a team">
-
-**Team Building**: Learning to communicate and work together as a team
-<img src="/images/low%20elements.png" alt="">
-
-**Low Elements**: A mini obstacle as a test of teamwork
-<img src="/images/longkang%20fishing.png" alt="">
-<img src="/images/longkang%20fishing2.png" alt="">
-
-**Longkang Fishing**: A test of Patience &amp; Resilience
