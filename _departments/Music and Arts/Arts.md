@@ -9,12 +9,13 @@ At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a st
 ### NEW ONLINE ANNUAL ART EXHIBITION
 	
 Come and visit our very first online Art Exhibition curated by our Art Specialist teachers, for our students. 
-	
-Click on this link to enter Gallery:  <a href="https://www.artsteps.com/embed/61888ce1ac85446ad7358165/560/315">ARTVENTURES IN AIPS</a>
+
+<p style="text-align:center;">Click on this link to enter Gallery: <a href="https://www.artsteps.com/embed/61888ce1ac85446ad7358165/560/315">ARTVENTURES IN AIPS</a></p>
 
 <p style="text-align:center;">OR<br>use your mobile devices to scan the QR code:</p>
 	
-<img src="/images/QR%20CODE.png" style="width:35%" alt="">
+<img src="/images/QR%20CODE.png" style="width:30%" alt="">
+
 * best viewed using the app &quot;Art Steps&quot;. You may download it for free from Play Store/ Apple Store.
 	
 <img src="/images/ADVENTURES.jpg" alt="">
