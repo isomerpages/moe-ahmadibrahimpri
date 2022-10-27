@@ -3,7 +3,7 @@ title: Departments
 permalink: /departments/
 description: ""
 ---
-<a href="/departments/english">
+<a href="/departments/English/visionandmission/">
 <img src="/images/english.jpg"  style="width:35%">English
 </a>
 
