@@ -30,8 +30,7 @@ These are the newsletters that the students crafted.
 
 **Newletter by 6 Diligence:**
 
-[https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink]
-(https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
+[https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink](https://www.canva.com/design/DADoyk9KOP8/QS9aHTBX7bNbaKfwwsSKKA/view?utm_content=DADoyk9KOP8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
 
 **Newsletter by 6 Excellence:**
 
