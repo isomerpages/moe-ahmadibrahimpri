@@ -43,7 +43,7 @@ These are the newsletters that the students crafted.
 
 **Newsletter by 6 Resilience:**
 
-[https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink]
+[https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink](https://www.canva.com/design/DADpvhIoUsU/UYsGlf-AUXcQb_yvn-bVEg/view?utm_content=DADpvhIoUsU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
 
 **Newsletter by the P6 students:**
 
