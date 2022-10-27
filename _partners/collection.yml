@@ -2,12 +2,12 @@ collections:
   partners:
     output: true
     order:
+      - Alumni/.keep
+      - Alumni/Alumni.md
       - Alumni/Primary 6 Graduation Magazine 2021.md
       - Alumni/Primary 6 Graduation Magazine 2020.md
       - Alumni/My AIPS Memories.md
       - Alumni/Our Alumni Achievements.md
-      - Alumni/Alumni.md
-      - Alumni/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/.keep
       - Resources for Students and Parents.md
