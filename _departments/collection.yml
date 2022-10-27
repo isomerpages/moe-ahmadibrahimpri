@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - "Physical Health and Fitness/Physical Education: The AIPS Approach.md"
       - Physical Health and Fitness/AIPS Safety Guidelines.md
       - Physical Health and Fitness/Primary 5 Outdoor Education Camp.md
       - "Physical Health and Fitness/Sports Education Programme (SEP):
