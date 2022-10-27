@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Achievements/School Achievements.md
       - School Achievements/.keep
       - School Vision and Mission.md
       - Our Facilities/.keep
