@@ -83,9 +83,6 @@ Following the Head-Heart-Hand approach, the CCE experiences encompasses National
 <a href="/cce-experiences/ne-learning-journey/">NE Learning Journeys</a>
 <a href="/cce-experiences/sexuality-education/">Sexuality Education</a>
 
-## Title
-
-Content
 
 ## NE Commemorative Days
 			
