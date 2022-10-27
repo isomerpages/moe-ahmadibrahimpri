@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - Music and Arts/.keep
+      - Music and Arts/Music and Arts.md
       - Music and Arts/Music.md
       - Music and Arts/Arts.md
-      - Music and Arts/Music and Arts.md
-      - Music and Arts/.keep
       - ICT/.keep
       - ICT/Vision and Mission.md
       - ICT/Information Technology for Learning and Teaching.md
