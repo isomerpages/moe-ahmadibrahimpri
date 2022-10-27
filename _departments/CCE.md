@@ -3,11 +3,6 @@ title: CCE
 permalink: /departments/cce/
 description: ""
 ---
-#### Our Philosophy
---------------
-
-"Every Child A Star"
-
 #### Vision:
 -------
 
@@ -17,6 +12,11 @@ Students who are Resilient, of Good Character and Civic-minded. They are passion
 --------
 
 To provide quality learning experiences for every child to develop good character, achieve academic excellence and acquire life skills for the future.
+
+#### Our Philosophy
+--------------
+
+"Every Child A Star"
 
 ## Department Members:
 
