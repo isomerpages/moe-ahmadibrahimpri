@@ -88,12 +88,8 @@ We also organised enrichment activities to stretch the high-progress students.
 
 ### Enrichment activities
 
-**Primary 2**&nbsp;- Enrichment programme (building 21st competencies through games)
-
-**Primary 3**&nbsp;- Enrichment programme (building 21st competencies through games)
-
-**Primary 4**&nbsp;- Excellence 2000 Mathematics
-
-**Primary 5**&nbsp;- Excellence 2000 Mathematics
-
+**Primary 2**&nbsp;- Enrichment programme (building 21st competencies through games) <br>
+**Primary 3**&nbsp;- Enrichment programme (building 21st competencies through games) <br>
+**Primary 4**&nbsp;- Excellence 2000 Mathematics <br>
+**Primary 5**&nbsp;- Excellence 2000 Mathematics <br>
 **Primary 6**&nbsp;- Excellence 2000 Mathematics
