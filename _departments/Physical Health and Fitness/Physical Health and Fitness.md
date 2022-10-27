@@ -20,7 +20,7 @@ They are passionate bout developing their talents towards sporting excellence.
 
 **E**quipping with knowledge and skills to lead a healthy lifestyle.
 
-### Department Members:
+#### Department Members:
 
 | NAME | EMAIL |
 |:---:|:---:|
@@ -32,74 +32,3 @@ They are passionate bout developing their talents towards sporting excellence.
 | Ms Camilia Ho | ho_yun_hui_camilia@moe.edu.sg |
 | Mdm Zoey Wong | wong_yin_hong@moe.edu.sg |
 	 
-
-#### Physical Education - The AIPS Approach
-
-<img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:55%" alt="">
-
-**Fitness Friday**
-
-Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students&#39; academics at the same time.
-
-**Health Fest**
-
-An annual affair, the AIPS Health Fest is an event where students get to participate in sports and physical activities such as the handball carnival and mini games carnival. Students get to apply various skills and knowledge that they have learnt in their PE lessons on this day. In addition to the fun and games, students also get to learn more about leading a healthy lifestyle. They are introduced to various topics that complement what they have learnt during PHF lessons. For more details on Health Fest, do visit the event page.
-
-**Holistic Health Programmes**
-
-* NAPFA for Primary 4 &amp; Primary 6
-* Reccess@Play
-* SwimSafer for Primary 3
-* Dental Awareness Talks
-* Height &amp; Weight Taking
-* Medical Screening
-* Healthy Plate Menu in the Canteen
-* Daily Snack Breaks
-	
-**PE Lessons**
-
-Students are expected to be attired in their PE T-Shirt and PE shorts for all lessons.
-Students should bring a water bottle for their PE lessons.
-The PE teacher should be informed if students:
-
-* have a medical certificate / letter from a doctor stating he/she is unfit>do not feel well before, during or after any activity
-* have just recovered from an illness / operation
-* have any medical condition e.g. asthma
-
-
-### AIPS Safety Guidelines
-
-Safety is of the paramount importance in all our activities.
-
-The guidelines, as stated below, are practiced by the teachers prior and during all physical activities.
-
-**Sports Related Activities (CCA and PE lessons)**
-
-The guidelines below, reflects the precaution undertaken by teachers before, during and after any sports related activity.
-
-* All unwell pupils are exempted, as supported with a medical certificate or from teacher&#39;s observation.
-* Proper warm-up and cool down to be observed, respectively pre and post activity.
-* Equipments and facilities are checked for maintainance and safety.
-* Discipline to be ensured at all times.
-* Correct and progressively exposure and teaching of skills in handling of equipment such as bats, floorball sticks and hard balls.
-* For our gymnastics lessons, we ensure that proper support is essential for the execution of stunts (e.g. hand stands, head stands, cartwheel)
-
-**Safety Precautions For Pupils Outside School**
-
-* Only roadworthy vehicles are used for transport driver drives cautiously
-* Pupils behave themselves in the bus and are supervised at all time during the outing
-* Pupils do not climb trees
-* No swimming unless there is a lifeguard present
-* Pupils keep together as a group or small groups under supervision
-* First Aid equipment is available at all times
-* No injury, however minor, should be left unattended.
-
-
-Proper attention must be given to pupils who are ill or injured.
-The procedure for this, is as such
-
-* Ascertain the nature of the ailment
-* Accompany the pupil who is seriously ill to nearest outpatient clinic or hospital. Female pupils will be accompanied by a female teacher.
-* Principal will permit the call for ambulance.
-* No medication can be administered to pupil without parent&#39;s consent.
-* Parents will be informed of injury, irregardless of severity.
