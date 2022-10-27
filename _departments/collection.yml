@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Science/.keep
-      - Science/Science.md
+      - Science/Vision and Mission.md
       - Science/The Curriculum.md
       - Science/ICAS Science Competition Awardees.md
       - Mathematics/.keep
