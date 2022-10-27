@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Health and Fitness/Physical Health and Fitness.md
       - Physical Health and Fitness/.keep
       - CCE/.keep
       - CCE/Vision and Mission.md
