@@ -4,22 +4,15 @@ permalink: /partners/alumni/
 description: ""
 third_nav_title: Alumni
 ---
-**“When drinking water, remember the source”**
-
-**饮水思源**
+<p style="text-align:center;"> <strong>“When drinking water, remember the source”<br>饮水思源</strong></p>
 
   
 
 <img src="/images/alumni.jpg"  
 style="width:60%">
 
-  
+<p style="text-align:center;"> <strong>Ahmad Ibrahim Primary School Alumni<br>(AIPS Alumni)</strong></p>
 
-**Ahmad Ibrahim Primary School Alumni**
-
-  
-
-**(AIPS Alumni)**
 
 **Objectives:**
 
