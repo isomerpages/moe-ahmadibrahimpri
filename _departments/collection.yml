@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Music and Arts/.keep
-      - Music and Arts/Music and Arts.md
+      - Music and Arts/Vision and Mission.md
       - Music and Arts/Music.md
       - Music and Arts/Arts.md
       - ICT/.keep
