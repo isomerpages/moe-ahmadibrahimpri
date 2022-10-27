@@ -159,12 +159,3 @@ Math Practical enables our students to learn Mathematics through hands-on experi
 <img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)1.jpg" style="width:55%">
 <img alt="" src="/images/Math%20Practical%20(P1%20-%20P6)2.jpg">
 	
-## P4 Culinary Mathematics
-	
-The objective of Culinary Math programme is to raise our Primary 4 students’ interest in Math through baking and help them relate Math to real–life experiences. Besides learning Math concepts, students learn soft skills such as respect for one another, work cooperatively with friends and display resilience when solving problems.
-
-<img alt="" src="/images/P4%20Culinary%20Mathematics1.jpg" style="width:65%">
-<img alt="" src="/images/P4%20Culinary%20Mathematics2.jpg" style="width:65%">
-<img alt="" src="/images/P4%20Culinary%20Mathematics3.jpg" style="width:65%">
-<img alt="" src="/images/P4%20Culinary%20Mathematics4.jpg">
-
