@@ -4,7 +4,6 @@ permalink: /departments/mathematics/
 description: ""
 third_nav_title: Mathematics
 ---
-
 #### Vision:
 -------
 
@@ -169,7 +168,3 @@ The objective of Culinary Math programme is to raise our Primary 4 students’ i
 <img alt="" src="/images/P4%20Culinary%20Mathematics3.jpg" style="width:65%">
 <img alt="" src="/images/P4%20Culinary%20Mathematics4.jpg">
 
-## Maths Carnival
-
-	The Math Carnival provides an excellent platform for our graduating students to be active contributors who are able to apply mathematics concepts they have learnt by designing creative games for their juniors.</p>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd_UUAJ87stfdGuvcozRAL8BhL5a1OI2hTCJsZNfDV4uDV_JlPIewZkEufbJIoD1_TZrAio2VQ9N9q/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
