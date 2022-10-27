@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Alumni/My AIPS Memories.md
       - Alumni/Our Alumni Achievements.md
       - Alumni/Alumni.md
       - Alumni/.keep
