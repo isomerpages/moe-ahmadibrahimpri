@@ -12,10 +12,10 @@ Total Defence Day was commemorated on Monday, 8th January 2021, with the theme �
 Students were engaged with an e-assembly programme and a string of class activities where they learnt more about the six pillars of Total Defence: Military Defence, Civil Defence, Social Defence, Psychological Defence, Economic Defence and Digital Defence.
 The team put together a video which showcased our male teachers sharing their contributions towards Military Defence through National Service, and our students suggesting ways to enhance Social Defence in school.
 
-<img alt="" src="/images/NE%20Commemorative%20Days1.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days2.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days3.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days4.jpg">
+<img alt="Total Defence Day 2021: Together We Keep Singapore Strong" src="/images/NE%20Commemorative%20Days1.jpg"><br>
+<img alt="Total Defence Day 2021: Together We Keep Singapore Strong" src="/images/NE%20Commemorative%20Days2.jpg"><br>
+<img alt="Total Defence Day 2021: Together We Keep Singapore Strong" src="/images/NE%20Commemorative%20Days3.jpg"><br>
+<img alt="Total Defence Day 2021: Together We Keep Singapore Strong" src="/images/NE%20Commemorative%20Days4.jpg">
 
 ***International Friendship Day 2021: "Singapore in the world"***
 	
@@ -33,9 +33,9 @@ Students were engaged in a string of class activities to promote interaction in 
 Understanding that the traditional games that originated from different cultures were played by many regardless of race or religion, our lower primary students worked in pairs to play one of the traditional games, pick-up sticks.&nbsp;&nbsp;
 In the activity, “A New Way to Say”, our middle primary students learnt and penned down phrases in the different Mother Tongue languages and pieced their learning to form a beautiful masterpiece.&nbsp;
 In “Talking Point”, our upper primary students took part in an in-depth class discussion on the topic of racial harmony, to raise racial and cultural awareness among them.
-<img alt="" src="/images/NE%20Commemorative%20Days10.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days11.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days12.jpg">
+<img alt="Racial Harmony Day 2021: Common Spaces, Connected Communities" src="/images/NE%20Commemorative%20Days10.jpg"><br>
+<img alt="Racial Harmony Day 2021: Common Spaces, Connected Communities" src="/images/NE%20Commemorative%20Days11.jpg"><br>
+<img alt="Racial Harmony Day 2021: Common Spaces, Connected Communities" src="/images/NE%20Commemorative%20Days12.jpg">
 			
 #### National Day Observance Ceremony 2021: "Together, Our Singapore Spirit"
 	
@@ -46,10 +46,10 @@ On this special day, we pay tribute to our unsung heroes at AIPS for supporting 
 
 The ceremony ended with a fun Chairobics workout for students and staff to move to the beat.
 The Class Mentors then led the classes in a string of class activities. Our students learnt more about the various SG mascots and had a better understanding of this year’s National Day theme and logo.
-<img alt="" src="/images/NE%20Commemorative%20Days13.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days14.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days15.jpg">
-<img alt="" src="/images/NE%20Commemorative%20Days16.jpg">
+<img alt="National Day Observance Ceremony 2021: Together, Our Singapore Spirit" src="/images/NE%20Commemorative%20Days13.jpg"><br>
+<img alt="National Day Observance Ceremony 2021: Together, Our Singapore Spirit" src="/images/NE%20Commemorative%20Days14.jpg"><br>
+<img alt="National Day Observance Ceremony 2021: Together, Our Singapore Spirit" src="/images/NE%20Commemorative%20Days15.jpg"><br>
+<img alt="National Day Observance Ceremony 2021: Together, Our Singapore Spirit" src="/images/NE%20Commemorative%20Days16.jpg">
 	
 #### NE commemorative Days Archive:
 
