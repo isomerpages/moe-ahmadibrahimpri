@@ -11,4 +11,4 @@ Sambutan Hari Raya tahun ini tidak kurang meriah.Ikuti video Hari Raya yang tela
 
 Ini merupakan video sambutan Hari Raya yang kami hasilkan. Kami harap semua akan dapat menikmati Hari Raya dengan meriah.
 
-**VIDEO TO BE EMBEDDED HERE!!!**
+**VIDEO TO BE EMBEDDED HERE!**
