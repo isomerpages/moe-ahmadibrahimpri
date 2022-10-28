@@ -42,14 +42,17 @@ Aim:
 * studies.
 
 We believe that our children are ‘Leaders of Characters and Learners for Life’. As such, the Malay Language Department strive to provide the best for our pupils so they can reach their fullest potential.
+
 **Pupils Competencies**
+
 The ability to learn a language is when the students are able to acquire and master competencies that are laid for them. As such, these competencies are nurtured to our pupils so that they are able to acquire the language and will be able to use them in their daily conversations and communication, formally or informally.
+
 **Bahasa Melayu @ AIPS**
-Yang kurik itu kundi,
-Yang merah itu saga;
-Yang baik itu budi,
-Yang indah itu bahasa.
+
+<p style="text-align:center;">Yang kurik itu kundi,<br>Yang merah itu saga;<br>Yang baik itu budi,<br>Yang indah itu bahasa.</p>
+
 Keindahan Bahasa Melayu dapat diperhatikan berdasarkan pantun di atas. Jabatan Bahasa Melayu di AIPS mahu terapkan keindahan Bahasa kepada semua murid kami agar mereka dapat menghayati keindahan Bahasa dan kemurnian budaya Melayu.
+
 Kami telah menjalankan beberapa aktivit untuk sentiasa menarik minat murid-murid kami. Walaupun diambang COVID-19, pembelajaran Bahasa Melayu tetap giat dilakukan melaui SLS.
 
 
@@ -62,7 +65,7 @@ Tahniah kami ucapkan kepada Sofia Rai (4 Honesty) &amp; Ishq Eshan (4 Honesty) k
 Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu. Moga kedua-dua Rakan Bahasa dapat menyelesaikan kad misi dan melaksanakan tanggungjawab mereka dengan baik pada tahun ini!
 Sempena menyambut bulan Syawal yang baru sahaja tiba, berikut merupakan pesanan Rakan Bahasa buat semua murid-murid AIPS:
 
-**video to be embedded here!!**
+**video to be embedded here!**
 
 <p style="text-align:center;">Jalan raya bersama-sama,<br>Hati riang tidak terhingga;<br>Ketika kita seronok beraya,<br>Adab kita jangan dilupa.</p>
 
