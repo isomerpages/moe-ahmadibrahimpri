@@ -5,9 +5,9 @@ description: ""
 ---
 Kami telah menyambut Hari Pertahanan Mutlak pada tarikh 18 Februari 2021. Sempena memperingati hari Singapura jatuh ke dalam cengkaman penjajah Jepun, pengetua sekolah telah membacakan amanat untuk mengingatkan kami tentang kepentingan Pertahanan Mutlak. Terdapat pelbagai aktiviti menarik yang telah dijalankan sewaktu kelas Bahasa Melayu sempena menyambut Hari Pertahanan Mutlak.
 	
-<img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak">
+<img src="/images/2021%20Hari%20Pertahanan%20Mutlak1.jpg" style="width:37%" alt="2021 Hari Pertahanan Mutlak">
 
-<img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" style="width:50%" alt="2021 Hari Pertahanan Mutlak">
+<img src="/images/2021%20Hari%20Pertahanan%20Mutlak2.jpg" style="width:37%" alt="2021 Hari Pertahanan Mutlak">
 
 Contohnya, para pelajar Darjah 4 telah melakonkan sketsa secara berkumpulan untuk menunjukkan bagaimana kita boleh sama-sama memainkan peranan untuk menjaga keselamatan Singapura.
 
