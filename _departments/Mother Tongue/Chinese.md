@@ -59,9 +59,3 @@ third_nav_title: Mother Tongue
 <img src="/images/accordion6-2.png" alt="小四学生在课堂上学习灯笼制作">
 <img src="/images/accordion6-3.png" alt="小四学生在课堂上学习灯笼制作">
 
-##### 2020 母语双周活动 - 小六语文问答比赛
-
-2020 母语双周活动 - 小六语文问答比赛
-
-<img src="/images/accordion7-1.png" alt="2020 母语双周活动 - 小六语文问答比赛">
-
