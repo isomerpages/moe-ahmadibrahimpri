@@ -45,7 +45,7 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 | Mdm Sarina Banu |
 | Mdm Mahaletchime |
 
-### [Chinese](/chinese/)
+### [Chinese](/chinese/subpage1/)
 
 ### [Malay](/malay/)
 
