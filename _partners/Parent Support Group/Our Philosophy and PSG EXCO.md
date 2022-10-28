@@ -10,7 +10,16 @@ third_nav_title: Parent Support Group
 
 ### Our Philosophy 
 
-<img alt="" src="/images/psg%20logo.jpg">
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/psg%20logo.jpg" alt="Our Philosop" style="width:40%;">  
+  
+</body>
 <p style="text-align:center;">Each Child Matters</p>
 
 
