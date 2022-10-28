@@ -65,15 +65,3 @@ third_nav_title: Mother Tongue
 
 <img src="/images/accordion7-1.png" alt="2020 母语双周活动 - 小六语文问答比赛">
 
-##### 2020 母语双周活动 - 小五语文问答比赛
-
-2020 母语双周活动 - 小五语文问答比赛
-
-<img src="/images/accordion8-1.png" alt="2020 母语双周活动 - 小五语文问答比赛">
-
-##### 2020 母语双周活动 - 报章报道
-			
-新明日报近日对我校中医中药课程进行了报道
-				
-<img src="/images/accordion9-1.jpg" style="width:60%" alt="新明日报近日对我校中医中药课程进行了报道">
-   
