@@ -2,6 +2,7 @@ collections:
   malay:
     output: true
     order:
+      - 2021 Pertandingan Pentas Radio.md
       - 2021 Peraduan Karya Minda Kreatif.md
       - 2021 Pertandingan Newsmaker.md
       - 2021 Program Dwimingguan Bahasa Ibunda.md
