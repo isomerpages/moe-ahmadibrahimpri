@@ -45,8 +45,8 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 | Mdm Sarina Banu |
 | Mdm Mahaletchime |
 
-### [Chinese](/all-departments/mother-tongue/chinese)
+### [Chinese](/chinese/)
 
 ### [Malay](/malay/)
 
-### [Tamil](/departments/all-departments/mother-tongue/tamil)
+### [Tamil](/tamil/)
