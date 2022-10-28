@@ -2,4 +2,5 @@ collections:
   malay:
     output: true
     order:
+      - 2021 Hari Pertahanan Mutlak.md
       - 2020 Sambutan Hari Raya.md
