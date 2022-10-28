@@ -1,4 +1,5 @@
 collections:
   tamil:
     output: true
-    order: []
+    order:
+      - ஆர்வமூட்டும் வகுப்பறை நடவடிக்கைகள்.md
