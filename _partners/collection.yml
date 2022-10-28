@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Student Care.md
       - Students and Parents Resources/.keep
       - Students and Parents Resources/School Notifications to parents.md
       - Students and Parents Resources/School Articles.md
