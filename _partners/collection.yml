@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Students and Parents Resources/.keep
-      - Students and Parents Resources/Resources for Students and Parents.md
+      - Students and Parents Resources/School Notifications to parents.md
       - Students and Parents Resources/School Articles.md
       - Students and Parents Resources/General Guidelines for P1 Snack Break.md
       - Alumni/.keep
