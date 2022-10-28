@@ -40,22 +40,6 @@ third_nav_title: Mother Tongue
 <img src="/images/accordion3-3.png" alt="2021 庆祝华人新年">
 <img src="/images/accordion3-4.png" alt="2021 庆祝华人新年">
 
-##### 2020 校外比赛
 
-恭喜我校小二学生在木偶中文大赛中取得优异成绩（merit award)
-<strong>video to be embedded here</strong>
 
-##### 2020 庆祝华人新年
-
-今年1月24日我校举行了欢乐的新年庆祝会。早上，学生们先在课室观看华人新年习俗的录影，参与生动有趣的课堂活动。过后，学生们移入礼堂，新年庆祝会在王校长的击鼓声中正式拉开了序幕
-
-<img src="/images/accordion5-1.jpg" alt="2020 庆祝华人新年">
-
-##### 2020 母语双周活动 - 小四课堂文化活动
-
-小四学生在课堂上学习灯笼制作
-
-<img src="/images/accordion6-1.png" alt="小四学生在课堂上学习灯笼制作">
-<img src="/images/accordion6-2.png" alt="小四学生在课堂上学习灯笼制作">
-<img src="/images/accordion6-3.png" alt="小四学生在课堂上学习灯笼制作">
 
