@@ -60,13 +60,12 @@ Tahniah kami ucapkan kepada Sofia Rai (4 Honesty) &amp; Ishq Eshan (4 Honesty) k
 <img src="/images/malay2-1.jpg" style="width:40%" alt="2022 Rakan Bahasa">
 
 Mereka telah menerima sijil serta kad misi yang harus diselesaikan untuk menggalakkan teman-teman mereka menggunakan dan mencintai Bahasa Melayu. Moga kedua-dua Rakan Bahasa dapat menyelesaikan kad misi dan melaksanakan tanggungjawab mereka dengan baik pada tahun ini!
-Sempena menyambut bulan Syawal yang baru sahaja tiba, berikut merupakan pesanan Rakan Bahasa buat semua murid-murid AIPS:<
+Sempena menyambut bulan Syawal yang baru sahaja tiba, berikut merupakan pesanan Rakan Bahasa buat semua murid-murid AIPS:
+
 **video to be embedded here!!**
 
-Jalan raya bersama-sama,
-                                                                                             Hati riang tidak terhingga;
-                                                                                       Ketika kita seronok beraya,
-                                                                                              Adab kita jangan dilupa.
+<p style="text-align:center;">Jalan raya bersama-sama,<br>Hati riang tidak terhingga;<br>Ketika kita seronok beraya,<br>Adab kita jangan dilupa.</p>
+
 
 ##### 2022 Seminar Bahasa Melayu
 
@@ -74,6 +73,7 @@ Pada tanggal 15 Mac, empat orang guru Bahasa Melayu kami telah berkongsi di Semi
 
 <img src="/images/2022%20Seminar%20Bahasa%20Melayu1.jpeg" style="width:70%"  alt="2022 Seminar Bahasa Melayu">
 <img src="/images/2022%20Seminar%20Bahasa%20Melayu2.jpeg" alt="2022 Seminar Bahasa Melayu">
+
 Guru-guru kami telah berkongsi tentang penggunaan kaedah akrostik dalam pengajaran imbuhan meN-. Syabas kami ucapkan kepada guru-guru yang terlibat kerana telah meluangkan masa sewaktu cuti sekolah untuk sesi perkongsian ini! 
 
 Moga ilmu yang dikongsi bermanfaat kepada semua yang telah menyertai sesi tersebut.
@@ -93,6 +93,7 @@ Melalui bengkel ini yang telah dijalankan selama 2 jam, para pelajar mempelajari
 Dengan sukacita, kami ingin mengumumkan bahawa kumpulan sekolah kita, Suara AIPS, telah berjaya merangkul gelaran juara di dalam pertandingan ini. Syabas, para pelajar sekalian! Moga kejayaan ini menyemarakkan lagi semangat dan minat para pelajar untuk mendalami bahasa Melayu.
 
 <img src="/images/2021%20Pertandingan%20Pentas%20Radio.jpeg" alt="2021 Pertandingan Pentas Radio">
+
 Syabas, kumpulan Suara AIPS!
 
 ##### 2021 Peraduan Karya Minda Kreatif
@@ -112,7 +113,7 @@ Pada tahun 2021, Rakan Bahasa kita, Nur Asyura &amp; Nur Alesya telah menyertai 
 
 Dengan bimbingan Cikgu Aishah dan bantuan teman-teman dari Darjah 4, mereka telah menghasilkan video untuk pertandingan ini. Mari kita tonton hasil kerja mereka. Semoga terhibur!
 
-**video to be embedded here!!**
+**video to be embedded here!**
 
 
 #### 2021 Program Dwimingguan Bahasa Ibunda
@@ -132,12 +133,9 @@ Mari kita lihat apakah aktiviti serta pertandingan yang telah diadakan bagi seti
 <img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda5.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
 
 <img src="/images/2021%20Program%20Dwimingguan%20Bahasa%20Ibunda6.jpg" alt="2021 Program Dwimingguan Bahasa Ibunda">
-	
-	Sang Kancil masuk belukar,
-	Mencari teman Si Kura-kura;
-	Moga marak semangat pelajar,
-	Mendalami bahasa ibunda.
-	
+
+<p style="text-align:center;">Sang Kancil masuk belukar,<br>Mencari teman Si Kura-kura;<br>Moga marak semangat pelajar,<br>Mendalami bahasa ibunda.</p>
+
 ##### 2021 Rakan Bahasa
 			
 <img src="/images/2021%20Rakan%20Bahasa.jpg"  style="width:60%" alt="2021 Rakan Bahasa">
@@ -177,4 +175,3 @@ Sambutan Hari Raya tahun ini tidak kurang meriah.Ikuti video Hari Raya yang tela
 Ini merupakan video sambutan Hari Raya yang kami hasilkan. Kami harap semua akan dapat menikmati Hari Raya dengan meriah.
 
 **VIDEO TO BE EMBEDDED HERE!!!**
-
