@@ -1,4 +1,5 @@
 collections:
   chinese:
     output: true
-    order: []
+    order:
+      - "2020 母语双周活动: 报章报道.md"
