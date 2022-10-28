@@ -1,4 +1,5 @@
 collections:
   malay:
     output: true
-    order: []
+    order:
+      - 2020 Sambutan Hari Raya.md
