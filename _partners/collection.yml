@@ -2,10 +2,10 @@ collections:
   partners:
     output: true
     order:
+      - Students and Parents Resources/.keep
+      - Students and Parents Resources/Resources for Students and Parents.md
       - Students and Parents Resources/School Articles.md
       - Students and Parents Resources/General Guidelines for P1 Snack Break.md
-      - Students and Parents Resources/Resources for Students and Parents.md
-      - Students and Parents Resources/.keep
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Primary 6 Graduation Magazine 2021.md
