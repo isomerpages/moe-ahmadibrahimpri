@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programmes (LLP)
-permalink: /distinctive-programmes/learning-for-life-programmes
+permalink: /distinctive-programmes/learning-for-life-programmes/
 description: ""
 ---
 At AIPS, each student is regarded as a possible agent of change for his or her family and society. The school firmly believes in developing every child as a leader and they are never too young to serve the school and wider community.

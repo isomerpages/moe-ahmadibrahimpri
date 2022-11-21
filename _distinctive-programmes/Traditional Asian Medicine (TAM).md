@@ -1,6 +1,6 @@
 ---
 title: Traditional Asian Medicine (TAM)
-permalink: /distinctive-programmes/traditional-asian-medicine
+permalink: /distinctive-programmes/traditional-asian-medicine/
 description: ""
 ---
 **Traditional Asian Medicine (TAM)**&nbsp;is the Mother Tongue Language school-based curriculum designed to allow our students to have a deeper appreciation of their Mother Tongue Language and culture through a variety of learning activities conducted in our own TCM Room and Traditional Herb Garden.

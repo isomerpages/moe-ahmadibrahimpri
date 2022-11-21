@@ -1,6 +1,6 @@
 ---
 title: Resources for Parents and Students
-permalink: /partners/resources-for-parents-and-students
+permalink: /partners/resources-for-parents-and-students/
 description: ""
 ---
 [2022 May Notification to Parents.pdf](/files/May%20Notification%20to%20Parents%202022.pdf)
