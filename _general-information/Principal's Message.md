@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /general-information/principals-message
+permalink: /general-information/principals-message/
 description: ""
 ---
 ![Principal of AIPS](/images/principal.jpg)

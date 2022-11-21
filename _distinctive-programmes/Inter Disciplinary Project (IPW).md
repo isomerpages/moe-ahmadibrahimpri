@@ -1,6 +1,6 @@
 ---
 title: Inter Disciplinary Project (IPW)
-permalink: /distinctive-programmes/inter-disciplinary-project
+permalink: /distinctive-programmes/inter-disciplinary-project/
 description: ""
 ---
 At Ahmad Ibrahim Primary School, we adopt an inter-disciplinary approach to learning touted to boost engagement and bring coherence to the school experiences that students enjoy each day. Guided by the Design Thinking Process, our Totally Outrageous Day (TOD) Project Work serves to provide students with an authentic learning platform where they are given the opportunity to synthesise knowledge from various areas of learning and then proceed to critically and creatively apply it to real-world situations. In doing so, students are set to develop 21st Century Competencies such as Confidence, Cooperation, Curiosity, Creativity as well as Cultural and Environmental Awareness.

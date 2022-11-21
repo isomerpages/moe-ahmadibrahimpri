@@ -1,6 +1,6 @@
 ---
 title: Racial Harmony Day 2020
-permalink: /departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020
+permalink: /departments/cce/cce-experiences/ne-commemorative-days/racial-harmony-day-2020/
 description: ""
 ---
 ![Racial Harmony Day 2020](/images/Racial%20Harmony%20Day%202020_1.png)
