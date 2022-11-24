@@ -7,7 +7,8 @@ Over the years, the school has developed a few programs to assist the pupils in 
 
 
 <a href="/distinctive-programmes/inter-disciplinary-project"> 
-<img src="/images/Inter%20Disciplinary%20Project.jpg"  style="width:35%"><p style="text-align:center;">Inter Disciplinary Project (IPW) </p> </a>
+<img src="/images/Inter%20Disciplinary%20Project.jpg"  style="width:35%"><p style="text-align:center;">Inter Disciplinary Project (IPW) </p></a>
+
 
 
 <a href="/distinctive-programmes/learning-for-life-programmes">
