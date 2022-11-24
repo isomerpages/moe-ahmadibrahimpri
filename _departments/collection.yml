@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue.md
       - Departments.md
       - English/.keep
       - English/Vision and Mission.md
@@ -15,6 +14,7 @@ collections:
       - English/Speech and Drama.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
+      - Mother Tongue.md
       - Mathematics/.keep
       - Mathematics/Vision and Mission.md
       - Mathematics/Mathematics Framework.md
