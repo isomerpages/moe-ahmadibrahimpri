@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Departments.md
       - English/.keep
       - English/Vision and Mission.md
       - English/English Curriculum @ AIPS.md
