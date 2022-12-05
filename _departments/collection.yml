@@ -1,0 +1,48 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English/.keep
+      - English/Vision and Mission.md
+      - English/English Curriculum @ AIPS.md
+      - English/Reading Culture @ AIPS.md
+      - English/PEAR TREES and Annotations.md
+      - English/Modified Language Experience Approach (MLEA).md
+      - English/Learning Centres.md
+      - English/ELIAS English Language Interests All Students and Staff.md
+      - English/Speech and Drama.md
+      - Mother Tongue.md
+      - Mathematics/.keep
+      - Mathematics/Vision and Mission.md
+      - Mathematics/Mathematics Framework.md
+      - Mathematics/Learning Support.md
+      - Mathematics/Math Enrichment.md
+      - Mathematics/Math Practical (P1 to P6).md
+      - Mathematics/P4 Culinary Mathematics.md
+      - Mathematics/Maths Carnival.md
+      - Science/.keep
+      - Science/Vision and Mission.md
+      - Science/The Curriculum.md
+      - Science/ICAS Science Competition Awardees.md
+      - CCE/.keep
+      - CCE/Vision and Mission.md
+      - CCE/Character and Citizenship Education.md
+      - CCE/NE Framework.md
+      - CCE/CCE Experiences.md
+      - CCE/NE Commemorative Days.md
+      - Physical Health and Fitness/.keep
+      - Physical Health and Fitness/Vision and Mission.md
+      - "Physical Health and Fitness/Physical Education: The AIPS Approach.md"
+      - Physical Health and Fitness/AIPS Safety Guidelines.md
+      - Physical Health and Fitness/Primary 5 Outdoor Education Camp.md
+      - "Physical Health and Fitness/Sports Education Programme (SEP):
+        Gymnastics for Primary 1 & 2.md"
+      - Physical Health and Fitness/Active SG Programme.md
+      - ICT/.keep
+      - ICT/Vision and Mission.md
+      - ICT/Information Technology for Learning and Teaching.md
+      - ICT/Cyber Wellness Education.md
+      - Music and Arts/.keep
+      - Music and Arts/Vision and Mission.md
+      - Music and Arts/Music.md
+      - Music and Arts/Arts.md
