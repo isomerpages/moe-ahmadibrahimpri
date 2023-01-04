@@ -14,7 +14,6 @@ third_nav_title: Students and Parents Resources
 
 <a href="/files/Ushering%20in%20the%20year%20of%20the%20Rat.pdf">Ushering in the year of the Rat.pdf</a>
 
-2021 AIPS_Newsletter.pdf <strong>(file too big)
 
 <a href="https://www.canva.com/design/DAEuKYS3jEc/zk5AfZbH06GHHaujdLJQuA/view?utm_content=DAEuKYS3jEc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=homepage_design_menu">2021 P6 Graduation Newsletter</a>
 	
