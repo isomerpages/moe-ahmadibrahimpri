@@ -16,7 +16,6 @@ third_nav_title: Students and Parents Resources
 
 [2022 January Notification to Parents.pdf](/files/2022%20January%20Notification%20to%20Parents.pdf)
 
-2022 Cyberwellness Newsletter Issue March How To STAY SAFE.pdf **(file too big!)**
 
 [2022 P1 Parent Engagement Day.pdf](/files/2022%20P1%20Parent%20Engagement%20Day.pdf)
 
