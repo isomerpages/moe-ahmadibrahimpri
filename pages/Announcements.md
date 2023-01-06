@@ -5,7 +5,7 @@ description: ""
 ---
 #### 2023 Jan Notification to Parents
 
-Click [HERE](/partners/students-and-parents-resources/schoolnotificationstoparents/) to read '2023 Jan Notification to parents'
+Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 Jan Notification to parents'
 
 
 #### [Important]: Extension of School Hours on Tuesdays for P4-P6
