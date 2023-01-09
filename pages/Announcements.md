@@ -3,6 +3,11 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+#### 2023 Jan Notification to Parents
+
+Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 Jan Notification to parents'
+
+
 #### [Important]: Extension of School Hours on Tuesdays for P4-P6
 
 
@@ -11,16 +16,6 @@ With effect from 2023, the Form Teachers’ Guidance Branch (FTGP) periods for P
 **School will end on 2.30pm on Tuesdays for P4 to P6 students**. **For students taking school bus, the second pick-up time is at 4.30pm** as it is also CCA day on Tuesdays and the school bus vendor has been informed.  Parents are to take note of the change in school dismissal timing on Tuesdays if your child is in P4, P5 or P6.
 
 
-#### School is closed on 28 Dec 2022
-
-The school will be closed on 28 Dec 2022 for Staff Retreat. Thank you
-
-#### 2022 October Notification to Parents
-
-Click [HERE](/partners/resources-for-parents-students/schoolnotificationstoparents/) to read '2022 October Notification to parents'
-
-
 #### General Guidelines for P1 Snack Break
 
-Click [here](/partners/resources-for-parents-students) to find out more.
-
+Click [here](/partners/Students-and-Parents-Resources/GeneralGuidelinesforP1SnackBreak/) to find out more.

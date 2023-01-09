@@ -4,6 +4,9 @@ permalink: /partners/Students-and-Parents-Resources/SchoolArticles/
 description: ""
 third_nav_title: Students and Parents Resources
 ---
+[2022 Semester 2 Cyberwellness Infographic](/files/2022%20CW%20Infographic%20Term%203%20&%204compressed.pdf)
+
+
 <a href="/files/Using%20Technology%20Meaningfully%20CW%20Infographic%20Sem%201%202022.pdf">2022 Semester 1 sing Technology Meaningfully CW Infographic.pdf</a>
 
 <a href="/files/ELIAS@AIPS.pdf">ELIAS@AIPS.pdf</a>
@@ -14,7 +17,6 @@ third_nav_title: Students and Parents Resources
 
 <a href="/files/Ushering%20in%20the%20year%20of%20the%20Rat.pdf">Ushering in the year of the Rat.pdf</a>
 
-2021 AIPS_Newsletter.pdf <strong>(file too big)
 
 <a href="https://www.canva.com/design/DAEuKYS3jEc/zk5AfZbH06GHHaujdLJQuA/view?utm_content=DAEuKYS3jEc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=homepage_design_menu">2021 P6 Graduation Newsletter</a>
 	
