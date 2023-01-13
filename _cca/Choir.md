@@ -26,6 +26,3 @@ The AIPS Choir aims to provide joyful and fruitful learning experiences to our m
 ---------------------------------
 
 ![Chinese New Year Performance 2020](/images/CNY%20eve_24%20Jan%2020%202.jpeg)
-
-### Rehearsal @ School of the Arts Singapore 2020
----------------------------------------------
