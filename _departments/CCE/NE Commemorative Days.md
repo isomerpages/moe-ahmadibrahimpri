@@ -53,7 +53,6 @@ The Class Mentors then led the classes in a string of class activities. Our stud
 	
 #### NE commemorative Days Archive:
 
-Total Defence Day&nbsp;2020 **(broken link!!)**
 
 <a href="/departments/cce/cce-experiences/ne-commemorative-days/international-friendship-day-2020">International Friendship Day&nbsp;2020</a> 
 

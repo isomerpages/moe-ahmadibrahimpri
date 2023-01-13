@@ -34,8 +34,8 @@ description: ""
 |     Class     |    Class Mentors    |            Email Address             |
 |---------------|---------------------|--------------------------------------|
 |    P1 Care    |     Mdm NURMISZAH   |    nurmiszah_kamis@moe.edu.sg        |
-|    P1 Care    |   Mdm WONG JOON NOI |                                      |
-| P1 Diligence  |   Ms QUEK PEI JIN   |                                      |
+|    P1 Care    |   Mdm WONG JOON NOI |    wong_joon_noi@moe.edu.sg          |
+| P1 Diligence  |   Ms QUEK PEI JIN   |    quek_pei_chin_dawn@moe.edu.sg     |
 | P1 Diligence  |   Mdm ZUBAIDAH      |    siti_zubaidah_shaik@moe.edu.sg    |
 | P1 Excellence |    Ms ERIKA         |erika_melisa_muhammad_rezal@moe.edu.sg|
 | P1 Excellence |  Ms ONG LAY PHENG   |     ong_lay_pheng_b@moe.edu.sg       |
@@ -53,8 +53,8 @@ description: ""
 |     Class     |   Class Mentors   |             Email Address              |
 |---------------|-------------------|----------------------------------------|
 |    P2 Care    |  Mdm ZARENA       |   zarena_abdul_rahim@moe.edu.sg        |
-|    P2 Care    |  Mdm WONG PAU HUI |                                        |
-| P2 Diligence  |  Mdm LI JIA YANG  |                                        |
+|    P2 Care    |  Mdm WONG PAU HUI |   wong_pau_hui@moe.edu.sg              |
+| P2 Diligence  |  Mdm LI JIA YANG  |    li_jia_yang@moe.edu.sg              |
 | P2 Diligence  |     Mdm SHIVANI   |    shivani_subramaniam@moe.edu.sg      |
 | P2 Excellence |   EXTHER          |     tan_jie_qi_exther@moe.edu.sg       |
 | P2 Excellence | Mdm SUDRIYANTI    |     sudriyanti_samsudin@moe.edu.sg     |
@@ -78,7 +78,7 @@ description: ""
 | P3 Diligence  | Mrs CHIA WAN RONG |    chia_wan_rong@moe.edu.sg           |
 | P3 Excellence | Ms INDERJEET KAUR | inderjeet_kaur_harbans_sin@moe.edu.sg |
 | P3 Excellence | Mdm SURIYANTI     |     suriyanti_said@moe.edu.sg         |
-|  P3 Gratitude | Mdm MALATHI       |                                       |
+|  P3 Gratitude | Mdm MALATHI       |     malathi_krishnan@moe.edu.sg       |
 |  P3 Gratitude | Mdm WONG SUK MEE  |      wong_suk_mee@moe.edu.sg          |
 | P3 Resilience |  Mdm SITI AISHAH  |  siti_aishah_junaidi@moe.edu.sg       |
 | P3 Resilience | Mr ALFRED GOH     |  goh_sze_wee_alfred@moe.edu.sg        |
@@ -87,7 +87,7 @@ description: ""
 
 |     Class     |   Form Teacher    |             Email Address             |
 |---------------|-------------------|---------------------------------------|
-|    P4 Care    |   Mdm SARIMAH     |                                       |
+|    P4 Care    |   Mdm SARIMAH     |      sarimah_salleh@moe.edu.sg        |
 |    P4 Care    |   Mdm JASMINE OOI |      ooi_ai_ling_jasmine@moe.edu.sg   |
 | P4 Diligence  | Ms CAMILLA HO     | ho_yun_hui_camilia@moe.edu.sg         |
 | P4 Diligence  |  Ms MAHFOZA       |  mahfoza_mohamed@moe.edu.sg           |
@@ -104,9 +104,9 @@ description: ""
 |     Class     |   Form Teacher   |              Email Address              |
 |---------------|------------------|-----------------------------------------|
 |    P5 Care    | Mdm LILLIAN LAU  |   lau_lee_peng_lillian@moe.edu.sg       |
-|    P5 Care    | Mdm GUO YUE      |                                         |
+|    P5 Care    | Mdm GUO YUE      |          guo_yue@moe.edu.sg             |
 | P5 Diligence  |  Ms ADELINE Tan  |       adeline_tan_meiqin@moe.edu.sg     |
-| P5 Diligence  | Mdm TAN YIT PENG |                                         |
+| P5 Diligence  | Mdm TAN YIT PENG |       tan_yit_peng@moe.edu.sg           |
 | P5 Excellence |  Mr DANIEL GOH   |      goh_koon_yu_daniel@moe.edu.sg      |
 | P5 Excellence |  Mdm MAHA        |  mahalechime_udaykumar@moe.edu.sg       |
 | P5 Gratitude  | Mdm DEEPA        |    deepa_t_jeyaraman@moe.edu.sg         |
