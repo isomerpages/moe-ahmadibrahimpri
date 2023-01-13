@@ -18,5 +18,3 @@ Badminton aims to help our pupils develop positive team spirit and enhance their
 ### Training @ AIPS
 
 ![Training @ AIPS](/images/Badminton%202022.jpg)
-
-**video to be added!!**
