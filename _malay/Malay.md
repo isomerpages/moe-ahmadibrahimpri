@@ -3,6 +3,28 @@ title: Malay
 permalink: /malay/
 description: ""
 ---
+**Malay Language Department**
+
+Aim:
+* To instill interest and passion in the learning of the Malay Language.
+* To enrich pupils’ knowledge of the Malay Language and culture through MT Fortnight activities and learning journeys.
+* To enhance teachers’ teaching competencies through professional sharing sessions, peer coaching, action research and lesson
+* studies.
+
+We believe that our children are ‘Leaders of Characters and Learners for Life’. As such, the Malay Language Department strive to provide the best for our pupils so they can reach their fullest potential.
+
+**Pupils Competencies**
+
+The ability to learn a language is when the students are able to acquire and master competencies that are laid for them. As such, these competencies are nurtured to our pupils so that they are able to acquire the language and will be able to use them in their daily conversations and communication, formally or informally.
+
+**Bahasa Melayu @ AIPS**
+
+<p style="text-align:center;">Yang kurik itu kundi,<br>Yang merah itu saga;<br>Yang baik itu budi,<br>Yang indah itu bahasa.</p>
+
+Keindahan Bahasa Melayu dapat diperhatikan berdasarkan pantun di atas. Jabatan Bahasa Melayu di AIPS mahu terapkan keindahan Bahasa kepada semua murid kami agar mereka dapat menghayati keindahan Bahasa dan kemurnian budaya Melayu.
+
+Kami telah menjalankan beberapa aktivit untuk sentiasa menarik minat murid-murid kami. Walaupun diambang COVID-19, pembelajaran Bahasa Melayu tetap giat dilakukan melaui SLS.
+
 #### BAHASA MELAYU @ AIPS
 
 "Language is important as it is a vehicle for us to communicate with others about our ideas and feelings. It is also pertinent in transmitting our values and heritage to our young. There is a Malay saying ‘Bahasa menunjukkan Bangsa’, which means that the ‘language reflect ones identity or race’. Hence, to better understand the values and traditions embodied in their cultural heritage, our young must develop a sense of cultural awareness and confidence that comes from knowing their own Mother Tongue.
