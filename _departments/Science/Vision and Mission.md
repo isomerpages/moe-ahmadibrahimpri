@@ -4,8 +4,6 @@ permalink: /departments/science/visionandmission/
 description: ""
 third_nav_title: Science
 ---
-
-
 #### Vision
 ------
 
@@ -21,16 +19,13 @@ _Science teachers cultivate learners to be civic-minded, inquisitive and equippe
 | Department Members: |
 |---|
 | Mr Steven Lim (HOD Science) |
-| Mr Ben Koh (SH ICT) |
-| Mr Tham Tuck Kong |
-| Ms Eliza Goh (YH P3 P4) |
-| Mdm Ismiralda Masduki |
-| Mdm Brenda Lee |
-| Mr Melvin Yeoh |
+| Mdm Brenda Lee (LH Science |
 | Mdm Deepa T Jeyaraman |
+| Mr Tham Tuck Kong |
+| Mdm Chua Yen Ling |
 | Mdm Chee Jia Pei |
-| Mdm Lillian Lau (SSD) |
-| Mr Fadhli Zulkiflee |
+| Ms Mahfoza |
+
 			
 
 ## The Curriculum
