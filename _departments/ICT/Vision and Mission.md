@@ -4,7 +4,6 @@ permalink: /departments/ict/visionandmission/
 description: ""
 third_nav_title: ICT
 ---
-
 #### Vision:
 -------
 
@@ -41,23 +40,11 @@ Equip and Empower the Learners
 
 | Department Members: |
 |---|
-| Mr Nurul Hatta |
-| Mr Ben Koh |
-| Mdm Nursyahirah |
+| Mr Nurul Hatta (HOD ICT) |
+| Mr Ben Koh (SH ICT) |
 | Mdm Fang Jing |
-| Mdm Sarina Banu |
-| Ms Chee Jia Pei |
-| Mdm Ismiralda |
-| Mdm Siti Aishah |
-| Mdm Kalpana |
-| Mdm Seriyati |
-| Mr Melvin Yeoh |
-| Ms Haslinda |
-| Ms Lynn Lim |
+| Mdm Wong Pau Hui |
 | Mdm Suriyanti |
-| Mr Daniel Goh |
-| Mdm Meredith Goh |
-| Mdm Nadiah |
-| Mr Wu Hao |
-| Mdm Zhang Li |
-
+| Ms Haslinda |
+| Mdm Wong Joon Noi |
+| Ms Lee Mei Hui |
