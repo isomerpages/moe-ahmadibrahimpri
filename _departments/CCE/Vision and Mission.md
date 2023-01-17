@@ -21,20 +21,19 @@ To provide quality learning experiences for every child to develop good characte
 
 ## Department Members:
 
-| Department members: |  |
-|---|---|
-| Mdm Norhayati Amat (HOD CCE) | Ms Adeline Tan Mei Qin (SH CCE/Int.) |
-| Ms Angelin Chan (LH Math) | Mr Badrolhaizat (ST ML) |
-| Mdm Brenda Lee (LH Sci/ Int.) | Ms Chia Wan Rong |
-| Mrs Cheryl Chhabra | Mdm Chong Li Ying |
-| Mdm Deepa  | Mdm Halina Taib |
-| Mr Kamala Durai  | Ms Mahfoza |
-| Mrs Michelle Tan | Ms Nur Athira  |
-| Ms Ong Lay Pheng | Mdm Peng Chia Hui |
-| Mdm Rajeswari A | Mdm Renuka |
-| Ms Shamala | Mdm Shivani |
-| Mdm Siti Zubaidah | Mdm Wong Suk Mee |
-| Mdm Yuslindah | Mdm Zarena Abdul Hamid (AYH) |
+| Department Members: |
+|---|
+| Mdm Norhayati Amat (HOD CCE) |
+| Ms Adeline Tan Mei Qin (SH CCE) |
+| Mdm Deepa T Jeyaraman |
+| Ms Shamala |
+| Mdm Wong Suk Mee |
+| Mdm Yuslindah |
+| Mdm Malathi |
+| Mdm Siti Zubaidah |
+| Mdm Halina Taib |
+| Ms Ong Lay Pheng |
+| Mdm Sarina |
 
 			
 
