@@ -16,16 +16,18 @@ Effective communicators, passionate learners
 To provide quality learning experiences and a vibrant, language-rich environment to develop pupils to become Avid readers, Confident speakers, Active listeners and Creative writers.
 
 ### Department Members
-Department Members:
-1. Ms Inderjeet Kaur (HOD EL)
-2. Mr Daniel Goh (LH EL)
-3. Mdm Rajeswari (ST)
-4. Mrs Michelle Tan (ST)
-5. Mrs Cheryl Chhabra
-6. Mdm Nadiah
-7. Mdm Shivani
-8. Mdm Erika
-9. Mdm Seriyati
-10. Mr Melvin Yeoh
-11. Mdm Nursyahirah
+
+| Department Members: |
+|---|
+| Ms Inderjeet Kaur (HOD EL) |
+| Mr Daniel Goh (LH EL) |
+| Mdm Rajeswari (ST) |
+| Mrs Michelle Tan (ST) |
+| Mrs Cheryl Chhabra |
+| Mdm Nadiah |
+| Mdm Shivani |
+| Mdm Erika |
+| Mdm Seriyati |
+| Mr Melvin Yeoh |
+| Mdm Nursyahirah |
 
