@@ -19,7 +19,7 @@ _Science teachers cultivate learners to be civic-minded, inquisitive and equippe
 | Department Members: |
 |---|
 | Mr Steven Lim (HOD Science) |
-| Mdm Brenda Lee (LH Science |
+| Mdm Brenda Lee (LH Science) |
 | Mdm Deepa T Jeyaraman |
 | Mr Tham Tuck Kong |
 | Mdm Chua Yen Ling |
