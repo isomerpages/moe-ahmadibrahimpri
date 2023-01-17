@@ -16,6 +16,3 @@ third_nav_title: Music and Arts
 | Mdm Nur Aisyah |
 | Mdm Farhana |
 | Mdm Azimah |
-
-
-![Music and Arts](/images/PAM%20Informal.jpg)
