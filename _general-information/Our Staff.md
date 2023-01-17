@@ -18,7 +18,8 @@ description: ""
 | Year Head (P3 P4) | Ms Eliza Goh Seok Luan | goh_seok_luan@moe.edu.sg |
 | Year Head (P5 P6) | Mdm Yang Tzy Shing | yang_tzy_shing@moe.edu.sg |
 | Asst Year Head (P1 P2) | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
-| Asst Year Head (P3 P4) | Mdm Sandra Ang | ang_hwee_see_sandra@moe.edu.sg |
+| Asst Year Head (P1 P2) | Mdm Sandra Ang | ang_hwee_see_sandra@moe.edu.sg |
+| Asst Year Head (P3 P4) | Mr Fadhli | Muhammad_Fadhli_Zulkiflee@moe.edu.sg |
 | Asst Year Head (P5 P6) | Ms Eileen Ong | ong_yi_ling_eileen@moe.edu.sg |
 | Level Head Maths | Ms Angelin Chan | chan_jie_ting_angelin@moe.edu.sg |
 | Level Head English | Mr Daniel Goh Koon Yu | goh_koon_yu_daniel@moe.edu.sg |
