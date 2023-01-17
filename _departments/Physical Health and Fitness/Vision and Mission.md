@@ -22,7 +22,8 @@ They are passionate bout developing their talents towards sporting excellence.
 
 #### Department Members:
 
-| Department members:
+| Department Members: |
+|---|
 | Mr Sakthi Ganapathi (HOD PE) |
 | Ms Cia Zhi Xian |
 | Ms Camilia Ho |
