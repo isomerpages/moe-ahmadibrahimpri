@@ -21,28 +21,16 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 |---|
 | Ms Teo Xiwen (HOD MTL) |
 | Ms Jasmine Ooi (ST CL) |
-| Mr Badrolhaizat (ST ML) |
-| Mr Wu Hao |
-| Ms Eileen Ong |
-| Mdm Sandra Ang |
-| Mdm Fang Jing |
-| Mdm Peng Chia Hui |
-| Mdm Yang Tzy Shing |
-| Mdm Wong Suk Mee |
 | Mdm Chong Li Ying |
-| Mdm See Soo Peng |
-| Mdm Zhang Li |
-| Ms Oh Keng Hong |
-| Ms Ong Lay Pheng |
+| Mdm Guo Yue |
 | Ms Chia Wan Rong |
+| Mdm Li Jia Yang |
+| Mr Badrolhaizat (ST ML) |
 | Mdm Suriyanti (ML Coordinator) |
-| Mdm Siti Zubaidah |
-| Mdm Yuslindah |
-| Mdm Halina |
 | Mdm Siti Aishah |
-| Mdm Renuka (TL Coordinator) |
-| Mdm Sarina Banu |
 | Mdm Mahaletchime |
+| Mdm Renuka (TL Coordinator) |
+
 
 ### [Chinese](/chinese/subpage1/)
 
