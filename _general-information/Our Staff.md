@@ -79,7 +79,7 @@ description: ""
 | P3 Diligence  | Mrs CHIA WAN RONG |    chia_wan_rong@moe.edu.sg           |
 | P3 Excellence | Ms INDERJEET KAUR | inderjeet_kaur_harbans_sin@moe.edu.sg |
 | P3 Excellence | Mdm SURIYANTI     |     suriyanti_said@moe.edu.sg         |
-|  P3 Gratitude | Mdm MALATHI       |     malathi_krishnan@moe.edu.sg       |
+|  P3 Gratitude | Mdm MALATHI       |     madathi_velu_malathi@moe.edu.sg   |
 |  P3 Gratitude | Mdm WONG SUK MEE  |      wong_suk_mee@moe.edu.sg          |
 | P3 Resilience |  Mdm SITI AISHAH  |  siti_aishah_junaidi@moe.edu.sg       |
 | P3 Resilience | Mr ALFRED GOH     |  goh_sze_wee_alfred@moe.edu.sg        |
