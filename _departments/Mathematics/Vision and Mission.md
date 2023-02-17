@@ -23,16 +23,10 @@ To help our students build strong foundation in numeracy and competencies in hig
 | Ms Angelin Chan (LH) |
 | Mdm Mabel Chia (LT) |
 | Mdm Tan Mei Ling |
-| Ms Adeline Tan Meiqin |
-|  Mdm Zarena |
-|  Mdm Nursyahirah |
-|  Mdm Tan Su Hui |
+| Mdm Ismiralda |
 | Mdm Exther Tan Jie Qi |
-| Ms Camilla Ho |
-| Mdm Cia Zhi Xian |
-| Mdm Chua Yen Ling |
-| Ms Lynn Lim |
-|  Mr Ryan Pek |
-|  Ms Nurul Farhana |
-| Ms Haslinda Baba |
 |  Mrs Rachel Tan |
+| Ms Lynn Lim |
+| Mdm Nurmiszah |
+| Ms Quek Pei Jin |
+| Mdm Meredith Goh |

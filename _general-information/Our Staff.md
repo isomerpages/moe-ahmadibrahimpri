@@ -18,7 +18,8 @@ description: ""
 | Year Head (P3 P4) | Ms Eliza Goh Seok Luan | goh_seok_luan@moe.edu.sg |
 | Year Head (P5 P6) | Mdm Yang Tzy Shing | yang_tzy_shing@moe.edu.sg |
 | Asst Year Head (P1 P2) | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
-| Asst Year Head (P3 P4) | Mdm Sandra Ang | ang_hwee_see_sandra@moe.edu.sg |
+| Asst Year Head (P1 P2) | Mdm Sandra Ang | ang_hwee_see_sandra@moe.edu.sg |
+| Asst Year Head (P3 P4) | Mr Fadhli | Muhammad_Fadhli_Zulkiflee@moe.edu.sg |
 | Asst Year Head (P5 P6) | Ms Eileen Ong | ong_yi_ling_eileen@moe.edu.sg |
 | Level Head Maths | Ms Angelin Chan | chan_jie_ting_angelin@moe.edu.sg |
 | Level Head English | Mr Daniel Goh Koon Yu | goh_koon_yu_daniel@moe.edu.sg |
@@ -78,7 +79,7 @@ description: ""
 | P3 Diligence  | Mrs CHIA WAN RONG |    chia_wan_rong@moe.edu.sg           |
 | P3 Excellence | Ms INDERJEET KAUR | inderjeet_kaur_harbans_sin@moe.edu.sg |
 | P3 Excellence | Mdm SURIYANTI     |     suriyanti_said@moe.edu.sg         |
-|  P3 Gratitude | Mdm MALATHI       |     malathi_krishnan@moe.edu.sg       |
+|  P3 Gratitude | Mdm MALATHI       |     madathi_velu_malathi@moe.edu.sg   |
 |  P3 Gratitude | Mdm WONG SUK MEE  |      wong_suk_mee@moe.edu.sg          |
 | P3 Resilience |  Mdm SITI AISHAH  |  siti_aishah_junaidi@moe.edu.sg       |
 | P3 Resilience | Mr ALFRED GOH     |  goh_sze_wee_alfred@moe.edu.sg        |

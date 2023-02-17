@@ -10,7 +10,7 @@ Rope Skipping aims to help our pupils develop their acrobatic and creative talen
 
   
 
-| Teachers-in-charge  | Mdm Goh Meredith (goh_meredith@moe.edu.sg) Ms Chee Jia Pei (chee_jia_pei@moe.edu.sg |
+| Teachers-in-charge  | Mdm Goh Meredith (goh_meredith@moe.edu.sg) Ms Chee Jia Pei (chee_jia_pei@moe.edu.sg) |
 |:---:|:---:|
 | Venue | School Hall |
 | Day and Time | Wednesday, 2pm - 4pm |
