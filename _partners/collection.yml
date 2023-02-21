@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group/Chinese New Year Celebration.md
       - Parent Support Group/.keep
       - Parent Support Group/Our Philosophy and PSG Exco.md
+      - Parent Support Group/Chinese New Year Celebration.md
       - Parent Support Group/Our New PSG room.md
       - Parent Support Group/Bonding session ( Soap Making workshop).md
       - Parent Support Group/Racial Harmony Day.md
