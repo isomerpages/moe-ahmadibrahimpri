@@ -48,24 +48,20 @@ Shine at AIPS is a music competition held virtually this year. The objective of 
 Junior Category (P1 – P3 Students)<br>
 
 <u>Category 1: Dance</u>
-<img src="/images/cat1%20dancing.png" alt="Category 1: Dancing">
-
-
+![](/images/junior%20category%20dance.jpeg)
 1st Prize: Veerappan Aarthi (2 Respect)<br>
 2nd Prize: Mudumba Srisamhitha (2 Diligence)<br>
 3rd Prize: Evanna Chee Xuan Hui (3 Excellence)
 
 <u>Category 2: Instrument</u>
-<img src="/images/cat2%20instru.png" alt="Category 2: Instrumental">
-
+![](/images/junior%20category%20instrument.jpeg)
 1st Prize: Tok Hoi Min (2 Honesty)<br>
 2nd Prize: Lim You Hong (3 Honesty)<br>
 3rd Prize: Chew Yu Xin (1 Excellence)
 
 
 <u>Category 3: Voice</u>
-<img src="/images/cat3%20sing.png" alt="Category 3: Singing">
-
+![](/images/junior%20category%20voice.jpeg)
 1st Prize: Naurah Binte Mohamed Nazri (3 Honesty)<br>
 2nd Prize: Zara Leanne Chow (1 Honesty)<br>
 3rd Prize: Lin Weile, Lucas (2 Resilience)
@@ -74,16 +70,13 @@ Junior Category (P1 – P3 Students)<br>
 Senior Category (P4 – P6 Students)
 
 <u>Category 1: Dance</u>
-<img src="/images/cat1%20dancing.png" alt="Category 1: Dancing">
-
-
+![](/images/senior%20category%20dance.jpeg)
 1st Prize: Sophie Eilynn Chow (5 Diligence)<br>
 2nd Prize: Selvakumar Mahalakshmi (5 Excellence)
 
 
 <u>Category 2: Instrument</u>
-<img src="/images/cat2%20instru.png" alt="Category 2: Instrumental">
-
+![](/images/senior%20category%20instrument.jpeg)
 1st Prize: Tay Ren Kai (6 Honesty)<br>
 2nd Prize: Lim Hao Yue (4 Honesty)<br>
 3rd Prize: Chew Yu Jie (5 Gratitude)
@@ -91,8 +84,7 @@ Senior Category (P4 – P6 Students)
 
 
 <u>Category 3: Voice</u>
-<img src="/images/cat3%20sing.png" alt="Category 3: Singing">
-
+![](/images/senior%20category%20voice.jpeg)
 1st Prize: K Tanishqa (6 Honesty)<br>
 2nd Prize: Sophie Eilynn Chow (5 Diligence)<br>
 3rd Prize: Gonzales Elisha Brielle (5 Diligence)
