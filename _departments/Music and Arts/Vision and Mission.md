@@ -13,6 +13,6 @@ third_nav_title: Music and Arts
 |---|
 | Ms Dawn Teo (SH Aesthetics) |
 | Ms Abbi Chow |
-| Mdm Nur Aisyah |
+| Mrs Aisyah Dave |
 | Mdm Farhana |
 | Mdm Azimah |
