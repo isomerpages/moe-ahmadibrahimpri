@@ -112,10 +112,10 @@ description: ""
 | P5 Excellence |  Mdm MAHA        |  mahalechime_udaykumar@moe.edu.sg       |
 | P5 Gratitude  | Mdm DEEPA        |    deepa_t_jeyaraman@moe.edu.sg         |
 | P5 Gratitude  |  Mdm CHERYL TAN  |      tan_tse_ping_cheryl@moe.edu.sg     |
-|  P5 Honesty   |Mdm YANG TZY SHING|    yang_tzy_shing@moe.edu.sg            |
-|  P5 Honesty   | Mdm ZOEY         |                                         |
+|  P5 Honesty   |  Ms BRENDA LEE   |    lee_jia_ying_brenda@moe.edu.sg       |
+|  P5 Honesty   | Mdm NADIAH       |    nadiah_ahmad@moe.edu.sg              |
 | P5 Resilience | Mr SAKTHI        | sakthi_ganapathi_ramachandra@moe.edu.sg |
-| P5 Resilience | Ms ANGELINE TAN  |  chan_jie_ting_angelin@moe.edu.sg       |
+| P5 Resilience | Ms ANGELIN CHAN  |  chan_jie_ting_angelin@moe.edu.sg       |
 
 
 ### Primary 6
