@@ -23,7 +23,7 @@ Members are also given opportunities to participate in art exhibitions such as t
 | Teachers-in-charge | Mrs Aisyah Dave <br> Mdm Azimah <br> Mdm Farhana  |
 |:---:|:---:|
 | Venue | Art Room 1 and 2 |
-| Day and Time | Tuesdays, 2.45pm-4.30pm 
+| Day and Time | Tuesdays, 2.45pm - 4.30pm 
 
 ### Contribute an Artwork to Sengkang Hospital
 ----------
