@@ -25,6 +25,6 @@ Members are also given opportunities to participate in art exhibitions such as t
 | Venue | Art Room 1 and 2 |
 | Day and Time | Tuesdays, 2.45pm-4pm 
 
-### Highlights
+### Contribute an Artwork to Sengkang Hospital
 ----------
-<iframe allowfullscreen="true" height="659" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbJ35mGfLTNYSjjB0DCQ0BS8Uu54YlGiQvMyKoWU6JYaxJLoF24KgcWi848a1a_NmHqvAx8lapXsNN/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgQyOggODcUJh3WoBrpIlIW7oDUKRTNQ-NTGQqLBsBGW_uiRTPL58frnhca9jZvzsTxVj8xmf-q5d_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
