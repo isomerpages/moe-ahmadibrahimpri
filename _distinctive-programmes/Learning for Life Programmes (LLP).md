@@ -22,3 +22,9 @@ Our P3 students went through their leadership camp with plenty of team games and
 Our P5 students displayed the value of empathy when they went through the Intergenerational Mentoring Workshop as they practised the fifth practice of encouraging others to act. They had the chance to put themselves in the shoes of the elderly through enriching and fun activities during the camp. They also worked collaboratively in groups when solving problems and team challenges during the camp.  
 
 ![](/images/Primary%205%20Leadership%20Camp.jpg)
+
+
+#### Primary 6 Leadership Camp: Rise with Resilience Workshop 
+Our P6 students went through a Rise with Resilience Workshop in which they experienced team games and activities to develop their mental resilience when facing challenges in school. Through journalling, they will develop confidence when learning to take control of their emotions and in setting personal goals. Not only that, they also displayed the values of resilience and responsibility as they cultivated a positive growth mindset in their learning aptitude.
+
+![](/images/Primary%206%20Leadership%20Camp.jpg)
