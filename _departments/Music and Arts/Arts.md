@@ -29,3 +29,9 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 #### 2022 P5 cotton bud sculpture
 
 ![](/images/p5%20cotton%20bud%20sculpture.jpg)
+
+#### P1 P2 speech and drama collaboration
+
+![](/images/mask%201.jpeg)
+![](/images/mask%202.jpeg)
+![](/images/mask%203.jpeg)
