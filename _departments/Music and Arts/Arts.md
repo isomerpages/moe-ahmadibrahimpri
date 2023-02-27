@@ -30,8 +30,12 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 
 ![](/images/p5%20cotton%20bud%20sculpture.jpg)
 
-#### P1 P2 speech and drama collaboration
+#### 2022 P1 P2 speech and drama collaboration
 
 ![](/images/mask%201.jpeg)
 ![](/images/mask%202.jpeg)
 ![](/images/mask%203.jpeg)
+
+#### 2022 CNY activity
+
+![](/images/2022%20cny%20activity.jpg)
