@@ -14,11 +14,18 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 
 <p style="text-align:center;">OR<br>use your mobile devices to scan the QR code:</p>
 	
-<img alt="" style="width:30%" src="/images/QR%20CODE.png">
+<img src="/images/QR%20CODE.png" style="width:30%" alt="">
 
 * best viewed using the app "Art Steps". You may download it for free from Play Store/ Apple Store.
 	
 #### 2022 P6 Graduation Magazine
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYQI6IJzsOe5ZbJWJB4itSkWjHt4O3sSEKDfsZ1ysDuiU8o0ljoGPapUU7GanjmUoTdoS6R42qPBi_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYQI6IJzsOe5ZbJWJB4itSkWjHt4O3sSEKDfsZ1ysDuiU8o0ljoGPapUU7GanjmUoTdoS6R42qPBi_/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
+#### 2022 P5 Sandmation
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzm-0bs9AInJuw6JgFSwceiuV1RBIclgDmYqUwxNcO5hcUCos8CU3pYwXCh90YocKcqryyayoqR9FR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### 2022 P5 cotton bud sculpture
+
+![](/images/p5%20cotton%20bud%20sculpture.jpg)
