@@ -10,10 +10,10 @@ Ahmad Ibrahim Primary School's Angklung Instrumental Ensemble is a long-establis
 
   
 
-| Teachers-in-charge  | Mrs Cheryl Chhabra (tan_tse_ping_cheryl@moe.edu.sg) Mdm Ismiralda (ismiralda_masduki@moe.edu.sg) Mdm Halina (halina_taib@moe.edu.sg)  |
-|:---:|---|
+| Teachers-in-charge  | Mrs Cheryl Chhabra (tan_tse_ping_cheryl@moe.edu.sg) <br>Mdm Halina <br>(halina_taib@moe.edu.sg) <br>Mdm Zubaidah (siti_zubaidah_shaik_ibrahim@moe.edu.sg) |
+|:---:|:---:|
 | Venue | Music Room 2 |
-| Day and Time | Tuesdays, 2-3:30pm |
+| Day and Time | Tuesdays, 2.45pm - 4.45pm |
 
 
 ### Rehearsal at The Republic Culture Centre 2020
