@@ -14,10 +14,10 @@ There are also proficiency and progress badges to be obtained, and these can be 
 
   
 
-| Teachers-in-charge  | Mr Alfred Goh (goh_sze_wee_alfred@moe.edu.sg) Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) |
+| Teachers-in-charge  | Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) <br>Mr Badrol (badrolhaizat_kamsin@moe.edu.sg) <br>Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg)   |
 |:---:|:---:|
 | Venue | Teaching Lab |
-| Day and Time | Tuesday, 2 - 4pm |
+| Day and Time | Tuesday, 2.45 - 4.45pm |
 
   
 
