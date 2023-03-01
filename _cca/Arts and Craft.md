@@ -20,7 +20,7 @@ Members are also given opportunities to participate in art exhibitions such as t
 ### CCA Details
 -----------
 
-| Teachers-in-charge | Mrs Aisyah Dave <br> Mdm Azimah <br> Mdm Farhana  |
+| Teachers-in-charge | Mrs Aisyah Dave (nur_aisyah_abdul_latiff@moe.edu.sg) <br> Mdm Azimah (nur_azimah_mohd_jailani@moe.edu.sg) <br> Ms Farhana (nurul_farhana_ali@moe.edu.sg)  |
 |:---:|:---:|
 | Venue | Art Room 1 and 2 |
 | Day and Time | Tuesdays, 2.45pm - 4.30pm 
