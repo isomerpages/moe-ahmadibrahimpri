@@ -11,10 +11,10 @@ The Basketball CCA conducts its training once a week. Weekly training not only f
 
   
 
-| Teachers-in-charge  | Mr Tham Tuck Kong (tham_tuck_kong@moe.edu.sg) Ms Cia Zhi Xian (zhi_xian_cia@moe.edu.sg) |
+| Teachers-in-charge  | Mr Tham Tuck Kong (tham_tuck_kong@moe.edu.sg) <br>Miss Ong Lay Pheng (ong_lay_pheng_b@moe.edu.sg)<br> Mdm Tan Mei Ling (tan_mei_ling@moe.edu.sg)  |
 |:---:|:---:|
 | Venue | ISH Level 1 |
-| Day and Time | Tuesday, 2pm - 5pm |
+| Day and Time | Tuesday, 2.45pm - 4.45pm |
   
 
 ### Highlights
