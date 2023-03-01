@@ -11,7 +11,7 @@ Our Indian Dance explores various dance forms such as classical, bollywood, cont
 ### CCA Details
 -----------
 
-| Teachers-in-charge  | Mdm Maha (mahalechime_udaykumar@moe.edu.sg) Mdm Sarina (sarina_banu_mohideen@moe.edu.sg) Ms Mahfoza (mahfoza_mohamed@moe.edu.sg) |
+| Teachers-in-charge  | Mdm Maha (mahalechime_udaykumar@moe.edu.sg) <br>Mdm Sarina (sarina_banu_mohideen@moe.edu.sg) <br> Ms Mahfoza (mahfoza_mohamed@moe.edu.sg) |
 |:---:|:---:|
 | Venue | Music Room 1 |
 | Day and Time | Tuesdays, 2.45pm - 4.45pm |
