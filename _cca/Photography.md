@@ -9,10 +9,10 @@ The AIPS Photography Club aims to educate students on the intricacies of operati
 ### CCA Details
 -----------
 
-| Teachers-in-charge | Mr Wu Hao (wu_hao@moe.edu.sg) Ms Lynn Limm (lim_shi_hui_lynn@moe.edu.sg) |
+| Teachers-in-charge | Ms Lynn Limm (lim_shi_hui_lynn@moe.edu.sg) <br>Ms Quek Pei Jin (quek_pei_jin@moe.edu.sg) |
 |:---:|:---:|
 | Venue | Computer Lab 2 |
-| Day and Time | Tuesday, 2 - 4pm |
+| Day and Time | Tuesday, 2.45 - 4.45pm |
 
 ### Honourable Mention Award for Junior Category in MOE "Our School, Our Stories" Photo Contest - Winning Entries by Nicole Wong Xin Yi and Ng Yumin
 ------------------------------------------------------------------------------------------------------------------------------------------------
