@@ -10,10 +10,10 @@ Badminton aims to help our pupils develop positive team spirit and enhance their
 
 
 
-| Teachers-in-charge  | Mdm Zhang Li (zhang_li_b@moe.edu.sg) Ms Camilla Ho Yun Hui (ho_yun_hui_camillia@moe.edu.sg) Mdm Sudriyanti bte Samsudin (sudriyanti_samsudin@moe.edu.sg) |
+| Teachers-in-charge  | Mdm Sudriyanti bte Samsudin (sudriyanti_samsudin@moe.edu.sg)  <br>Ms Camilla Ho Yun Hui (ho_yun_hui_camillia@moe.edu.sg) <br>Mdm Guo Yue <br>(guo_yue@moe.edu.sg)  |
 |:---:|:---:|
 | Venue | ISH Level 4 |
-| Day and Time | Tuesday, 2pm - 5pm |
+| Day and Time | Tuesday, 2.45pm - 4.45pm |
 
 ### Training @ AIPS
 
