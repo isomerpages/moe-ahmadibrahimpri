@@ -18,10 +18,10 @@ Various platforms were given to the pupils to showcase their talent such as perf
 
   
 
-| Teachers-in-charge  | Mdm Yuslindah (yuslindah_mohamed_ali@moe.edu.sg) Mdm Seriyati (hajjah_seriyati_md_salleh@moe.edu.sg) Mdm Aishah (siti_aishah_junaidi@moe.edu.sg) |
+| Teachers-in-charge  | Mdm Yuslindah (yuslindah_mohamed_ali@moe.edu.sg) Mdm Aishah (siti_aishah_junaidi@moe.edu.sg) |
 |:---:|:---:|
-| Venue | Dance Studio @ISH (Level 3) |
-| Day and Time | Tuesdays, 2pm - 4pm |
+| Venue | PALS Room (Level 4) |
+| Day and Time | Tuesdays, 2.40pm - 4.40pm |
 
   
 
