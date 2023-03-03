@@ -20,9 +20,4 @@ contacts:
       - email: ""
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: Careers
 ---

@@ -8,7 +8,7 @@ At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a st
 	
 ### NEW ONLINE ANNUAL ART EXHIBITION
 	
-Come and visit our very first online Art Exhibition curated by our Art Specialist teachers, for our students. 
+Come and visit our very first online Art Exhibition curated by our Art Specialist teachers, for our students.&nbsp;
 
 <p style="text-align:center;">Click on this link to enter Gallery: <a href="https://www.artsteps.com/embed/61888ce1ac85446ad7358165/560/315">ARTVENTURES IN AIPS</a></p>
 
@@ -16,13 +16,26 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 	
 <img src="/images/QR%20CODE.png" style="width:30%" alt="">
 
-* best viewed using the app &quot;Art Steps&quot;. You may download it for free from Play Store/ Apple Store.
+* best viewed using the app "Art Steps". You may download it for free from Play Store/ Apple Store.
 	
-<img src="/images/ADVENTURES.jpg" alt="">
-<img src="/images/ART1.png" alt="">
-<img src="/images/ART2.png" alt="">
-<img src="/images/ART3.png" alt="">
+#### 2022 P6 Graduation Magazine
 
-### ARTSTRAVAGANZA 2021
-**TERMLY ART COMPETITION**
-<img src="/images/ARTSTRAVAGANZA%202021.jpg" alt="TERMLY ART COMPETITION"><img src="/images/ARTSTRAVAGANZA%202021_2.jpg" alt="TERMLY ART COMPETITION"><img src="/images/ARTSTRAVAGANZA%202021_3.jpg" alt="TERMLY ART COMPETITION"><img src="/images/ARTSTRAVAGANZA%202021_4.jpg" alt="TERMLY ART COMPETITION"><img src="/images/ARTSTRAVAGANZA%202021_5.jpg" alt="TERMLY ART COMPETITION"><img src="/images/ARTSTRAVAGANZA%202021_6.jpg" alt="TERMLY ART COMPETITION">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYQI6IJzsOe5ZbJWJB4itSkWjHt4O3sSEKDfsZ1ysDuiU8o0ljoGPapUU7GanjmUoTdoS6R42qPBi_/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+#### 2022 P5 Sandmation
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzm-0bs9AInJuw6JgFSwceiuV1RBIclgDmYqUwxNcO5hcUCos8CU3pYwXCh90YocKcqryyayoqR9FR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### 2022 P5 cotton bud sculpture
+
+![](/images/p5%20cotton%20bud%20sculpture.jpg)
+
+#### 2022 P1 P2 speech and drama collaboration
+
+![](/images/mask%201.jpeg)
+![](/images/mask%202.jpeg)
+![](/images/mask%203.jpeg)
+
+#### 2022 CNY activity
+
+![](/images/2022%20cny%20activity.jpg)

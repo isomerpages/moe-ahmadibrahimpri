@@ -12,10 +12,10 @@ The Chinese Dance team took part in the SYF 2016 & 2018 and won the Distinction 
 
   
 
-| Teachers-in-charge  | Mdm Chong Li Ying (chong_li_ying@moe.edu.sg) Miss Ong Lay Pheng (ong_lay_pheng_b@moe.edu.sg) |
+| Teachers-in-charge  | Mdm Fang Jing (fang_jing@moe.edu.sg) <br>Mdm Wong Suk Mee (wong_suk_mee@moe.edu.sg) <br>Mdm Chong Li Ying (chong_li_ying@moe.edu.sg)  |
 |:---:|:---:|
 | Venue | PALS Room (Level 4) |
-| Day and Time | Tuesdays, 2pm - 4pm (SYF Group) 2pm - 2:45pm (P6 students) |
+| Day and Time | Tuesdays, 2.40pm - 4.40pm
 
   
 

@@ -10,10 +10,10 @@ The AIPS Choir aims to provide joyful and fruitful learning experiences to our m
 
   
 
-| Teachers-in-charge  | Mdm Deepa Jeyaraman (deepa_t_jeyaraman@moe.edu.sg) Mdm Suriyanti (suriyanti_said@moe.edu.sg) Ms Abbi Chow (chow_yuan_ling_abbi@moe.edu.sg) |
+| Teachers-in-charge  | Mdm Deepa Jeyaraman (deepa_t_jeyaraman@moe.edu.sg) <br>Mdm Suriyanti (suriyanti_said@moe.edu.sg) <br>Ms Wong Pau Hui (wong_pau_hui@moe.edu.sg) |
 |:---:|:---:|
-| Venue | Via Zoom |
-| Day and Time | Tuesdays, 2.30 pm- 4.30pm Part 1: 2.30pm-3.30pm Part 2: 3.30pm-4.30pm |
+| Venue | Band Room @ ISH (Level 3) |
+| Day and Time | Tuesdays, 2.45 pm- 4.45pm |
 
   
 
