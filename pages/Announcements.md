@@ -3,9 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-#### 2023 Mar Notification to Parents
+#### 2023 April Notification to Parents
 
-Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 Mar Notification to parents'
+Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 April Notification to parents'
 
 
 #### [Important]: Extension of School Hours on Tuesdays for P4-P6
