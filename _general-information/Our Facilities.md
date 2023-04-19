@@ -72,10 +72,7 @@ description: ""
 
 <img src="/images/English%20Learning%20Space3.jpg" style="width:80%">
 
-**Habits of Mind Learning Wall**
-================================
 
-<img src="/images/Habits%20of%20Mind%20Learning%20Wall.jpg" style="width:60%">
 
 **Eco Garden**
 ==============
