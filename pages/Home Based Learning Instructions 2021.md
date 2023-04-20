@@ -3,47 +3,20 @@ title: Home Based Learning Instructions 2021
 permalink: /partners/resources-for-parents-students/home-based-learning-instructions-2021/
 description: ""
 ---
-Home-Based Learning (HBL) provides opportunities for our students to engage in self-directed learning. HBL also aims to ensure that learning continues for students on days when schools may be closed for a period of time due to emergency crisis such as Covid-19.
+### Home Based Learning Lesson Guides 25 and 26 May 2023 
 
-  
 
-During HBL, students will be given a dedicated timetable to follow for the various levels. They will be required to do the following task:
+#### Primary 1
+[1 CARE](https://docs.google.com/spreadsheets/d/1e2C73yMB0d3luTc3U5DClpQcHyU35QnKtjvfMtAHisk/edit#gid=0) <br>
+[1 DILIGENCE](https://docs.google.com/spreadsheets/d/19cxNw0b8T9TbtwRbEsURfpXsYIxNTpD8Vjls74odpoA/edit#gid=0) <br>
+[1 EXCELLENCE](https://docs.google.com/spreadsheets/d/1O4pWfAZlw6deBmlPI_XfHQFFIS_ghurhvdfOhRsbmwo/edit) <br>
+[1 GRATITUDE](https://docs.google.com/spreadsheets/d/1uhfNZxIBmisfXlUi1-i6GWEc-5mkF9FvoAtm8R5Bipw/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
+[1 HONESTY](https://docs.google.com/spreadsheets/d/1Ui3PCIhwe499aSDtAUAJs1EpVY-rO4oR9xlprK7RPME/edit) <br>
+[1 RESILIENCE](https://docs.google.com/spreadsheets/d/1y1DktNOcEhatVOfOHSngRxemME-xmgG5zKkyBbRsnfI/edit) <br>
+[1 RESPECT](https://docs.google.com/spreadsheets/d/1ae-FSPayJYCnqQwPT8xAUyUGQ977qfmtyO6iyHWu-Ek/edit#gid=0) <br>
 
-  
 
-1)    Log in to SLS at specific time periods indicated in the HBL timetable.
-
-  
-
-2)    Complete all Online work for the various subjects as assigned in SLS.
-
-  
-
-3)    Complete Offline work (e.g. Workbook practices, compositions etc.) as indicated by their respective subject teachers.
-
-  
-
-Students will be completing their online assignments for the respective subjects through the **SLS Learning portal: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)** for this exercise (with Google Chrome or Apple Safari). You may also wish to take the opportunity to bond and share good cyber habits with your child as you guide him/her in managing their learning online.
-
-  
-
-For technical issues pertaining to the use of the portals such as resetting passwords or accounts, please contact the SLS helpdesk as shown below.
-
-| Portal |
-|---|
-| Operating hours |
-| SLS Learning Portal |
-| (for all Subjects) |
-| Monday ― Friday: |
-| 4:00 pm ― 9:00 pm (School Days) |
-| 9:00 am ― 9:00 pm (School Holidays) |
-| Saturdays: |
-| 9:00 am ― 3:00 pm |
-| *Closed on Sundays & Public Holidays |
-| Email: helpdesk@sls.ufinity.com |
-| User guide for SLS Login trouble-shooting: |
-| https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html |
-
-##### FHBL Daily Schedule
-
-##### FHBL Lesson Guides
+#### Primary 2
+[2 CARE](https://docs.google.com/spreadsheets/d/1ZU8UdI2lkGti6wHsm9BWINBgYsOAo8QVJVFtbrIWroQ/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
+[2 DILIGENCE](https://docs.google.com/spreadsheets/d/12y3FEMEtyvc5EgXrdv5BRgQGipBH7wphfmknltWKyYc/edit) <br>
+[2 EXCELLENCE](https://docs.google.com/spreadsheets/d/1nax8py3wIC-exgeu_uaMYUhPt_8Ou4MyEoHDlmHMb24/edit) <br>
