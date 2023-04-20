@@ -2,4 +2,5 @@ collections:
   quick-links:
     output: true
     order:
+      - test.md
       - Sexuality Education.md
