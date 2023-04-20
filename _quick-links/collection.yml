@@ -2,4 +2,4 @@ collections:
   quick-links:
     output: true
     order:
-      - test.md
+      - Quick Links.md
