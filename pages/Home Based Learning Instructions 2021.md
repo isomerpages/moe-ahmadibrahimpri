@@ -20,3 +20,10 @@ description: ""
 [2 CARE](https://docs.google.com/spreadsheets/d/1ZU8UdI2lkGti6wHsm9BWINBgYsOAo8QVJVFtbrIWroQ/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
 [2 DILIGENCE](https://docs.google.com/spreadsheets/d/12y3FEMEtyvc5EgXrdv5BRgQGipBH7wphfmknltWKyYc/edit) <br>
 [2 EXCELLENCE](https://docs.google.com/spreadsheets/d/1nax8py3wIC-exgeu_uaMYUhPt_8Ou4MyEoHDlmHMb24/edit) <br>
+[2 GRATITUDE](https://docs.google.com/spreadsheets/d/1aIizTFmboXHwVWjZBvp8YTvoRUFSsvUv9n-JIUaPZow/edit) <br>
+[2 HONESTY](https://docs.google.com/spreadsheets/d/1OiQN-SJ9k-h6bWitVrOpwLlJN93c2IbwYhYXQ0OGNL4/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
+[2 RESILIENCE](https://docs.google.com/spreadsheets/d/1eSzelMeOAuNERHkInijqfy-GvTn4AAeMCPxaaHh9vFE/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
+[2 RESPECT](https://docs.google.com/spreadsheets/d/1NHUMtiArAl3ngQZo8HT0wDYBKcWDFBZsQ89ihpjgwVQ/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
+
+
+#### Primary 3
