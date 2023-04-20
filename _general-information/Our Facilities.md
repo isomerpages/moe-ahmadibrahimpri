@@ -109,19 +109,20 @@ description: ""
 **Indoor Sports Hall (ISH)**
 ============================
 
-![ISH](/images/ISH1.jpg)
-
-![ISH](/images/ISH2.jpg)
-
 ![ISH](/images/ISH3.jpg)
-
-![ISH](/images/ISH4.jpg)
 
 ![ISH](/images/ISH5.jpg)
 
 ![ISH](/images/ISH6.jpg)
 
 ![ISH](/images/ISH7.jpg)
+
+![](/images/ish%201%20(3).jpeg)
+
+![](/images/ish%201%20(1).jpeg)
+
+![](/images/ish%201%20(2).jpeg)
+
 
 **Cyber Lab**
 =============
