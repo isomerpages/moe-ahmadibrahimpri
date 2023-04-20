@@ -24,7 +24,7 @@ description: ""
 **School Bookshop**
 ===================
 
-<img src="/images/School%20Bookshop.jpg" style="width:60%">
+![BOOKSHOP 2023](/images/bookshop%202023.jpeg)
 
 **Maths Learning Areas**
 ========================
@@ -72,10 +72,13 @@ description: ""
 
 **Eco Garden**
 ==============
+![](/images/Eco-Garden1.jpg)
 
-<img src="/images/Eco-Garden1.jpg" style="width:65%">
+![](/images/eco%20garden%201.jpeg)
 
-<img src="/images/Eco-Garden2.jpg" style="width:65%">
+![](/images/eco%20garden%202.jpeg)
+
+![](/images/eco%20garden%203.jpeg)
 
 **Student Care Centre**
 =======================
