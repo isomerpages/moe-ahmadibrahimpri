@@ -5,4 +5,4 @@ description: ""
 ---
 [Sexuality Education](/cce-experiences/sexuality-education/)
 
-[Home Based Learning Lesson Guides](/homebasedlearninginstructions)
+[Home Based Learning instructions](/homebasedlearninginstructions)
