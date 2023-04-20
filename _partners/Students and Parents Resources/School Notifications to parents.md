@@ -12,3 +12,6 @@ third_nav_title: Students and Parents Resources
 
 
 [2023 Jan Notification to Parents.pdf](/files/January%20Notification%20to%20Parents%202023.pdf)
+
+
+[home based learning 2023](/homebasedlearninginstructions)
