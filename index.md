@@ -17,5 +17,5 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=c_afd614b222185526915785b92c2328ea575d016e59300c9d4ed96fb7716222a9%40group.calendar.google.com&ctz=Asia%2FSingapore
         - title: Quick Links
           description: ""
-          url: /quicklinks/
+          url: /quick-links/permalink/
 ---
