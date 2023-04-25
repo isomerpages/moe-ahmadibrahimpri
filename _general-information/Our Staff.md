@@ -81,8 +81,8 @@ description: ""
 | P3 Excellence | Mdm SURIYANTI     |     suriyanti_said@moe.edu.sg         |
 |  P3 Gratitude | Mdm MALATHI       |     madathi_velu_malathi@moe.edu.sg   |
 |  P3 Gratitude | Mdm WONG SUK MEE  |      wong_suk_mee@moe.edu.sg          |
-| P3 Resilience |  Mdm SITI AISHAH  |  siti_aishah_junaidi@moe.edu.sg       |
-| P3 Resilience | Mr ALFRED GOH     |  goh_sze_wee_alfred@moe.edu.sg        |
+| P3 Honesty |  Mdm SITI AISHAH  |  siti_aishah_junaidi@moe.edu.sg       |
+| P3 Honesty | Mr ALFRED GOH     |  goh_sze_wee_alfred@moe.edu.sg        |
 
 ### Primary 4
 
