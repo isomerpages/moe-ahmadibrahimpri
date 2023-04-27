@@ -107,7 +107,7 @@ description: ""
 |    P5 Care    | Mdm LILLIAN LAU  |   lau_lee_peng_lillian@moe.edu.sg       |
 |    P5 Care    | Mdm GUO YUE      |          guo_yue@moe.edu.sg             |
 | P5 Diligence  |  Ms ADELINE Tan  |       adeline_tan_meiqin@moe.edu.sg     |
-| P5 Diligence  | Mdm TAN YIT PENG |       tan_yit_peng@moe.edu.sg           |
+| P5 Diligence  | Mdm LEE MEIHUI |       lee_meihui@moe.edu.sg           |
 | P5 Excellence |  Mr DANIEL GOH   |      goh_koon_yu_daniel@moe.edu.sg      |
 | P5 Excellence |  Mdm MAHA        |  mahalechime_udaykumar@moe.edu.sg       |
 | P5 Gratitude  | Mdm DEEPA        |    deepa_t_jeyaraman@moe.edu.sg         |
