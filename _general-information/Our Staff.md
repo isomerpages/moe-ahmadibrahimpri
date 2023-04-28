@@ -7,7 +7,7 @@ description: ""
 
 | Appointment | Name | Email |
 |:---:|:---:|:---:|
-| HOD Mother Tongue Languages | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
+| HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
 | HOD CCE | Ms Norhayati Amat | norhayati_amat@moe.edu.sg |
 | HOD ICT | Mr Nurul Hatta Takim | nurul_hatta_takim@moe.edu.sg |
 | HOD Maths | Mr Eric Wu Jianrong | wu_jianrong_eric@moe.edu.sg |
@@ -23,7 +23,7 @@ description: ""
 | Asst Year Head (P5 P6) | Ms Eileen Ong | ong_yi_ling_eileen@moe.edu.sg |
 | Level Head Maths | Ms Angelin Chan | chan_jie_ting_angelin@moe.edu.sg |
 | Level Head English | Mr Daniel Goh Koon Yu | goh_koon_yu_daniel@moe.edu.sg |
-| Subject Head Science | Ms Brenda Lee | lee_jia_ying_brenda@moe.edu.sg |
+| Level Head Head Science | Ms Brenda Lee | lee_jia_ying_brenda@moe.edu.sg |
 | Subject Head ICT | Mr Ben Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
 | Subject Head CCE  | Ms Adeline Tan Meiqin | adeline_tan_meiqin@moe.edu.sg |
