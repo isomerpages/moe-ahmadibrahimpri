@@ -47,7 +47,7 @@ description: ""
 | P1 Resilience |    Mrs RACHEL TAN   |        tham_mei_theng@moe.edu.sg     |
 | P1 Resilience |  Mdm YUSLINDAH      | yuslindah_mohamed_ali@moe.edu.sg     |
 |  P1 Respect   |  Mdm CHONG LI YING  |       chong_li_ying@moe.edu.sg       |
-|  P1 Respect   |      Mdm FARHANA    |    nurul_farhana_ali@moe.edu.sg      |
+|  P1 Respect   |  Mdm FARHANA    |    nurul_farhana_ali@moe.edu.sg      |
 
 ### Primary 2
 
