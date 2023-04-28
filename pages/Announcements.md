@@ -8,9 +8,9 @@ description: ""
 Click [HERE](/homebasedlearninginstructions)  to access your class lesson guides.
 
 
-#### 2023 April Notification to Parents
+#### 2023 May Notification to Parents
 
-Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 April Notification to parents'
+Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 May Notification to parents'
 
 
 #### [Important]: Extension of School Hours on Tuesdays for P4-P6
