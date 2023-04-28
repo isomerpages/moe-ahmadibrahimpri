@@ -7,7 +7,7 @@ description: ""
 
 | Appointment | Name | Email |
 |:---:|:---:|:---:|
-| HOD Mother Tongue Languages | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
+| HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
 | HOD CCE | Ms Norhayati Amat | norhayati_amat@moe.edu.sg |
 | HOD ICT | Mr Nurul Hatta Takim | nurul_hatta_takim@moe.edu.sg |
 | HOD Maths | Mr Eric Wu Jianrong | wu_jianrong_eric@moe.edu.sg |
@@ -23,7 +23,7 @@ description: ""
 | Asst Year Head (P5 P6) | Ms Eileen Ong | ong_yi_ling_eileen@moe.edu.sg |
 | Level Head Maths | Ms Angelin Chan | chan_jie_ting_angelin@moe.edu.sg |
 | Level Head English | Mr Daniel Goh Koon Yu | goh_koon_yu_daniel@moe.edu.sg |
-| Subject Head Science | Ms Brenda Lee | lee_jia_ying_brenda@moe.edu.sg |
+| Level Head Head Science | Ms Brenda Lee | lee_jia_ying_brenda@moe.edu.sg |
 | Subject Head ICT | Mr Ben Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
 | Subject Head CCE  | Ms Adeline Tan Meiqin | adeline_tan_meiqin@moe.edu.sg |
@@ -47,7 +47,7 @@ description: ""
 | P1 Resilience |    Mrs RACHEL TAN   |        tham_mei_theng@moe.edu.sg     |
 | P1 Resilience |  Mdm YUSLINDAH      | yuslindah_mohamed_ali@moe.edu.sg     |
 |  P1 Respect   |  Mdm CHONG LI YING  |       chong_li_ying@moe.edu.sg       |
-|  P1 Respect   |      Mdm FARHANA    |    nurul_farhana_ali@moe.edu.sg      |
+|  P1 Respect   |  Mdm FARHANA    |    nurul_farhana_ali@moe.edu.sg      |
 
 ### Primary 2
 
@@ -81,8 +81,8 @@ description: ""
 | P3 Excellence | Mdm SURIYANTI     |     suriyanti_said@moe.edu.sg         |
 |  P3 Gratitude | Mdm MALATHI       |     madathi_velu_malathi@moe.edu.sg   |
 |  P3 Gratitude | Mdm WONG SUK MEE  |      wong_suk_mee@moe.edu.sg          |
-| P3 Resilience |  Mdm SITI AISHAH  |  siti_aishah_junaidi@moe.edu.sg       |
-| P3 Resilience | Mr ALFRED GOH     |  goh_sze_wee_alfred@moe.edu.sg        |
+| P3 Honesty |  Mdm SITI AISHAH  |  siti_aishah_junaidi@moe.edu.sg       |
+| P3 Honesty | Mr ALFRED GOH     |  goh_sze_wee_alfred@moe.edu.sg        |
 
 ### Primary 4
 
@@ -107,7 +107,7 @@ description: ""
 |    P5 Care    | Mdm LILLIAN LAU  |   lau_lee_peng_lillian@moe.edu.sg       |
 |    P5 Care    | Mdm GUO YUE      |          guo_yue@moe.edu.sg             |
 | P5 Diligence  |  Ms ADELINE Tan  |       adeline_tan_meiqin@moe.edu.sg     |
-| P5 Diligence  | Mdm TAN YIT PENG |       tan_yit_peng@moe.edu.sg           |
+| P5 Diligence  | Mdm LEE MEIHUI |       lee_meihui@moe.edu.sg           |
 | P5 Excellence |  Mr DANIEL GOH   |      goh_koon_yu_daniel@moe.edu.sg      |
 | P5 Excellence |  Mdm MAHA        |  mahalechime_udaykumar@moe.edu.sg       |
 | P5 Gratitude  | Mdm DEEPA        |    deepa_t_jeyaraman@moe.edu.sg         |
