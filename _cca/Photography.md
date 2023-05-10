@@ -9,7 +9,7 @@ The AIPS Photography Club aims to educate students on the intricacies of operati
 ### CCA Details
 -----------
 
-| Teachers-in-charge | Ms Lynn Limm (lim_shi_hui_lynn@moe.edu.sg) <br>Ms Quek Pei Jin (quek_pei_jin@moe.edu.sg) |
+| Teachers-in-charge | Ms Lynn Lim (lim_shi_hui_lynn@moe.edu.sg) <br>Ms Quek Pei Jin (quek_pei_jin@moe.edu.sg) |
 |:---:|:---:|
 | Venue | Computer Lab 2 |
 | Day and Time | Tuesday, 2.45 - 4.45pm |
@@ -30,8 +30,7 @@ The AIPS Photography Club aims to educate students on the intricacies of operati
 
 ![Shortlisted for the 16th Ngee Ann Photographic Exhibition](/images/Photography5.jpg)
 
-<img src="/images/Photography6.jpg"  
-style="width:65%">
+<img src="/images/Photography6.jpg" style="width:65%">
 
 ### Learning About Light Painting @ AIPS
 ------------------------------------
@@ -57,7 +56,7 @@ Photo by Zhang Shuhan
 Photo by Priscilla Grace Tan
 
 ![Photo by Muhammad Hikmal Budiman Bin Burhanto](/images/Photography14.jpg)
-Photo by Muhammad Hikmal Budiman Bin Burhanto
+Photo by&nbsp;Muhammad Hikmal Budiman Bin Burhanto
 
 ![Photo by Shakirah Melati Binte Mohamed Subir](/images/Photography15.jpg)
-Photo by Shakirah Melati Binte Mohamed Subir
+Photo by&nbsp;Shakirah Melati Binte Mohamed Subir
