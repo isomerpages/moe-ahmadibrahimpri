@@ -3,10 +3,8 @@ title: School Bus Information
 permalink: /general-information/permalink/
 description: ""
 ---
-#### Ahmad Ibrahim Primary School
+#### School Bus Service
 
-Bus Operator: Wai Lian Trading and Transportation
+**School Bus Services**
+School Bus Operator and Bus Fare
 
-Contact Number: 81387473
-
-![](/images/school%20bus%20info%202023.JPG)
