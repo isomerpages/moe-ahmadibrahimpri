@@ -31,15 +31,9 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 ![](/images/2023%20p3%20potrait%20art.jpg)
 
 
-#### Primary 1 Self Portrait
+#### 2023 Primary 1 Self Portrait
 
 ![](/images/2023%20p1%20self%20portrait.jpg)
-
-
-
-
-
-
 
 
 
@@ -60,7 +54,3 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 ![](/images/mask%201.jpeg)
 ![](/images/mask%202.jpeg)
 ![](/images/mask%203.jpeg)
-
-#### 2022 CNY activity
-
-![](/images/2022%20cny%20activity.jpg)
