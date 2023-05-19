@@ -30,6 +30,9 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 
 ![](/images/2023%20p3%20potrait%20art.jpg)
 
+#### Primary 2 Jumping Clay Program
+
+![](/images/2023%20p2%20jumping%20clay.jpg)
 
 #### 2023 Primary 1 Self Portrait
 
