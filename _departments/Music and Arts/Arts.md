@@ -5,7 +5,16 @@ description: ""
 third_nav_title: Music and Arts
 ---
 At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a star’. The Art programmes are developed to help students learn to observe their surroundings, identify and describe the colours, shapes and texture of the things they see. They share their thoughts and feelings about these observations through artwork, discussion and writing. They learn to use different materials and media to create the artworks. We want our students to enjoy looking at and creating art and to have opportunities to showcase their artworks.
-	
+
+#### 2023 P4 Skylines
+
+![](/images/2023%20p4%20skyline%202.jpg)
+
+![](/images/2023%20p4%20skyline.jpg)
+
+
+
+
 ### NEW ONLINE ANNUAL ART EXHIBITION
 	
 Come and visit our very first online Art Exhibition curated by our Art Specialist teachers, for our students.&nbsp;
@@ -39,9 +48,3 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 #### 2022 CNY activity
 
 ![](/images/2022%20cny%20activity.jpg)
-
-#### 2023 P4 Skylines
-
-![](/images/2023%20p4%20skyline%202.jpg)
-
-![](/images/2023%20p4%20skyline.jpg)
