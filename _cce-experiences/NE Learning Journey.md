@@ -21,6 +21,22 @@ Each class was split into groups of 12. There were stations that were about Indi
 
 ![](/images/p5%20ne%20learning%20journey%202023.jpeg)
 
-#### Primary 5 NE show
+#### Primary 5 NE show 2022
 
 The National Education (NE) Show returned in July this year after a two year hiatus. Our Primary Five students were enthralled to attend it on 2 July 2022, Saturday, which was right after the June holiday school break. The theme for this year’s NDP was “Stronger Together, Majulah!” The Total Defence Display shown was engaging, and made the students realise the lengths to which the The Singapore Armed Forces (SAF), Singapore Police Force (SPF) and Singapore Civil Defence Force (SCDF) go to make Singapore safe for all of us. This experience was made even more meaningful as the knowledge of the various defence forces in Singapore is aligned to the Primary Five Social Studies syllabus. The entire experience of singing along to the National Day songs, enjoying hair-raising skydiving stunts by the Red Lions, watching the highly talented performers and witnessing the electrifying fireworks has definitely etched a riveting memory for the students.
+
+#### Primary 6 NE LJ 2023
+
+The Primary 6 Gratitude and Primary 6 Honesty students went to a National Education (NE) Learning Journey (LJ) which was a Museum Based Learning (MBL). They went to Asian Civilization Museum (ACM). They went on 17th and 20th April in Term 2. The remaining P6 classes will be going on 26th June in Term 3. 
+
+The objective of this Learning Journey was for students to understand the cultural and historical ties that have influence on the countries in Southeast Asia and explore how Singapore’s cultural heritage has evolved over time, influenced by the diverse mix of cultures.
+
+As there were 6 stations in the ACM, each class was split into groups of 6. The first 3 stations were located on the first level and another 3 on the second level. 
+
+The first level galleries focus on Maritime Trade.  Students learnt about Tang shipwreck and Maritime Trade. Students are exposed to the works of the different cultures through the displays of Asian export art. 
+
+The second level galleries focus on Faith and Belief. Students learnt about Ancestors and Rituals, Ancient Religion, Christian Act, Islamic Art and Scholars.
+
+Each group was led by a Museum Educator who conducted the sessions interactively. Students were engaged and these allow them to be more inquisitive. Students value-added their knowledge and they really enjoyed themselves through this learning journey.
+
+![](/images/2023%20p6%20ne%20lj.jpg)
