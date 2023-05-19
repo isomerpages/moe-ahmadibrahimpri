@@ -20,6 +20,10 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 * best viewed using the app "Art Steps". You may download it for free from Play Store/ Apple Store.
 
 
+#### 2023 P6 BATIK PROGRAMME
+
+![](/images/2023%20p6%20batik.jpg)
+
 #### 2023 P4 Skylines
 
 ![](/images/2023%20p4%20skyline%202.jpg)
