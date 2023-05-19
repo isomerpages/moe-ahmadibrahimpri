@@ -35,7 +35,7 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 
 ![](/images/2023%20p1%20self%20portrait.jpg)
 
-#### Primary 1 Pond Diorama
+#### 2023 Primary 1 Pond Diorama
 
 ![](/images/2023%20p1%20pond%20diorama.jpg)
 
