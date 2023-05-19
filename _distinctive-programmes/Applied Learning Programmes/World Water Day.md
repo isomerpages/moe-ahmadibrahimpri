@@ -4,10 +4,8 @@ permalink: /distinctive-programmes/Applied-Learning-Programmes/WorldWaterDay/
 description: ""
 third_nav_title: Applied Learning Programmes
 ---
-Learning scopes:
+On 20 March 2023, AIPS celebrates World Water Day! Students were engaged in assembly talk and recess activities to learn the importance of water conservation and how they can play a part to save water in school and at home.
 
-1. Students learn about local &amp; global water wastage &amp; pollution issues
-2. Students appreciate the importance to use water wisely
+![](/images/2023%20water%20day%201.JPG)
 
-<img alt="World Water Day" src="/images/world%20water%20day1.png">
-<img alt="World Water Day" src="/images/world%20water%20day2.png">
+![](/images/2023%20water%20day%202.JPG)
