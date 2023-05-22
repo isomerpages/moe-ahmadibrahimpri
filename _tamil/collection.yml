@@ -2,6 +2,7 @@ collections:
   tamil:
     output: true
     order:
+      - 2023 Tamil Spelling Bee.md
       - Tamil.md
       - பாடத்திட்டக்கலைத்திறன் அணுகுமுறை.md
       - ஆர்வமூட்டும் வகுப்பறை நடவடிக்கைகள்.md
