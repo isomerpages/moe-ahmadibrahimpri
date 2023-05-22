@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2023 北区演讲比赛.md
       - 2023 庆祝华人新年.md
       - 2022 母语双周 — 五年级武术体验课.md
       - 2022 母语双周 — 四年级介绍古典名著.md
