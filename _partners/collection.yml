@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/2023 Malay Reading Programme.md
       - Parent Support Group/YES Programme.md
       - Parent Support Group/.keep
       - Parent Support Group/Our Philosophy and PSG Exco.md
