@@ -12,9 +12,69 @@ We also organised enrichment activities to stretch the high-progress students.
 
 ### External competitions
 
+**Singapore and Asian Schools Math Olympiad (SASMO)**
+Levels  : Primary 2 to Primary 5
+<br>Website : https://sasmo.sg/
+
+2023 Award Winners :
+
+
+
+| Name | Award | 
+| -------- | -------- | 
+| Audrey Zhang Yi Jin     | Honorable Mention     | 
+| Louis Cheng Quan Yu     | Honorable Mention     | 
+| Li Bingxi     | Silver     | 
+| Eugenio Eira Sofia Louise Jamon     | Silver     | 
+| Meng Xuanya     | Bronze     | 
+| Lim Chen Kai     | Honorable Mention     | 
+| Raji Hemavathi Sarvesh     | Honorable Mention     | 
+| Teon Leow Hong Wei     | Honorable Mention     | 
+| Htoo Pyae Htet     | Gold     | 
+| Ashwin Muthaiah Vignesh Veerappan     | Silver     | 
+| Theodore Raphael Liao     | Silver     | 
+| Tai Jia Wei     | Bronze     | 
+| Li Yingying     | Bronze     | 
+| Jedkai Yeoh     | Bronze     | 
+| Choo Zi Ping     | Bronze     | 
+| Ang Shao Cong Ryan     | Bronze    | 
+| Thadar Moe Htet     | Honorable Mention     | 
+| Lim Hao Yue     | Silver     | 
+| Norman Quek Junn Han     | Bronze     | 
+| Nguyen Le Nguyen Han     | Honorable Mention     | 
+| Lim You Heng     | Gold     | 
+| Hernandez Marquis Augustus Tagabuan    | Gold     |
+| Sophie Eilynn Chow     | Silver     |
+| Zhang Shuhan     | Bronze     |
+| Jeankai Yeoh     | Bronze     |
+| Zhang Yuteng     | Bronze     |
+| Puhazhendhi Rithika     | Bronze     |
+| Tran Ha Mi     | Bronze     |
+| Marven Renzie Lee     | Bronze     |
+| Choo Zi Yuan     | Bronze     |
+| Ranjith Rhyan     | Bronze     |
+| Cassandra Annette Goh Sze Ernh     | Bronze     |
+| Chew Yu Jie     | Bronze     |
+| Ian Tay Phin Hao     | Bronze     |
+| Ganesan Kanishkha     | Honorable Mention     |
+| Anirudh Anbazhagan     | Honorable Mention     |
+| Shrian Yi Naidu     | Honorable Mention     |
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Singapore Math Kangaroo Contest (SMKC)**
 
-**Levels**: Primary 1 to Primary 6
+**Levels**: Primary 1 to Primary 6<br>
 **Website**:
 <a href="https://mathkangaroo.sg/">https://mathkangaroo.sg/</a>
 
