@@ -24,6 +24,10 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 
 ![](/images/2023%20p6%20batik.jpg)
 
+#### 2023 P5 Manga Art
+
+![](/images/2023%20p5%20manga%20art.jpg)
+
 #### 2023 P4 Skylines
 
 ![](/images/2023%20p4%20skyline%202.jpg)
