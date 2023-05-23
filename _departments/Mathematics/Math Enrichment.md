@@ -12,7 +12,7 @@ We also organised enrichment activities to stretch the high-progress students.
 
 ### External competitions
 
-**Singapore and Asian Schools Math Olympiad (SASMO)**
+**Singapore and Asian Schools Math Olympiad (SASMO)**<br>
 Levels  : Primary 2 to Primary 5
 <br>Website : https://sasmo.sg/
 
