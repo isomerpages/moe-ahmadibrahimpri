@@ -4,7 +4,9 @@ permalink: /partners/Students-and-Parents-Resources/SchoolArticles/
 description: ""
 third_nav_title: Students and Parents Resources
 ---
-[2022 Semester 2 Cyberwellness Infographic](/files/2022%20CW%20Infographic%20Term%203%20&%204compressed.pdf)
+[2023 Semester 1 Cyberwellness Infographic](/files/2023%20infographic%20cyberwellness%20semester%201%20v1.pdf)
+
+[2022 Semester 2 Cyberwellness Infographic](/files/2022%20CW%20Infographic%20Term%203%20&amp;%204compressed.pdf)
 
 
 <a href="/files/Using%20Technology%20Meaningfully%20CW%20Infographic%20Sem%201%202022.pdf">2022 Semester 1 sing Technology Meaningfully CW Infographic.pdf</a>

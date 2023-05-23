@@ -1,10 +1,9 @@
 ---
-title: Dolphin Cove Project
-permalink: /partners/Parent-Support-Group/DolphinCoveProject/
+title: 2023 Dolphin Cove Project
+permalink: /partners/parent-support-group/dolphincoveproject/
 description: ""
 third_nav_title: Parent Support Group
 ---
-
 #### After-School Programme
 
 Thank you PSG for teaching our students the importance of collaboration and sharing. 

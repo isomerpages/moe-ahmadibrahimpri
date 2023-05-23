@@ -15,3 +15,16 @@ Pupils had the opportunity to learn more about the job scope in the military sec
 On the whole, pupils had an enriching experience learning about Total Defence. 
 
 ![](/images/Total%20Defence%20Day%202023.jpg)
+
+
+#### International Friendship Day 2023
+
+We celebrated International Friendship Day on 6 April 2023 and the theme for 2023 was ‘Singapore in Asia.’
+
+Many interesting activities were organised to highlight the importance of international friends for Singapore’s growth and the role it plays in the ASEAN region. Our NE Ambassadors, Ranjith Harris (4 Resilience) and Nalakini Tanlijaya (5 Diligence)  hosted the Pre-Assembly programme that marked the start of two weeks of interesting activities. 
+Fringe activities comprises of a mini exhibition on a few countries, display of artefacts, international costumes and paper doll costume matching. These activities really engaged the students. 
+
+
+The Assembly Programme by Storybook Theatre entitled, “The Lion &amp; the Mouse and the Hare &amp; the Tortoise” gave a new twist to the importance of friendship. FTGP activities, CCE reflection journals and Kindsville activities for the various levels brought home the theme, ‘Singapore in Asia’.
+
+![](/images/2023%20ifd.jpg)

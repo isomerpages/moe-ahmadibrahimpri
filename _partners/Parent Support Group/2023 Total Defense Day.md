@@ -1,6 +1,6 @@
 ---
-title: Total Defense Day
-permalink: /partners/Parent-Support-Group/TotalDefenseDay/
+title: 2023 Total Defense Day
+permalink: /partners/parent-support-group/totaldefenseday/
 description: ""
 third_nav_title: Parent Support Group
 ---

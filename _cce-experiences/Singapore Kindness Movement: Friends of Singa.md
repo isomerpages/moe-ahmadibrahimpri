@@ -3,14 +3,12 @@ title: "Singapore Kindness Movement: Friends of Singa"
 permalink: /cce-experiences/singapore-kindness-movement-friends-of-singa/
 description: ""
 ---
-**<u>Term 3</u>** <br>
-Our students completed the mission 2 found in the kindsville Issue 3. For this mission, students learnt about the importance of practising kindness online and how to use T.H.I.N.K to reflect on the comments or posts before sharing them online. Through the mission, students show that they know how to show kindness online and are capable of writing kind and encouraging comments. This year students will only need to complete two missions to become a Friend of Singa. These missions will be revealed in Issue 1 and Issue 3 of Kindsville Times. Participating students will also stand a chance to have their entries featured in Issue 2 and Issue 4 of Kindsville Times.
+Friends of Singa (FOS) is a programme initiated by the Singapore Kindness Movement to encourage students to contribute beyond themselves and to the betterment of their surroundings. Through this programme, students can showcase and continue exemplifying kindness. 
 
-**<u>Term 1 and Term 2</u>** <br>
-For the first mission, students learnt more about path sharing between cyclists and pedestrians. They identified ways to be considerate users and also shared their past experiences of using the shared paths. Many students submitted their completed mission cards into the kindness mailbox and are halfway to becoming a Friend of Singa!
+This year, our school once again will be participating in the FOS project. The overarching theme would be on Understanding Diversity and the school’s focus would be on “Celebrating Diversity @ AIPS through Music, Dance or Martial Art.” 
 
-![Singapore Kindness Movement: Friends of Singa](/images/Singapore%20Kindness%20Movement:%20Friends%20of%20Singa.jpg)
+One of the segments for this project will be a dance performance. A few dancers from the Malay, Chinese and India CCA groups will be selected to collaborate and showcase a fusion dance. This dance will be performed during Racial Harmony Day. 
 
-![Singapore Kindness Movement: Friends of Singa](/images/Singapore%20Kindness%20Movement:%20Friends%20of%20Singa_2.jpg)
+The other segment would be a performance task carried out by the Primary Five students. They would work in groups and would need to pick a type of music, dance or martial art from a particular culture, and find out more about it. Then, they would need to teach students from another level about it and assess the learning of their learners. This would allow the Primary Five students and their ‘students’ to appreciate the diversity and the values that are exhibited from the various cultures that coexist in Singapore.
 
-<img src="/images/FOS%202.jpeg" alt="Singapore Kindness Movement: Friends of Singa" style="width:40%;">  
+By promoting kindness through culture, we are able to create inclusive spaces, promote empathy and understanding, inspire positive change, nurture well-being and mental health, and encourage collaboration and cooperation among students. Embracing kindness in these domains will contribute to a more harmonious and compassionate society. 

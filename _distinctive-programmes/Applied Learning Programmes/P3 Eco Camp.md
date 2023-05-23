@@ -4,11 +4,6 @@ permalink: /distinctive-programmes/Applied-Learning-Programmes/P3EcoCamp/
 description: ""
 third_nav_title: Applied Learning Programmes
 ---
-Learning scopes:
+During the P3 Eco-camp, our P3 students attended a fun and engaging science workshop at Singapore Science Centre. Our students had fun discovering the unique and different characteristics of insects and learning about their life cycles. They also enjoyed the hands-on learning experience of using a microscope.
 
-
-1. Students understand and appreciate the life cycle of a butterfly
-2. Students are exposed to vegetables grown using hydroponics
-	
-<img alt="P3 Eco Camp" src="/images/eco_camp1.jpg">
-<img alt="P3 Eco Camp" src="/images/eco_camp2.png">
+![](/images/2023%20p3%20eco%20camp.jpg)

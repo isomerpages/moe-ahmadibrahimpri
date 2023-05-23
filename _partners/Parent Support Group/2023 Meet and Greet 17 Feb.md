@@ -1,6 +1,6 @@
 ---
-title: Meet and Greet 17 Feb
-permalink: /partners/Parent-Support-Group/MeetandGreet17Feb/
+title: 2023 Meet and Greet 17 Feb
+permalink: /partners/parent-support-group/meetandgreet17feb/
 description: ""
 third_nav_title: Parent Support Group
 ---
