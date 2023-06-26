@@ -3,6 +3,11 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+#### Youth Day (3 July)
+
+Please take note that the General Office will be closed on Youth Day (3 Jul) for an external learning event.
+
+
 #### Home Based Learning 25 and 26 May 2023
 
 Click [HERE](/homebasedlearninginstructions)  to access your class lesson guides.
