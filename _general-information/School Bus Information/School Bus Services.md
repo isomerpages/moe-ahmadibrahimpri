@@ -1,7 +1,8 @@
 ---
-title: School Bus Information
+title: School Bus Services
 permalink: /general-information/permalink/
 description: ""
+third_nav_title: School Bus Information
 ---
 #### School Bus Services
 

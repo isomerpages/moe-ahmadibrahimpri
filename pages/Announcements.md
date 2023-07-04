@@ -3,6 +3,12 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+#### 2023 July Notification to Parents
+
+Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 July Notification to parents'
+
+
+
 #### Youth Day (3 July)
 
 Please take note that the General Office will be closed on Youth Day (3 Jul) for an external learning event.
@@ -12,10 +18,6 @@ Please take note that the General Office will be closed on Youth Day (3 Jul) for
 
 Click [HERE](/homebasedlearninginstructions)  to access your class lesson guides.
 
-
-#### 2023 May Notification to Parents
-
-Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 May Notification to parents'
 
 
 #### [Important]: Extension of School Hours on Tuesdays for P4-P6
