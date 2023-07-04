@@ -9,7 +9,7 @@ third_nav_title: School Bus Information
 To apply, please refer to the Service Requirements and the ApplicationProcedure below.
 
 **Service Requirements**
-1. [Call for Proposal](/files/bus%20call%20for%20proposal%202023%20part%202.pdf)
+1. [Call for Proposal](/files/bus%20call%20for%20proposal%202023.pdf)
 2. [Agreement for Appointment of School Bus Operator](/files/bus%20agreement%20for%20appointment%20of%20school%20bus%20operator%202023.pdf)
 
 
