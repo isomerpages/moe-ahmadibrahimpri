@@ -22,4 +22,4 @@ To apply for LOA, please complete the LOA Application form via this [link](https
 
 You may wish to know that the LOA is renewable annually. By November of each year, you will need to decide whether to renew the LOA for another year and your child’s LOA status will expire if you choose not to renew.
 
-More information on LOA may be obtained on MOE’s website.
+More information on LOA may be obtained on [MOE’s website](https://www.moe.gov.sg/returning-singaporeans).
