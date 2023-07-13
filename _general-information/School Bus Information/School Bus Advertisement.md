@@ -9,14 +9,14 @@ third_nav_title: School Bus Information
 To apply, please refer to the Service Requirements and the ApplicationProcedure below.
 
 **Service Requirements**
-1. [Call for Proposal](/files/bus%20call%20for%20proposal%202023.pdf)
+1. [Call for Proposal](/files/call%20for%20proposal%20extended%2021%20july%202023.pdf)
 2. [Agreement for Appointment of School Bus Operator](/files/bus%20agreement%20for%20appointment%20of%20school%20bus%20operator%202023.pdf)
 
 
 
 **Application Procedure**
 1. Complete the [Call for Proposal - Annex A](/files/bus%20call%20for%20proposal%20annex%20a%202023.pdf)
-2. Submit the completed Call for Proposal – Annex A by closing date, 13 July 2023, to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 21 July 2023, to the School’s General Office.
 * Address:  10 Yishun Street 11 Singapore 768643
 * Contact No:  67592906
 * Email: aips@moe.edu.sg
