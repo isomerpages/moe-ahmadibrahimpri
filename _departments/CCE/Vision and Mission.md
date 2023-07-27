@@ -25,7 +25,6 @@ To provide quality learning experiences for every child to develop good characte
 |---|
 | Mdm Norhayati Amat (HOD CCE) |
 | Ms Adeline Tan Mei Qin (SH CCE) |
-| Mdm Deepa T Jeyaraman |
 | Ms Shamala |
 | Mdm Wong Suk Mee |
 | Mdm Yuslindah |

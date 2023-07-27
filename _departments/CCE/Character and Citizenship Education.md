@@ -17,14 +17,14 @@ As educators, the staff take National Education seriously. We conduct several di
 
 For students, they are immersed in National Education in various subjects through different mediums. National Education is infused in all formal and informal curriculum e.g.:Traditional Asian Medicines, Ethnic Crafts &amp; Dances and Community Singing etc.
 Students also get enriching learning experiences through interaction with the aged. Here they learn about service learning and what it takes to grow into a citizen that contributes.
-Our Primary 3 students also go through a 3rd Language Conversational Course started in our school since 2003. Our students learn short phrases and greetings to converse with other races as they understand and appreciate the intricacies of each language.
+Our students learn short phrases and greetings to converse with other races as they understand and appreciate the intricacies of each language.
 Values education is also another important aspect. The school capitalises on our very own Amazing NE Trail@ AIPS similar to an amazing race for our pupils to learn more about our nation's rich heritage.
 
 **Resources**
 
 *Parents Involvement - The ONE Partnership*
 	
-Our parents play an important role in our school as stakeholders. They form an integral part in our ONE Partnership. They help the school in instilling pride for our cultural diversity and love for our country in our pupils. By teaching them traditional craftwork like Indian Kolam and Chinese facemasks, our pupils would get the opportunities to appreciate the different cultures. Our parents are also involved deeply in the organising and carrying out of our in-house Heritage Tour. They are invaluable in helping our staff and pupils for the various Learning Journeys and also other schools events like Racial Harmony Day, Lower Primary Games Day and even the Mid Autumn Festival.
+Our parents play an important role in our school as stakeholders. They form an integral part in our ONE Partnership. They help the school in instilling pride for our cultural diversity and love for our country in our pupils. By teaching them traditional craftwork like Indian Kolam and Chinese facemasks, our pupils would get the opportunities to appreciate the different cultures. Our parents are also involved deeply in the organising and carrying out of our in-house Heritage Tour. They are invaluable in helping our staff and pupils for the various Learning Journeys and also NE Commemorative Days like Racial Harmony Day, Total Defense Day and International Friendship Day.
 In addition to resources from the CCE Branch, the school also builds up our school's National Education teaching resources using the contributions from teachers and students and developed our very own Ahmad Ibrahim Interactive CD and 'A Piece From The Past' publication.
 
 We hope through all these efforts, our pupils are able to appreciate our past, and be prepared for the challenges in the future.

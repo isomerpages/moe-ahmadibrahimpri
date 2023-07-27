@@ -3,20 +3,17 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+#### AIPS Caring Staff Award 2023
+
+Click [here](/aipscaringstaffaward2023/) to start  your nomination.
+
+
+
 #### 2023 July Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 July Notification to parents'
 
 
-
-#### Youth Day (3 July)
-
-Please take note that the General Office will be closed on Youth Day (3 Jul) for an external learning event.
-
-
-#### Home Based Learning 25 and 26 May 2023
-
-Click [HERE](/homebasedlearninginstructions)  to access your class lesson guides.
 
 
 

@@ -5,11 +5,11 @@ description: ""
 ---
 **<u>LIFE SCC LIMITED</u>**
 
-Operations Manager: Mr Dan Kwik <br>
-Centre Manager: Ms Zoey Tay
+Centre Manager: Ms Grace Chen
 
 Time: 10.30am - 7.00pm <br>
-Tel: 67557990
+Tel: 67557990<br>
+Website: https://lifesccltd.com/
 
 ![](/images/scc%202023%201.jpeg)
 ![](/images/scc%202023%202.jpeg)
