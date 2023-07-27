@@ -11,9 +11,9 @@ The nomination will be open on 31 July, Monday and close on 21 August, Monday.
 
 All students, parents and staff (teaching and non-teaching) are welcome to submit their nominations. 
 
-Click on the nomination form below.
-https://go.gov.sg/aipscaringstaffaward2023
+Click on the nomination form below.<br>
+[https://go.gov.sg/aipscaringstaffaward2023](https://go.gov.sg/aipscaringstaffaward2023)
 
-Please email your nomination form to lau_lee_peng_lillian@moe.edu.sg. 
+Please email your nomination form to <br>[lau_lee_peng_lillian@moe.edu.sg](lau_lee_peng_lillian@moe.edu.sg)
 
 We look forward to receiving your nominations.
