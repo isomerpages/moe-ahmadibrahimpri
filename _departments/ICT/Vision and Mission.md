@@ -45,6 +45,6 @@ Equip and Empower the Learners
 | Mdm Fang Jing |
 | Mdm Wong Pau Hui |
 | Mdm Suriyanti |
-| Ms Haslinda |
+| Ms Wong Chu Ting |
 | Mdm Wong Joon Noi |
 | Ms Lee Mei Hui |
