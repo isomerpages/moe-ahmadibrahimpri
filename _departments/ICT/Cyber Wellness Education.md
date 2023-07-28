@@ -14,5 +14,5 @@ The main topics covered in our cyber wellness education include Netiquette, Dang
 
 **Cyber Wellness Week**
 
-<img src="/images/CyberWellnessWeek.png" alt="Cyber Wellness Week"><br>
-<img src="/images/CyberWellnessWeek2.png" alt="Cyber Wellness Week">
+![](/images/cyberwellness%201%202023.JPG)
+![](/images/cyberwellness%202%202023.JPG)
