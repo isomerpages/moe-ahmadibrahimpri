@@ -9,3 +9,5 @@ Learning Scopes:
 1. Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat
 
 ![](/images/p6%20eco%20camp%202023.jpg)
+![](/images/p6%20eco%20camp%202%202023.jpg)
+![](/images/p6%20eco%20camp%203%202023.jpg)
