@@ -3,12 +3,12 @@ title: School Vision and Mission
 permalink: /general-information/school-vision-and-mission/
 description: ""
 ---
-**Vision:**  
+#### Vision:  
 	
 Leaders of Character, Learners for Life
 
 
-**Mission:**
+#### Mission:
 
 To build character, develop life-long learners and strive for excellence.
 
@@ -32,21 +32,21 @@ It stands as a reminder of the courage, determination and pride of our leaders w
 Music: J J de Souza
 Lyrics: Mrs Chan Kwai Foong (First Principal)
 
-Ahmad Ibrahim Primary School
-You’re our mentor and guiding star
-From which we have all the best in education
-Not forgetting care and concern
-We compete with valour and aspire to
-Always be the best
-We are a team striving for excellence
-And together meet all challenges
-Let us work towards our mission
-With our knowledge
-We can achieve
-Grow with resilience and confidence
-And be proud of our school
-Grow with resilience and confidence
-And be proud of our school
+Ahmad Ibrahim Primary School. <br>
+You’re our mentor and guiding star<br>
+From which we have all the best in education<br>
+Not forgetting care and concern<br>
+We compete with valour and aspire to<br>
+Always be the best<br>
+We are a team striving for excellence<br>
+And together meet all challenges<br>
+Let us work towards our mission<br>
+With our knowledge<br>
+We can achieve<br>
+Grow with resilience and confidence<br>
+And be proud of our school<br>
+Grow with resilience and confidence<br>
+And be proud of our school<br>
 
 **Pupils' Creed**
 
@@ -73,6 +73,7 @@ Boys: Name tags to be placed on the upper edge of the pocket.
 Girls: Name tags to be placed below the school crest.
 
 The pupils’ name tags are colour-coded by cohort, as shown in the table below.
-Please help us to ensure that the name tags are ironed on / sewn on **BELOW THE SCHOOL BADGE**.
+Please help us to ensure that the name tags are ironed on / sewn on&nbsp;**BELOW THE SCHOOL BADGE**.
 
-<img src="/images/sch%20unifrom.png" alt="School uniform" style="width:75%">
+![](/images/school%20uniform%202%202023.png)
+![](/images/school%20uniform%201%202023.png)

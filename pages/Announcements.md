@@ -9,9 +9,9 @@ Click [here](/aipscaringstaffaward2023/) to start  your nomination.
 
 
 
-#### 2023 July Notification to Parents
+#### 2023 August Notification to Parents
 
-Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read '2023 July Notification to parents'
+Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
 
 
 
