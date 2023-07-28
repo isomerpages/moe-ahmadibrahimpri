@@ -22,7 +22,7 @@ To help our students build strong foundation in numeracy and competencies in hig
 | Mr Eric Wu (HOD Maths) |
 | Ms Angelin Chan (LH) |
 | Mdm Mabel Chia (LT) |
-| Mdm Tan Mei Ling |
+| Mdm Tan Mei Ling (ST) |
 | Mdm Ismiralda |
 | Mdm Exther Tan Jie Qi |
 |  Mrs Rachel Tan |
