@@ -10,7 +10,7 @@ Rope Skipping aims to help our pupils develop their acrobatic and creative talen
 
   
 
-| Teachers-in-charge  | Mdm Goh Meredith (goh_meredith@moe.edu.sg) <br>Ms Chee Jia Pei (chee_jia_pei@moe.edu.sg) <br>Mdm Wong Joon Noi (wong_joon_noi@moe.edu.sg) |
+| Teachers-in-charge  | Mdm Goh Meredith (goh_meredith@moe.edu.sg) <br>Ms Chee Jia Pei (chee_jia_pei@moe.edu.sg) <br>Mdm Wong Joon Noi (wong_joon_noi@moe.edu.sg) <br> Ms Nerissa Ng Si Min (nerissa_ng_si_min@moe.edu.sg) |
 |:---:|:---:|
 | Venue | School Hall |
 | Day and Time | Term 1 Wednesdays, 2pm - 4pm <br>Term 2,3, 4 Tuesdays, 2.45pm - 4.45pm |
@@ -26,8 +26,7 @@ Rope Skipping aims to help our pupils develop their acrobatic and creative talen
 
 #### National School Games 2019 - Juniors Double Under
 
-<img src="/images/Juniors%20Double%20Under.jpg"  
-style="width:60%">
+<img src="/images/Juniors%20Double%20Under.jpg" style="width:60%">
 
 #### National School Games 2019 – Juniors Division
 
