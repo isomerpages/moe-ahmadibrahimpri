@@ -97,9 +97,10 @@ description: ""
 
 **Bottled Plants Corner**
 =========================
-![](/images/bottled%20plants%201%202023.jpeg)
+![](/images/bottled%20plants%203%202023.jpg)
 
-![](/images/bottled%20plants%202%202023.jpeg)
+![](/images/bottled%20plants%204%202023.jpg)
+
 
 **Study Corner**
 ================
