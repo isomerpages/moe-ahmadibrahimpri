@@ -17,17 +17,6 @@ Rope Skipping aims to help our pupils develop their acrobatic and creative talen
 
   
 
-### Highlights
-----------
+### NSG Rope Skipping Competition 2022
 
-#### National School Games 2019 – Seniors Division
-
-![National School Games 2019 – Seniors Division](/images/Seniors%20Division.jpg)
-
-#### National School Games 2019 - Juniors Double Under
-
-<img src="/images/Juniors%20Double%20Under.jpg" style="width:60%">
-
-#### National School Games 2019 – Juniors Division
-
-![National School Games 2019 – Juniors Division](/images/Juniors%20Division.jpg)
+![](/images/rope%20skipping%202023.jpg)
