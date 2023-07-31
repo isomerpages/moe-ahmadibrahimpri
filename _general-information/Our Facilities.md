@@ -83,15 +83,17 @@ description: ""
 **Student Care Centre**
 =======================
 
-![Student Care Centre](/images/students%20care%20centre%20at%20AIPS%20001-1.jpg)
 
-![Student Care Centre](/images/Student%20Care%20Centre2.jpg)
-
-![Student Care Centre](/images/Student%20Care%20Centre3.jpg)
-
-![Student Care Centre](/images/Student%20Care%20Centre4.jpg)
 
 ![Student Care Centre](/images/Student%20Care%20Centre5.jpg)
+
+![](/images/scc%202023%201.jpeg)
+
+![](/images/scc%202023%202.jpeg)
+
+![](/images/scc%202023%203.jpeg)
+
+![](/images/scc%202023%204.jpeg)
 
 **Bottled Plants Corner**
 =========================
