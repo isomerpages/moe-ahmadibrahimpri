@@ -14,7 +14,7 @@ There are also proficiency and progress badges to be obtained, and these can be 
 
   
 
-| Teachers-in-charge  | Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) <br>Mr Badrol (badrolhaizat_kamsin@moe.edu.sg) <br>Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg)   |
+| Teachers-in-charge  | Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) <br> Mr Wang Jun Hao Jordan (wang_jun_hao_jordan@moe.edu.sg) <br>Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg)   |
 |:---:|:---:|
 | Venue | Teaching Lab |
 | Day and Time | Tuesdays, 2.45 - 4.45pm |
@@ -24,27 +24,21 @@ There are also proficiency and progress badges to be obtained, and these can be 
 ### Highlights
 ----------
 
-<img src="/images/scouts1.png"  
-style="width:80%">
+<img src="/images/scouts1.png" style="width:80%">
 
-<img src="/images/scouts2.png"  
-style="width:80%">
+<img src="/images/scouts2.png" style="width:80%">
 
 Our Cub Scouts enjoying themselves from pitching tents and cooking pasta to taking part in the Laser Tag game during the North Area Year End Camp.
 
-<img src="/images/scouts3.png"  
-style="width:80%">
+<img src="/images/scouts3.png" style="width:80%">
 
-<img src="/images/scouts4.png"  
-style="width:80%">
+<img src="/images/scouts4.png" style="width:80%">
 
 Conquering great heights at Onsight Climbing Gym, an indoor rock climbing facility, our Cub Scouts had successfully achieved their Climbing Proficiency Badge with pride.
 
-<img src="/images/scouts5.png"  
-style="width:80%">
+<img src="/images/scouts5.png" style="width:80%">
 
 During Leadership Camps, our cubs learn many skills such as knotting and first aid.
 
 
-<img src="/images/scouts6.png"  
-style="width:80%">
+<img src="/images/scouts6.png" style="width:80%">
