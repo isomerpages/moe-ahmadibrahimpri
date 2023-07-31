@@ -14,7 +14,7 @@ There are also proficiency and progress badges to be obtained, and these can be 
 
   
 
-| Teachers-in-charge  | Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) <br> Mr Wang Jun Hao Jordan (wang_jun_hao_jordan@moe.edu.sg) <br>Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg)   |
+| Teachers-in-charge  | Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) <br> Mr Wang Jun Hao Jordan (wang_jun_hao_jordan@moe.edu.sg) <br> Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg)   |
 |:---:|:---:|
 | Venue | Teaching Lab |
 | Day and Time | Tuesdays, 2.45 - 4.45pm |
