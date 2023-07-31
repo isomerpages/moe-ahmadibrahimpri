@@ -10,7 +10,7 @@ The Robotics Club is in its third exciting year. Our purpose is to learn more ab
 ### CCA Details
 -----------
 
-| Teachers-in-charge | Ms Erika Melissa (erika_melisa_muhammad_rezal@moe.edu.sg) <br> Mdm Li Jia Yang (li_jia_yang@moe.edu.sg) |
+| Teachers-in-charge | Ms Erika Melissa (erika_melisa_muhammad_rezal@moe.edu.sg) <br> Mdm Lee Meihui (lee_meihui@moe.edu.sg) <br> Ms Sindhu (sindhuja_suresh@moe.edu.sg) <br> Mdm Ismiralda (ismiralda_masduki@moe.edu.sg) |
 |:---:|:---:|
 | Venue | Computer Lab 3 |
 | Day and Time | Tuesdays, 2.45 pm - 4.45 pm |
@@ -18,17 +18,13 @@ The Robotics Club is in its third exciting year. Our purpose is to learn more ab
 ### Highlights
 ----------
 
-<img src="/images/robotics1.png"  
-style="width:75%">
+<img src="/images/robotics1.png" style="width:75%">
 
 
-<img src="/images/robotics2.png"  
-style="width:75%">
+<img src="/images/robotics2.png" style="width:75%">
 
 
-<img src="/images/robotics3.png"  
-style="width:75%">
+<img src="/images/robotics3.png" style="width:75%">
 
 
-<img src="/images/robotics4.png"  
-style="width:75%">
+<img src="/images/robotics4.png" style="width:75%">
