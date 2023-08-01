@@ -25,7 +25,7 @@ Members are also given opportunities to participate in art exhibitions such as t
 ----------
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgQyOggODcUJh3WoBrpIlIW7oDUKRTNQ-NTGQqLBsBGW_uiRTPL58frnhca9jZvzsTxVj8xmf-q5d_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-#### SYF Visual Arts 2023
+#### SYF Visual Arts 2022
 
 Category B (Primary 3 and 4)
 
