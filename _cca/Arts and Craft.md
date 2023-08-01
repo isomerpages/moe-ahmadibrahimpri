@@ -28,3 +28,13 @@ Members are also given opportunities to participate in art exhibitions such as t
 ### Contribute an Artwork to Sengkang Hospital
 ----------
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgQyOggODcUJh3WoBrpIlIW7oDUKRTNQ-NTGQqLBsBGW_uiRTPL58frnhca9jZvzsTxVj8xmf-q5d_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### SYF Visual Arts 2023
+
+Category B (Primary 3 and 4)
+
+![](/images/2023%20pe%20syf%20visual%20art%201.jpg)
+
+Category C (Primary 5 and 6)
+
+![](/images/2023%20pe%20syf%20visual%20art%202.jpg)
