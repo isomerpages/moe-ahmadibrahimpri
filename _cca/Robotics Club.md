@@ -3,7 +3,7 @@ title: Robotics Club
 permalink: /cca/robotics-club/
 description: ""
 ---
-The Robotics Club is in its third exciting year. Our purpose is to learn more about coding and learning more about computers and technology. The club is currently learning to code using the CoderZ portal to simulate the working of the Lego EV3.  
+Our purpose is to learn more about coding and learning more about computers and technology. The club is currently learning to code using the CoderZ portal to simulate the working of the Lego EV3.  
 
   
 
