@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAM/Arts.md
       - PAM/Music.md
       - PAM/.keep
       - English/.keep
