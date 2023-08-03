@@ -2,9 +2,9 @@
 title: Primary 5 Outdoor Education Camp
 permalink: /departments/Physical-Health-and-Fitness/Primary5OutdoorEducationCamp/
 description: ""
-third_nav_title: Physical Health and Fitness
+third_nav_title: Physical Education
 ---
-Our Primary 5 cohort had their Outdoor Experience at Dairy Farm OALC, from 19 April - 21 April. The students enjoyed their day-camp, partaking in various team building and educational activities such as their Journey - a short hike through the nature trails nearby the campsite and Longkang fishing - where students observed the eco-system of the local pond and attempted to catch guppies using primitive means. It was an authentic, experiential camp anchored on our school values of Gratitude and Resilience, allowing our students to learn more about themselves, amidst exploring the biodiversity around them.
+Our Primary 5 cohort had their Outdoor Experience at Dairy Farm OALC. The students enjoyed their day-camp, partaking in various team building and educational activities such as their Journey - a short hike through the nature trails nearby the campsite and Longkang fishing - where students observed the eco-system of the local pond and attempted to catch guppies using primitive means. It was an authentic, experiential camp anchored on our school values of Gratitude and Resilience, allowing our students to learn more about themselves, amidst exploring the biodiversity around them.
 
 <img src="/images/Day%20Journey.jpg" style="width:80%" alt="Primary 5 Outdoor Education Camp">
 

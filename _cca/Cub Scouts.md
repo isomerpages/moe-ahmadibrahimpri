@@ -14,37 +14,29 @@ There are also proficiency and progress badges to be obtained, and these can be 
 
   
 
-| Teachers-in-charge  | Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) <br>Mr Badrol (badrolhaizat_kamsin@moe.edu.sg) <br>Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg)   |
+| Teachers-in-charge  | Mdm Chua Yen Ling (chua_yen_ling@moe.edu.sg) <br> Mr Wang Jun Hao Jordan (wang_jun_hao_jordan@moe.edu.sg) <br> Ms Chia Wan Rong (chia_wan_rong@moe.edu.sg) <br> Mr Sufyan (ahmad_sufyan_abdul_kahar@moe.edu.sg)   |
 |:---:|:---:|
 | Venue | Teaching Lab |
-| Day and Time | Tuesdays, 2.45 - 4.45pm |
+| Day and Time | Tuesdays, 2.45 - 4.15pm |
 
   
 
-### Highlights
+### CCA Highlights
 ----------
 
-<img src="/images/scouts1.png"  
-style="width:80%">
+Our Cub Scouts in action,  pitching the tents and cooking the eggs during the outdoor learning experience during the CCA sessions.
+![](/images/scouts%201%202023.JPG)
+![](/images/scouts%202%202023.JPG)
 
-<img src="/images/scouts2.png"  
-style="width:80%">
-
-Our Cub Scouts enjoying themselves from pitching tents and cooking pasta to taking part in the Laser Tag game during the North Area Year End Camp.
-
-<img src="/images/scouts3.png"  
-style="width:80%">
-
-<img src="/images/scouts4.png"  
-style="width:80%">
-
-Conquering great heights at Onsight Climbing Gym, an indoor rock climbing facility, our Cub Scouts had successfully achieved their Climbing Proficiency Badge with pride.
-
-<img src="/images/scouts5.png"  
-style="width:80%">
-
-During Leadership Camps, our cubs learn many skills such as knotting and first aid.
+They also have hands-on experience in learning about First Aid and performing injuries related aid such as wrapping an arm sling.
+![](/images/scouts%203%202023.JPG)
 
 
-<img src="/images/scouts6.png"  
-style="width:80%">
+They also learnt skills such as knotting to help them survive and cope better in an outdoor environment.
+![](/images/scouts%204%202023.JPG)
+
+In conjunction with the Diamond Jubilee Challenge on the theme “Environment”, the cub scouts went around during the CCA session to their teachers, friends and staff in the school to explain the importance of their roles in creating an impact for the environment and for them to pledge in helping the environment. 
+![](/images/scouts%205%202023.JPG)
+
+As part of our celebrations in school for National Day, the cub scouts practised marching so that they can lead the National Day Observance Ceremony with the March-in.
+![](/images/scouts%206%202023.JPG)

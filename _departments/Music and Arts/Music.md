@@ -10,7 +10,7 @@ At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a st
 
 #### Primary 1: Singing &amp; Body Percussions
 
-Children enjoy singing and dancing to music. It is also one of the fundamental skills for music lessons. Thus in Primary 1, our students learn to use their “singing voice” and to sing using the correct techniques. Students are introduced to various genre of music of different cultures and languages from their textbooks.
+Children enjoy singing and dancing to music. It is also one of the fundamental skills&nbsp;for music lessons. Thus in Primary 1, our students learn to use their “singing voice” and&nbsp;to sing using the correct techniques. Students are introduced to various genre of music of different cultures and languages from their textbooks.
 <img src="/images/p1.jpg" alt="Primary 1: Singing &amp; Body Percussions">
 
 #### Primary 2: Hand Bells
@@ -36,8 +36,8 @@ The Primary 5 students infused Information and Communications Technology (ICT) i
 #### Primary 6: Music Project &amp; Global Percussion
 
 Using their music knowledge acquired over the 6 years of music lessons in school, the Primary 6 students use classroom instruments to form a pop band in groups. Their stage confidence is built up in the process.
-As a post-PSLE activity, the students will learn about the different types of percussion all over the world and have the opportunity to learn to play some of the instruments. 
-The students had fun exploring the various instruments. They also learnt about teamwork and cooperation from this enrichment lesson.
+As a post-PSLE activity, the students will learn about the different types of percussion all over the world and have the opportunity to learn to play some of the instruments.&nbsp;
+The students had fun exploring the various instruments.&nbsp;They also learnt about teamwork and&nbsp;cooperation from this enrichment lesson.
 <img src="/images/p6.png" alt="Primary 6: Music Project &amp; Global Percussion">
 	
 #### Shine at AIPS 2022

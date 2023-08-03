@@ -2,7 +2,7 @@
 title: Vision and Mission
 permalink: /departments/physical-health-and-fitness/visionandmission/
 description: ""
-third_nav_title: Physical Health and Fitness
+third_nav_title: Physical Education
 ---
 #### Vision:
 -------
@@ -24,8 +24,9 @@ They are passionate bout developing their talents towards sporting excellence.
 
 | Department Members: |
 |---|
-| Mr Sakthi Ganapathi (HOD PE) |
+| Mr Sakthi Ganapathi (HOD PAM / CCA) |
 | Ms Cia Zhi Xian |
-| Ms Camilia Ho |
-| Mr Jordan |
-| Ms Nerissa |
+| Ms Ho Yun Hui Camillia |
+| Mr Wang Jun Hao Jordan |
+| Ms Nerissa Ng Si Min |
+| Mr Ahmad Sufyan Abdul Kahar |

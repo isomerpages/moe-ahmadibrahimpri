@@ -2,7 +2,7 @@
 title: AIPS Safety Guidelines
 permalink: /departments/Physical-Health-and-Fitness/AIPSSafetyGuidelines/
 description: ""
-third_nav_title: Physical Health and Fitness
+third_nav_title: Physical Education
 ---
 Safety is of the paramount importance in all our activities.
 
@@ -12,7 +12,7 @@ The guidelines, as stated below, are practiced by the teachers prior and during 
 
 The guidelines below, reflects the precaution undertaken by teachers before, during and after any sports related activity.
 
-* All unwell pupils are exempted, as supported with a medical certificate or from teacher&#39;s observation.
+* All unwell pupils are exempted, as supported with a medical certificate or from teacher's observation.
 * Proper warm-up and cool down to be observed, respectively pre and post activity.
 * Equipments and facilities are checked for maintainance and safety.
 * Discipline to be ensured at all times.
@@ -21,7 +21,7 @@ The guidelines below, reflects the precaution undertaken by teachers before, dur
 
 **<u>Safety Precautions For Pupils Outside School</u>**
 
-* Only roadworthy vehicles are used for transport driver drives cautiously
+* Only roadworthy vehicles are used for transport&nbsp;driver drives cautiously
 * Pupils behave themselves in the bus and are supervised at all time during the outing
 * Pupils do not climb trees
 * No swimming unless there is a lifeguard present
@@ -36,5 +36,5 @@ The procedure for this, is as such
 * Ascertain the nature of the ailment
 * Accompany the pupil who is seriously ill to nearest outpatient clinic or hospital. Female pupils will be accompanied by a female teacher.
 * Principal will permit the call for ambulance.
-* No medication can be administered to pupil without parent&#39;s consent.
+* No medication can be administered to pupil without parent's consent.
 * Parents will be informed of injury, irregardless of severity.

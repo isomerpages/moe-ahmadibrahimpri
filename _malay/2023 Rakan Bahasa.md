@@ -1,6 +1,6 @@
 ---
 title: 2023 Rakan Bahasa
-permalink: /malay/permalink/
+permalink: /malay/2023rakanbahasa/
 description: ""
 ---
 ##### Pertandingan Pembuatan Video Teever!

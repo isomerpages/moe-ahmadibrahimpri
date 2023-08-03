@@ -2,7 +2,7 @@
 title: "Physical Education: The AIPS Approach"
 permalink: /departments/Physical-Health-and-Fitness/PhysicalEducationTheAIPSApproach/
 description: ""
-third_nav_title: Physical Health and Fitness
+third_nav_title: Physical Education
 ---
 <img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:45%" alt="Physical Education - The AIPS Approach">
 
@@ -10,7 +10,7 @@ third_nav_title: Physical Health and Fitness
 
 **<u>Fitness Friday</u>**
 
-Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students&#39; academics at the same time.
+Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students' academics at the same time.
 
 **<u>Health Fest</u>**
 
@@ -33,6 +33,6 @@ Students are expected to be attired in their PE T-Shirt and PE shorts for all le
 Students should bring a water bottle for their PE lessons.
 The PE teacher should be informed if students:
 
-* have a medical certificate / letter from a doctor stating he/she is unfit>do not feel well before, during or after any activity
+* have a medical certificate / letter from a doctor stating he/she is unfit&gt;do not feel well before, during or after any activity
 * have just recovered from an illness / operation
 * have any medical condition e.g. asthma

@@ -32,7 +32,7 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 | Mdm Renuka (TL Coordinator) |
 
 
-### [Chinese](/chinese/subpage1/)
+### [Chinese](/chinese/subpage12/)
 
 ### [Malay](/malay/)
 

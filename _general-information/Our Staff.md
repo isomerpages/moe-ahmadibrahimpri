@@ -27,7 +27,7 @@ description: ""
 | Subject Head ICT | Mr Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
 | Subject Head CCE  | Ms Adeline Tan Meiqin | adeline_tan_meiqin@moe.edu.sg |
-| Subject Head Aesthetics  | Ms Teo Pei Ling Dawn | teo_pei_ling_dawn@moe.edu.sg |
+| Subject Head Aesthetics/CCA (internal)  | Ms Teo Pei Ling Dawn | teo_pei_ling_dawn@moe.edu.sg |
 | School Staff Developer | Mdm Lau Lee Peng Lillian | lau_lee_peng_lillian@moe.edu.sg |
 
 ### Primary 1

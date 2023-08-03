@@ -17,12 +17,11 @@ The AIPS Choir aims to provide joyful and fruitful learning experiences to our m
 
   
 
-### Appreciation Day 2019
----------------------
+#### SYF Competition 2022
+![](/images/choir%20cca%203%202023.JPG)
 
-![Appreciation Day 2019](/images/Appreciation%20Day%2015%20Nov%202019_ok.jpg)
+#### The Choir performing during Chinese New Year 2023
+![](/images/choir%20cca%201%202023.JPG)
 
-### Chinese New Year Performance 2020
----------------------------------
-
-![Chinese New Year Performance 2020](/images/CNY%20eve_24%20Jan%2020%202.jpeg)
+#### National Day Performance 2022
+![](/images/choir%20cca%202%202023.JPG)

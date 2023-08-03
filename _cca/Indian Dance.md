@@ -17,13 +17,9 @@ Our Indian Dance explores various dance forms such as classical, bollywood, cont
 | Day and Time | Tuesdays, 2.45pm - 4.45pm |
 
 
-### SYF Indian Dance 2018
----------------------
+#### Chong Pang Ground Breaking Ceremony 2023 &amp; CCA Training Session
 
-![Indian Dance SYF 2018](/images/Indian%20Dance%20SYF%202018.jpg)
-Certificate of Distinction
-
-### Chinese New Year Celebration Concert 2018
------------------------------------------
-
-![Chinese New Year Celebration Concert 2018](/images/Indian%20Dance%20CNY%202018.jpg)
+![](/images/indian%20dance%201%202023.JPG)
+![](/images/indian%20dance%202%202023.JPG)
+![](/images/indian%20dance%203%202023.JPG)
+![](/images/indian%20dance%204%202023.JPG)

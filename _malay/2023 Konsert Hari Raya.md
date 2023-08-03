@@ -1,6 +1,6 @@
 ---
 title: 2023 Konsert Hari Raya
-permalink: /malay/permalink/
+permalink: /malay/2023konserthariraya/
 description: ""
 ---
 #### Konsert Hari Raya

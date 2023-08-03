@@ -9,7 +9,7 @@ The AIPS Photography Club aims to educate students on the intricacies of operati
 ### CCA Details
 -----------
 
-| Teachers-in-charge | Ms Lynn Lim (lim_shi_hui_lynn@moe.edu.sg) <br>Ms Quek Pei Jin (quek_pei_jin@moe.edu.sg) |
+| Teachers-in-charge | Ms Lynn Lim (lim_shi_hui_lynn@moe.edu.sg) <br>Ms Quek Pei Jin (quek_pei_jin@moe.edu.sg) <br> Mdm Li Jia Yang (li_jia_yang@moe.edu.sg) <br> Ms Indu (indu_ravindran@moe.edu.sg) |
 |:---:|:---:|
 | Venue | Computer Lab 2 |
 | Day and Time | Tuesday, 2.45 - 4.45pm |
