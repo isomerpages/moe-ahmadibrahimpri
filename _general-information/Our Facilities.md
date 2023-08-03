@@ -95,7 +95,7 @@ description: ""
 
 ![](/images/scc%202023%204.jpeg)
 
-**Bottled Plants Corner**
+**Potted Plants Corner**
 =========================
 ![](/images/bottled%20plants%203%202023.jpg)
 
