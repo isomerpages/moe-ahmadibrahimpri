@@ -3,4 +3,4 @@ title: SAC Members
 permalink: /partners/sac-members/
 description: ""
 ---
-![SAC Members](/images/SAC%202022.png)
+![](/images/sac%20members%202023.JPG)
