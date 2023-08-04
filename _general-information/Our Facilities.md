@@ -42,6 +42,12 @@ description: ""
 
 ![](/images/learning%20wall%203%202023.jpg)
 
+**Hydroponics**
+==========================
+![](/images/hydroponics%202%202023.JPG)
+
+![](/images/hydroponics%201%202023.JPG)
+
 **Media Resource Library**
 ==========================
 
