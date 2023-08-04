@@ -34,6 +34,20 @@ description: ""
 
 ![Maths Learning Areas](/images/Maths%20Learning%20Areas2.jpg)
 
+**Science Learning Walls**
+==========================
+![](/images/learning%20wall%201%202023.jpg)
+
+![](/images/learning%20wall%202%202023.jpg)
+
+![](/images/learning%20wall%203%202023.jpg)
+
+**Hydroponics**
+==========================
+![](/images/hydroponics%202%202023.JPG)
+
+![](/images/hydroponics%201%202023.JPG)
+
 **Media Resource Library**
 ==========================
 
@@ -95,7 +109,7 @@ description: ""
 
 ![](/images/scc%202023%204.jpeg)
 
-**Bottled Plants Corner**
+**Potted Plants Corner**
 =========================
 ![](/images/bottled%20plants%203%202023.jpg)
 
