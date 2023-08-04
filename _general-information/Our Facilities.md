@@ -34,6 +34,14 @@ description: ""
 
 ![Maths Learning Areas](/images/Maths%20Learning%20Areas2.jpg)
 
+**Science Learning Walls**
+==========================
+![](/images/learning%20wall%201%202023.jpg)
+
+![](/images/learning%20wall%202%202023.jpg)
+
+![](/images/learning%20wall%203%202023.jpg)
+
 **Media Resource Library**
 ==========================
 
