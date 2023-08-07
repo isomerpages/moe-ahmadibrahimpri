@@ -3,7 +3,7 @@ title: Badminton
 permalink: /cca/badminton/
 description: ""
 ---
-Badminton aims to help our pupils develop positive team spirit and enhance their athleticism and general physical fitness. With a structured training programme and dedicated coach, we are looking forward to developing our pupils' interest and talent in Badminton. We aim to develop each student holistically and also give them the opportunity to represent the school in competitions.
+Badminton aims to help our pupils develop positive team spirit and enhance their athleticism and general physical fitness. With a structured training programme and dedicated coach, we are looking forward to developing our pupils’ interest and talent in Badminton. We aim to develop each student holistically and also give them the opportunity to represent the school in competitions.
 
 ### CCA Details 
 
@@ -13,8 +13,12 @@ Badminton aims to help our pupils develop positive team spirit and enhance their
 | Teachers-in-charge  | Mdm Sudriyanti bte Samsudin (sudriyanti_samsudin@moe.edu.sg) <br>Ms Camilla Ho Yun Hui (ho_yun_hui_camillia@moe.edu.sg) <br>Mdm Guo Yue (guo_yue@moe.edu.sg) <br> Ms Wong Chu Ting (wong_chu_ting_a@moe.edu.sg) |
 |:---:|:---:|
 | Venue | ISH Level 4 |
-| Day and Time | Tuesdays, 2.45pm - 4.45pm |
+| Day and Time | Tuesdays <br> Group A: 2.45pm - 3.45pm <br> Group B: 2.45pm - 5.15pm |
 
-### Training @ AIPS
+#### 2023 National School Games: Senior division (Team Event)
 
-![Training @ AIPS](/images/Badminton%202022.jpg)
+![](/images/badminton%201%202023.JPG)
+
+#### 2023 National School Games: Junior division (Individual Event) 
+
+![](/images/badminton%202%202023.JPG)
