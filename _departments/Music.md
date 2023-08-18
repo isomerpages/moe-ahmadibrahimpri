@@ -3,10 +3,13 @@ title: Music
 permalink: /departments/Music-and-Arts/Music/
 description: ""
 ---
-| Vision | Mission |
-|---|---|
-| Lifelong passion and appreciation towards music | Promote appreciation of music through quality and diverse experiences. |
+#### Vision
+Lifelong passion and appreciation towards music.
 
+#### Mission
+Promote appreciation of music through quality and diverse experiences.
+
+#### Department members
 
 | Department Members: |
 |---|
