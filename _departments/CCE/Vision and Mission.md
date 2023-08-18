@@ -19,7 +19,7 @@ To provide quality learning experiences for every child to develop good characte
 
 "Every Child A Star"
 
-## Department Members:
+#### Department Members:
 
 | Department Members: |
 |---|
