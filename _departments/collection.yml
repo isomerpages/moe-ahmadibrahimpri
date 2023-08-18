@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts.md
       - Music.md
       - English/.keep
       - English/Vision and Mission.md
