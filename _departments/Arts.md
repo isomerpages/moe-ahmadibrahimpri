@@ -4,9 +4,11 @@ permalink: /departments/Music-and-Arts/Arts/
 description: ""
 ---
 #### Vision
+----
 Confident and creative students, passionate about developing their Potential and Talents in the Arts.
 
 #### Mission
+----
 
 To provide quality experiences that promote students' awareness and passion for the Arts.
 
