@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Arts.md
-      - Music.md
       - English/.keep
       - English/Vision and Mission.md
       - English/STELLAR.md
@@ -35,6 +33,8 @@ collections:
       - "Physical Education/Physical Education: The AIPS Approach.md"
       - Physical Education/AIPS Safety Guidelines.md
       - Physical Education/Primary 5 Outdoor Education Camp.md
+      - Arts.md
+      - Music.md
       - ICT/.keep
       - ICT/Vision and Mission.md
       - ICT/Information Technology for Learning and Teaching.md
