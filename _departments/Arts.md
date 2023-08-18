@@ -10,6 +10,8 @@ Confident and creative students, passionate about developing their Potential &am
 
 To provide quality experiences that promote students' awareness and passion for the Arts 
 
+#### Department members
+
 | Department Members: |
 |---|
 | Mrs Aisyah Dave |
