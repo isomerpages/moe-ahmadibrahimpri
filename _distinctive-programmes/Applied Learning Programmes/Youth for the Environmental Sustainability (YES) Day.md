@@ -4,8 +4,6 @@ permalink: /distinctive-programmes/Applied-Learning-Programmes/YESDay/
 description: ""
 third_nav_title: Applied Learning Programmes
 ---
-**
-
 The school commemorated the Youth for Environmental Sustainability (YES) Programme on Monday, 17 April 2023. 
 
   
