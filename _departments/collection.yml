@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education.md
       - English/.keep
       - English/Vision and Mission.md
       - English/STELLAR.md
@@ -29,6 +28,7 @@ collections:
       - CCE/NE Framework.md
       - CCE/CCE Experiences.md
       - CCE/NE Commemorative Days.md
+      - Physical Education.md
       - Arts.md
       - Music.md
       - ICT/.keep
