@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Vision and Mission.md
       - English/.keep
       - English/Vision and Mission.md
       - English/STELLAR.md
