@@ -33,7 +33,7 @@ They are passionate bout developing their talents towards sporting excellence.
 
 
 
-
+#### Physical Education @ AIPS
 
 <img src="/images/Physical%20Education%20-%20The%20AIPS%20Approach.jpg" style="width:45%" alt="Physical Education - The AIPS Approach">
 
