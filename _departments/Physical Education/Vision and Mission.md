@@ -39,9 +39,6 @@ They are passionate bout developing their talents towards sporting excellence.
 
 <p style="text-align:center;"> <strong>AIPS Key Programmes</strong></p>
 
-**<u>Fitness Friday</u>**
-
-Studies have shown the benefits of exercise on boosting attentiveness and academic performance in students. Every Friday morning, students are engaged in 15 minutes of light workout. Fitness Friday @ AIPS aims to promote an active lifestyle while making an impact on students' academics at the same time.
 
 **<u>Health Fest</u>**
 
