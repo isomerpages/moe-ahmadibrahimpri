@@ -1,6 +1,6 @@
 ---
-title: P4 “Clean Plate Campaign”
-permalink: /distinctive-programmes/Applied-Learning-Programmes/P4CleanPlateCampaign/
+title: P4 Clean Plate Campaign
+permalink: /distinctive-programmes/applied-learning-programmes/p4cleanplatecampaign/
 description: ""
 third_nav_title: Applied Learning Programmes
 ---

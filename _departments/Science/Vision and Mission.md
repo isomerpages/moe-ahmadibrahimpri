@@ -12,9 +12,9 @@ Scientific learners who A.S.K (_have scientific Attitude, Skills &amp; Knowledge
 #### Mission
 -------
 
-_Science teachers cultivate learners to be civic-minded, inquisitive and equipped with scientific attitudes and skills for the future._
+Science teachers cultivate learners to be civic-minded, inquisitive and equipped with scientific attitudes and skills for the future._
 
-## Department Members:
+#### Department Members:
 
 | Department Members: |
 |---|
