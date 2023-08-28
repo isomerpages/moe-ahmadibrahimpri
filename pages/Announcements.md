@@ -4,6 +4,7 @@ permalink: /announcements/
 description: ""
 ---
 #### Teachers' Day 2023
+
 AIPS is celebrating Teachers’ Day on Thursday, 31 Aug 2023. Former students of AIPS, if you plan to visit your teachers, you may do so from 10.45 am to 1.00 pm.  
 
 You are strongly encouraged to make prior arrangements with your teachers to inform them of your visits as school ends early by 10.30am and they may leave school soon after if they are not aware of your visits.  
