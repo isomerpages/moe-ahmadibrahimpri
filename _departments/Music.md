@@ -15,7 +15,7 @@ Promote appreciation of music through quality and diverse experiences.
 
 | Department Members: |
 |---|
-| Ms Dawn Teo (SH Aesthetics/CCA (internal) |
+| Ms Dawn Teo (SH Aesthetics/CCA (internal)) |
 | Ms Abbi Chow |
 | Mdm Sabrina |
 
