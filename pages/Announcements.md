@@ -9,7 +9,7 @@ Click [HERE](/homebasedlearninginstructions) to access the home based learning i
 
 
 
-#### 2023 September Notification to Parents
+#### 2023 October Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
 
