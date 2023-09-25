@@ -3,7 +3,7 @@ title: Home Based Learning Instructions
 permalink: /homebasedlearninginstructions/
 description: ""
 ---
-### Home Based Learning Lesson Guides 25 and 26 May 2023 
+### Home Based Learning Lesson Guides 28 and 29 September 2023 
 
 
 #### Primary 1
