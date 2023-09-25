@@ -4,6 +4,8 @@ permalink: /partners/resources-for-parents-students/SchoolNotificationstoparents
 description: ""
 third_nav_title: Students and Parents Resources
 ---
+[2023 Oct Notification to Parents.pdf](/files/notification%20to%20parents%20october%202023.pdf)
+
 [2023 Sept Notification to Parents.pdf](/files/september%20notification%20to%20parents%202023.pdf)
 
 [2023 Aug Notification to Parents.pdf](/files/2023%20august%20notification%20to%20parents.pdf)
