@@ -8,8 +8,12 @@ description: ""
 Click [HERE](/homebasedlearninginstructions) to access the home based learning instructions.
 
 
+#### Staff learning event on 6 Oct
+The General Office will be closed on 6 Oct (Friday) for a staff learning event.  
 
-#### 2023 September Notification to Parents
+
+
+#### 2023 October Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
 
