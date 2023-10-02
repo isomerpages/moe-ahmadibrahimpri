@@ -36,7 +36,7 @@ description: ""
 |---------------|---------------------|--------------------------------------|
 |    P1 Care    |     Mdm Nurmiszah Kamis   |    nurmiszah_kamis@moe.edu.sg        |
 |    P1 Care    |   Mdm Wong Joon Noi |    wong_joon_noi@moe.edu.sg          |
-| P1 Diligence  |   Ms Quek Pei Jin   |    quek_pei_chin_dawn@moe.edu.sg     |
+| P1 Diligence  |   Ms Quek Pei Jin   |    quek_pei_jin@moe.edu.sg     |
 | P1 Diligence  |   Mdm Siti Zubaidah Shaik      |    siti_zubaidah_shaik@moe.edu.sg    |
 | P1 Excellence |    Ms Erika Melisa Muhammad Rezal         |erika_melisa_muhammad_rezal@moe.edu.sg|
 | P1 Excellence |  Ms Ong Lay Pheng   |     ong_lay_pheng_b@moe.edu.sg       |

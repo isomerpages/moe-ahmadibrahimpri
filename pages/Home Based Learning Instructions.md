@@ -3,7 +3,7 @@ title: Home Based Learning Instructions
 permalink: /homebasedlearninginstructions/
 description: ""
 ---
-### Home Based Learning Instructions (28 and 29 September 2023) 
+### Home Based Learning Instructions (2 and 3 October 2023) 
 
 
 #### Primary 1
