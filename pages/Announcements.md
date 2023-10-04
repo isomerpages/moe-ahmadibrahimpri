@@ -31,4 +31,4 @@ With effect from 2023, the Form Teachers’ Guidance Branch (FTGP) periods for P
 
 #### General Guidelines for Snack Break
 
-Click [here](/partners/Students-and-Parents-Resources/generalguidelinesforsnackbreak/) to find out more.
+Click [here](/partners/students-and-parents-resources/generalguidelinesforsnackbreak/) to find out more.
