@@ -3,11 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-#### Home Based learning 
-
-Click [HERE](/homebasedlearninginstructions) to access the home based learning instructions.
-
-
 #### Staff learning event on 6 Oct
 The General Office will be closed on 6 Oct (Friday) for a staff learning event.  
 
@@ -31,4 +26,4 @@ With effect from 2023, the Form Teachers’ Guidance Branch (FTGP) periods for P
 
 #### General Guidelines for Snack Break
 
-Click [here](/partners/Students-and-Parents-Resources/generalguidelinesforsnackbreak/) to find out more.
+Click [here](/partners/students-and-parents-resources/generalguidelinesforsnackbreak/) to find out more.
