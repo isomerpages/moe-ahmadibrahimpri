@@ -3,12 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-#### Staff learning event on 6 Oct
-The General Office will be closed on 6 Oct (Friday) for a staff learning event.  
-
-
-
-#### 2023 October Notification to Parents
+#### 2023 P4 Subject Based Banding
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
 
