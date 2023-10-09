@@ -9,8 +9,6 @@ Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparen
 
 
 
-
-
 #### [Important]: Extension of School Hours on Tuesdays for P4-P6
 
 
