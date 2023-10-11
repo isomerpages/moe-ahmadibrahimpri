@@ -2,7 +2,6 @@ collections:
   chinese:
     output: true
     order:
-      - hello.md
       - 2023 CPES文化随意门.md
       - 2023 二年级文化营.md
       - 2023 依小休息乐.md
