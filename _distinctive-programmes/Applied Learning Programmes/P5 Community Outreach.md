@@ -10,4 +10,4 @@ Learning scopes:
 2. Students develop confidence in engaging public audience
 
 <img alt="P5 Community Outreach" src="/images/p5%20community%20outreach.png">
-![](/images/p5%20community%20outreach_4.jpg)
+![](/images/p5%20community%20outreach_2.jpeg)
