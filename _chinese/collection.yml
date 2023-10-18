@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2023 小小华文播报员.md
       - 2023 五年级母语双周文化营.md
       - 2023 海外合作交流活动.md
       - 2023 CPES文化随意门.md
