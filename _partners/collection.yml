@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group/2023 All The Best to our Primary 6 Students.md
       - Parent Support Group/.keep
       - Parent Support Group/Our Philosophy and PSG Exco.md
+      - Parent Support Group/2023 All The Best to our Primary 6 Students.md
       - Parent Support Group/2023 Children's Day Celebration.md
       - Parent Support Group/2023 Cyber Wellness Carnival.md
       - Parent Support Group/2023 Gourmet Session with Our Students.md
