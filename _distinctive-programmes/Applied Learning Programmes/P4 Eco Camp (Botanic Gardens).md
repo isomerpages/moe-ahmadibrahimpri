@@ -10,6 +10,3 @@ Learning Scope:
 2. Students learn to make observations, collect data and articulate scientific explanations.
 
 <img alt="" src="/images/p4%20eco%20camp.png">
-![](/images/p4%20eco%20camp%20term%204_1.jpg)
-
-	
