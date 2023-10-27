@@ -68,51 +68,19 @@ Using their music knowledge acquired over the 6 years of music lessons in school
 
 ![](/images/2023%20p6%20percussion.JPG)
 	
-#### Shine at AIPS 2022
+#### Shine at AIPS 2023
 	
 Shine at AIPS is a music competition held virtually this year. The objective of this competition is to provide students with a platform to showcase their talent, and allow them to build stage confidence. This competition is open to all students. They could choose from the following categories: Dance, Instrument, or Voice.
 
-**2022 Winners:**<br>
-Junior Category (P1 – P3 Students)<br>
+**2023 Winners:**<br>
+**Junior Category (P1 – P3 Students)**<br>
 
-<u>Category 1: Dance</u>
-![](/images/junior%20category%20dance.jpeg)
-1st Prize: Veerappan Aarthi (2 Respect)<br>
-2nd Prize: Mudumba Srisamhitha (2 Diligence)<br>
-3rd Prize: Evanna Chee Xuan Hui (3 Excellence)
+![](/images/junior%20category.jpg)
 
-<u>Category 2: Instrument</u>
-![](/images/junior%20category%20instrument.jpeg)
-1st Prize: Tok Hoi Min (2 Honesty)<br>
-2nd Prize: Lim You Hong (3 Honesty)<br>
-3rd Prize: Chew Yu Xin (1 Excellence)
+**Senior Category (P4 – P6 Students)**
 
+![](/images/senior%20category.jpg)
 
-<u>Category 3: Voice</u>
-![](/images/junior%20category%20voice.jpeg)
-1st Prize: Naurah Binte Mohamed Nazri (3 Honesty)<br>
-2nd Prize: Zara Leanne Chow (1 Honesty)<br>
-3rd Prize: Lin Weile, Lucas (2 Resilience)
+**Group Category (P1 – P6 Students)**
 
-
-Senior Category (P4 – P6 Students)
-
-<u>Category 1: Dance</u>
-![](/images/senior%20category%20dance.jpeg)
-1st Prize: Sophie Eilynn Chow (5 Diligence)<br>
-2nd Prize: Selvakumar Mahalakshmi (5 Excellence)
-
-
-<u>Category 2: Instrument</u>
-![](/images/senior%20category%20instrument.jpeg)
-1st Prize: Tay Ren Kai (6 Honesty)<br>
-2nd Prize: Lim Hao Yue (4 Honesty)<br>
-3rd Prize: Chew Yu Jie (5 Gratitude)
-
-
-
-<u>Category 3: Voice</u>
-![](/images/senior%20category%20voice.jpeg)
-1st Prize: K Tanishqa (6 Honesty)<br>
-2nd Prize: Sophie Eilynn Chow (5 Diligence)<br>
-3rd Prize: Gonzales Elisha Brielle (5 Diligence)
+![](/images/group%20category.jpg)
