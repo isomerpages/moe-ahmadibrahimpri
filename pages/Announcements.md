@@ -2,8 +2,9 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
-#### 2023 P4 Subject Based Banding
+#### 2023 Nov Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
 
