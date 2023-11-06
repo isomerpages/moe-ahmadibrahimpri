@@ -3,7 +3,10 @@ title: School Notifications to parents
 permalink: /partners/resources-for-parents-students/SchoolNotificationstoparents/
 description: ""
 third_nav_title: Students and Parents Resources
+variant: markdown
 ---
+[2023 Nov Notification to Parents.pdf](/files/november%20notification%20to%20parents%202023.pdf)
+
 [2023 P4 Subject Based Banding](/files/2023%20aips%20p4%20subject-based%20banding.pdf)
 
 [2023 Oct Notification to Parents.pdf](/files/notification%20to%20parents%20october%202023.pdf)
