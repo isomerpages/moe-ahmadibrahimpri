@@ -2,5 +2,6 @@
 title: School Organisation Chart
 permalink: /general-information/school-organisation-chart/
 description: ""
+variant: markdown
 ---
-![](/images/school%20org%20chart%202023%20updated%20term%204%20v2.jpg)
+![](/images/school_org_chart_2023__updated_Nov_2.jpg)
