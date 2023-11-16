@@ -4,4 +4,4 @@ permalink: /general-information/school-organisation-chart/
 description: ""
 variant: markdown
 ---
-![](/images/school_org_chart_2023__updated_Nov_2.jpg)
+![](/images/school_org_chart_2023__updated_Nov_3.jpg)
