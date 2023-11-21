@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /departments/Mother-Tongue/
 description: ""
+variant: markdown
 ---
 ### Vision:
 -------
@@ -32,7 +33,7 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 | Mdm Renuka (TL Coordinator) |
 
 
-### [Chinese](/chinese/subpage15)
+### [Chinese](/chinese/subpage18)
 
 ### [Malay](/malay/)
 
