@@ -9,7 +9,7 @@ variant: markdown
 | Appointment | Name | Email |
 |:---:|:---:|:---:|
 | PRINCIPAL | Ms Baey Ee-Lyn | aips@moe.edu.sg |
-| VICE-PRINCIPAL (ACAD) | Mrs Pearlyn Wai Yeo | aips@moe.edu.sg |
+| VICE-PRINCIPAL (ACAD) | Mrs Pearlyn Wai | aips@moe.edu.sg |
 | VICE-PRINCIPAL (ADMIN) | Ms Jaslin Kok | aips@moe.edu.sg |
 | HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
 | HOD CCE | Ms Norhayati Amat | norhayati_amat@moe.edu.sg |
