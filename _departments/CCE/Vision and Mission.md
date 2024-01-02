@@ -3,6 +3,7 @@ title: Vision and Mission
 permalink: /departments/cce/visionandmission/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 #### Vision:
 -------
@@ -26,14 +27,13 @@ To provide quality learning experiences for every child to develop good characte
 | Mdm Norhayati Amat (HOD CCE) |
 | Ms Adeline Tan Mei Qin (SH CCE) |
 | Ms Shamala |
-| Mdm Wong Suk Mee |
 | Mdm Yuslindah |
 | Mdm Malathi |
 | Mdm Siti Zubaidah |
 | Mdm Halina Taib |
 | Ms Ong Lay Pheng |
-| Mdm Sarina |
-
+| Mdm Renuka |
+| Mdm Siti Aisha |
 			
 
 ## Mission and Framework
