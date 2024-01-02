@@ -3,6 +3,7 @@ title: Vision and Mission
 permalink: /departments/science/visionandmission/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
 #### Vision
 ------
@@ -22,10 +23,9 @@ Science teachers cultivate learners to be civic-minded, inquisitive and equipped
 | Mdm Brenda Lee (LH Science) |
 | Mdm Deepa T Jeyaraman |
 | Mr Tham Tuck Kong |
-| Mdm Chua Yen Ling |
 | Mdm Chee Jia Pei |
 | Ms Mahfoza |
-
+| Mdm Tan Yit Peng |
 			
 
 ## The Curriculum

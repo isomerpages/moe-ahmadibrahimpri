@@ -3,6 +3,7 @@ title: Vision and Mission
 permalink: /departments/mathematics/visionandmission/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
 #### Vision:
 -------
@@ -23,10 +24,9 @@ To help our students build strong foundation in numeracy and competencies in hig
 | Ms Angelin Chan (LH) |
 | Mdm Mabel Chia (LT) |
 | Mdm Tan Mei Ling (ST) |
-| Mdm Ismiralda |
-| Mdm Exther Tan Jie Qi |
-|  Mrs Rachel Tan |
 | Ms Lynn Lim |
 | Mdm Nurmiszah |
 | Ms Quek Pei Jin |
 | Mdm Meredith Goh |
+| Ms Tan Yanwen |
+| Ms Wong Chu Ting |
