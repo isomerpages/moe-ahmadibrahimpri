@@ -3,6 +3,7 @@ title: Vision and Mission
 permalink: /departments/ict/visionandmission/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 #### Vision:
 -------
@@ -45,6 +46,5 @@ Equip and Empower the Learners
 | Mdm Fang Jing |
 | Mdm Wong Pau Hui |
 | Mdm Suriyanti |
-| Ms Wong Chu Ting |
 | Mdm Wong Joon Noi |
 | Ms Lee Mei Hui |
