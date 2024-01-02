@@ -2,6 +2,7 @@
 title: Music
 permalink: /departments/Music-and-Arts/Music/
 description: ""
+variant: markdown
 ---
 #### Vision
 ----
@@ -17,7 +18,6 @@ Promote appreciation of music through quality and diverse experiences.
 |---|
 | Ms Dawn Teo (SH Aesthetics/CCA (internal)) |
 | Ms Abbi Chow |
-| Mdm Sabrina |
 
 
 #### Music: The AIPS Approach
