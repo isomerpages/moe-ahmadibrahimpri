@@ -3,6 +3,7 @@ title: Vision and Mission
 permalink: /departments/English/visionandmission/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 ### Vision:
 -------
@@ -28,6 +29,5 @@ To provide quality learning experiences and a vibrant, language-rich environment
 | Mdm Shivani |
 | Mdm Erika |
 | Mdm Seriyati |
-| Mr Melvin Yeoh |
 | Mdm Nursyahirah |
-
+| Ms Indu Ravindran |
