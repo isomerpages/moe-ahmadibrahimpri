@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Students and Parents Resources
 variant: markdown
 ---
+[2024 Jan Notification to Parents.pdf](/files/2024_January_Notification_to_Parents.pdf)
+
 [2023 Nov Notification to Parents.pdf](/files/november%20notification%20to%20parents%202023.pdf)
 
 [2023 P4 Subject Based Banding](/files/2023%20aips%20p4%20subject-based%20banding.pdf)
