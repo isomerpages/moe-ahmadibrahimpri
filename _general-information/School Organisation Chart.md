@@ -24,7 +24,7 @@ variant: markdown
 | Year Head / Upper Primary | Mdm Yang Tzy Shing | yang_tzy_shing@moe.edu.sg |
 | Asst Year Head / Lower Primary | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
 | Asst Year Head / Lower Primary | Mdm Ang Hwee See Sandra | ang_hwee_see_sandra@moe.edu.sg |
-| Asst Year Head / Middle Primary | Mr Muhammad Fadhli Zulkiflee | Muhammad_Fadhli_Zulkiflee@moe.edu.sg |
+| Asst Year Head / Middle Primary (Internal) | Mr Muhammad Fadhli Zulkiflee | Muhammad_Fadhli_Zulkiflee@moe.edu.sg |
 | Asst Year Head / Upper Primary | Ms Ong Yi Ling Eileen | ong_yi_ling_eileen@moe.edu.sg |
 | Level Head English | Mr Goh Koon Yu Daniel | goh_koon_yu_daniel@moe.edu.sg |
 | Level Head Maths | Ms Chan Jie Ting Angelin | chan_jie_ting_angelin@moe.edu.sg |
