@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Leadership Development/Our Pedagogical Approach.md
       - Student Leadership Development/Vision and Mission.md
       - Student Leadership Development/.keep
       - English/.keep
