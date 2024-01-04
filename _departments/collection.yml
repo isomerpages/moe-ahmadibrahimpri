@@ -2,10 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Leadership Development/.keep
-      - Student Leadership Development/Vision and Mission.md
-      - Student Leadership Development/Student Leadership Framework.md
-      - Student Leadership Development/Our Pedagogical Approach.md
       - English/.keep
       - English/Vision and Mission.md
       - English/STELLAR.md
@@ -40,3 +36,7 @@ collections:
       - ICT/Vision and Mission.md
       - ICT/Information Technology for Learning and Teaching.md
       - ICT/Cyber Wellness Education.md
+      - Student Leadership Development/.keep
+      - Student Leadership Development/Vision and Mission.md
+      - Student Leadership Development/Student Leadership Framework.md
+      - Student Leadership Development/Our Pedagogical Approach.md
