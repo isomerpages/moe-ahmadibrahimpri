@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - Student Leadership Development/.keep
+      - Student Leadership Development/Vision and Mission.md
       - Student Leadership Development/Student Leadership Framework.md
       - Student Leadership Development/Our Pedagogical Approach.md
-      - Student Leadership Development/Vision and Mission.md
-      - Student Leadership Development/.keep
       - English/.keep
       - English/Vision and Mission.md
       - English/STELLAR.md
