@@ -2,29 +2,6 @@
 title: Robotics Club
 permalink: /cca/robotics-club/
 description: ""
+variant: tiptap
 ---
-Our purpose is to learn more about coding and learning more about computers and technology. The club is currently learning to code using the CoderZ portal to simulate the working of the Lego EV3.  
-
-  
-
-### CCA Details
------------
-
-| Teachers-in-charge | Ms Erika Melissa (erika_melisa_muhammad_rezal@moe.edu.sg) <br> Mdm Lee Meihui (lee_meihui@moe.edu.sg) <br> Ms Sindhu (sindhuja_suresh@moe.edu.sg) <br> Mdm Ismiralda (ismiralda_masduki@moe.edu.sg) |
-|:---:|:---:|
-| Venue | Computer Lab 3 |
-| Day and Time | Tuesdays, 2.45 pm - 4.45 pm |
-
-### Highlights
-----------
-
-<img src="/images/robotics1.png" style="width:75%">
-
-
-<img src="/images/robotics2.png" style="width:75%">
-
-
-<img src="/images/robotics3.png" style="width:75%">
-
-
-<img src="/images/robotics4.png" style="width:75%">
+<p>Our purpose is to learn more about coding and learning more about computers and technology. The club is currently learning to code using the CoderZ portal to simulate the working of the Lego EV3.</p><h3>CCA Details</h3><hr><p></p><table><tbody><tr><td rowspan="1" colspan="1"><p>Teachers-in-charge&nbsp;</p></td><td rowspan="1" colspan="1"><p>Ms Erika Melisa Muhammad Rezal (<a rel="noopener noreferrer nofollow" target="_blank">erika_melisa_muhammad_rezal@moe.edu.sg</a>)</p><p>Mdm Lee Meihui (<a rel="noopener noreferrer nofollow" target="_blank">lee_meihui@moe.edu.sg</a>)</p><p>Mdm Hajjah Seriyati Md Salleh (<a rel="noopener noreferrer nofollow" target="_blank">hajjah_seriyati_md_salleh@moe.edu.sg</a>)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue</p></td><td rowspan="1" colspan="1"><p>Computer Lab 1 and 3</p></td></tr><tr><td rowspan="1" colspan="1"><p>Day and Time</p></td><td rowspan="1" colspan="1"><p>Tuesdays 2pm</p></td></tr></tbody></table><h3>Highlights</h3><hr><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics1.png"></div><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics2.png"></div><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics3.png"></div><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics4.png"></div><p></p>
