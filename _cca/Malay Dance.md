@@ -2,30 +2,6 @@
 title: Malay Dance
 permalink: /cca/malay-dance/
 description: ""
+variant: tiptap
 ---
-The main objective of our Malay Dance club is L.O.V.E : <br>
-1) Leadership – Give students an opportunity to hone their leadership skills
-2) Ownership – Give students a sense of ownership and a sense of pride to the school
-3) Values – To instill positive values aligned with the school values such as the 3 Rs (Respect, responsibility &amp; Resilience)
-4) Expose – To expose students to the 5 traditional forms of Malay Dance namely the Inang, Masri, Zapin, Joget &amp; Asli.
-
-Aligned with L.O.V.E, students will be given various platforms to showcase their talents. They will also take part in fun activities that build rapport and a sense of camaraderie with their teammates such as termly birthday celebrations, Welcome Tea (for new members) &amp; an annual Farewell Party (for graduating students). 
-
-
-### CCA Details
------------
-
-| Teachers-in-charge  | Mdm Yuslindah (yuslindah_mohamed_ali@moe.edu.sg) <br>Mdm Aishah (siti_aishah_junaidi@moe.edu.sg) <br> Ms Renuka (renuka_simon@moe.edu.sg) | 
-|:---:|:---:|
-| Venue | Dance Studio @ ISH (Level 3) |
-| Day and Time | Tuesdays, 2.45pm - 4.45pm |
-
-
-#### Hari Raya 2023
-![](/images/malay%20dance%202%202023.JPG)
-
-#### Termly Birthday Celebrations 2023
-![](/images/malay%20dance%203%202023.jpg)
-
-#### Farewell Party 2022
-![](/images/malay%20dance%201%202023.JPG)
+<p>The main objective of our Malay Dance club is L.O.V.E : <br></p><ol data-tight="true" class="tight"><li><p>Leadership – Give students an opportunity to hone their leadership skills</p></li><li><p>Ownership – Give students a sense of ownership and a sense of pride to the school</p></li><li><p>Values – To instill positive values aligned with the school values such as the 3 Rs (Respect, responsibility &amp; Resilience)</p></li><li><p>Expose – To expose students to the 5 traditional forms of Malay Dance namely the Inang, Masri, Zapin, Joget &amp; Asli.</p></li></ol><p>Aligned with L.O.V.E, students will be given various platforms to showcase their talents. They will also take part in fun activities that build rapport and a sense of camaraderie with their teammates such as termly birthday celebrations, Welcome Tea (for new members) &amp; an annual Farewell Party (for graduating students).</p><h3>CCA Details</h3><hr><table><tbody><tr><td rowspan="1" colspan="1"><p>Teachers-in-charge&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Siti Aishah Junaidi (<a rel="noopener noreferrer nofollow" target="_blank">siti_aishah_junaidi@moe.edu.sg</a>)</p><p>Mdm Yuslinda Mohamed Ali (<a rel="noopener noreferrer nofollow" target="_blank">yuslindah_mohamed_ali@schools.gov.sg</a>)</p><p>Ms Renuka Simon (<a rel="noopener noreferrer nofollow" target="_blank">renuka_simon@moe.edu.sg</a>)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue</p></td><td rowspan="1" colspan="1"><p>Dance Studio</p></td></tr><tr><td rowspan="1" colspan="1"><p>Day and Time</p></td><td rowspan="1" colspan="1"><p>Tuesdays 2pm</p></td></tr></tbody></table><h4>Hari Raya 2023</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance%202%202023.JPG"></div><h4>Termly Birthday Celebrations 2023</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance%203%202023.jpg"></div><h4>Farewell Party 2022</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance%201%202023.JPG"></div><p></p>
