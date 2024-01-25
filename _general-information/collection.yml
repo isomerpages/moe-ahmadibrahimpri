@@ -1,0 +1,14 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Vision and Mission.md
+      - School Organisation Chart.md
+      - Our Staff.md
+      - School Achievements/2023.md
+      - School Achievements/.keep
+      - School Achievements/2022.md
+      - School Achievements/2021.md
+      - Our Facilities.md
+      - Leave of Absence.md

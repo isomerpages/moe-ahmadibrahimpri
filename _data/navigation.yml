@@ -1,0 +1,12 @@
+logo: /images/school-logo.png
+links:
+  - title: General Information
+    collection: general-information
+  - title: CCA
+    collection: cca
+  - title: Departments
+    collection: departments
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Partners
+    collection: partners

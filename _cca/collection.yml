@@ -1,0 +1,16 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Badminton.md
+      - Rope Skipping.md
+      - Basketball.md
+      - Cub Scouts.md
+      - Chinese Dance.md
+      - Malay Dance.md
+      - Indian Dance.md
+      - Choir.md
+      - Angklung.md
+      - Robotics Club.md
+      - Photography.md
+      - Arts and Craft.md
