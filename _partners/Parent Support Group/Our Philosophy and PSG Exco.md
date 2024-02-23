@@ -3,28 +3,24 @@ title: Our Philosophy and PSG Exco
 permalink: /partners/parent-support-group/OurPhilosophyandPSGExco/
 description: ""
 third_nav_title: Parent Support Group
+variant: tiptap
 ---
-
-![Parent Support Group](/images/PSG.jpg)
-
-
-
-### Our Philosophy 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/psg%20logo.jpg" alt="Our Philosop" style="width:40%;">  
-  
-</body>
-<p style="text-align:center;">Each Child Matters</p>
-
-
-
-### PSG Exco
-	
-<img alt="PSG Exco" src="/images/psg%20exco.jpg">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Parent Support Group" src="/images/PSG.jpg">
+</div>
+<h3>Our Philosophy</h3>
+<div class="isomer-image-wrapper">
+<img style="width:40%;" height="auto" width="100%" alt="Our Philosop" src="/images/psg%20logo.jpg">
+</div>
+<p>Each Child Matters</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation_chart_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation_Chart_2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
