@@ -10,7 +10,6 @@ activities during the commemoration of Total Defence Day. They contributed
 significantly by reinforcing this year’s Total Defence campaign theme:
 “Together We Keep Singapore Strong”.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TDD.jpg">
 </div>
