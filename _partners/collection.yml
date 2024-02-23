@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group/2024 Total Defence Day.md
       - Parent Support Group/.keep
       - Parent Support Group/Our Philosophy and PSG Exco.md
+      - Parent Support Group/2024 Total Defence Day.md
       - Parent Support Group/2024 Chinese New Year Celebration.md
       - Parent Support Group/PSG Meeting.md
       - Parent Support Group/2023 All The Best to our Primary 6 Students.md
