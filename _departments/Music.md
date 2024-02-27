@@ -18,16 +18,16 @@ Promote appreciation of music through quality and diverse experiences.
 |---|
 | Ms Dawn Teo (SH Aesthetics/CCA (internal)) |
 | Ms Abbi Chow |
-
+| Mdm Sabrina  |
 
 #### Music: The AIPS Approach
 In AIPS, we adopt the ECA approach in our music teaching.
 
-E – Experience <br>
-C – Concept <br>
-A – Application <br>
+**E** – Experience <br>
+**C** – Concept <br>
+**A** – Application <br>
 
-On top of ECA, we also include elements of the Kodaly and Approach.
+On top of ECA, we also include elements of the Kodaly Approach.
 
 
 
@@ -38,7 +38,7 @@ At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a st
 #### Primary 1: Singing and Body Percussions
 
 Children enjoy singing and dancing to music. It is also one of the fundamental skills for music lessons. Thus in Primary 1, our students learn to use their “singing voice” and to sing using the correct techniques. Students are introduced to various genre of music of different cultures and languages.
-<img src="/images/p1.jpg" alt="Primary 1: Singing &amp; Body Percussions">
+
 
 #### Primary 2: Hand Bells
 	
