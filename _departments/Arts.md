@@ -2,6 +2,7 @@
 title: Arts
 permalink: /departments/Music-and-Arts/Arts/
 description: ""
+variant: markdown
 ---
 #### Vision
 ----
@@ -35,6 +36,9 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 <img src="/images/QR%20CODE.png" style="width:30%" alt="">
 
 * best viewed using the app "Art Steps". You may download it for free from Play Store/ Apple Store.
+
+#### 2024 P6 Canva Art 
+Our Primary 6 students are given the exciting opportunity to experiment with AI tools within the Canva application to craft their unique juxtaposition artworks. Alongside experiencing Canva's AI capabilities, students delve into the platform's wide array of editing tools and libraries tailored for their use. Through this hands-on experience, students learn to expertly edit, layer, and experiment with various compositions, honing their skills to create stunning juxtaposition artworks.
 
 
 #### 2023 P6 BATIK PROGRAMME
