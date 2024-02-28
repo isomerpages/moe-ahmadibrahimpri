@@ -40,6 +40,7 @@ Come and visit our very first online Art Exhibition curated by our Art Specialis
 #### 2024 P6 Canva Art 
 Our Primary 6 students are given the exciting opportunity to experiment with AI tools within the Canva application to craft their unique juxtaposition artworks. Alongside experiencing Canva's AI capabilities, students delve into the platform's wide array of editing tools and libraries tailored for their use. Through this hands-on experience, students learn to expertly edit, layer, and experiment with various compositions, honing their skills to create stunning juxtaposition artworks.
 
+![](/images/Art_dept_.jpg)
 
 #### 2023 P6 BATIK PROGRAMME
 
