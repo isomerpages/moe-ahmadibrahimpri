@@ -22,7 +22,7 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 |---|
 | Ms Teo Xiwen (HOD MTL) |
 | Ms Jasmine Ooi (ST CL) |
-| Mdm Chong Li Ying |
+| Mdm Chong Li Ying (ST CL) |
 | Mdm Guo Yue |
 | Ms Chia Wan Rong |
 | Mdm Li Jia Yang |
@@ -33,7 +33,7 @@ All AIPS students are active, passionate and proficient learners of the Mother T
 | Mdm Sarina Banu |
 
 
-### [Chinese](/chinese/subpage18)
+### [Chinese](/chinese/subpage19)
 
 ### [Malay](/malay/)
 

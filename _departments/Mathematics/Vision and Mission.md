@@ -26,7 +26,7 @@ To help our students build strong foundation in numeracy and competencies in hig
 | Mdm Tan Mei Ling (ST) |
 | Ms Lynn Lim |
 | Mdm Nurmiszah |
-| Ms Quek Pei Jin |
 | Mdm Meredith Goh |
 | Ms Tan Yanwen |
 | Ms Wong Chu Ting |
+| Ms Chan Si Zhen |
