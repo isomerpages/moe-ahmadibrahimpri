@@ -20,7 +20,7 @@ in serving their peers, school and community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Farah Mohamed Nasir (HOD Student Leaderhsip and Development)</p>
+<p>Mdm Nur Farah Mohamed Nasir (HOD Student Leadership and Development)</p>
 </td>
 </tr>
 <tr>
