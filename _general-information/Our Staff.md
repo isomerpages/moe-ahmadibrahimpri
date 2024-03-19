@@ -533,6 +533,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Mdm Nur Farah Mohamed Nasir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Primary 4</strong>
@@ -865,11 +876,10 @@ variant: tiptap
 <p>P6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Farah Mohamed Nasir</p>
+<p>(Mdm Nur Farah Mohamed Nasir)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_farah_mohamed_nasir@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
