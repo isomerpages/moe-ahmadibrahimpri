@@ -624,6 +624,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P4 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chee Jia Pei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_jia_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_jia_pei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -704,10 +716,10 @@ variant: tiptap
 <p>P5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Yi Ling Eileen</p>
+<p>Mdm Norhayati Amat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_yi_ling_eileen@moe.edu.sg</a>
+<p><a href="mailto:norhayati_amat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_amat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -833,6 +845,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">guo_yue@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Lee Peng Lillian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_lee_peng_lillian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_lee_peng_lillian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
