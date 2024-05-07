@@ -10,15 +10,13 @@ variant: markdown
 |:---:|:---:|:---:|
 | PRINCIPAL | Ms Baey Ee-Lyn | aips@moe.edu.sg |
 | VICE-PRINCIPAL (ACAD) | Mrs Pearlyn Wai | aips@moe.edu.sg |
-| VICE-PRINCIPAL (ADMIN) | Ms Jaslin Kok | aips@moe.edu.sg |
 | HOD CCE | Ms Norhayati Amat | norhayati_amat@moe.edu.sg |
-| HOD English | Ms Inderjeet Kaur d/o Harbans Singh | inderjeet_kaur_harbans_sin@moe.edu.sg |
 | HOD ICT | Mr Nurul Hatta Takim | nurul_hatta_takim@moe.edu.sg |
-| HOD Maths | Mr Wu Jianrong Eric | wu_jianrong_eric@moe.edu.sg |
 | HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
 | HOD PE PAM/ CCA | Mr Sakthi Ganapathi Ramachandra | sakthi_ganapathi_ramachandra@moe.edu.sg |
 | HOD Science | Mr Lim Wee Kiat | lim_wee_kiat@moe.edu.sg |
 | HOD Student Leadership & Discipline | Mdm Nur Farah Mohamed Nasir | nur_farah_mohamed_nasir@moe.edu.sg |
+| School Staff Developer | Mdm Lau Lee Peng Lillian | lau_lee_peng_lillian@moe.edu.sg |
 | Year Head / Lower Primary | Mdm Siti Aisha Said | siti_aisha_said@moe.edu.sg |
 | Year Head / Middle Primary | Ms Eliza Goh Seok Luan | goh_seok_luan@moe.edu.sg |
 | Year Head / Upper Primary | Mdm Yang Tzy Shing | yang_tzy_shing@moe.edu.sg |
@@ -33,4 +31,3 @@ variant: markdown
 | Subject Head CCE  | Ms Adeline Tan Meiqin | adeline_tan_meiqin@moe.edu.sg |
 | Subject Head ICT | Mr Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
-| School Staff Developer | Mdm Lau Lee Peng Lillian | lau_lee_peng_lillian@moe.edu.sg |
