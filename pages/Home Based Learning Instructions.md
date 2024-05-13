@@ -4,7 +4,7 @@ permalink: /homebasedlearninginstructions/
 description: ""
 variant: markdown
 ---
-### Home Based Learning Instructions (2 and 3 October 2023) 
+### Home Based Learning Instructions (23 and 24 May 2024) 
 
 
 #### Primary 1
