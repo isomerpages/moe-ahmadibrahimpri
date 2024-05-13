@@ -2,6 +2,7 @@
 title: Home Based Learning Instructions
 permalink: /homebasedlearninginstructions/
 description: ""
+variant: markdown
 ---
 ### Home Based Learning Instructions (2 and 3 October 2023) 
 
@@ -32,12 +33,14 @@ description: ""
 [3 EXCELLENCE](https://docs.google.com/spreadsheets/d/1Uzgi5tVSIe3tCAjwDc68qkCoF2LyzBOG4xkX3Rf4qgA/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
 [3 GRATITUDE](https://docs.google.com/spreadsheets/d/16t7IrTVsaY63Ya4E0qphgfbi3drOf4auiaW8CjjzgPo/edit) <br>
 [3 HONESTY](https://docs.google.com/spreadsheets/d/15K5h_rlGRDrVTqlQ4mhyGImEwx-EvRzp80a6ZO-2d30/edit) <br>
+[3 RESILIENCE](https://docs.google.com/spreadsheets/d/1EMlIs_dVsC78X-D2yy8DS8BPm9VAncvHj17sHEgFV3w/edit#gid=0)
 
 
 #### Primary 4
 [4 CARE](https://docs.google.com/spreadsheets/d/1LKc1Y6a_6kr-0xJ9g03mgTEEO7iudqJ2xS_QRgnHlxo/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
 [4 DILIGENCE](https://docs.google.com/spreadsheets/d/1mKRey_NpLsCbaVTln73BIS1-_796ulXYwVlMBVT6Wwc/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
 [4 EXCELLENCE](https://docs.google.com/spreadsheets/d/15Hkdr4yz_yv8b5afcAv48gfDCKZN-UCDudMgJAJQ4QM/edit) <br>
+[4 GRATITUDE](https://docs.google.com/spreadsheets/d/1HsN2GnmSaizLdTXdQvCLQjJnErrzfRKoV_gnx_4uKF8/edit#gid=0) <br>
 [4 HONESTY](https://docs.google.com/spreadsheets/d/1SiLYdVTd22VhKkEkXJgfQNtNLbphDwuFHI9_EbZKM_U/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
 [4 RESILIENCE](https://docs.google.com/spreadsheets/d/1U8WncfcvQxHZkhXFlcf9D8JZr4cBmuCeGA3LaDFFEJY/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
 
@@ -54,4 +57,5 @@ description: ""
 [6 DILIGENCE](https://docs.google.com/spreadsheets/d/1fPQY1RAR-SN9_S8FGhM_h9e68RybV7i1hIKIjiegF84/edit) <br>
 [6 EXCELLENCE](https://docs.google.com/spreadsheets/d/1naAe_zYS_YeTVkUzCGTVnvudctQ24fnvSQxI6aqKEeI/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
 [6 GRATITUDE](https://docs.google.com/spreadsheets/d/1qad7mjZzlNFa8-_iAqM147O7X01pHJPDSQ2RySnS2kw/edit?usp=drive_web&amp;ouid=100432629000684580486) <br>
-[6 HONESTY](https://docs.google.com/spreadsheets/d/15A6973W4HGwMYPLgAzle13KTzunpGiukdJWdLX92-LQ/edit?usp=drive_web&amp;ouid=100432629000684580486)
+[6 HONESTY](https://docs.google.com/spreadsheets/d/15A6973W4HGwMYPLgAzle13KTzunpGiukdJWdLX92-LQ/edit?usp=drive_web&amp;ouid=100432629000684580486)<br>
+[6 RESILIENCE](https://docs.google.com/spreadsheets/d/1zfsWf7hJIkMh97IKoDMaDsdJsVfhvP6jvlrnDRwTaMs/edit#gid=0)
