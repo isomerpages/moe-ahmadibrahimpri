@@ -3,6 +3,7 @@ title: Modified Language Experience Approach (MLEA)
 permalink: /departments/English/MLEA/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 ### Modified Language Experience Approach (MLEA)
 
@@ -14,3 +15,8 @@ A typical MLEA lesson spans over three days as students navigate from Class Writ
 
 **Students making their own hipster prata and writing about their experience:**
 ![](/images/mlea%201%202023.jpg)
+
+![](/images/MLEA_Prata_and_S_more_.png)
+
+![](/images/MLEA_SEA_Aquarium_.png)
+
