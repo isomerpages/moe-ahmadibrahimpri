@@ -3,6 +3,7 @@ title: ELIAS English Language Interests All Students and Staff
 permalink: /departments/English/ELIAS/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 ### ELIAS- English Language Interests All Students and Staff
 
@@ -19,3 +20,5 @@ English Week is never complete without a Character Parade! Everyone in school, i
 
 **Mystery Guest Readers:**
 ![](/images/mystery%20guest%20reader%202023.jpg)
+
+![](/images/ELIAS.jpg)
