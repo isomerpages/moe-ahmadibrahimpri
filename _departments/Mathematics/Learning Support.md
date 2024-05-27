@@ -13,6 +13,3 @@ LSM provides early intervention to Primary 1 to 4 students with weak basic numer
 The programme focuses on basic mathematical skills and concepts to build good foundation.
 It aims to build students’ confidence and positive beliefs about their ability to do Math.
 The important feature of LSM is that students receive more individual attention from the teacher as the class size is small.
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRk_sGUil8VnDmLkVMCNaBPJtlDcXlCbY6aRyBqlEyUndZBuAOaVKIL4nqtLVcHmW-HRqfCwtRyMmJK/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
