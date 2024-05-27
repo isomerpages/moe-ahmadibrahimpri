@@ -11,6 +11,5 @@ Learning scopes:
 2. Students develop a sense of responsibility in growing their plants
 
 
-<p style="text-align:center;">Student growing their own pot of plant in their homes.</p>
-
+**Student growing their own pot of plant in their homes:**
 ![](/images/p3%20every%20child%20a%20seed%20.jpg)
