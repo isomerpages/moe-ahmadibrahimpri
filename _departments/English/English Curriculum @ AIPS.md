@@ -3,6 +3,7 @@ title: English Curriculum @ AIPS
 permalink: /departments/English/EnglishCurriculumAIPS/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 ### English Curriculum @ AIPS
  
@@ -54,4 +55,5 @@ These include the Learning Support Programme (LSP), School-based Dyslexia Remedi
 | Primary 1 – Primary 2 | Learning Support Programme (LSP) An early intervention programme for students who enter P1 with weak literacy skills identified through MOE’s screening process |
 | Primary 3 – Primary 4 | School-based Dyslexia Remediation (SDR) A two-year intervention programme for P3 and P4 students diagnosed with dyslexia through assessments by MOE’s psychologists |
 |  | Reading Remediation Programme (RRP) A remediation programme for P3 and P4 students with weak literacy skills but not diagnosed with dyslexia |
-| Primary 5 – Primary 6 | School-based Pullout Programme A remediation programme for selected P5 and P6 students who need more support in foundational English Language skills |
+| Primary 5 – Primary 6 | School-based Pullout Programme A remediation programme for selected P5 and P6 students who need more support in foundational English Language skills | 
+|  |Reading Remediation Programme (RRP) for P5 students with weak literacy skills |
