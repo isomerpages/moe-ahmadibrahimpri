@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2024 小二母语双周文化营.md
       - 2024 小三母语双周打字比赛.md
       - 2024 密室逃脱比赛.md
       - 2024 北区中小学华语演讲比赛.md
