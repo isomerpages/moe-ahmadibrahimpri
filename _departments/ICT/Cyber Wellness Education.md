@@ -3,6 +3,7 @@ title: Cyber Wellness Education
 permalink: /departments/ICT/CyberWellnessEducation/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 **Cyber Wellness Education**
 
@@ -16,3 +17,5 @@ The main topics covered in our cyber wellness education include Netiquette, Dang
 
 ![](/images/cyberwellness%201%202023.JPG)
 ![](/images/cyberwellness%202%202023.JPG)
+
+[](/files/SAFER_INTERNET_DAY_2024_Cyber_Wellness_Infographic_Term_1.pdf)
