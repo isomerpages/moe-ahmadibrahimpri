@@ -20,4 +20,3 @@ English Week is never complete without a Character Parade! Everyone in school, i
 
 **Mystery Guest Readers:**
 ![](/images/mystery%20guest%20reader%202023.jpg)
-
