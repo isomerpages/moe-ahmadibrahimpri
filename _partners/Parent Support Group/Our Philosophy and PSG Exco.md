@@ -8,11 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parent Support Group" src="/images/PSG.jpg">
 </div>
-<h3>Our Philosophy</h3>
-<div class="isomer-image-wrapper">
-<img style="width:40%;" height="auto" width="100%" alt="Our Philosop" src="/images/psg%20logo.jpg">
-</div>
-<p>Each Child Matters</p>
+<h3></h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation_chart_1.jpg">
