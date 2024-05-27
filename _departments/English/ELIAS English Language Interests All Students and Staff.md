@@ -16,9 +16,8 @@ English Week is never complete without a Character Parade! Everyone in school, i
 ![](/images/elias%202023.jpg)
 
 **ELIAS Week Games and activities:**
-![](/images/elias%20week%202023.jpg)
+![](/images/ELIAS.jpg)
 
 **Mystery Guest Readers:**
 ![](/images/mystery%20guest%20reader%202023.jpg)
 
-![](/images/ELIAS.jpg)
