@@ -113,18 +113,6 @@ variant: tiptap
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yit Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yit_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Chan Si Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,10 +291,10 @@ variant: tiptap
 <p>P2 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Renuka Simon</p>
+<p>Mr Delson Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">renuka_simon@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ong_yuxuan_delson@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -319,18 +307,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_azimah_mohd_jailani@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Aisha Said&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aisha_said@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -382,6 +358,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cia Zhi Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cia_zhi_xian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Primary 3</strong>
@@ -426,6 +414,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nerissa_ng_si_min@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Priscilla Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -728,10 +727,10 @@ variant: tiptap
 <p>P5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nurul Hatta Takim</p>
+<p>Ms Ong Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurul_hatta_takim@moe.edu.sg</a>
+<p><a href="mailto:ong_yi_ling_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yi_ling_eileen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
