@@ -11,7 +11,10 @@ third_nav_title: Student Leadership Development
 <p>To provide opportunities for every child to develop themselves as a leader
 in serving their peers, school and community</p>
 <h3><strong>Department members:</strong></h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -46,6 +49,11 @@ in serving their peers, school and community</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Fadhli Zulkiflee (Asst Year Head / Middle Primary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Aishah Said (Year Head / Lower Primary)</p>
 </td>
 </tr>
 <tr>
