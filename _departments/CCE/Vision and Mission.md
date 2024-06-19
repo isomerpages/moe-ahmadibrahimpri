@@ -32,8 +32,7 @@ To provide quality learning experiences for every child to develop good characte
 | Mdm Siti Zubaidah |
 | Mdm Halina Taib |
 | Ms Ong Lay Pheng |
-| Mdm Renuka |
-| Mdm Siti Aisha |
+| Ms Priscilla Mun |
 			
 
 ## Mission and Framework
