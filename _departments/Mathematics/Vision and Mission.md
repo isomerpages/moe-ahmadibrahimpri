@@ -20,7 +20,6 @@ To help our students build strong foundation in numeracy and competencies in hig
 
 | Department Members: |
 |---|
-| Mr Eric Wu (HOD Maths) |
 | Ms Angelin Chan (LH) |
 | Mdm Mabel Chia (LT) |
 | Mdm Tan Mei Ling (ST) |
