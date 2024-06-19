@@ -10,8 +10,8 @@ variant: markdown
 |:---:|:---:|:---:|
 | PRINCIPAL | Ms Baey Ee-Lyn | aips@moe.edu.sg |
 | VICE-PRINCIPAL (ACAD) | Mrs Pearlyn Wai | aips@moe.edu.sg |
+| VICE-PRINCIPAL (ACAD) | Mrs Chia Junli | aips@moe.edu.sg |
 | HOD CCE | Ms Norhayati Amat | norhayati_amat@moe.edu.sg |
-| HOD ICT | Mr Nurul Hatta Takim | nurul_hatta_takim@moe.edu.sg |
 | HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
 | HOD PE PAM/ CCA | Mr Sakthi Ganapathi Ramachandra | sakthi_ganapathi_ramachandra@moe.edu.sg |
 | HOD Science | Mr Lim Wee Kiat | lim_wee_kiat@moe.edu.sg |
