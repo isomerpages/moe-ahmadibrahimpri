@@ -25,7 +25,6 @@ Science teachers cultivate learners to be civic-minded, inquisitive and equipped
 | Mr Tham Tuck Kong |
 | Mdm Chee Jia Pei |
 | Ms Mahfoza |
-| Mdm Tan Yit Peng |
 | Mr Melvin Yeoh |
 			
 
