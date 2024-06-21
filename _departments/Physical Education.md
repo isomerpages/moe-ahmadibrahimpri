@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /departments/physical-health-and-fitness/visionandmission/
 description: ""
+variant: markdown
 ---
 #### Vision:
 -------
@@ -29,7 +30,7 @@ They are passionate bout developing their talents towards sporting excellence.
 | Mr Wang Jun Hao Jordan |
 | Ms Nerissa Ng Si Min |
 | Mr Ahmad Sufyan Abdul Kahar |
-
+| Mr Delson Ong |
 
 
 #### Physical Education @ AIPS

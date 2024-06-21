@@ -41,7 +41,6 @@ Equip and Empower the Learners
 
 | Department Members: |
 |---|
-| Mr Nurul Hatta (HOD ICT) |
 | Mr Ben Koh (SH ICT) |
 | Mdm Fang Jing |
 | Mdm Wong Pau Hui |

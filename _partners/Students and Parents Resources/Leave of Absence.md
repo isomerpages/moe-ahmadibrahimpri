@@ -2,6 +2,7 @@
 title: Leave of Absence
 permalink: /general-information/application-form-for-leave-of-absence/
 description: ""
+third_nav_title: Students and Parents Resources
 ---
 #### Instructions
 Parents who are planning to go overseas for work may reserve places for their children in their current school under the Leave of Absence (LOA) Scheme. If your child is granted LOA, they will remain as a registered student of the school and can be re-admitted to the school directly after returning to Singapore. 
