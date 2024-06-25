@@ -22,7 +22,6 @@ resilience in our pupils.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chow Yuan Ling Abbi (<a rel="noopener noreferrer nofollow" target="_blank">chow_yuan_ling_abbi@moe.edu.sg</a>)</p>
-<p>Mdm Halina Taib (<a rel="noopener noreferrer nofollow" target="_blank">halina_taib@moe.edu.sg</a>)</p>
 <p>Mdm Siti Zubaidah Shaik (<a rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_shaik@moe.edu.sg</a>)</p>
 <p>Ms Priscilla Mun (<a href="mailto:mun_li_jun_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mun_li_jun_priscilla@moe.edu.sg</a>)</p>
 </td>
