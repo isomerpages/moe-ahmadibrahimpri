@@ -26,7 +26,8 @@ in competitions.</p>
 <p>Mdm Sudriyanti Samsudin (<a href="mailto:sudriyanti_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sudriyanti_samsudin@moe.edu.sg</a> 
 <a href="mailto:suriyanti_said@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
-<p>Wong Chu Ting&nbsp; (<a rel="noopener noreferrer nofollow" target="_blank">wong_chu_ting_a@moe.edu.sg</a>)</p>
+<p>Ms Wong Chu Ting (<a rel="noopener noreferrer nofollow" target="_blank">wong_chu_ting_a@moe.edu.sg</a>)</p>
+<p>Mr Nazreen <a href="mailto:muhammad_nazreen_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_nazreen_mohd_noor@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
