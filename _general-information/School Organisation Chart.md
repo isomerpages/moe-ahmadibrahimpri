@@ -31,3 +31,12 @@ variant: markdown
 | Subject Head CCE  | Ms Adeline Tan Meiqin | adeline_tan_meiqin@moe.edu.sg |
 | Subject Head ICT | Mr Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
+| Lead Teacher | Mdm Mabel Chia Wey Ching | chia_wey_ching_mabel@moe.edu.sg |
+| Senior Teacher English | Mrs Cheryl Chhabra | tan_tse_ping_cheryl@moe.edu.sg |
+| Senior Teacher English| Mdm Rajeswari d/o Ayahu | rajeswari_ayahu@moe.edu.sg |
+| Senior Teacher Chinese | Mdm Jasmine Ooi Ai Ling | ooi_ai_ling_jasmine@moe.edu.sg |
+| Senior Teacher Chinese | Mdm Chong Li Ying | chong_li_ying@moe.edu.sg |
+| Senior Teacher Malay | Mr Badrolhaizat bin Kamsin | badrolhaizat_kamsin@moe.edu.sg |
+| Senior Teacher Maths | Mdm Tan Mei Ling | tan_mei_ling@moe.edu.sg |
+| Senior Teacher Learning Needs | Mdm Nadiah bte Ahmad | nadiah_ahmad@moe.edu.sg |
+
