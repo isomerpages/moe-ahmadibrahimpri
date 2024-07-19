@@ -44,6 +44,17 @@ resilience in our pupils.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>SYF-AP 2024</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_angklung_2024_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_angklung_2024_2.jpg">
+</div>
+<p></p>
+<p></p>
 <h4>2022 National Day Performance</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/angklung%20cca%201%202023.JPG">
