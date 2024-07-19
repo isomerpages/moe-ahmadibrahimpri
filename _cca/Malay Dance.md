@@ -66,6 +66,16 @@ celebrations, Welcome Tea (for new members) &amp; an annual Farewell Party
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>SYF-AP 2024</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_malay_dance_2024_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_malay_dance_2024_2.jpg">
+</div>
 <h4>Hari Raya 2023</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance%202%202023.JPG">
@@ -73,9 +83,5 @@ celebrations, Welcome Tea (for new members) &amp; an annual Farewell Party
 <h4>Termly Birthday Celebrations 2023</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance%203%202023.jpg">
-</div>
-<h4>Farewell Party 2022</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance%201%202023.JPG">
 </div>
 <p></p>
