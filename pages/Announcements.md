@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-#### 2024AIPS Caring Staff Award
+#### 2024 AIPS Caring Staff Award
 
 Click [here](/aipscaringstaffaward2024/) to find out more
 
