@@ -4,6 +4,11 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+#### 2024AIPS Caring Staff Award
+
+Click here to find out more
+
+
 #### 2024 July Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
