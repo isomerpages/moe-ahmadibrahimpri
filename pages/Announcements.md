@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2024AIPS Caring Staff Award
 
-Click here to find out more
+Click [here](/aipscaringstaffaward2024/) to find out more
 
 
 #### 2024 July Notification to Parents
