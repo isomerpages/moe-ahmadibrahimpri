@@ -13,8 +13,7 @@ The nomination period is from Friday, 26 July to Tuesday, 20 August.
 All students, parents and staff (teaching and non-teaching) are welcome to submit their nominations. 
 
 Please complete your nomination via the link below:<br>
-[https://padlet.com/aipsitdept/aips-gratitude-portal-2024-en6bgdtx36m6xah9](https://padlet.com/aipsitdept/aips-gratitude-portal-2024-en6bgdtx36m6xah9)
-
+[https://forms.gle/yAv5C4VyUe6i4HvA9](https://forms.gle/yAv5C4VyUe6i4HvA9)
 
 We look forward to receiving your nominations.
 
