@@ -22,7 +22,7 @@ We look forward to receiving your nominations.
 
 As part of this year's Teachers' Day celebration, we would like to invite all parents and teachers to pen notes of appreciation to our teachers in our AIPS Gratitude Portal. 
 
-Do share with us your heartfelt thanks to the teachers who have made an impact in your child’s life via [https://padlet.com/aipsitdept/aips-gratitude-portal-2024-en6bgdtx36m6xah9](https://padlet.com/aipsitdept/aips-gratitude-portal-2024-en6bgdtx36m6xah9)https://padlet.com/aipsitdept/aips-gratitude-portal-2024-en6bgdtx36m6xah9
+Do share with us your heartfelt thanks to the teachers who have made an impact in your child’s life via [https://padlet.com/aipsitdept/aips-gratitude-portal-2024-en6bgdtx36m6xah9](https://padlet.com/aipsitdept/aips-gratitude-portal-2024-en6bgdtx36m6xah9)
 
 The portal will close on Monday, 02 September.
 
