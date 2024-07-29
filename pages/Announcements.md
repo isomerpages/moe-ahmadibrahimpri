@@ -12,7 +12,8 @@ The nomination period is from Friday, 26 July to Tuesday, 20 August.
 
 All students, parents and staff (teaching and non-teaching) are welcome to submit their nominations. 
 
-Please email your nomination form to lau_lee_peng_lillian@moe.edu.sg.
+Please complete your nomination via the link below:<br>
+https://forms.gle/yAv5C4VyUe6i4HvA9
 
 We look forward to receiving your nominations.
 
@@ -25,4 +26,4 @@ Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparen
 
 #### General Guidelines for Snack Break
 
-Click [here](/partners/students-and-parents-resources/generalguidelinesforsnackbreak/) to find out more.
+Click&nbsp;[here](/partners/students-and-parents-resources/generalguidelinesforsnackbreak/)&nbsp;to find out more.
