@@ -4,7 +4,6 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-
 #### General Office will be closed on 30 August
 
 The General Office will be closed on 30 August (Friday) for a Cluster event.  
