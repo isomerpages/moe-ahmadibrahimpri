@@ -4,6 +4,12 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+
+#### General Office will be closed on 30 August
+
+The General Office will be closed on 30 August (Friday) for a Cluster event.  
+
+
 #### 2024 AIPS Caring Staff Award
 
 AIPS Caring Staff Award pays tribute to staff who show care and concern for the holistic development of their students so that they grow up to be confident and independent learners. 
