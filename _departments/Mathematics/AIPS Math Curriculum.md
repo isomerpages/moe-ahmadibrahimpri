@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Mathematics
 ---
-<h4><strong><u>Use of manipulatives </u></strong></h4>
+<h4><strong><u>Use of manipulatives</u></strong></h4>
 <p>At AIPS, we believe that learning mathematics should be an engaging and
 hands-on experience。 One<a href="http://experience.One" rel="noopener noreferrer nofollow" target="_blank"> </a>of the key strategies we employ to achieve
 this is the use of manipulatives in our mathematics teaching. Manipulatives
@@ -19,7 +19,7 @@ supports diverse learning styles, especially tactile learners.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/use_of_manipulatives.jpg">
 </div>
 <p></p>
-<h4><strong><u>Use of ICT </u></strong></h4>
+<h4><strong><u>Use of ICT</u></strong></h4>
 <p>Students Learning Space (SLS) is an online learning portal, a key initiative
 from MOE, that promotes self-directed learning and collaboration among
 students. Apart from SLS, our school subscribes to KooBits, a Singapore-based
@@ -32,7 +32,7 @@ enrich their learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/use_of_ict.jpg">
 </div>
 <p></p>
-<h4><strong><u>Math Mania </u></strong></h4>
+<h4><strong><u>Math Mania</u></strong></h4>
 <p>Math Mania is a school-wide programme. For Primary 1 to 3, they will be
 engaged in solving Sudoku puzzles while the Primary 4 to 6 students will
 be solving Ken Ken Puzzles. The aim of this programme is to develop logical
