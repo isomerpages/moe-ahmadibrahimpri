@@ -28,4 +28,4 @@ To help our students build strong foundation in numeracy and competencies in hig
 | Mdm Meredith Goh |
 | Ms Tan Yanwen |
 | Ms Wong Chu Ting |
-| Ms Chan Si Zhen |
+| Mr Nazreen |
