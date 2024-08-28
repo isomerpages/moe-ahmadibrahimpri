@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group/Racial Harmony Day & National Day Celebration.md
       - Parent Support Group/.keep
       - Parent Support Group/Our Philosophy and PSG Exco.md
+      - Parent Support Group/Racial Harmony Day & National Day Celebration.md
       - Parent Support Group/Parent Child Bonding Workshop.md
       - Parent Support Group/Thank You PSG (SYF).md
       - Parent Support Group/2024 Total Defence Day.md
