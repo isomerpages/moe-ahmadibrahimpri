@@ -4,4 +4,62 @@ permalink: /cca/robotics-club/
 description: ""
 variant: tiptap
 ---
-<p>Our purpose is to learn more about coding and learning more about computers and technology. The club is currently learning to code using the CoderZ portal to simulate the working of the Lego EV3.</p><h3>CCA Details</h3><hr><p></p><table><tbody><tr><td rowspan="1" colspan="1"><p>Teachers-in-charge&nbsp;</p></td><td rowspan="1" colspan="1"><p>Ms Erika Melisa Muhammad Rezal (<a rel="noopener noreferrer nofollow" target="_blank">erika_melisa_muhammad_rezal@moe.edu.sg</a>)</p><p>Mdm Lee Meihui (<a rel="noopener noreferrer nofollow" target="_blank">lee_meihui@moe.edu.sg</a>)</p><p>Mdm Hajjah Seriyati Md Salleh (<a rel="noopener noreferrer nofollow" target="_blank">hajjah_seriyati_md_salleh@moe.edu.sg</a>)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue</p></td><td rowspan="1" colspan="1"><p>Computer Lab 1 and 3</p></td></tr><tr><td rowspan="1" colspan="1"><p>Day and Time</p></td><td rowspan="1" colspan="1"><p>Tuesdays 2pm</p></td></tr></tbody></table><h3>Highlights</h3><hr><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics1.png"></div><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics2.png"></div><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics3.png"></div><div class="isomer-image-wrapper"><img style="width:75%" height="auto" width="100%" src="/images/robotics4.png"></div><p></p>
+<p>Our purpose is to learn more about coding and learning more about computers
+and technology. The club is currently learning to code using the CoderZ
+portal to simulate the working of the Lego EV3.</p>
+<h3>CCA Details</h3>
+<hr>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-charge&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Erika Melisa Muhammad Rezal (<a rel="noopener noreferrer nofollow" target="_blank">erika_melisa_muhammad_rezal@moe.edu.sg</a>)</p>
+<p>Mdm Lee Meihui (<a rel="noopener noreferrer nofollow" target="_blank">lee_meihui@moe.edu.sg</a>)</p>
+<p>Mdm Hajjah Seriyati Md Salleh (<a rel="noopener noreferrer nofollow" target="_blank">hajjah_seriyati_md_salleh@moe.edu.sg</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1 and 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day and Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays 2pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Highlights</h3>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/robotics1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/robotics2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/robotics3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/robotics4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics.jpg">
+</div>
+<p></p>
