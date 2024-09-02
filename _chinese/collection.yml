@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2024 五年级比赛.md
       - 2024 四年级比赛.md
       - 2024 二年级比赛.md
       - 2024 一年级比赛.md
