@@ -85,3 +85,7 @@ with the March-in.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts%206%202023.JPG">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cub_scouts.jpg">
+</div>
+<p></p>
