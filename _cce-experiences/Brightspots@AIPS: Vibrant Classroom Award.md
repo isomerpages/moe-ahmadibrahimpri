@@ -10,37 +10,37 @@ Brightspots@AIPS: Classroom Cleanliness Award Prior to the conduct of the classr
 
 The results were as follows: 
 
-**Primary 1 **
+Primary 1 
 
 | Gold | Silver| Bronze |
 | -------- | -------- | -------- |
 | 1 Excellence    | 1 Gratitude    | 1 Care      |
 
-**Primary 2 **
+Primary 2 
 
 | Gold | Silver| Bronze |
 | -------- | -------- | -------- |
 | 2 Care   | 2 Excellence | 2 Honesty     |
 
-**Primary 3**
+Primary 3
 
 | Gold | Silver| Bronze |
 | -------- | -------- | -------- |
 |3 Diligence  | 3 Resilience  | 3 Honesty    |
 
-**Primary 4**
+Primary 4
 
 | Gold | Silver| Bronze |
 | -------- | -------- | -------- |
 |4 Gratitude   | 4 Diligence  | 4 Care     |
 
-**Primary 5 **
+Primary 5 
 
 | Gold | Silver| Bronze |
 | -------- | -------- | -------- |
 | 5 Gratitude    | 5 Care   | 5 Diligence   |
 
-**Primary 6 **
+Primary 6 
 
 | Gold | Silver| Bronze |
 | -------- | -------- | -------- |
