@@ -55,6 +55,14 @@ resilient and expressive children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_indian_dance_2024_2.jpg">
 </div>
+<p></p>
+<p></p>
+<h4>Chong Pang National Day Dinner 2024</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP_ND_dinner_2024.jpg">
+</div>
+<p></p>
 <h4>Chong Pang Ground Breaking Ceremony 2023 &amp; CCA Training Session</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/indian%20dance%201%202023.JPG">
