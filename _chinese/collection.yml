@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2024 小二学习之旅.md
       - 2024小一小二阅读活动.md
       - 2024 爱上华文街舞比赛.md
       - 2024 文化随意门.md
