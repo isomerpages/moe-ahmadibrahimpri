@@ -48,6 +48,18 @@ in competitions.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>2024 National Schools Games </h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_rope_and_badminton.jpg">
+</div>
+<p></p>
 <h4>2023 National School Games: Senior division (Team Event)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%201%202023.JPG">
