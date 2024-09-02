@@ -2,7 +2,15 @@
 title: NE Learning Journey
 permalink: /cce-experiences/ne-learning-journey/
 description: ""
+variant: markdown
 ---
+#### 2024 P4 NE Learning Jouney
+The Primary Four National Education (NE) Learning Journey (LJ) was a Museum Based Learning (MBL) to Kreta Ayer Heritage Gallery (KAHG). It was held on 3rd July, 26 Sept and 27 Sept 2024. The NE Learning Journey aims to provide opportunities for students to understand the history, heritage and diversity within the Chinese community. They also learnt to recognise the contributions made by the Chinese community in Singapore towards nation-building; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage. There were various stations sharing about Chinese Opera, Chinese Tea Ceremony, Chinese Musical Instruments, Chinese Calligraphy and about the history of Telok Ayer. The students and teachers learnt more the Chinese community through the Museum Educators too. It was indeed an eye-opening journey for all.
+
+#### 2024 P6 Musuem Based Learning Journey
+The Primary 6 students went to a National Education (NE) Learning Journey (LJ) which was a Museum Based Learning (MBL). They went to Asian Civilization Museum (ACM). They went on 21st March, 18th, 19th and 26th April 2024. The objective of this Learning Journey was for students to understand the cultural and historical ties that have influence on the countries in Southeast Asia and explore how Singapore’s cultural heritage has evolved over time, influenced by the diverse mix of cultures. As there were 6 stations in the ACM, each class was split into groups of 6. The first 3 stations were located on the first level and another 3 on the second level. The first level galleries focus on Maritime Trade. Students learnt about Tang shipwreck and Maritime Trade. Students are exposed to the works of the different cultures through the displays of Asian export art. The second level galleries focus on Faith and Belief. Students learnt about Ancestors and Rituals, Ancient Religion, Christian Act, Islamic Art and Scholars. Each group was led by a Museum Educator who conducted the sessions interactively. Students were engaged and these allow them to be more inquisitive. With this learning journey, students have the opportunity to explore. They have also gained knowledge beyond their textbook.
+
+
 #### P4 NE Learning Journey
 The Primary Four National Education (NE) Learning Journey (LJ) was a Museum Based Learning (MBL) to Kreta Ayer Heritage Gallery (KAHG). It was held on 6, 15 and 16 February in Term 1.  
 
