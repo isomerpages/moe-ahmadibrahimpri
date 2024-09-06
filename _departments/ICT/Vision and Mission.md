@@ -44,6 +44,6 @@ Equip and Empower the Learners
 | Mr Ben Koh (SH ICT) |
 | Mdm Fang Jing |
 | Mdm Wong Pau Hui |
-| Mdm Suriyanti |
+| Mdm Sudriyanti |
 | Mdm Wong Joon Noi |
 | Ms Lee Mei Hui |
