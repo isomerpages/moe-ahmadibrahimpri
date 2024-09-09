@@ -46,6 +46,21 @@ programmes like National Day and Awards' Day celebrations.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>NSG Rope Skipping Competition 2024</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards_rope_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards_rope_2.jpg">
+</div>
 <h3>NSG Rope Skipping Competition 2022</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rope%20skipping%202023.jpg">

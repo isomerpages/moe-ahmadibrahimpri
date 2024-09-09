@@ -16,7 +16,11 @@ such as the Singapore Youth Festival which will be held every 2 years and
 as well as decorating school events like our AIPS Appreciation Day.</p>
 <h3>CCA Details</h3>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -64,6 +68,11 @@ as well as decorating school events like our AIPS Appreciation Day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club_collage.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_club.jpg">
+</div>
+<p></p>
 <p>Our art club has introduced two groups: fundamental and advanced. Each
 group receives tailored instruction to meet its specific needs. The fundamental
 team focuses on building basic art skills, such as EOA and POD, and works

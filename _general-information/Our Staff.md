@@ -351,23 +351,22 @@ variant: tiptap
 <p>P2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur Diyanah Zulkifli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nur_diyanah_zulkifli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Cia Zhi Xian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">cia_zhi_xian@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -502,6 +501,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P3 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ashley The Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ashley_the_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ashley_the_hui_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -550,10 +561,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Resilience</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Mdm Nur Farah Mohamed Nasir)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -561,8 +572,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 4</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1048,7 +1057,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chiew Yin</p>
+<p>Mrs Chua Chiew Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tang_chiew_yin@moe.edu.sg</a>
@@ -1084,22 +1093,10 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Deepa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">deepa_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Laura Fernandez</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">laura_jessica_fernandez@moe.edu.sg</a>
+<p><a href="mailto:laura_jessica_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laura_jessica_fernandez@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1113,6 +1110,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ginny_ang_jin_ni@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
