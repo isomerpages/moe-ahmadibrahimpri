@@ -18,7 +18,6 @@ variant: markdown
 | HOD Student Leadership & Discipline | Mdm Nur Farah Mohamed Nasir | nur_farah_mohamed_nasir@moe.edu.sg |
 | School Staff Developer | Mdm Lau Lee Peng Lillian | lau_lee_peng_lillian@moe.edu.sg |
 | Year Head / Lower Primary | Mdm Siti Aisha Said | siti_aisha_said@moe.edu.sg |
-| Year Head / Middle Primary | Ms Eliza Goh Seok Luan | goh_seok_luan@moe.edu.sg |
 | Year Head / Upper Primary | Mdm Yang Tzy Shing | yang_tzy_shing@moe.edu.sg |
 | Asst Year Head / Lower Primary | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
 | Asst Year Head / Lower Primary | Mdm Ang Hwee See Sandra | ang_hwee_see_sandra@moe.edu.sg |
@@ -31,7 +30,7 @@ variant: markdown
 | Subject Head CCE  | Ms Adeline Tan Meiqin | adeline_tan_meiqin@moe.edu.sg |
 | Subject Head ICT | Mr Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
-| Lead Teacher | Mdm Mabel Chia Wey Ching | chia_wey_ching_mabel@moe.edu.sg |
+| Lead Teacher Maths | Mdm Mabel Chia Wey Ching | chia_wey_ching_mabel@moe.edu.sg |
 | Senior Teacher English Language | Mrs Cheryl Chhabra | tan_tse_ping_cheryl@moe.edu.sg |
 | Senior Teacher English Language| Mdm Rajeswari d/o Ayahu | rajeswari_ayahu@moe.edu.sg |
 | Senior Teacher Chinese Language | Mdm Jasmine Ooi Ai Ling | ooi_ai_ling_jasmine@moe.edu.sg |
