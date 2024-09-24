@@ -507,7 +507,7 @@ variant: tiptap
 <p>Ms Ashley The Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ashley_the_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ashley_the_hui_min@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ashley_the_hui_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -559,19 +559,11 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Primary 4</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1096,7 +1088,7 @@ variant: tiptap
 <p>Ms Laura Fernandez</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_jessica_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laura_jessica_fernandez@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">laura_jessica_fernandez@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1125,4 +1117,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
