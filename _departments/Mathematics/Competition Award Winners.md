@@ -14,10 +14,6 @@ variant: markdown
 ![](/images/ICAS_2024_1.png)
 ![](/images/ICAS_2024_2.png)
 
-#### **National Mathematical Olympiad of Singapore 2024** 
+#### **National Mathematical Olympiad of Singapore (NMOS) 2024** 
 
 ![](/images/NMOS_2024.png)
-
-
-
-
