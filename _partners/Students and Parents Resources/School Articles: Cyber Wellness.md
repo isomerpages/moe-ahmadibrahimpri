@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Students and Parents Resources
 variant: tiptap
 ---
+<p><a href="https://www.moh.gov.sg/resources-statistics/educational-resources/guidance-on-screen-use-in-children" rel="noopener nofollow" target="_blank">Guidance on screen use in children </a>
+</p>
 <p><a href="/files/Infographics_Cyberwellness_3_compressed.pdf" rel="noopener nofollow" target="_blank">2024 Semester 2 Cyberwellness Infographic</a>
 </p>
 <p><a href="/files/SAFER_INTERNET_DAY_2024_Cyber_Wellness_Infographic_Term_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 1 Cyberwellness Infographic</a>
