@@ -5,16 +5,43 @@ description: ""
 third_nav_title: English
 variant: markdown
 ---
-### Modified Language Experience Approach (MLEA)
+### Experiential Learning @ AIPS
 
-The main pedagogical approach adopted in teaching English is STELLAR (Strategies for English Language Learning and Reading). The Modified Language Experience (MLEA) is one of the three approaches adopted in teaching English at the lower primary levels. Following Shared Book Reading, MLEA comprises a shared experience that is linked to the Big Book that has been currently read. Some of these shared experiences include students making hipster pratas for the unit 'Roti Prata', a s'mores baking activity for the unit 'A Day In The Kitchen With Grandma' and a Learning Journey to the S.E.A Auqarium in Sentosa for the unit 'Life In A Shell'. These shared experiences provide both the context and content for students to practise the four language skills of listening, speaking, reading and writing. With instructional scaffolding from the teacher, students think, talk, read and write about their experiences as they are guided through to make the connections between oral and written language.
+Our school believes in providing students with a rich learning experience. Students in different levels engage in various hands-on activities and learning journeys where they learn by doing. Such experiences deepen their understanding and help them make connections between what they learn in the classroom to real-world situations. These shared experiences provide both the context and content for students to practise the four language skills of listening, speaking, reading and writing. 
 
-As it centers on personal experiences and is based on self-generated vocabulary and grammar by students, MLEA is highly learner-centered. It is also aligned to the Shared Book Approach’s focus on the reading process while integrating it with writing, speaking, and listening.
+##### **Primary 1:**
 
-A typical MLEA lesson spans over three days as students navigate from Class Writing (MLEA 1) to Group Writing (MLEA 2) to Individual Writing (MLEA 3). With the aid of the teacher who transcribes their oral input, students first come up with a piece of class writing. This becomes the basis for group writing, when students collaborate in small mixed ability groups before they go on to individual writing.
+1. Mooncake Making 
 
-**Students making their own hipster prata and s'mores:**
+Tied in with the Stellar unit ‘Mid-Autum Festival’, students work together with others while listening to and following instructions to make their own mooncakes.
+![](/images/ELA_1.jpg)
+
+2. Visit to Hay Dairies 
+
+After reading their big book ‘Mrs Wishy-washy’, students learnt vocabulary related to and identified farm animals during their visit to Hay Dairies.
+![](/images/ELA_2.jpg)
+
+
+##### **Primary2:**
+
+1.	S’mores and Hipster Prata Making:
+
+Students tried their hand at making s’more and hipster pratas after the Stellar units ‘A Day in The Kitchen With Grandma’ and ‘Roti Prata’. Students later used vocabulary learnt to write personal recounts of their experiences.
+
+Students making their own hipster prata and s'mores:
 ![](/images/MLEA_Prata_and_S_more_.png)
 
-**Learning Journey to S.E.A Aquarium:**
+Learning Journey to S.E.A Aquarium:
 ![](/images/MLEA_SEA_Aquarium_.png)
+ 
+##### **Primary 3:**
+
+Visit to Gardens by The Bay
+
+Students learnt about and saw carnivorous plants like the pitcher plant, venus flytrap and butterwort at Gardens By The Bay. The experience deepened their learning of the Stellar unit ‘Unusual Plants’ and also helped to cement concepts about plants taught during science lessons.
+
+![](/images/ELA_3.jpg)
+
+#### **Primary 4:**
+
+
