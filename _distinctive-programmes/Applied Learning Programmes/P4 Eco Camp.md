@@ -5,11 +5,19 @@ description: ""
 third_nav_title: Applied Learning Programmes
 variant: tiptap
 ---
-Learning Scope:
-
-1. Students learn about the local flora landscape and the benefits of plants to mankind.
-2. Students learn to make observations, collect data and articulate scientific explanations.
-
-<img alt="" src="/images/p4%20eco%20camp.png">
-
-![](/images/p4%20eco%20camp%20term%204_1.jpg)
+<p>Learning Scope:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students learn about the local flora landscape and the benefits of plants
+to mankind.</p>
+</li>
+<li>
+<p>Students learn to make observations, collect data and articulate scientific
+explanations.</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Eco_Camp.jpg">
+</div>
+<p></p>
