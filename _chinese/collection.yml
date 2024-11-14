@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2024 一年级口语基础训练班.md
       - 2024小一小二阅读活动.md
       - 2024 小二学习之旅.md
       - 2024 一年级比赛.md
