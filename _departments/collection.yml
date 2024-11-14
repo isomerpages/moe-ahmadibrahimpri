@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - English/English Support and Enrichment Programmes.md
       - English/.keep
       - English/Vision and Mission.md
+      - English/English Support and Enrichment Programmes.md
       - English/STELLAR.md
       - English/English Curriculum @ AIPS.md
       - English/Reading Culture @ AIPS.md
