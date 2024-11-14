@@ -37,9 +37,4 @@ To provide quality learning experiences for every child to develop good characte
 
 ## Mission and Framework
 
-**AIPS NE Vision**
-We are ONE family.
-
-**AIPS NE Framework**
-
-<img style="width:75%" src="/images/Mission%20and%20Framework.jpg" alt="">
+![](/images/cce_framework.png)
