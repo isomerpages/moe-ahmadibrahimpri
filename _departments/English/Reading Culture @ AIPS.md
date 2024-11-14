@@ -27,9 +27,23 @@ Students in the school are introduced to new books and encouraged to read throug
 Book promotions and mass borrowing:
 ![](/images/book%20promotion%202023.jpg)
 
-**Mystery Guest Reader and Book Reading sessions:**
+Mystery Guest Reader and Book Reading sessions:
 
 ![](/images/el_pic_3.png)
 
-**Silent Reading Time:**
+Meet-The- Author:
+
+
+
+**3.	Read For Books:**
+
+The whole school reads together every year in ‘Read For Books’, a charity book drive. In 2024, the whole school read together to donate a total of 100 books to the less privileged.
+
 ![](/images/silent%20reading%202023.jpg)
+
+![](/images/el_pic_4.png)
+
+
+**4.	Little Red Dot Newspaper Subscription:**
+
+Primary 5 and 6 students subscribe to The Little Red Dot, a weekly publication by The Straits Times which curates contemporary articles for students. The Little Red Dot engages visual learners with lots of illustrations, graphics and photographs and encourages critical thinking and analysis.
