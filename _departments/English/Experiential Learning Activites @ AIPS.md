@@ -52,6 +52,8 @@ Our P4 students made their very own ice cream during their English Language less
 
         
 
-1.&nbsp;&nbsp;&nbsp;&nbsp; Jurassic Mile @AIPS:
+2. Jurassic Mile @AIPS:
 
 Students took part in and English Language Escape Room activity, Jurassic Mile@AIPS in August. This activity is an extension of what students had learnt in the STELLAR Unit, ‘Dinosaurs Exist’. Besides reviewing the vocabulary and grammar structures learnt, students were also challenged to use their communication and problem-solving skills.
+
+![](/images/ELA_5.jpg)
