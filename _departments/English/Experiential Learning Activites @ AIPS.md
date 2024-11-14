@@ -42,6 +42,16 @@ Students learnt about and saw carnivorous plants like the pitcher plant, venus f
 
 ![](/images/ELA_3.jpg)
 
-#### **Primary 4:**
+##### **Primary 4:**
 
+1.	Ice Cream Making:
 
+Our P4 students made their very own ice cream during their English Language lesson! Through this authentic learning experience, our students made the procedural text of ‘Making Ice Cream’ come alive. They followed the steps in the text, worked together and made their own ice cream. Great teamwork and patience paid off with them enjoying the sweet treat at the end.
+
+![](/images/ELA_4.jpg)
+
+        
+
+1.&nbsp;&nbsp;&nbsp;&nbsp; Jurassic Mile @AIPS:
+
+Students took part in and English Language Escape Room activity, Jurassic Mile@AIPS in August. This activity is an extension of what students had learnt in the STELLAR Unit, ‘Dinosaurs Exist’. Besides reviewing the vocabulary and grammar structures learnt, students were also challenged to use their communication and problem-solving skills.
