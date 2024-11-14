@@ -3,11 +3,10 @@ title: P6 Eco Camp
 permalink: /distinctive-programmes/applied-learning-programmes/p6ecocamp/
 description: ""
 third_nav_title: Applied Learning Programmes
+variant: markdown
 ---
 Learning Scopes:
 
 1. Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat
 
-![](/images/p6%20eco%20camp%202023.jpg)
-![](/images/p6%20eco%20camp%202%202023.jpg)
-![](/images/p6%20eco%20camp%203%202023.jpg)
+![](/images/P5_Eco_camp.jpg)
