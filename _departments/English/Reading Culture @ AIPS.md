@@ -33,7 +33,7 @@ Mystery Guest Reader and Book Reading sessions:
 
 Meet-The- Author:
 
-
+![](/images/meet_the_author_2.jpg)
 
 **3.	Read For Books:**
 
