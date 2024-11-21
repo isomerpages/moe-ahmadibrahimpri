@@ -19,7 +19,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Fang Jing (<a rel="noopener noreferrer nofollow" target="_blank">fang_jing@moe.edu.sg</a>)</p>
 <p>Mdm Li Jia Yang (<a rel="noopener noreferrer nofollow" target="_blank">li_jia_yang@moe.edu.sg</a>)</p>
-<p>Mrs Chia Wan Rong (<a rel="noopener noreferrer nofollow" target="_blank">chia_wan_rong@moe.edu.sg</a>)</p>
+<p>Ms Chia Wan Rong (<a rel="noopener noreferrer nofollow" target="_blank">chia_wan_rong@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>

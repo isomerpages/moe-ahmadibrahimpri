@@ -4,13 +4,10 @@ collections:
     order:
       - English/.keep
       - English/Vision and Mission.md
-      - English/STELLAR.md
-      - English/English Curriculum @ AIPS.md
+      - English/English Support and Enrichment Programmes.md
       - English/Reading Culture @ AIPS.md
-      - English/PEAR TREES and Annotations.md
-      - English/Modified Language Experience Approach (MLEA).md
+      - English/Experiential Learning Activites @ AIPS.md
       - English/ELIAS English Language Interests All Students and Staff.md
-      - English/Speech and Drama.md
       - Mother Tongue.md
       - Mathematics/AIPS Math Curriculum.md
       - Mathematics/.keep
@@ -21,8 +18,7 @@ collections:
       - Mathematics/Math and Science Fiesta.md
       - Mathematics/Competition Award Winners.md
       - Science/.keep
-      - Science/Vision and Mission.md
-      - Science/The Curriculum.md
+      - Science/Vision, Mission and Curriculum.md
       - CCE/.keep
       - CCE/Vision and Mission.md
       - CCE/Character and Citizenship Education.md
