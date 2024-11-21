@@ -7,5 +7,7 @@ variant: markdown
 ---
 Learning Scopes:
 
-1. Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat
+1. Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat.
 
+![](/images/p6_eco_2.png)
+![](/images/P6_eco_1.png)
