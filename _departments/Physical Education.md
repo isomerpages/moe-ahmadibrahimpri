@@ -106,11 +106,18 @@ The procedure for this, is as such
 
 
 
-#### P5 Outdoor Education Camp
+#### Primary 5 Outdoor Education Camp @Labrador OALC
 
-Our Primary 5 cohort had their Outdoor Experience at Dairy Farm OALC. The students enjoyed their day-camp, partaking in various team building and educational activities such as their Journey - a short hike through the nature trails nearby the campsite and Longkang fishing - where students observed the eco-system of the local pond and attempted to catch guppies using primitive means. It was an authentic, experiential camp anchored on our school values of Gratitude and Resilience, allowing our students to learn more about themselves, amidst exploring the biodiversity around them.
+Our Primary 5 students recently embarked on an exciting Outdoor Education Camp at the Labrador Outdoor Adventure Learning Centre (OALC). This memorable experience allowed them to immerse themselves in nature, build character, and develop essential life skills.
 
-<img src="/images/Day%20Journey.jpg" style="width:80%" alt="Primary 5 Outdoor Education Camp">
+The camp featured a range of activities, including high and low elements, orienteering, and team-building challenges. These activities encouraged students to embrace teamwork, resilience, and perseverance while pushing themselves beyond their comfort zones.
+
+In a supportive environment, students were inspired to strive for excellence and foster a lifelong love for learning. They also deepened their appreciation for the natural world, strengthened friendships, and embraced values such as responsibility, respect, and determination.
+
+This enriching experience was a journey of growth, confidence, and connection—a highlight of their educational journey.
+
+![](/images/P5_camp_2024_new.jpg)
+
 
 **Day Journey**: Dairy Farm Quarry
 <img src="/images/concrete%20art.png" alt="Dairy Farm Quarry">
