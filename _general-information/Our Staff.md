@@ -92,7 +92,8 @@ variant: tiptap
 <p>Mdm Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:kavitha_karunanithi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_karunanithi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +164,8 @@ variant: tiptap
 <p>Mdm Gayathry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:gayathri_rajamurthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayathri_rajamurthy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +460,8 @@ variant: tiptap
 <p>Mdm Hasyim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:muhammad_hasyim_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hasyim_mohamad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1056,7 +1059,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Gim Eng</p>
@@ -1068,7 +1071,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Laura Fernandez</p>
@@ -1080,7 +1083,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ginny Ang Jin Ni</p>
@@ -1092,12 +1095,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Li Boon</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_li_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_boon@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
