@@ -12,13 +12,7 @@ Lifelong passion and appreciation towards music.
 ----
 Promote appreciation of music through quality and diverse experiences.
 
-#### Department members
 
-| Department Members: |
-|---|
-| Ms Dawn Teo (SH Aesthetics/CCA (internal)) |
-| Ms Abbi Chow |
-| Mdm Sabrina  |
 
 #### Music: The AIPS Approach
 In AIPS, we adopt the ECA approach in our music teaching.
