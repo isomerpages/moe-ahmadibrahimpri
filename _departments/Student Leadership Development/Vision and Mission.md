@@ -10,65 +10,8 @@ third_nav_title: Student Leadership Development
 <h3><strong>Mission:</strong></h3>
 <p>To provide opportunities for every child to develop themselves as a leader
 in serving their peers, school and community</p>
-<h3><strong>Department members:</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Farah Mohamed Nasir (HOD Student Leadership and Development)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr De Silva Adrian Gerard (SH Student well-being)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yang Tzy Shing (Year Head / Upper Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Yi Ling Eileen (Asst Year Head / Upper Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Eliza Goh (Year Head / Middle Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Fadhli Zulkiflee (Asst Year Head / Middle Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Aishah Said (Year Head / Lower Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zarena Abdul Rahim (Asst Year Head / Lower Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ang Hwee See Sandra (Asst Year Head / Lower Primary)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<hr>
+<h3></h3>
 <p>&nbsp;In Ahmad Ibrahim Primary School, we aim to develop leaders of character
 reflecting our school values of Responsibility, Compassion, Respect, Integrity,
 Resilience and Gratitude. We believe that student leaders are able to make
