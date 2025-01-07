@@ -10,9 +10,10 @@ third_nav_title: Student Leadership Development
 <h3><strong>Mission:</strong></h3>
 <p>To provide opportunities for every child to develop themselves as a leader
 in serving their peers, school and community</p>
+<p></p>
 <hr>
-<h3></h3>
-<p>&nbsp;In Ahmad Ibrahim Primary School, we aim to develop leaders of character
+<p></p>
+<p>In Ahmad Ibrahim Primary School, we aim to develop leaders of character
 reflecting our school values of Responsibility, Compassion, Respect, Integrity,
 Resilience and Gratitude. We believe that student leaders are able to make
 a positive difference to others in serving their peers, school and community.</p>
