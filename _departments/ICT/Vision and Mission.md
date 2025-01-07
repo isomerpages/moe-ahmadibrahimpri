@@ -37,13 +37,3 @@ Equip and Empower the Learners
 
 (6) To build strong partnership with key stakeholders: MOE, Parents, IHLs, NGOs, strategic vendors and Twinning School
 
-#### Department Members:
-
-| Department Members: |
-|---|
-| Mr Ben Koh (SH ICT) |
-| Mdm Fang Jing |
-| Mdm Wong Pau Hui |
-| Mdm Sudriyanti |
-| Mdm Wong Joon Noi |
-| Ms Lee Mei Hui |
