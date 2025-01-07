@@ -164,7 +164,7 @@ variant: tiptap
 <p>Mdm Gayathry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:gayathri_rajamurthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayathri_rajamurthy@moe.edu.sg</a>
+<p><a href="mailto:gayathry_gurusamy_ramaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
