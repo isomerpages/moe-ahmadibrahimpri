@@ -89,7 +89,7 @@ variant: tiptap
 <p>P1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kavitha</p>
+<p>Ms Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:kavitha_karunanithi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_karunanithi@moe.edu.sg</a>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gayathry</p>
+<p>Ms Gayathry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gayathry_gurusamy_ramaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a>
@@ -505,7 +505,7 @@ variant: tiptap
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Deepa</p>
+<p>Ms Deepa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">deepa_t_jeyaraman@moe.edu.sg</a>
@@ -849,7 +849,7 @@ variant: tiptap
 <p>P5 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Connie Chong</p>
+<p>Mrs Connie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_hong_cheng@moe.edu.sg</a>
