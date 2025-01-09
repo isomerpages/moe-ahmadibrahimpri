@@ -804,7 +804,7 @@ variant: tiptap
 <p>Ms Cia Zhi Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cia_zhi_xian@moe.edu.sg</a>
+<p><a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
