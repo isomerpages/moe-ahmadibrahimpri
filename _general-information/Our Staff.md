@@ -101,7 +101,7 @@ variant: tiptap
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Tse Ping Cheryl</p>
+<p>Mrs Cheryl Chhabra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_tse_ping_cheryl@moe.edu.sg</a>
