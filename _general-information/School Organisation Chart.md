@@ -33,7 +33,7 @@ variant: markdown
 | Level Head Maths | Ms Chan Jie Ting Angelin | chan_jie_ting_angelin@moe.edu.sg |
 | Level Head Science | Ms Lee Jia Ying Brenda | lee_jia_ying_brenda@moe.edu.sg |
 | Subject Head Aesthetics / CCA  | Ms Teo Pei Ling Dawn | teo_pei_ling_dawn@moe.edu.sg |
-| Subject Head / Educational Support Officer | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
+| Subject Head / Educational Support | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
 | Subject Head ICT | Mr Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
 | Lead Teacher Maths | Mdm Mabel Chia Wey Ching | chia_wey_ching_mabel@moe.edu.sg |
