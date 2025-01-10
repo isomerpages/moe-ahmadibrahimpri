@@ -15,18 +15,7 @@ Scientific learners who A.S.K (_have scientific Attitude, Skills &amp; Knowledge
 
 Science teachers cultivate learners to be civic-minded, inquisitive and equipped with scientific attitudes and skills for the future.
 
-#### Department Members:
 
-| Department Members: |
-|---|
-| Mr Steven Lim (HOD Science) |
-| Mdm Brenda Lee (LH Science) |
-| Mdm Deepa T Jeyaraman |
-| Mr Tham Tuck Kong |
-| Mdm Chee Jia Pei |
-| Ms Mahfoza |
-| Mr Melvin Yeoh |
-			
 
 ## The Curriculum
 

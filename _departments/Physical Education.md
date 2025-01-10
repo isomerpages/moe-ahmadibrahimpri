@@ -20,17 +20,6 @@ They are passionate bout developing their talents towards sporting excellence.
 
 **E**quipping with knowledge and skills to lead a healthy lifestyle.
 
-#### Department Members:
-
-| Department Members: |
-|---|
-| Mr Sakthi Ganapathi (HOD PAM / CCA) |
-| Ms Cia Zhi Xian |
-| Ms Ho Yun Hui Camilla |
-| Mr Wang Jun Hao Jordan |
-| Ms Nerissa Ng Si Min |
-| Mr Ahmad Sufyan Abdul Kahar |
-| Mr Delson Ong |
 
 
 #### Physical Education @ AIPS
