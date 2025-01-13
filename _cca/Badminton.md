@@ -23,7 +23,7 @@ in competitions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Camilla Ho Yun Hui (<a href="mailto:ho_yun_hui_camilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yun_hui_camilia@moe.edu.sg</a>)</p>
-<p>Ms Cia Zhixian (<a href="mailto:cia_zhi_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cia_zhi_xian@moe.edu.sg</a>)</p>
+<p>Ms Cia Zhixian (<a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>)</p>
 <p>Ms Lim Shi Hui Lynn (<a href="mailto:lim_shi_hui_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui_lynn@moe.edu.sg</a>)</p>
 <p>Ms Tan Yanwen (<a href="mailto:tan_yanwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yanwen@moe.edu.sg</a>)</p>
 </td>
