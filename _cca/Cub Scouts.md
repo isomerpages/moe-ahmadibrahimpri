@@ -26,10 +26,10 @@ and diverse, there's always something interesting to do!</p>
 <p>Teachers-in-charge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Yeoh Shuen Chau (<a rel="noopener noreferrer nofollow" target="_blank">melvin_yeoh_shuen_chau@moe.edu.sg</a>)</p>
-<p>Mr Wang Jun Hao Jordan (<a rel="noopener noreferrer nofollow" target="_blank">wang_jun_hao_jordan@moe.edu.sg</a>)</p>
-<p>Mr Delson Ong (<a href="mailto:ong_yuxuan_delson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yuxuan_delson@moe.edu.sg)</a>
-</p>
+<p>Mr Melvin Yeoh Shuen Chau (<a href="mailto:melvin_yeoh_shuen_chau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melvin_yeoh_shuen_chau@moe.edu.sg</a>)</p>
+<p>Mr Wang Jun Hao Jordan (<a href="mailto:wang_jun_hao_jordan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jun_hao_jordan@moe.edu.sg</a>)</p>
+<p>Mr Delson Ong (<a href="mailto:ong_yuxuan_delson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yuxuan_delson@moe.edu.sg</a>)</p>
+<p>Mr Nazreen <a href="mailto:muhammad_nazreen_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_nazreen_mohd_noor@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ and diverse, there's always something interesting to do!</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesdays 2pm to 4pm</p>
 </td>
 </tr>
 </tbody>
