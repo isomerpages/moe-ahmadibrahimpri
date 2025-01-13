@@ -35,7 +35,7 @@ variant: tiptap
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesdays 2pm to 4pm</p>
 </td>
 </tr>
 </tbody>
