@@ -22,10 +22,8 @@ Club.</p>
 <p>Teachers-in-charge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Shi Hui Lynn (<a rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui_lynn@moe.edu.sg</a>)</p>
-<p>Ms Tan Yanwen (<a href="mailto:chan_si_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yanwen@moe.edu.sg</a>)</p>
+<p>Ms Kavitha D/O Karunanithi (<a href="mailto:kavitha_karunanithi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_karunanithi@moe.edu.sg</a>)</p>
 <p>Ms Chan Si Zhen (<a href="mailto:chan_si_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_si_zhen@moe.edu.sg</a>)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -41,7 +39,7 @@ Club.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesdays 2pm to 4pm</p>
 </td>
 </tr>
 </tbody>

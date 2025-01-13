@@ -23,9 +23,10 @@ resilient and expressive children.</p>
 <p>Teachers-in-charge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarina Banu Mohaideen (<a rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>)</p>
-<p>Mdm Mahalechime Udaykumar (<a rel="noopener noreferrer nofollow" target="_blank">mahalechime_udaykumar@moe.edu.sg</a>)</p>
-<p>Ms Mahfoza Mohamed (<a rel="noopener noreferrer nofollow" target="_blank">mahfoza_mohamed@moe.edu.sg</a>)</p>
+<p>Mdm Mahalechime Udaykumar (<a href="mailto:mahalechime_udaykumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalechime_udaykumar@moe.edu.sg</a>
+</p>
+<p>Mdm Hajjah Seriyati Md Salleh (<a href="mailto:hajjah_seriyati_md_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hajjah_seriyati_md_salleh@moe.edu.sg</a>)</p>
+<p>Mdm Gayathry Gurusamy (<a href="mailto:gayathry_gurusamy_ramaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +42,7 @@ resilient and expressive children.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesdays 2pm to 4pm</p>
 </td>
 </tr>
 </tbody>

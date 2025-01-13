@@ -22,12 +22,10 @@ in competitions.</p>
 <p>Teachers-in-charge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Camilla Ho Yun Hui (<a rel="noopener noreferrer nofollow" target="_blank">ho_yun_hui_camillia@moe.edu.sg</a>)</p>
-<p>Mdm Sudriyanti Samsudin (<a href="mailto:sudriyanti_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sudriyanti_samsudin@moe.edu.sg</a> 
-<a href="mailto:suriyanti_said@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
-</p>
-<p>Ms Wong Chu Ting (<a rel="noopener noreferrer nofollow" target="_blank">wong_chu_ting_a@moe.edu.sg</a>)</p>
-<p>Mr Nazreen <a href="mailto:muhammad_nazreen_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_nazreen_mohd_noor@moe.edu.sg</a>)</p>
+<p>Ms Camilla Ho Yun Hui (<a href="mailto:ho_yun_hui_camilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yun_hui_camilia@moe.edu.sg</a>)</p>
+<p>Ms Cia Zhixian (<a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>)</p>
+<p>Ms Lim Shi Hui Lynn (<a href="mailto:lim_shi_hui_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui_lynn@moe.edu.sg</a>)</p>
+<p>Ms Tan Yanwen (<a href="mailto:tan_yanwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yanwen@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -43,13 +41,14 @@ in competitions.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesdays 2pm - 3pm (Recreational Team)</p>
+<p>Tuesdays 2pm - 5pm (School Team)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4>2024 National Schools Games </h4>
+<h4>2024 National Schools Games</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG.jpg">

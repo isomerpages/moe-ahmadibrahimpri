@@ -21,9 +21,9 @@ portal to simulate the working of the Lego EV3.</p>
 <p>Teachers-in-charge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Erika Melisa Muhammad Rezal (<a rel="noopener noreferrer nofollow" target="_blank">erika_melisa_muhammad_rezal@moe.edu.sg</a>)</p>
-<p>Mdm Lee Meihui (<a rel="noopener noreferrer nofollow" target="_blank">lee_meihui@moe.edu.sg</a>)</p>
-<p>Mdm Hajjah Seriyati Md Salleh (<a rel="noopener noreferrer nofollow" target="_blank">hajjah_seriyati_md_salleh@moe.edu.sg</a>)</p>
+<p>Ms Erika Melisa Muhammad Rezal (<a href="mailto:erika_melisa_muhammad_rezal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">erika_melisa_muhammad_rezal@moe.edu.sg</a>)</p>
+<p>Mdm Lee Meihui (<a href="mailto:lee_meihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meihui@moe.edu.sg</a>)</p>
+<p>Mdm Siti Zubaidah Shaik (<a href="mailto:siti_zubaidah_shaik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_shaik@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,8 @@ portal to simulate the working of the Lego EV3.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesdays 2pm to 5pm [competitive]</p>
+<p>Tuesdays 2pm to 4pm [recreational]</p>
 </td>
 </tr>
 </tbody>
