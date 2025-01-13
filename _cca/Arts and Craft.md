@@ -27,9 +27,8 @@ as well as decorating school events like our AIPS Appreciation Day.</p>
 <p>Teachers-in-charge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Aisyah Abdul Latiff (<a rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_abdul_latiff@schools.gov.sg</a>)</p>
-<p>Mdm Nurul Farhana Binte Ali (<a rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_ali@moe.edu.sg</a>)</p>
-<p>Mdm Nur Azimah Mohd Jailani (<a rel="noopener noreferrer nofollow" target="_blank">nur_azimah_mohd_jailani@moe.edu.sg</a>)</p>
+<p>Ms Nurul Farhana Binte Ali (<a href="mailto:nurul_farhana_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_ali@moe.edu.sg</a>)</p>
+<p>Mdm Nur Aisyah Abdul Latiff (<a href="mailto:nur_aisyah_abdul_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_abdul_latiff@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +44,7 @@ as well as decorating school events like our AIPS Appreciation Day.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesday, 2pm - 4pm</p>
 </td>
 </tr>
 </tbody>
