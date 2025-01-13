@@ -41,7 +41,7 @@ programmes like National Day and Awards' Day celebrations.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm</p>
+<p>Tuesdays 2pm to 4pm/4.30pm</p>
 </td>
 </tr>
 </tbody>
