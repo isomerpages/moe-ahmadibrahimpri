@@ -3,6 +3,7 @@ title: Our Alumni Achievements
 permalink: /partners/Alumni/OurAlumniAchievements/
 description: ""
 third_nav_title: Alumni
+variant: markdown
 ---
 #### **Vivian Too Yee (2008)**
 
@@ -16,7 +17,8 @@ Vivian is currently reading Pharmacy (Year 2) at the National University of Sing
 
 <img src="/images/yukexin.png" alt="Yu Kexin (2009)">
 
-Our 2009 AIPS graduand, Yu Kexin, was awarded the Chinese Language Elective Scholarship (CLES) in 2015. The nine awardees for this award were featured in Lian He Zao Bao in May 2015 -(<a href="http://www.zaobao.com.sg/lifestyle/education/news/story20150524-483495">http://www.zaobao.com.sg/lifestyle/education/news/story20150524-483495</a>)
+Our 2009 AIPS graduand, Yu Kexin, was awarded the Chinese Language Elective Scholarship (CLES) in 2015. The nine awardees for this award were featured in Lian He Zao Bao in May 2015.
+
 The CLES for the study of Chinese at H2 Level is offered by the Ministry of Education to encourage academically able and linguistically talented students to pursue the Chinese Language course at H2 Level under the Chinese Language Elective Programme.
 Kexin is currently reading Chemistry (Medicinal, Year1) at the National University of Singapore.
 
@@ -24,8 +26,8 @@ Kexin is currently reading Chemistry (Medicinal, Year1) at the National Universi
 
 <img src="/images/muhamamdhadibinrahman.png" alt="Muhammad Hadi Bin Rahman (2006)">
 
-2006 AIPS alumnus, Muhammad Hadi Bin Rahman was admitted into Nanyang Technological University’s (NTU) C. N. Yang Scholar&#39;s Programme in Aerospace Engineering in 2015.
-C.N. Yang Scholar&#39;s Programme is one of the premier scholars programmes at NTU for science and engineering students. Scholars admitted excel academically and possess strong passion in research and are awarded the Nanyang Scholarship from NTU.
+2006 AIPS alumnus, Muhammad Hadi Bin Rahman was admitted into Nanyang Technological University’s (NTU) C. N. Yang Scholar's Programme in Aerospace Engineering in 2015.
+C.N. Yang Scholar's Programme is one of the premier scholars programmes at NTU for science and engineering students. Scholars admitted excel academically and possess strong passion in research and are awarded the Nanyang Scholarship from NTU.
 
 #### **Mohd Hazzuwan bin Mohd Halim (2006)**
 

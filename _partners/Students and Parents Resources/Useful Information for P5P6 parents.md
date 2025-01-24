@@ -19,10 +19,8 @@ third_nav_title: Students and Parents Resources
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +31,7 @@ third_nav_title: Students and Parents Resources
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school</a>
+<p><a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -46,7 +44,7 @@ third_nav_title: Students and Parents Resources
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
 <p>&nbsp;</p>
 </td>
