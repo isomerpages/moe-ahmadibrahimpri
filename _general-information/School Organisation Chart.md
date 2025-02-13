@@ -24,7 +24,7 @@ variant: markdown
 | HOD Student Leadership & Discipline | Mdm Nur Farah Mohamed Nasir | nur_farah_mohamed_nasir@moe.edu.sg |
 | School Staff Developer | Mdm Lau Lee Peng Lillian | lau_lee_peng_lillian@moe.edu.sg |
 | Year Head / Lower Primary | Mdm Siti Aisha Said | siti_aisha_said@moe.edu.sg |
-| Year Head / Middle Primary | Mrs Diana Ong | ong_suat_keng@moe.edu.sg|
+| Year Head / Middle Primary | Mrs Diana Ho | ong_suat_keng@moe.edu.sg|
 | Year Head / Upper Primary | Mdm Alfiah Md Yusoff | alfiah_md_yusoff@moe.edu.sg |
 | Asst Year Head / Lower Primary | Mdm Ang Hwee See Sandra | ang_hwee_see_sandra@moe.edu.sg |
 | Asst Year Head / Middle Primary (Internal) | Mr Muhammad Fadhli Zulkiflee | Muhammad_Fadhli_Zulkiflee@moe.edu.sg |
