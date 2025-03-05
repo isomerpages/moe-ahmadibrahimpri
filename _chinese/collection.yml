@@ -2,7 +2,6 @@ collections:
   chinese:
     output: true
     order:
-      - test.md
       - 2024 高华学习之旅.md
       - 2024 绘本制作比赛.md
       - 2024 母语双周（街舞）.md
