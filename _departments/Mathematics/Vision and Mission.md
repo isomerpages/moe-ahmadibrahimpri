@@ -8,24 +8,10 @@ variant: markdown
 #### Vision:
 -------
 
-Confident, Competent and Analytical students
+Critical thinkers, confident learners and creative problem-solvers
 
 #### Mission:
 --------
 
-To help our students build strong foundation in numeracy and competencies in higher order thinking skills which will lead to confidence and success in their mathematical problem solving skills
+To empower every student to embrace challenges and experience success and joy in learning Mathematics
 
-#### Department Members
-
-
-| Department Members: |
-|---|
-| Ms Angelin Chan (LH) |
-| Mdm Mabel Chia (LT) |
-| Mdm Tan Mei Ling (ST) |
-| Ms Lynn Lim |
-| Mdm Nurmiszah |
-| Mdm Meredith Goh |
-| Ms Tan Yanwen |
-| Ms Wong Chu Ting |
-| Mr Nazreen |
