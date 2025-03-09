@@ -26,4 +26,4 @@ Science teachers cultivate learners to be civic-minded, inquisitive and equipped
 | P5 | Systems Plant Transport System Respiratory System Circulatory System Cells | Systems Electric Circuits  Using Electricity | Cycles Water & Three States Water Cycle Water Conservation | Cycles Reproduction in Plants Reproduction in Humans |
 | P6 | Energy  Energy in Food  Forms &amp; Uses of Energy  Energy Conversion  Interactions Forces | Interactions Living Together  Characteristics of the Environment  Food Chains &amp; Food Webs  Adaptations  Man’s Impact | Revision for PSLE | Revision for PSLE |
 
-![](/images/sc_curriculum.jpg)
+![](/images/Science_curriculum_framework_.png)
