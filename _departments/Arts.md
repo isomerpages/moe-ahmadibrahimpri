@@ -28,6 +28,14 @@ At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a st
 
 ![](/images/PRIMARY_5_GRAFFITTI_1.jpg)![](/images/PRIMARY_5_GRAFFITTI_2.jpg)![](/images/PRIMARY_5_GRAFFITTI_3.jpg)![](/images/PRIMARY_5_GRAFFITTI_4.jpg)
 
+#### 2025 Primary 6 Photography
+
+![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_1.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_2.jpg)
+![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_3.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_4.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_5.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_6.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_7.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_8.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_9.jpg)
+
+#### ARTSTRAVAGANZA 2025
+![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_1.jpg)![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_2.jpg)![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_3.jpg)
+![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_4.jpg)
 
 
 
