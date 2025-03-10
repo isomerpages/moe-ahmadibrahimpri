@@ -78,4 +78,10 @@ an interest and flare for the English Language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture2.png">
 </div>
+<h4>Of Wits and Words</h4>
+<p>Team AIPS took part in the Wits and Words Inter-school Debate Championships
+on 22 Feburary 2025. The competition focuses on building the oral competencies
+of students. Team AIPS put on a tough fight with their rebuttals, giving
+their opponents a run for their money. Well done, team!</p>
+<p></p>
 <p></p>
