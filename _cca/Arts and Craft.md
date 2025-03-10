@@ -29,6 +29,9 @@ as well as decorating school events like our AIPS Appreciation Day.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Farhana Binte Ali (<a href="mailto:nurul_farhana_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_ali@moe.edu.sg</a>)</p>
 <p>Mdm Nur Aisyah Abdul Latiff (<a href="mailto:nur_aisyah_abdul_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_abdul_latiff@moe.edu.sg</a>)</p>
+<p>Mr Muhammad Hasyim Bin Isa</p>
+<p>(<a href="mailto:muhammad_hasyim_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hasyim_mohamad@moe.edu.sg</a>)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -49,6 +52,36 @@ as well as decorating school events like our AIPS Appreciation Day.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h2><strong>Students at Work 2025</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ART_CLUB_2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_CLUB_2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_CLUB_2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_CLUB_2025_2.jpg">
+</div>
+<h2><strong>Art Club SYF 2025</strong></h2>
+<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_CLUB_SYF_2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_CLUB_SYF_2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_CLUB_SYF_2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_CLUB_SYF_2025_4.jpg">
+</div>
+<p></p>
 <h3>Contribute an Artwork to Sengkang Hospital</h3>
 <hr>
 <div class="iframe-wrapper">
