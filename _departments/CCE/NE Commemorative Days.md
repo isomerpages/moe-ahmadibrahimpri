@@ -7,10 +7,28 @@ variant: markdown
 ---
 These commemorative days are linked to important points in Singapore's history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students' experiences in National Education.
 
-#### Total Defence Day 2024 
-Total Defence Day is commemorated in Singapore on February 15 yearly. 2024 marks 40 years of Total Defence (TD40) in Singapore. In addition to TD40, the CCE Department collaborated with ICT and SLD departments on Safer Internet Day, which ties in with our 6th pillar – Digital Defence. The commemoration this year was a unique experience for teachers and students; there was a food and energy disruption on 15 February. The energy disruption lasted for 30 minutes in which all the equipment in the classrooms were switched off. The food disruption was in the form of having no meat sold in the canteen during recess. There were fringe activities conducted during recess with the help of the PSG and CCE and Cyberwellness Ambassadors. There was an interactive TDD skit by FUNPLAY WORKSHOP on 20 February. It touched on the importance of the six pillars of defence, the importance of working together as a community and how important it is to be digitally aware of the dangers of being “cyber”.
+#### Total Defence Day 2025 @ Ahmad Ibrahim Primary School
 
-![](/images/TDD_2024.jpg)
+In conjunction with Exercise Singapore Ready 25, Ahmad Ibrahim Primary School commemorated Total Defence Day 2025 with a series of engaging and meaningful activities over two weeks. These experiences helped students understand the importance of being prepared and staying resilient in times of crisis.
+
+The commemoration kicked off with a Fire Evacuation Drill, where students and staff practised safe and orderly evacuation procedures. This was followed by a one-hour Power Disruption Exercise on 17 Feb, simulating real-life emergency situations to encourage adaptability and problem-solving.
+
+During recess, students were engaged in a variety of Fringe Activities, including:  
+✅ Interactive Wall Game – Played a fun and educational game reinforcing Social Defence messages  
+✅ Pledge Taking – Captured their commitment to Singapore at the Economic Defence&nbsp; photobooth  
+✅ CPR Experience – Practised life-saving skills as part of Civil Defence  
+✅ SAF Picture Matching – Matched the roles of the Singapore Armed Forces to understand Military Defence  
+✅ Digital Wellness on Internet Safety – Gained awareness on responsible online behaviour relating to Digital Defence  
+✅ Bookmark Making – Immersed in a creative activity highlighting TD pillars, to build Psychological Defence  
+✅ AI30 Commemorative Stamp &amp; Token Collection – Encouraged students to participate actively
+
+To deepen students’ understanding, the Assembly Programme featured the TD message video by our Deputy PM, Mr Gan Kim Yong,&nbsp; a sharing session by our Character and Citizenship Education (CCE) Ambassadors, as well as an interactive skit by Funplay Workshop. The performance creatively illustrated the six pillars of Total Defence, leaving a lasting impression on our young learners.
+
+Through these activities, students gained valuable insights into how every Singaporean plays a part in Total Defence. By equipping them with knowledge and hands-on experiences, we empower them to stay vigilant, prepared, and united in safeguarding our nation in times of crises.
+
+![TDD25](/images/TDD_pic_collage.jpg)
+
+
 #### 2024 International Friendship Day 
 Internatiional Friendship Day is celebrated in schools on the third Friday of Term Two. This is a day dedicated to the understanding of Singapore's relations with its neighbours and aims to nurture in students the spirit of friendship and collaboration among different people. The theme for this year is "Singapore in Asia". Ahmad Ibrahim students had the opportunity to learn various musical instruments performed by Rhythm Masala Music Studio. Students were exposed with all the international drums from all over the world such as Brazilian, Latin, Western, African, Middle Eastern and Multi Ethnic Drums. They also got the chance to play the instruments. During recess, students participated in various fringe activities where they learned more about food and musical instruments from ASEAN countries. These informations were exhibited on the information board and after reading, they answer quiz questions using iPad. Many students enjoyed colouring activities relating to international Friendship Day. Word search activity test them in identifying the 10 ASEAN countries. After all the learning, they will do reflections and lastly token were also given.
 
