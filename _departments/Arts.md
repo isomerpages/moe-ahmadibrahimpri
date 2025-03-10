@@ -17,69 +17,29 @@ To provide quality experiences that promote students' awareness and passion for 
 At Ahmad Ibrahim Primary School, we strongly believe that ‘Every child is a star’. The Art programmes are developed to help students learn to observe their surroundings, identify and describe the colours, shapes and texture of the things they see. They share their thoughts and feelings about these observations through artwork, discussion and writing. They learn to use different materials and media to create the artworks. We want our students to enjoy looking at and creating art and to have opportunities to showcase their artworks.
 
 
-### NEW ONLINE ANNUAL ART EXHIBITION
-	
-Come and visit our very first online Art Exhibition curated by our Art Specialist teachers, for our students.&nbsp;
+#### 2025 Primary 1 Self Potrait
 
-<p style="text-align:center;">Click on this link to enter Gallery: <a href="https://www.artsteps.com/embed/61888ce1ac85446ad7358165/560/315">ARTVENTURES IN AIPS</a></p>
+![](/images/PRIMARY_1_SELF_PORTRAIT_1.jpg)
+![](/images/PRIMARY_1_SELF_PORTRAIT_2.jpg)
+![](/images/PRIMARY_1_SELF_PORTRAIT_3.jpg)
+![](/images/PRIMARY_1_SELF_PORTRAIT_4.jpg)
 
-<p style="text-align:center;">OR<br>use your mobile devices to scan the QR code:</p>
-	
-<img src="/images/QR%20CODE.png" style="width:30%" alt="">
+#### 2025 Primary 5 Grafitti Art
 
-* best viewed using the app "Art Steps". You may download it for free from Play Store/ Apple Store.
+![](/images/PRIMARY_5_GRAFFITTI_1.jpg)![](/images/PRIMARY_5_GRAFFITTI_2.jpg)![](/images/PRIMARY_5_GRAFFITTI_3.jpg)![](/images/PRIMARY_5_GRAFFITTI_4.jpg)
+
+#### 2025 Primary 6 Photography
+
+![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_1.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_2.jpg)
+![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_3.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_4.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_5.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_6.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_7.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_8.jpg)![](/images/2025%20Primary%206%20Photography/PRIMARY_6_PHOTOGRAPHY_9.jpg)
+
+#### ARTSTRAVAGANZA 2025
+![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_1.jpg)![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_2.jpg)![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_3.jpg)
+![](/images/ARTSTRAVAGANZA_RECESS_ACTIVITY_4.jpg)
+
+
 
 #### 2024 P6 Canva Art 
 Our Primary 6 students are given the exciting opportunity to experiment with AI tools within the Canva application to craft their unique juxtaposition artworks. Alongside experiencing Canva's AI capabilities, students delve into the platform's wide array of editing tools and libraries tailored for their use. Through this hands-on experience, students learn to expertly edit, layer, and experiment with various compositions, honing their skills to create stunning juxtaposition artworks.
 
 ![](/images/Art_dept_.jpg)
-
-#### 2023 P6 BATIK PROGRAMME
-
-![](/images/2023%20p6%20batik.jpg)
-
-#### 2023 P5 Manga Art
-
-![](/images/2023%20p5%20manga%20art.jpg)
-
-#### 2023 P4 Skylines
-
-![](/images/2023%20p4%20skyline%202.jpg)
-
-![](/images/2023%20p4%20skyline.jpg)
-
-#### 2023 Primary 3 Portrait design using Powerpoint
-
-![](/images/2023%20p3%20potrait%20art.jpg)
-
-#### Primary 2 Jumping Clay Program
-
-![](/images/2023%20p2%20jumping%20clay.jpg)
-
-#### 2023 Primary 1 Self Portrait
-
-![](/images/2023%20p1%20self%20portrait.jpg)
-
-#### 2023 Primary 1 Pond Diorama
-
-![](/images/2023%20p1%20pond%20diorama.jpg)
-
-
-
-#### 2022 P6 Graduation Magazine
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYQI6IJzsOe5ZbJWJB4itSkWjHt4O3sSEKDfsZ1ysDuiU8o0ljoGPapUU7GanjmUoTdoS6R42qPBi_/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-#### 2022 P5 Sandmation
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzm-0bs9AInJuw6JgFSwceiuV1RBIclgDmYqUwxNcO5hcUCos8CU3pYwXCh90YocKcqryyayoqR9FR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-#### 2022 P5 cotton bud sculpture
-
-![](/images/p5%20cotton%20bud%20sculpture.jpg)
-
-#### 2022 P1 P2 speech and drama collaboration
-
-![](/images/mask%201.jpeg)
-![](/images/mask%202.jpeg)
-![](/images/mask%203.jpeg)
