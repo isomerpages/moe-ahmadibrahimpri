@@ -4,6 +4,13 @@ permalink: /cce-experiences/aspirations-at-aips-putting-social-defence-into-acti
 description: ""
 variant: markdown
 ---
+#### 2025 Aspiration @ AIPS
+![aspirations1](/images/Aspirations__AIPS___Term_1.jpg)
+
+![aspirations2](/images/Aspirations__AIPS___Term_1__1_.jpg)
+
+
+
 #### 2024 Aspiration @ AIPS
 
 Aspiration aims to fulfil the wishes of students to the best of our ability! It is an avenue for student suggestions and a platform where teachers hear what makes our school a greater place for learning. The theme for this year is Student Wellness. It is a complex combination of a person's physical, mental, emotional and social health factors. Numerous suggestions were received from our students. In fact, some of their wishes have already been fulfilled. Recess play, more library books, playing of tradional games, air-conditioned classrooms and the list went on and on. The committee will strive to make their dreams come true so long as they are practical, cost efficient and boost the morale of AIPS community.
