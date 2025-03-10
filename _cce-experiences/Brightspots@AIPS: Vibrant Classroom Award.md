@@ -11,7 +11,9 @@ variant: markdown
 ![class vibrancy](/images/images_of_the_winning_classrooms.jpg)
 ![wallspaces](/images/images_of_the_winning_classrooms__1_.jpg)
 ![learningcorners](/images/images_of_the_winning_classrooms__2_.jpg)
+![learning corners 2](/images/images_of_the_winning_classrooms__3_.jpg)
 ![cleanliness](/images/images_of_the_winning_classrooms__4_.jpg)
+![cleanliness2](/images/images_of_the_winning_classrooms__6_.jpg)
 
 
 #### 2024 Term 3 Classroom Cleanliness Award 
