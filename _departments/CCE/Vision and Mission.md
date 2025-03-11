@@ -8,9 +8,9 @@ variant: markdown
 #### Vision:
 -------
 
-Confident, Competent and Analytical students
+Leaders of Character, Learners for Life
 
 #### Mission:
 --------
 
-To help our students build strong foundation in numeracy and competencies in higher order thinking skills which will lead to confidence and success in their mathematical problem solving skills
+To build character and develop life long-learners with Enhanced 21st Century Competencies (E21CC)
