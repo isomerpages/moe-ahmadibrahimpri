@@ -74,14 +74,71 @@ to promote the love of reading among children aged four to eight.</p>
 <h4>Enrichment Programmes:</h4>
 <p>A range of enrichment programmes are in place to cater to students with
 an interest and flare for the English Language.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wits &amp; Words: Inter-school Debate Championship</strong>
+<br>
+</p>
+<p>The Wits &amp; Words: Inter-school Debate Championship builds the oral
+competencies of verbally talented students.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Creative Writing Programme</strong>
+<br>
+</p>
+<p>The Creative Writing Programme (CWP) nurtures students’ creative writing
+skills in English. It comprises an online enrichment session for pupils,
+a non-residential in-person creative writing camp and the chance to be
+published in Mementoes, a collection of the best works from the CWP Camp.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reading Circles</strong>
+<br>
+</p>
+<p>Reading Circles (RC) is a provision for advanced readers who are ready
+to read more widely, deeply and critically.</p>
+<p>Based on the instructional approach of reader response, RC aims to engage
+advanced readers to help them extend their experience of the world through
+exposure to a range of age-appropriate rich texts (fiction and non-fiction).
+Through collective inquiry and the cultivation of an active inquiring stance
+to reading , readers are encouraged to respond with authentic connections
+to the texts and their worlds they meet, and to develop capacity for imagination,
+perspective-taking and empathy.</p>
+<p>Resources for RC are designed as modules, and each module is constructed
+around one fiction text. The reading modules vary in pitch and difficulty
+to cater to a range of verbal talents.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture2.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 4 and 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Of Wits and Words</h4>
 <p>Team AIPS took part in the Wits and Words Inter-school Debate Championships
 on 22 Feburary 2025. The competition focuses on building the oral competencies
 of students. Team AIPS put on a tough fight with their rebuttals, giving
 their opponents a run for their money. Well done, team!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL25T101.jpg">
+</div>
 <p></p>
