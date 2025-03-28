@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-#### 2025 March Notification to Parents
+#### 2025 April Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
 
