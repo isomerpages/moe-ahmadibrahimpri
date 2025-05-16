@@ -7,6 +7,13 @@ variant: tiptap
 <p>Our purpose is to learn more about coding and learning more about computers
 and technology. The club is currently learning to code using the CoderZ
 portal to simulate the working of the Lego EV3.</p>
+<p>Join the exciting world of Robotics! In this club, Primary 3 to 5 students
+will explore basic coding and robotics through hands-on activities and
+fun challenges. Learn to work as a team, think critically, and solve real-world
+problems using technology. Students will also have the opportunity to take
+part in national competitions like FLL (First Lego League) and NRC (National
+Robotics Competition). Gain new coding skills, build cool robots, and develop
+the confidence to work under pressure—all while having fun!</p>
 <h3>CCA Details</h3>
 <hr>
 <p></p>
@@ -39,8 +46,10 @@ portal to simulate the working of the Lego EV3.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm to 5pm [competitive]</p>
-<p>Tuesdays 2pm to 4pm [recreational]</p>
+<p>CCA sessions:</p>
+<p>Tuesdays 2pm to 5pm [Competitive]</p>
+<p>Tuesdays 2pm to 4pm [Non-competitive]</p>
+<p>Location: Computer Lab 3</p>
 </td>
 </tr>
 </tbody>
@@ -64,3 +73,10 @@ portal to simulate the working of the Lego EV3.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotic_2505.jpg">
+</div>
+<p></p>
+<p>
+<br>
+</p>
