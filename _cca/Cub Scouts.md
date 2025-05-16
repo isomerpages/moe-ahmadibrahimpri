@@ -98,4 +98,23 @@ with the March-in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCOUTS25T103.jpg">
 </div>
+<p>Our Cub Scouts had an exciting afternoon at Northbrooks Secondary School
+on 7 May 2025, where they took on the challenge of rock climbing! 💪🎉</p>
+<p>&nbsp;From scaling walls, tying knots to building resilience, our students
+pushed past their limits and had loads of fun while learning valuable skills.
+Big cheers to our Cubs for showing</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide305253.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide405254.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide205251.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide105252.jpg">
+</div>
+<p>courage and teamwork every step of the way! 👏</p>
