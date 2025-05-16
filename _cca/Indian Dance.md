@@ -28,7 +28,6 @@ resilient and expressive children.</p>
 <p>Mdm Gayathry Gurusamy</p>
 <p>(<a href="mailto:gayathry_gurusamy_ramaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a>)</p>
 <p>Mdm Hajjah Seriyati Md Salleh (<a href="mailto:hajjah_seriyati_md_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hajjah_seriyati_md_salleh@moe.edu.sg</a>)</p>
-<p>Mdm Gayathry Gurusamy (<a href="mailto:gayathry_gurusamy_ramaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
