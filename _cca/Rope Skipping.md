@@ -48,7 +48,6 @@ programmes like National Day and Awards' Day celebrations.</p>
 </table>
 <p></p>
 <h4>NSG Rope Skipping Competition 2025</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.jpg">
 </div>
