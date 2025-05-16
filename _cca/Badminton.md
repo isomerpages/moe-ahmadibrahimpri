@@ -25,8 +25,7 @@ in competitions.</p>
 <p>Ms Camilla Ho Yun Hui (<a href="mailto:ho_yun_hui_camilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yun_hui_camilia@moe.edu.sg</a>)</p>
 <p>Ms Cia Zhixian (<a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>)</p>
 <p>Ms Lim Shi Hui Lynn (<a href="mailto:lim_shi_hui_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui_lynn@moe.edu.sg</a>)</p>
-<p>Mdm Chloe Yeoh</p>
-<p>(<a href="mailto:yeoh_hui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeoh_hui_lin@moe.edu.sg</a>)</p>
+<p>Mdm Chloe Yeoh (<a href="mailto:yeoh_hui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeoh_hui_lin@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
