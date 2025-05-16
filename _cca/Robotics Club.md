@@ -76,7 +76,7 @@ the confidence to work under pressure—all while having fun!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotic_2505.jpg">
 </div>
-<p>J</p>
+<p></p>
 <p>
 <br>
 </p>
