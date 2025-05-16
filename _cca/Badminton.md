@@ -25,7 +25,7 @@ in competitions.</p>
 <p>Ms Camilla Ho Yun Hui (<a href="mailto:ho_yun_hui_camilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yun_hui_camilia@moe.edu.sg</a>)</p>
 <p>Ms Cia Zhixian (<a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>)</p>
 <p>Ms Lim Shi Hui Lynn (<a href="mailto:lim_shi_hui_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui_lynn@moe.edu.sg</a>)</p>
-<p>Ms Tan Yanwen (<a href="mailto:tan_yanwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yanwen@moe.edu.sg</a>)</p>
+<p>Mdm Chloe Yeoh (<a href="mailto:yeoh_hui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeoh_hui_lin@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -48,6 +48,19 @@ in competitions.</p>
 </tbody>
 </table>
 <p></p>
+<h4>2025 National Schools Games</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+</div>
 <h4>2024 National Schools Games</h4>
 <p></p>
 <div class="isomer-image-wrapper">
