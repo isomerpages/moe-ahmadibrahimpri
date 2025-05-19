@@ -57,12 +57,14 @@ in these events.</p>
 <p></p>
 <p></p>
 <p></p>
-<h4>The Choir performing during Chinese New Year 2023</h4>
+<h4>2025 AI30 Opening</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir%20cca%201%202023.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_04_at_07_53_05.jpg">
 </div>
-<h4>National Day Performance 2022</h4>
+<h4>2025 Chinese New Year</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir%20cca%202%202023.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_28_at_09_27_37.jpg">
 </div>
 <p></p>
