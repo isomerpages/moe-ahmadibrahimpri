@@ -19,7 +19,7 @@ variant: markdown
 | HOD CCE | Ms Norhayati Amat | norhayati_amat@moe.edu.sg |
 | HOD ICT | Mrs Connie Chong    | ang_hong_cheng@moe.edu.sg |
 | HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
-| HOD PE PAM/ CCA | Mr Sakthi Ganapathi Ramachandra | sakthi_ganapathi_ramachandra@moe.edu.sg |
+| HOD PAM / CCA | Mr Sakthi Ganapathi | sakthi_ganapathi_ramachandra@moe.edu.sg |
 | HOD Science | Mr Lim Wee Kiat | lim_wee_kiat@moe.edu.sg |
 | HOD Student Leadership & Discipline | Mdm Nur Farah Mohamed Nasir | nur_farah_mohamed_nasir@moe.edu.sg |
 | School Staff Developer | Mdm Lau Lee Peng Lillian | lau_lee_peng_lillian@moe.edu.sg |
