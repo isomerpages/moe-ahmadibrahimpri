@@ -20,11 +20,3 @@ Dance, Instrument, Voice or Creative.</p>
 <p>
 <br><u>Winners from 2024:</u>
 </p>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="223" width="334" alt="A group of children posing for a photo
-
-AI-generated content may be incorrect." src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfakRaaHQFI41Lq8tp8CKRNYWfRrTcBt9YpuWDG5DklbjRJxKDoHel_AMCQyJDWalPMeyVUO9V41xPJyG6RyTnhi-r79xixPxOKBegpwFkuLWbkkiioVM_AJ-iI23g3CM6k8gLfx327QoXCM4rjy0c?key=hNldTJ2dyTddiM5eKD20aQ">
-</div>
-<p>
-<br>
-</p>
