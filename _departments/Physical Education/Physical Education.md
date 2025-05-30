@@ -96,33 +96,3 @@ The procedure for this, is as such
 
 
 
-#### Primary 5 Outdoor Education Camp @Labrador OALC
-
-Our Primary 5 students recently embarked on an exciting Outdoor Education Camp at the Labrador Outdoor Adventure Learning Centre (OALC). This memorable experience allowed them to immerse themselves in nature, build character, and develop essential life skills.
-
-The camp featured a range of activities, including high and low elements, orienteering, and team-building challenges. These activities encouraged students to embrace teamwork, resilience, and perseverance while pushing themselves beyond their comfort zones.
-
-In a supportive environment, students were inspired to strive for excellence and foster a lifelong love for learning. They also deepened their appreciation for the natural world, strengthened friendships, and embraced values such as responsibility, respect, and determination.
-
-This enriching experience was a journey of growth, confidence, and connection—a highlight of their educational journey.
-
-![](/images/P5_camp_2024_new.jpg)
-
-
-**Day Journey**: Dairy Farm Quarry
-<img src="/images/concrete%20art.png" alt="Dairy Farm Quarry">
-
-**Concrete Art**: Learning about nature and the environment
-<img src="/images/life%20in%20a%20tent.png" alt="Learning about nature and the environment">
-
-**Life In A Tent**: Learning and understanding the difficulties of others who live in a small space
-<img src="/images/team%20building.png" alt="Learning and understanding the difficulties of others who live in a small space">
-
-**Team Building**: Learning to communicate and work together as a team
-<img src="/images/low%20elements.png" alt="Learning to communicate and work together as a team">
-
-**Low Elements**: A mini obstacle as a test of teamwork
-<img src="/images/longkang%20fishing.png" alt="A mini obstacle as a test of teamwork"><br>
-<img src="/images/longkang%20fishing2.png" alt="A test of Patience &amp; Resilience">
-
-**Longkang Fishing**: A test of Patience &amp; Resilience
