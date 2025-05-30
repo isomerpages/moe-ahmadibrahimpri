@@ -18,3 +18,13 @@ The main topics covered in our cyber wellness education include Netiquette, Dang
 ![](/images/cyberwellness%201%202023.JPG)
 ![](/images/cyberwellness%202%202023.JPG)
 
+**Term 2 Cyber Wellness Assembly: Empowering Students Through Awareness**
+
+This term, our Cyber Wellness Ambassadors took center stage to promote safe and responsible online behaviour to their fellow school mates. After undergoing specialized training with a professional drama instructor, they crafted an engaging and informative performance focused on key cyber wellness topics such as *Responsible online usage* and *Scam awareness*.
+The interactive performance not only educated students about potential cyber risks but also encouraged them to be vigilant and kind digital citizens. By using drama as a medium, the ambassadors made the presentation more relatable and memorable.
+
+We commend our Cyber Wellness Ambassadors for their dedication and creativity in spreading awareness and helping to build a safer online environment for all!  
+
+*Stay Smart. Stay Safe. Stay Kind—Online!* 💻
+
+![](/images/ICT_TERM2_CYBER.jpg)
