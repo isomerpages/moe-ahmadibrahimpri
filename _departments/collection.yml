@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education/.keep
       - English/.keep
       - English/Vision and Mission.md
       - English/English Support and Enrichment Programmes.md
