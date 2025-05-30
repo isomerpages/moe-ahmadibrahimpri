@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Shine at AIPS.md
       - English/.keep
       - English/Vision and Mission.md
       - English/English Support and Enrichment Programmes.md
