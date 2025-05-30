@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Music/.keep
-      - Music/Music.md
-      - Music/Shine at AIPS.md
       - English/.keep
       - English/Vision and Mission.md
       - English/English Support and Enrichment Programmes.md
@@ -31,6 +28,9 @@ collections:
       - CCE/NE Commemorative Days.md
       - Physical Education.md
       - Arts.md
+      - Music/.keep
+      - Music/Music.md
+      - Music/Shine at AIPS.md
       - ICT/.keep
       - ICT/Vision and Mission.md
       - ICT/Information Technology for Learning and Teaching.md
