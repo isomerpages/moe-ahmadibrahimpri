@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Music/Shine at AIPS.md
-      - Music/Music.md
       - Music/.keep
+      - Music/Music.md
+      - Music/Shine at AIPS.md
       - English/.keep
       - English/Vision and Mission.md
       - English/English Support and Enrichment Programmes.md
