@@ -17,6 +17,9 @@ Dance, Instrument, Voice or Creative.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="226" width="338" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdWxusvNLVA6HKwqgp_kx0tMKqWB6mC1wqgd7PCmbH6zToehDE6hd4bfaH4Y7ViH27e3EIQOK3xJlam1LpEsO2xWVlR2MggU9doMdx1Tg6KG1Isp8l8p_jZC5NkzaPtFNOfiFv39SE5RV3GHVzLpYI?key=hNldTJ2dyTddiM5eKD20aQ">
 </div>
-<p>
-<br><u>Winners from 2024:</u>
+<p><u>Winners from 2024:</u>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MUSIC_WINNERS.jpg">
+</div>
+<p></p>
