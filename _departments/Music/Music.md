@@ -3,6 +3,7 @@ title: Music
 permalink: /departments/Music-and-Arts/Music/
 description: ""
 variant: markdown
+third_nav_title: Music
 ---
 #### Vision
 ----
@@ -40,16 +41,20 @@ Our students are introduced to the Kompang, a hand drum commonly used in traditi
 
 ![](/images/Kompang.jpg)
 
-#### Primary 3: Recorder and Cajon
-The Primary 3 students will start to learn the fundamentals of playing the recorder. Recorder is the main melodic instrument used in our school and we hope that our students will be able to master it well under the guidance of our music teachers. The students also have the opportunity to explore the rhythms and sounds produced by the Cajon.
+#### Primary 3: Recorder
 
-![](/images/2023%20p3%20cajun.JPG)
+The Primary 3 students will start to learn the fundamentals of playing the recorder. Recorder is the main melodic instrument used in our school and we hope that our students will be able to master it well under the guidance of our music teachers.
 
-#### Primary 4: Ukulele &amp; Recorder
+Recess Performance 2024
+**![A group of children sitting on a stage
+AI-generated content may be incorrect.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcafj8zTFb761cHKHwWQQDL9NO1GTUtNqQBYiZE8Suen2TZnD52rEZY6YNBnvwjXqhin-ndURjXd367uAAyCCPx-pr3fxLGq9fC5Ov8-vKjPn2v4lg_Ndw59pQ2jaWfWvM1on6mHNZPX-C4Q496YuU?key=GTCMGuyzBXddRH-qo0e0jw)**
+
+#### Primary 4: Ukulele and Recorder
 
 Our students have the opportunity of learning how to play the Ukulele in Primary 4. This is to ensure our students get the exposure to different types of instruments. The students will also continue with recorder playing as part of the music curriculum.
-	
-![](/images/2023%20p4%20ukelele.JPG)
+
+**![A group of children sitting on the floor in a room
+AI-generated content may be incorrect.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXes21WgFUs-i93gzLDVKpHAUOEfi_A57bSRIvuYbZI89zVn8RSzA5ZuvaCmSMRV-OEaQSxFJToU8G5SbT_rAzPYJyDzDu7anYhFanYg-abcDb0Z6S8gX1rbaNWySO-Be_ar07lYApUnKjMXzh4G_A?key=GTCMGuyzBXddRH-qo0e0jw)**
 
 #### Primary 5: GarageBand
 	
@@ -57,9 +62,10 @@ The Primary 5 students infused Information and Communications Technology (ICT) i
 	
 #### Primary 6: Drumming
 
-As a post-PSLE activity, the students learn how to play different rhythms on various drums. The students had fun exploring rhythms and learnt about teamwork and cooperation. 
+As a post-PSLE activity, the students learn how to play different rhythms on various drums. The students had fun exploring rhythms and learnt about teamwork and cooperation.
 
-![](/images/2023%20p6%20percussion.JPG)
+**![A group of people sitting in chairs
+AI-generated content may be incorrect.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdev7bbo5aAd-3PMXN3lOlq83d49JiB_Hetxak9rl8tTha5G8ngaHrhA4uEoecZFMB7ZAKvla5d0FKaEyqzHxARhNsILrkaXe-7acz598pOAGgpdOCSbCD1XuWe1seqxWJ3--qDfG0vJkKoPF0G-A?key=GTCMGuyzBXddRH-qo0e0jw)**
 	
 #### Shine at AIPS 2023
 	

@@ -3,6 +3,7 @@ title: Arts
 permalink: /departments/Music-and-Arts/Arts/
 description: ""
 variant: markdown
+third_nav_title: Arts
 ---
 #### Vision
 ----
