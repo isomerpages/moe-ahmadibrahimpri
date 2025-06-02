@@ -95,3 +95,7 @@ and media to share their voices with confidence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ09.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ10.jpg">
+</div>
+<p></p>
