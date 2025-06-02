@@ -4,7 +4,7 @@ permalink: /2025-broadcast-journalism/
 variant: tiptap
 description: ""
 ---
-<h4><strong><em>Rolling with Confidence: MTL Broadcast Stars in the Making!</em></strong></h4>
+<h4><strong>Rolling with Confidence: MTL Broadcast Stars in the Making!</strong></h4>
 <p>Our MTL Ambassadors have embarked on an exciting new journey through the
 MTL Broadcast Journalism Programme — a hands-on initiative designed to
 help them grow into confident, creative communicators using their Mother
