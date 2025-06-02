@@ -39,8 +39,23 @@ To commemorate International Friendship Day (IFD), the school organised a week-l
 
 These activities helped students reflect on Singapore’s place in the world and the enduring value of openness, diplomacy, and friendship across cultures.
 
+![](/images/IFD1.jpg)
 
+![](/images/IFD2.jpg)
 
+![](/images/IFD3.jpg)
+
+![](/images/IFD4.jpg)
+
+![](/images/IFD6.jpg)
+
+![](/images/IFD7.jpg)
+
+![](/images/IFD11.jpg)
+
+![](/images/IFD8.jpg)
+
+![](/images/IFD5.jpg)
 
 
 #### Total Defence Day 2025 @ Ahmad Ibrahim Primary School
