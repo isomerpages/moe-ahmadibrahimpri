@@ -15,3 +15,7 @@ Manggar和代表淡米尔族文化的Kolam。通过这些有趣的活动，大�
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3a.jpg">
+</div>
+<p></p>
