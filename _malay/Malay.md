@@ -15,8 +15,6 @@ Aim:
 *   To enhance teachers’ teaching competencies through professional sharing sessions, peer coaching, action research and lesson studies.
     
 
-**
-
 We believe that our children are ‘Leaders of Characters and Learners for Life’. As such, the Malay Language Department strive to provide the best for our pupils so they can reach their fullest potential.
 
 **Pupils Competencies**
