@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2025 P1 Guided Writing.md
       - 2025 P2 MTL Fortnight Camp.md
       - 2025 Street Dance Workshop.md
       - 2025 Chinese New Year.md
