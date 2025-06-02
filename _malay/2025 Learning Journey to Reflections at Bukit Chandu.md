@@ -36,3 +36,7 @@ of returning in the future.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BC2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BC3.jpg">
+</div>
+<p></p>
