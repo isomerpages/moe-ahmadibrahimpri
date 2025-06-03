@@ -4,8 +4,10 @@ permalink: /tamil-department-activities-2025/
 variant: tiptap
 description: ""
 ---
-<h4>Term 1 Activities and Competitions</h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a1.jpg">
+</div>
 <p></p>
 <p></p>
-<p><a href="/tamil-department-activities-2025/" rel="noopener nofollow" target="_blank">Term 1 Activities</a>
-</p>
+<p></p>
