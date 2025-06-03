@@ -12,6 +12,3 @@ On 25 March, AIPS celebrates World Water Day! Students were engaged in assembly 
 ![](/images/World_Water_Day_2.jpg)
 
 ![](/images/World_Water_Day_3.jpg)
-
-
-
