@@ -34,6 +34,10 @@ Students tried their hand at making s’more and hipster pratas after the Stella
 Students making their own hipster prata and s'mores:
 ![](/images/MLEA_Prata_and_S_more_.png)
 
+![](/images/hipster_prata_01.jpg)
+
+![](/images/hipster_prata_02.jpg)
+
 Learning Journey to S.E.A Aquarium:
 ![](/images/MLEA_SEA_Aquarium_.png)
  
