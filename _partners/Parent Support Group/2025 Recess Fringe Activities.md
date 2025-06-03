@@ -26,3 +26,29 @@ provide our students with quality learning experiences throughout Term
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4_CNYJPG_resized.png">
 </div>
 <p></p>
+<h4><strong>Total Defence Day</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDD_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDD02.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
