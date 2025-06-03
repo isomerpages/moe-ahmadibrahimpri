@@ -109,3 +109,7 @@ description: ""
 <h4>Primary 6</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FP61.jpg">
+</div>
+<p></p>
