@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Parent Support Group
 ---
-<p>Celebrating Our Dedicated Parent Volunteers – Term 2 Highlights</p>
 <p>Our Parent Volunteers continue to play a vital role in supporting our
 teachers and enriching our students’ learning experiences. In Term 2, their
 involvement spanned various meaningful programmes and activities designed
