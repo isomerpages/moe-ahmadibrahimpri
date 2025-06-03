@@ -44,9 +44,12 @@ by embracing challenges and striving for growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_2.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_3.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -59,9 +62,21 @@ their communication skills while working towards team goals. They also
 demonstrated resilience and teamwork, embodying the value of enabling others
 to take action during the leadership camp.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_3.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_4.jpg">
+</div>
 <h4>Primary 5 Leadership Camp: Intergenerational Mentoring Workshop</h4>
 <p>Our P5 students displayed the value of empathy when they went through
 the Intergenerational Mentoring Workshop as they practised the fifth practice
