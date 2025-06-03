@@ -102,14 +102,21 @@ for supporting individuals with various needs.</p>
 </div>
 <p></p>
 <h4>Primary 6 Leadership Camp: Rise with Resilience Workshop</h4>
-<p>Our P6 students went through a Rise with Resilience Workshop in which
-they experienced team games and activities to develop their mental resilience
-when facing challenges in school. Through journalling, they will develop
-confidence when learning to take control of their emotions and in setting
-personal goals. Not only that, they also displayed the values of resilience
-and responsibility as they cultivated a positive growth mindset in their
-learning aptitude.</p>
+<p>Our P6 students began the year with a resilience workshop, where they
+worked on building mental resilience and confidence to tackle challenges
+in school. They exemplified resilience by fostering a determined mindset
+and strengthening their approach to learning.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6LC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_3.jpg">
 </div>
 <p></p>
