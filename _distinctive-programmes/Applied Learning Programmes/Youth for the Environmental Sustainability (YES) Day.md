@@ -14,8 +14,3 @@ This programme goes beyond just learning about insects; it emphasizes the crucia
 ![](/images/YES_Programme_1.jpg)
 
 ![](/images/YES_Programme_2.jpg)
-
-
-
-
-
