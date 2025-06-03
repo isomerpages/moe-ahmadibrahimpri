@@ -15,5 +15,5 @@ Languages and the associated culture and values.</p>
 Mother Tongue Languages who take pride in their culture and heritage.</p>
 <h3><a href="/chinese/subpage19" rel="noopener noreferrer nofollow" target="_blank">Chinese</a></h3>
 <h3><a href="/malay/" rel="noopener noreferrer nofollow" target="_blank">Malay</a></h3>
-<h3><a href="https://ahmadibrahimpri.moe.edu.sg/tamil/subpage2/" rel="noopener noreferrer nofollow" target="_blank">Tamil</a></h3>
+<h3><a href="/tamil/subpage2/" rel="noopener noreferrer nofollow" target="_blank">Tamil</a></h3>
 <p></p>
