@@ -103,3 +103,7 @@ description: ""
 <h4>Primary 5</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250521_WA0010.jpg">
+</div>
+<p></p>
