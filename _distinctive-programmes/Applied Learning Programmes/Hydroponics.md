@@ -23,8 +23,3 @@ From carefully planting seedlings to monitoring their growth and eventually harv
 ![](/images/Hydroponics_1.jpg)
 
 ![](/images/Hydroponics_2.jpg)
-	 
-	 
-	 
-	 
-	 
