@@ -19,7 +19,10 @@ Tied in with the Stellar unit ‘Mid-Autum Festival’, students work together w
 2. Visit to Hay Dairies 
 
 After reading their big book ‘Mrs Wishy-washy’, students learnt vocabulary related to and identified farm animals during their visit to Hay Dairies.
-![](/images/ELA_2.jpg)
+
+![](/images/p1_Hay_Dairies_01.jpg)
+
+![](/images/p1_Hay_Dairies_02.jpg)
 
 
 ##### **Primary2:**
