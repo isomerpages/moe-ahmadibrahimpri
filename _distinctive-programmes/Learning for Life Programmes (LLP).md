@@ -120,3 +120,11 @@ and strengthening their approach to learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_5.jpg">
+</div>
+<p></p>
