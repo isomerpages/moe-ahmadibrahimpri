@@ -39,7 +39,10 @@ Students making their own hipster prata and s'mores:
 ![](/images/hipster_prata_02.jpg)
 
 Learning Journey to S.E.A Aquarium:
-![](/images/MLEA_SEA_Aquarium_.png)
+
+![](/images/sea_aquariom_01.jpg)
+
+![](/images/sea_aquariom_02.jpg)
  
 ##### **Primary 3:**
 
