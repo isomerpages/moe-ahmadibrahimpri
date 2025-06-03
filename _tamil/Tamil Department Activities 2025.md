@@ -4,4 +4,12 @@ permalink: /tamil-department-activities-2025/
 variant: tiptap
 description: ""
 ---
+<p>Primary 1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FP11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FP12.jpg">
+</div>
 <p></p>
