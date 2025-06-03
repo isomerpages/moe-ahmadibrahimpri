@@ -31,11 +31,18 @@ provide our students with quality learning experiences throughout Term
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDD_01.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDD02.jpg">
 </div>
+<h4><strong>Hari Raya Celebration</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide12_Hari_Raya_resized.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide13_Hari_Raya_resized.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
