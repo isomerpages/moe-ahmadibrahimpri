@@ -53,19 +53,15 @@ by embracing challenges and striving for growth.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_4.jpg">
 </div>
 <h4>Primary 4 Leadership Camp: Personal Effectiveness Workshop</h4>
-<p>Our P4 students heightened their cyber wellness awareness and developed
-their peer support skills through the Personal Effectiveness Workshop designed
-to provide students with the latest and most relevant information. Activities
-focused on media-literacy, staying safe from Internet-related problems
-and reaching out to peers in need. Through the activities, students practised
-the leadership practice of enabling others to act.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4LC_1.jpg">
-</div>
+<p>Our P4 students participated in a leadership camp that emphasised cyber
+wellness and peer support. Through team games and activities, they honed
+their communication skills while working towards team goals. They also
+demonstrated resilience and teamwork, embodying the value of enabling others
+to take action during the leadership camp.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4LC_2.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
 <h4>Primary 5 Leadership Camp: Intergenerational Mentoring Workshop</h4>
 <p>Our P5 students displayed the value of empathy when they went through
 the Intergenerational Mentoring Workshop as they practised the fifth practice
