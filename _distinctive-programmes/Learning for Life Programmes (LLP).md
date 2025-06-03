@@ -78,18 +78,29 @@ to take action during the leadership camp.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_4.jpg">
 </div>
 <h4>Primary 5 Leadership Camp: Intergenerational Mentoring Workshop</h4>
-<p>Our P5 students displayed the value of empathy when they went through
-the Intergenerational Mentoring Workshop as they practised the fifth practice
-of encouraging others to act. They had the chance to put themselves in
-the shoes of the elderly through enriching and fun activities during the
-camp. They also worked collaboratively in groups when solving problems
-and team challenges during the camp.</p>
+<p>Our P5 students demonstrated the practice of encouraging the heart during
+their leadership camp. They developed empathy by putting themselves in
+the shoes of others with different needs. Additionally, the camp introduced
+them to service learning, deepening their understanding and appreciation
+for supporting individuals with various needs.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_LC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_LC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_4.jpg">
+</div>
+<p></p>
 <h4>Primary 6 Leadership Camp: Rise with Resilience Workshop</h4>
 <p>Our P6 students went through a Rise with Resilience Workshop in which
 they experienced team games and activities to develop their mental resilience
