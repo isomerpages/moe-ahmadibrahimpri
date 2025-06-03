@@ -11,10 +11,11 @@ Through engaging activities and observation, students are learning how these rem
 
 This programme goes beyond just learning about insects; it emphasizes the crucial role each individual plays in creating a more sustainable future. By understanding how a seemingly small creature can make a big difference in waste management, our students are inspired to adopt responsible practices in their own lives and become advocates for environmental stewardship within their families and communities. The YES programme is cultivating a generation of environmentally conscious individuals who understand that even the smallest actions can contribute to a healthier planet for all.
 
+![](/images/YES_Programme_1.jpg)
+
+![](/images/YES_Programme_2.jpg)
 
 
 
 
 
-
-![](/images/2023%20yed.jpg)
