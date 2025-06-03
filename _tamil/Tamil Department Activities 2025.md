@@ -7,4 +7,5 @@ description: ""
 <h4>Term 1 Activities and Competitions</h4>
 <p></p>
 <p></p>
-<p></p>
+<p><a href="/tamil-department-activities-2025/" rel="noopener nofollow" target="_blank">Term 1 Activities</a>
+</p>
