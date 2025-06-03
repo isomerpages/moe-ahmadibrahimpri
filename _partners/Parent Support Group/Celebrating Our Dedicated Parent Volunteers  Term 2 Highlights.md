@@ -30,3 +30,7 @@ understanding of the meaning behind adults saying “no” to certain actions
 or requests—turning a simple story into a valuable life lesson.</p>
 <p>We are grateful for the unwavering support of our Parent Volunteers and
 look forward to more meaningful collaborations in the coming terms.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1_resized__2_.png">
+</div>
+<p>collaborations in the coming terms.</p>
