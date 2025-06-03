@@ -2,23 +2,18 @@
 title: Mother Tongue
 permalink: /departments/Mother-Tongue/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Vision:
--------
-
-The Mother Tongue language teachers of Ahmad Ibrahim Primary School seek to nurture active, passionate and proficient learners of the Mother Tongue Languages and the associated culture and values.
-
-### Mission:
---------
-
-All AIPS students are active, passionate and proficient learners of the Mother Tongue Languages who take pride in their culture and heritage.
-
-
-
-
-### [Chinese](/chinese/subpage19)
-
-### [Malay](/malay/)
-
-### [Tamil](/tamil/)
+<h3>Vision:</h3>
+<hr>
+<p>The Mother Tongue language teachers of Ahmad Ibrahim Primary School seek
+to nurture active, passionate and proficient learners of the Mother Tongue
+Languages and the associated culture and values.</p>
+<h3>Mission:</h3>
+<hr>
+<p>All AIPS students are active, passionate and proficient learners of the
+Mother Tongue Languages who take pride in their culture and heritage.</p>
+<h3><a href="/chinese/subpage19" rel="noopener noreferrer nofollow" target="_blank">Chinese</a></h3>
+<h3><a href="/malay/" rel="noopener noreferrer nofollow" target="_blank">Malay</a></h3>
+<h3><a href="https://ahmadibrahimpri.moe.edu.sg/tamil/subpage2/" rel="noopener noreferrer nofollow" target="_blank">Tamil</a></h3>
+<p></p>
