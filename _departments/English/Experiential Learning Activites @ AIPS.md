@@ -50,7 +50,9 @@ Visit to Gardens by The Bay
 
 Students learnt about and saw carnivorous plants like the pitcher plant, venus flytrap and butterwort at Gardens By The Bay. The experience deepened their learning of the Stellar unit ‘Unusual Plants’ and also helped to cement concepts about plants taught during science lessons.
 
-![](/images/ELA_3.jpg)
+![](/images/P3_GBTB_01.jpg)
+
+![](/images/P3_GBTB_02.jpg)
 
 ##### **Primary 4:**
 
