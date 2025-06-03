@@ -73,3 +73,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_16_44_05.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/t46.jpg">
+</div>
+<p></p>
