@@ -8,7 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parent Support Group" src="/images/PSG.jpg">
 </div>
-<h3></h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -16,8 +15,10 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation_Chart_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_Exco.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

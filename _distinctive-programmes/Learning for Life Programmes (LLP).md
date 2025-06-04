@@ -29,71 +29,102 @@ for the students to display their leadership qualities through participation
 in innovative and interactive activities and provide our students with
 the opportunities for rich learning all year round.</p>
 <p>Here are some examples of what transpires in the Leadership Camps:</p>
-<h4>Primary 2 Leadership Camp: Self Discovery Workshop</h4>
-<p>Our P2 students discovered their inner-self through experiential learning.
-They put into practice the leadership principle of inspiring a shared vision
-with an emphasis on discussion, personal reflection and clear actionable
-personal-takeaways to bring about changes in mindset and behaviour. Classes
-had team activities to promote class bonding and hands-on games to develop
-the values of respect, responsibility and resilience.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2LC_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2LC_2.jpg">
-</div>
 <h4>Primary 3 Leadership Camp: Growing Together Workshop</h4>
-<p>Our P3 students went through their leadership camp with plenty of team
-games and activities that challenged them to think out of the box as they
-practised the leadership practice of challenging the process. They learnt
-the importance of teamwork and communicating effectively to achieve their
-common goal. At the same time, they learn to manage themselves and their
-emotions as they go through the obstacle courses and team games.</p>
+<p>Our P3 students demonstrated respect and resilience during the Primary
+3 leadership camp. They applied their leadership skills while working collaboratively
+to overcome challenges. They also showed remarkable perseverance throughout
+the various activities, embodying resilience and exemplifying leadership
+by embracing challenges and striving for growth.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_LC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_LC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_2.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_3.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_4.jpg">
+</div>
 <h4>Primary 4 Leadership Camp: Personal Effectiveness Workshop</h4>
-<p>Our P4 students heightened their cyber wellness awareness and developed
-their peer support skills through the Personal Effectiveness Workshop designed
-to provide students with the latest and most relevant information. Activities
-focused on media-literacy, staying safe from Internet-related problems
-and reaching out to peers in need. Through the activities, students practised
-the leadership practice of enabling others to act.</p>
+<p>Our P4 students participated in a leadership camp that emphasised cyber
+wellness and peer support. Through team games and activities, they honed
+their communication skills while working towards team goals. They also
+demonstrated resilience and teamwork, embodying the value of enabling others
+to take action during the leadership camp.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4LC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4LC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_4.jpg">
 </div>
 <h4>Primary 5 Leadership Camp: Intergenerational Mentoring Workshop</h4>
-<p>Our P5 students displayed the value of empathy when they went through
-the Intergenerational Mentoring Workshop as they practised the fifth practice
-of encouraging others to act. They had the chance to put themselves in
-the shoes of the elderly through enriching and fun activities during the
-camp. They also worked collaboratively in groups when solving problems
-and team challenges during the camp.</p>
+<p>Our P5 students demonstrated the practice of encouraging the heart during
+their leadership camp. They developed empathy by putting themselves in
+the shoes of others with different needs. Additionally, the camp introduced
+them to service learning, deepening their understanding and appreciation
+for supporting individuals with various needs.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_LC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_LC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_4.jpg">
+</div>
+<p></p>
 <h4>Primary 6 Leadership Camp: Rise with Resilience Workshop</h4>
-<p>Our P6 students went through a Rise with Resilience Workshop in which
-they experienced team games and activities to develop their mental resilience
-when facing challenges in school. Through journalling, they will develop
-confidence when learning to take control of their emotions and in setting
-personal goals. Not only that, they also displayed the values of resilience
-and responsibility as they cultivated a positive growth mindset in their
-learning aptitude.</p>
+<p>Our P6 students began the year with a resilience workshop, where they
+worked on building mental resilience and confidence to tackle challenges
+in school. They exemplified resilience by fostering a determined mindset
+and strengthening their approach to learning.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6LC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_5.jpg">
 </div>
 <p></p>

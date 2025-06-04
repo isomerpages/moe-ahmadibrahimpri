@@ -7,6 +7,57 @@ variant: markdown
 ---
 These commemorative days are linked to important points in Singapore's history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students' experiences in National Education.
 
+#### International Friendship Day 2025 @ Ahmad Ibrahim Primary School
+
+
+Ahmad Ibrahim Primary School commemorates International Friendship Day (IFD) on Friday of Term 2, Week 3 every year to promote cross-cultural understanding and harmony. This year, IFD falls on 11 April 2025.&nbsp;
+
+The theme for 2025–2027 is "Singapore – Forging Friendships in a Complex World." It underscores the importance of building and maintaining strong international relationships amid today's intricate global landscape. The commemoration of IFD allows our students to be sensitised to Singapore’s geopolitical realities and to reflect on the importance of:
+
+*   An active foreign policy to maintain Singapore’s international space;
+    
+*   Openness to the international flow of trade, ideas, and talent;
+    
+*   Cross-cultural skills and a global orientation; and
+    
+*   The spirit of friendship and collaboration among different people.
+    
+
+To commemorate International Friendship Day (IFD), the school organised a week-long series of enriching activities to promote cross-cultural understanding. The week began with a Character and Citizenship Education (CCE) Form Teacher Guidance Period (FTGP) where students deepened their understanding of ASEAN and its significance to Singapore. Next, the students were treated to a lively School Assembly Skit, "Dance of the World," which celebrated cultural diversity through music and movement. This was followed by a meaningful Sharing Session by our CCE Ambassadors, who spoke about the importance of building international friendships. The week ended with a range of interactive recess fringe activities, which includes:
+
+*   Traditional Games like Chapteh and Five Stones;&nbsp;
+    
+*   A Tinikling Rhythm Challenge Booth;
+    
+*   A Malaysia Batik Crafts Booth;
+    
+*   An ASEAN Language Wall;
+    
+*   An Interactive Sports Wall; and&nbsp;
+    
+*   A Photo Booth with Cultural Costumes.&nbsp;
+
+These activities helped students reflect on Singapore’s place in the world and the enduring value of openness, diplomacy, and friendship across cultures.
+
+![](/images/IFD1.jpg)
+
+![](/images/IFD2.jpg)
+
+![](/images/IFD3.jpg)
+
+![](/images/IFD4.jpg)
+
+![](/images/IFD6.jpg)
+
+![](/images/IFD7.jpg)
+
+![](/images/IFD11.jpg)
+
+![](/images/IFD8.jpg)
+
+![](/images/IFD5.jpg)
+
+
 #### Total Defence Day 2025 @ Ahmad Ibrahim Primary School
 
 In conjunction with Exercise Singapore Ready 25, Ahmad Ibrahim Primary School commemorated Total Defence Day 2025 with a series of engaging and meaningful activities over two weeks. These experiences helped students understand the importance of being prepared and staying resilient in times of crisis.

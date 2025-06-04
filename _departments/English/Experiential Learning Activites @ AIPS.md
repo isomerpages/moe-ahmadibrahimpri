@@ -19,7 +19,10 @@ Tied in with the Stellar unit ‘Mid-Autum Festival’, students work together w
 2. Visit to Hay Dairies 
 
 After reading their big book ‘Mrs Wishy-washy’, students learnt vocabulary related to and identified farm animals during their visit to Hay Dairies.
-![](/images/ELA_2.jpg)
+
+![](/images/p1_Hay_Dairies_01.jpg)
+
+![](/images/p1_Hay_Dairies_02.jpg)
 
 
 ##### **Primary2:**
@@ -31,8 +34,15 @@ Students tried their hand at making s’more and hipster pratas after the Stella
 Students making their own hipster prata and s'mores:
 ![](/images/MLEA_Prata_and_S_more_.png)
 
+![](/images/hipster_prata_01.jpg)
+
+![](/images/hipster_prata_02.jpg)
+
 Learning Journey to S.E.A Aquarium:
-![](/images/MLEA_SEA_Aquarium_.png)
+
+![](/images/sea_aquariom_01.jpg)
+
+![](/images/sea_aquariom_02.jpg)
  
 ##### **Primary 3:**
 
@@ -40,7 +50,9 @@ Visit to Gardens by The Bay
 
 Students learnt about and saw carnivorous plants like the pitcher plant, venus flytrap and butterwort at Gardens By The Bay. The experience deepened their learning of the Stellar unit ‘Unusual Plants’ and also helped to cement concepts about plants taught during science lessons.
 
-![](/images/ELA_3.jpg)
+![](/images/P3_GBTB_01.jpg)
+
+![](/images/P3_GBTB_02.jpg)
 
 ##### **Primary 4:**
 

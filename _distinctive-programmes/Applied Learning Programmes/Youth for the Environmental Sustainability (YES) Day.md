@@ -3,15 +3,14 @@ title: Youth for the Environmental Sustainability (YES) Day
 permalink: /distinctive-programmes/Applied-Learning-Programmes/YESDay/
 description: ""
 third_nav_title: Applied Learning Programmes
+variant: markdown
 ---
-The school commemorated the Youth for Environmental Sustainability (YES) Programme on Monday, 17 April 2023. 
+Our YES (Youth for Environment Sustainability) programme is empowering students to become environmental champions by exploring innovative solutions to tackle food waste. In an exciting and hands-on initiative, our young learners are discovering the incredible potential of Black Soldier Fly larvae in transforming food scraps into valuable resources.
 
-  
+Through engaging activities and observation, students are learning how these remarkable larvae voraciously consume food waste, effectively reducing landfill burden and minimizing environmental impact. They are witnessing firsthand the life cycle of the Black Soldier Fly and understanding the science behind this natural recycling process.
 
-Through this programme, we hope to encourage youth advocacy towards environmental sustainability in Singapore. This is in line with this year’s, ‘Say YES to Waste Less campaign’, launched by the National Environment Agency (NEA) and the Singapore Green Plan. The message brought forward was focused on bringing food waste to the forefront by highlighting how our students can play their part in reducing food waste.  
+This programme goes beyond just learning about insects; it emphasizes the crucial role each individual plays in creating a more sustainable future. By understanding how a seemingly small creature can make a big difference in waste management, our students are inspired to adopt responsible practices in their own lives and become advocates for environmental stewardship within their families and communities. The YES programme is cultivating a generation of environmentally conscious individuals who understand that even the smallest actions can contribute to a healthier planet for all.
 
-  
+![](/images/YES_Programme_1.jpg)
 
-The school had kickstarted the programme with an assembly talk in the morning and a set of engaging fringe activities conducted during the recess periods to drive the message home that everyone plays a part in sustainability.
-
-![](/images/2023%20yed.jpg)
+![](/images/YES_Programme_2.jpg)

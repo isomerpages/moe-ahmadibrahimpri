@@ -141,4 +141,22 @@ their opponents a run for their money. Well done, team!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL25T101.jpg">
 </div>
+<h4><strong>Vactors Reading Stars Competition</strong></h4>
+<p>Our Primary 3 team which participated in the Vactors Reading Stars competition
+emerged as one of the winners!</p>
+<p>The team of Muhammad Jibran, Hong Yutong and Aldebaran Pramudya Kurniantoro
+brought the classic tale of The Fisherman And His Wife to life with their
+voices. Congratulations to the brilliant trio!</p>
+<p>Scan the QR code to listen to their podcast!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vactor_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vactor_02.jpg">
+</div>
+<p>&nbsp;</p>
+<p></p>
 <p></p>

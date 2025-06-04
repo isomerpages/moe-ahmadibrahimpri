@@ -2,14 +2,18 @@
 title: Malay
 permalink: /malay/
 description: ""
+variant: markdown
 ---
 **Malay Language Department**
 
 Aim:
-* To instill interest and passion in the learning of the Malay Language.
-* To enrich pupils’ knowledge of the Malay Language and culture through MT Fortnight activities and learning journeys.
-* To enhance teachers’ teaching competencies through professional sharing sessions, peer coaching, action research and lesson
-* studies.
+
+*   To instill interest and passion in the learning of the Malay Language.
+    
+*   To enrich pupils’ knowledge of the Malay Language and culture through MT Fortnight activities and learning journeys.
+    
+*   To enhance teachers’ teaching competencies through professional sharing sessions, peer coaching, action research and lesson studies.
+    
 
 We believe that our children are ‘Leaders of Characters and Learners for Life’. As such, the Malay Language Department strive to provide the best for our pupils so they can reach their fullest potential.
 
@@ -23,7 +27,7 @@ The ability to learn a language is when the students are able to acquire and mas
 
 Keindahan Bahasa Melayu dapat diperhatikan berdasarkan pantun di atas. Jabatan Bahasa Melayu di AIPS mahu terapkan keindahan Bahasa kepada semua murid kami agar mereka dapat menghayati keindahan Bahasa dan kemurnian budaya Melayu.
 
-Kami telah menjalankan beberapa aktivit untuk sentiasa menarik minat murid-murid kami. Walaupun diambang COVID-19, pembelajaran Bahasa Melayu tetap giat dilakukan melaui SLS.
+Jabatan Bahasa Melayu AIPS telah menjalankan beberapa aktiviti untuk memupuk minat murid-murid dalam pembelajaran Bahasa Melayu. Kami juga telah merancang beberapa lawatan darmawisata di luar kurikulum supaya murid-murid dapat pengalaman yang autentik dalam pengajaran Bahasa Melayu. Kami di AIPS menitikberatkan pengalaman yang menarik untuk murid-murid kami supaya Bahasa Melayu itu dilihat sebagai bahasa yang seronok!
 
 #### BAHASA MELAYU @ AIPS
 
