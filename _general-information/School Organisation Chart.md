@@ -20,14 +20,12 @@ variant: markdown
 | HOD ICT | Mrs Connie Chong    | ang_hong_cheng@moe.edu.sg |
 | HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
 | HOD PAM / CCA | Mr Sakthi Ganapathi | sakthi_ganapathi_ramachandra@moe.edu.sg |
-| HOD Science | Mr Lim Wee Kiat | lim_wee_kiat@moe.edu.sg |
-| HOD Student Leadership & Discipline | Mdm Nur Farah Mohamed Nasir | nur_farah_mohamed_nasir@moe.edu.sg |
 | School Staff Developer | Mdm Lau Lee Peng Lillian | lau_lee_peng_lillian@moe.edu.sg |
 | Year Head / Lower Primary | Mdm Siti Aisha Said | siti_aisha_said@moe.edu.sg |
 | Year Head / Middle Primary | Mrs Diana Ho | ong_suat_keng@moe.edu.sg|
 | Year Head / Upper Primary | Mdm Alfiah Md Yusoff | alfiah_md_yusoff@moe.edu.sg |
 | Asst Year Head / Lower Primary | Mdm Ang Hwee See Sandra | ang_hwee_see_sandra@moe.edu.sg |
-| Asst Year Head / Middle Primary (Internal) | Mr Muhammad Fadhli Zulkiflee | Muhammad_Fadhli_Zulkiflee@moe.edu.sg |
+| Asst Year Head / Middle Primary | Mr Muhammad Fadhli Zulkiflee | Muhammad_Fadhli_Zulkiflee@moe.edu.sg |
 | Asst Year Head / Upper Primary | Ms Ong Yi Ling Eileen | ong_yi_ling_eileen@moe.edu.sg |
 | Level Head English | Mr Goh Koon Yu Daniel | goh_koon_yu_daniel@moe.edu.sg |
 | Level Head Maths | Ms Chan Jie Ting Angelin | chan_jie_ting_angelin@moe.edu.sg |
@@ -36,6 +34,7 @@ variant: markdown
 | Subject Head / Educational Support | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
 | Subject Head ICT | Mr Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
+| Subject Head Student Well-Being | Mr Jeremy Neo Koon Seng | Neo_koon_seng_jeremy@schools.gov.sg |
 | Lead Teacher Maths | Mdm Mabel Chia Wey Ching | chia_wey_ching_mabel@moe.edu.sg |
 | Senior Teacher English Language | Mrs Cheryl Chhabra | tan_tse_ping_cheryl@moe.edu.sg |
 | Senior Teacher English Language| Mdm Rajeswari d/o Ayahu | rajeswari_ayahu@moe.edu.sg |
