@@ -541,10 +541,10 @@ variant: tiptap
 <p>P3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Jia Ying Brenda</p>
+<p>Mr Jeremy Neo Koon Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_jia_ying_brenda@moe.edu.sg</a>
+<p><a href="mailto:Neo_koon_seng_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Neo_koon_seng_jeremy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -931,10 +931,10 @@ variant: tiptap
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wee Kiat</p>
+<p>Ms Lee Jia Ying Brenda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_wee_kiat@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_jia_ying_brenda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
