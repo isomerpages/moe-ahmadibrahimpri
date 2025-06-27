@@ -34,7 +34,7 @@ variant: markdown
 | Subject Head / Educational Support | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |
 | Subject Head ICT | Mr Koh Zhin Yen | koh_zhin_yen@moe.edu.sg |
 | Subject Head Student Well-Being | Mr De Silva Adrian Gerard | de_silva_adrian_gerard@moe.edu.sg |
-| Subject Head Student Well-Being | Mr Jeremy Neo Koon Seng | Neo_koon_seng_jeremy@schools.gov.sg |
+| Subject Head Student Well-Being | Mr Jeremy Neo Koon Seng | Neo_koon_seng_jeremy@moe.edu.sg |
 | Lead Teacher Maths | Mdm Mabel Chia Wey Ching | chia_wey_ching_mabel@moe.edu.sg |
 | Senior Teacher English Language | Mrs Cheryl Chhabra | tan_tse_ping_cheryl@moe.edu.sg |
 | Senior Teacher English Language| Mdm Rajeswari d/o Ayahu | rajeswari_ayahu@moe.edu.sg |
