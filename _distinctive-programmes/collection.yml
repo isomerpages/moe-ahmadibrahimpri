@@ -2,8 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Overseas Learning Journey/2025 Shanghai China.md
-      - Overseas Learning Journey/.keep
       - Inter Disciplinary Project (IPW).md
       - Applied Learning Programmes/.keep
       - Applied Learning Programmes/Applied Learning Programmes (ALP).md
@@ -22,3 +20,5 @@ collections:
         (YES) Day.md
       - Learning for Life Programmes (LLP).md
       - Programme for Active Learning (PAL).md
+      - Overseas Learning Journey/.keep
+      - Overseas Learning Journey/2025 Shanghai China.md
