@@ -4,12 +4,10 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-#### 2025 May Notification to Parents
+#### 2025 AIPS e-Open House
+
+Click [HERE](https://go.gov.sg/aips2025) to register.
+
+#### 2025 July Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
-
-
-
-#### General Guidelines for Snack Break
-
-Click&nbsp;[here](/partners/students-and-parents-resources/generalguidelinesforsnackbreak/)&nbsp;to find out more.
