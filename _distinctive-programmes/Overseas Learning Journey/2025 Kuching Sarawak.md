@@ -53,3 +53,49 @@ lively dance to “Reach Out for the Skies” as a gesture of appreciation.
 The visit concluded with a heartfelt gift exchange, each gift meaningfully
 put together by our students in appreciation of the strong bonds formed
 during this memorable experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kcSlide1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kcSlide2.jpg">
+</div>
+<p><strong>Cultural and Educational City Tour</strong>
+</p>
+<p>Beyond the classroom, our group had an awe-inspiring trip to the Semenggoh
+Wildlife Centre, where we observed semi-wild orangutans in their natural
+environment and learned about conservation efforts. At the Sarawak Biodiversity
+Centre, we explored the region’s diverse ecosystems and gained valuable
+insights into traditional knowledge and scientific research. A visit to
+the Sarawak Cultural Village offered a vibrant showcase of Sarawak’s many
+ethnic groups through traditional performances, crafts, and architecture.
+The adventure concluded with a captivating tour of the Borneo Cultures
+Museum, where interactive exhibits brought the rich history and heritage
+of Sarawak to life.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kcSlide7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kcSlide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kcSlide5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kcSlide4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kcSlide3.jpg">
+</div>
+<p>The Overseas Learning Journey to Kuching was both educational and inspiring
+for our teachers and students, exposing us to cultures beyond Singapore
+and leaving positive lasting memories for all who participated.</p>
+<p></p>
+<p></p>
