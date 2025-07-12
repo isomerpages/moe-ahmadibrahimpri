@@ -17,7 +17,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6759 2906
-      - email: ""
+      - email: aips@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
