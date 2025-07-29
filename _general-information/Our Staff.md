@@ -1095,14 +1095,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Li Boon</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_boon@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
