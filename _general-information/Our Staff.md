@@ -1036,15 +1036,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
-<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chua Chiew Yin</p>
-<p>Ms Michelle d/o Gabriel Dorai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tang_chiew_yin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle d/o Gabriel Dorai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1108,6 +1117,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
