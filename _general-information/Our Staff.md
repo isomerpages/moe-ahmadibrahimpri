@@ -92,7 +92,7 @@ variant: tiptap
 <p>Ms Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:kavitha_karunanithi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_karunanithi@moe.edu.sg</a>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">kavitha_karunanithi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ variant: tiptap
 <p>Ms Gayathry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayathry_gurusamy_ramaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -460,7 +460,7 @@ variant: tiptap
 <p>Mr Muhammad Hasyim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:muhammad_hasyim_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hasyim_mohamad@moe.edu.sg</a>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">muhammad_hasyim_mohamad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -544,7 +544,7 @@ variant: tiptap
 <p>Mr Jeremy Neo Koon Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Neo_koon_seng_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Neo_koon_seng_jeremy@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Neo_koon_seng_jeremy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -804,7 +804,7 @@ variant: tiptap
 <p>Ms Cia Zhi Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1036,9 +1036,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chua Chiew Yin</p>
+<p>Ms Michelle d/o Gabriel Dorai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tang_chiew_yin@moe.edu.sg</a>
