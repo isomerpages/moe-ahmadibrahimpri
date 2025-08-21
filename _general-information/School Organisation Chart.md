@@ -29,6 +29,7 @@ variant: markdown
 | Asst Year Head / Upper Primary | Ms Ong Yi Ling Eileen | ong_yi_ling_eileen@moe.edu.sg |
 | Level Head English | Mr Goh Koon Yu Daniel | goh_koon_yu_daniel@moe.edu.sg |
 | Level Head Maths | Ms Chan Jie Ting Angelin | chan_jie_ting_angelin@moe.edu.sg |
+| Level Head Maths (Internal) | Mdm Nurmiszah Kamis | nurmiszah_kamis@moe.edu.sg |
 | Level Head Science | Ms Lee Jia Ying Brenda | lee_jia_ying_brenda@moe.edu.sg |
 | Subject Head Aesthetics  | Ms Teo Pei Ling Dawn | teo_pei_ling_dawn@moe.edu.sg |
 | Subject Head / Educational Support | Mdm Zarena Abdul Rahim | zarena_abdul_rahim@moe.edu.sg |

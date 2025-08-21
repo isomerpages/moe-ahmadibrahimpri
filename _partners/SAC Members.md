@@ -4,4 +4,4 @@ permalink: /partners/sac-members/
 description: ""
 variant: markdown
 ---
-![](/images/SAC_members_2024.jpg)
+![](/images/SAC_2025.jpg)
