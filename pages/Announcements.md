@@ -8,6 +8,6 @@ variant: markdown
 
 Click [HERE](https://go.gov.sg/aips2025) to register.
 
-#### 2025 July Notification to Parents
+#### 2025 Aug Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
