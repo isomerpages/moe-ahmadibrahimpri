@@ -7,3 +7,8 @@ variant: markdown
 #### 2025 Aug Notification to Parents
 
 Click [HERE](/partners/resources-for-parents-students/SchoolNotificationstoparents/) to read notification.
+
+
+#### General Office will be closed on 29 August from 1.45pm for staff event.
+
+
