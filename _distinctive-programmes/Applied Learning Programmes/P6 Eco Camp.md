@@ -11,3 +11,14 @@ Learning Scopes:
 
 ![](/images/p6_eco_2.png)
 ![](/images/P6_eco_1.png)
+Primary 6 Eco Camp
+
+The Primary 6 students went to Gardens by the Bay and explored the plants and learnt about their adaptations. 
+
+The objectives of this programme are:
+ 
+·       To provide an authentic experience for students to apply their
+knowledge and skills learnt and embrace learning with joy.
+·       To better understand and appreciate the adaptations of organisms in an
+environment, and the importance of environmental conservation.
+![](/images/6_eco_Slide1.jpg)![](/images/6_eco_Slide2.jpg)
