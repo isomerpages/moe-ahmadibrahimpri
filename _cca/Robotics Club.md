@@ -4,16 +4,15 @@ permalink: /cca/robotics-club/
 description: ""
 variant: tiptap
 ---
-<p>Our purpose is to learn more about coding and learning more about computers
-and technology. The club is currently learning to code using the CoderZ
-portal to simulate the working of the Lego EV3.</p>
-<p>Join the exciting world of Robotics! In this club, Primary 3 to 5 students
-will explore basic coding and robotics through hands-on activities and
-fun challenges. Learn to work as a team, think critically, and solve real-world
-problems using technology. Students will also have the opportunity to take
-part in national competitions like FLL (First Lego League) and NRC (National
-Robotics Competition). Gain new coding skills, build cool robots, and develop
-the confidence to work under pressure—all while having fun!</p>
+<p>The Robotics Club offers students an exciting opportunity to explore the
+world of technology, innovation, and problem-solving. Through hands-on
+activities, members learn to design, build, and program robots while developing
+critical thinking, creativity, and teamwork skills. Our students take part
+in national and international competitions such as the First Lego League
+(FLL) and the National Robotics Competition (NRC), where they apply their
+knowledge to real-world challenges. Beyond competitions, the club also
+nurtures leadership, collaboration, and resilience, preparing students
+to embrace the future of technology with confidence.</p>
 <h3>CCA Details</h3>
 <hr>
 <p></p>
@@ -49,7 +48,7 @@ the confidence to work under pressure—all while having fun!</p>
 <p>CCA sessions:</p>
 <p>Tuesdays 2pm to 5pm [Competitive]</p>
 <p>Tuesdays 2pm to 4pm [Non-competitive]</p>
-<p>Location: Computer Lab 3</p>
+<p>Location: Computer Lab 2 and 3</p>
 </td>
 </tr>
 </tbody>
