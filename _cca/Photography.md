@@ -102,4 +102,18 @@ Club.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Photo by Shakirah Melati Binte Mohamed Subir" src="/images/Photography15.jpg">
 </div>
 <p>Photo by&nbsp;Shakirah Melati Binte Mohamed Subir</p>
+<h3>Students in Action</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25t3_pc_Slide4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25t3_pc_Slide3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25t3_pc_Slide2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25t3_pc_Slide1.jpg">
+</div>
 <p></p>
