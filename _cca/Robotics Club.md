@@ -76,6 +76,19 @@ the confidence to work under pressure—all while having fun!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotic_2505.jpg">
 </div>
+<blockquote>
+<p><strong>2025 National Day Ceremory</strong>
+</p>
+</blockquote>
+<p>The Cub Scouts played a significant role in our school's recent National
+Day celebrations, proudly escorting the National Flag to begin the ceremony.
+They performed their duty with great discipline and pride, representing
+our scout group with honor in front of the entire school. Their participation
+was a highlight of the event, and they certainly did us all proud.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc_25t3.jpg">
+</div>
 <p></p>
 <p>
 <br>
