@@ -79,6 +79,40 @@ Through these activities, students gained valuable insights into how every Singa
 
 ![TDD25](/images/TDD_pic_collage.jpg)
 
+#### Racial Harmony Day 2025 - Our Tapestry, Our Story
+
+     
+On 19 July 2025, Ahmad Ibrahim Primary School commemorated Racial Harmony Day with the theme “Our Tapestry, Our Story.” The celebrations encouraged our students to appreciate Singapore’s cultural diversity and reflect on the importance of harmony in our shared future.
+During recess, students enjoyed a range of engaging fringe activities:
+
+●	Weave Our Singapore Tapestry: Students decorated paper squares with personal cultural symbols, which were combined into a giant tapestry displayed in school. This symbolised how every heritage forms a unique part of our national story.
+
+●	Language Lanes: Students matched greetings such as “Good morning” and “Thank you” across different local languages, and practised saying them with teachers and volunteers. Each greeting earned them a sticker, reinforcing that language is a bridge to culture and respect.
+
+●	Culture-in-a-Bag: Through mystery items and clue cards, students explored the richness of different cultures present in Singapore.
+
+●	Harmony Arcade:  Interactive digital games like “Spin the Globe” trivia and “Cultural Snap!” gave students a playful way to learn about festivals, costumes, and traditions.
+
+●	Unity Fingerprint Wall (My Commitment): Students pledged their commitment to racial harmony by adding their colourful fingerprints to a large mural spelling “HARMONY,” each print representing one heart in our united community.
+The celebrations also featured a school assembly, where students were treated to dance performances from different cultures. Teachers and students alike came dressed in their traditional attire, adding colour and vibrancy to the occasion.
+Through these activities, our AIPS community celebrated the belief that “Our differences are threads that make up one beautiful tapestry – Singapore.”
+
+![](/images/WhatsApp_Image_2025_07_22_at_8_32_34_AM.jpg)
+
+![](/images/WhatsApp_Image_2025_07_21_at_3_54_36_PM.jpg)
+
+![](/images/WhatsApp_Image_2025_07_21_at_3_41_59_PM.jpg)
+
+![](/images/WhatsApp_Image_2025_07_21_at_3_40_55_PM.jpg)
+
+![](/images/WhatsApp_Image_2025_07_21_at_3_39_03_PM.jpg)
+
+![](/images/WhatsApp_Image_2025_07_21_at_3_32_00_PM.jpg)
+
+![](/images/WhatsApp_Image_2025_07_21_at_3_28_41_PM.jpg)
+
+
+
 
 #### 2024 International Friendship Day 
 Internatiional Friendship Day is celebrated in schools on the third Friday of Term Two. This is a day dedicated to the understanding of Singapore's relations with its neighbours and aims to nurture in students the spirit of friendship and collaboration among different people. The theme for this year is "Singapore in Asia". Ahmad Ibrahim students had the opportunity to learn various musical instruments performed by Rhythm Masala Music Studio. Students were exposed with all the international drums from all over the world such as Brazilian, Latin, Western, African, Middle Eastern and Multi Ethnic Drums. They also got the chance to play the instruments. During recess, students participated in various fringe activities where they learned more about food and musical instruments from ASEAN countries. These informations were exhibited on the information board and after reading, they answer quiz questions using iPad. Many students enjoyed colouring activities relating to international Friendship Day. Word search activity test them in identifying the 10 ASEAN countries. After all the learning, they will do reflections and lastly token were also given.
