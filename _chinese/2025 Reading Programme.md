@@ -8,6 +8,12 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我们也进行了别开生面的导读活动。我们邀请家长义工走入华文课堂，给一年级同学们导读绘本《大卫，不可以》，受到了大家热烈的欢迎的喜爱。四年级高级华文班的同学们也带上自己精心准备的资料，走入了二年级课堂，为二年级同学导读《菲菲，你真棒》。每个人都从阅读中收获了极大的乐趣</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/readgprog01.jpg">
 </div>
 <div class="isomer-image-wrapper">
