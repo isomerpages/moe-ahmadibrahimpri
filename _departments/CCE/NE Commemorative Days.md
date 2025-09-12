@@ -112,6 +112,31 @@ Through these activities, our AIPS community celebrated the belief that “Our d
 ![](/images/WhatsApp_Image_2025_07_21_at_3_28_41_PM.jpg)
 
 
+#### National Day 2025 Celebrations @ Ahmad Ibrahim Primary School
+
+On 8 August 2025, our school came together to celebrate Singapore’s 60th National Day (SG60) with the theme “Together, As One Nation.” The celebrations reflected both the pride we have in our nation’s journey and the unity we share as Singaporeans.
+The day’s programme featured three main items from exciting classroom-based activities, fun recess fringe activities to a memorable National Day concert. 
+During recess, students participated in a variety of engaging booths that brought out the spirit of National Day. These activities gave them opportunities to celebrate our shared history and culture in fun and interactive ways.
+
+The highlight of the celebrations was the school-wide concert. The concert began with a solemn Observance Ceremony led by Parade Commander Mr Nazreen. This was followed by lively performances by our CCAs, including Indian Dance, Malay Dance, Chinese Dance, and Rope Skipping. Students also took part in a school-wide Kahoot! quiz, testing their knowledge of Singapore’s history in an exciting and interactive way.
+The celebrations ended on a high note with a heartfelt rendition of “Home” performed by Dian and Zara, reminding us all of the importance of unity, belonging, and love for our country.
+This year’s SG60 celebrations at Ahmad Ibrahim Primary School not only deepened our students’ understanding of Singapore’s history but also strengthened their sense of identity and pride as Singaporeans.
+
+![](/images/natdaypic08.jpg)
+
+![](/images/natdaypic07.jpg)
+
+![](/images/natdaypic06.jpg)
+
+![](/images/natdaypic05.jpg)
+
+![](/images/natdaypic04.jpg)
+
+![](/images/natdaypic03.jpg)
+
+![](/images/natdaypic02.jpg)
+
+
 
 
 #### 2024 International Friendship Day 
