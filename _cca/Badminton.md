@@ -42,7 +42,7 @@ in competitions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays 2pm - 3pm (Recreational Team)</p>
-<p>Tuesdays 2pm - 5pm (School Team)</p>
+<p>Tuesdays 2pm - 4:30pm (School Team)</p>
 </td>
 </tr>
 </tbody>
