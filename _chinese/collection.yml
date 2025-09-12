@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2025 CL Mother Tongue Fortnight.md
       - 2025 MTL Broadcast Journalism.md
       - 2025 Meet and Greet The Author.md
       - 2025 CPES.md
