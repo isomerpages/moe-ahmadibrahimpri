@@ -78,17 +78,6 @@ an impact for the environment and for them to pledge in helping the environment.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts%205%202023.JPG">
 </div>
-<p>As part of our celebrations in school for National Day, the cub scouts
-practised marching so that they can lead the National Day Observance Ceremony
-with the March-in.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts%206%202023.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cub_scouts.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts_25t101.jpg">
 </div>
