@@ -5,13 +5,7 @@ description: ""
 third_nav_title: Applied Learning Programmes
 variant: markdown
 ---
-Learning Scopes:
-
-1. Students reinforce concepts learnt on man’s negative impacts on the environment &amp; adaptations of organisms in a habitat.
-
-![](/images/p6_eco_2.png)
-![](/images/P6_eco_1.png)
-Primary 6 Eco Camp
+**2025 Primary 6 Eco Camp**
 
 The Primary 6 students went to Gardens by the Bay and explored the plants and learnt about their adaptations. 
 
