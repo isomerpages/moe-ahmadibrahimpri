@@ -4,7 +4,7 @@ permalink: /homebasedlearninginstructions/
 description: ""
 variant: markdown
 ---
-### Home Based Learning Instructions (P1 P2 26 Sept - 1 Oct 2024) 
+### Home Based Learning Instructions (P3 P4 25 - 30 Sept 2025) 
 
 
 #### Primary 1
