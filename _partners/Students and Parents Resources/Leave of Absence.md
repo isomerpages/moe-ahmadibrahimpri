@@ -20,7 +20,7 @@ We will charge an annual nominal fee for a child on LOA.
 Upon successful application, the school will advise on the payment procedure for the LOA fee.
 
 ##### Application<br>
-To apply for LOA, please complete the LOA Application form via this [link](https://form.gov.sg/admin/form/68db54084b93e0337c3072e2).
+To apply for LOA, please complete the LOA Application form via this [link](https://form.gov.sg/68db54084b93e0337c3072e2).
 
 You may wish to know that the LOA is renewable annually. By November of each year, you will need to decide whether to renew the LOA for another year and your child’s LOA status will expire if you choose not to renew.
 
