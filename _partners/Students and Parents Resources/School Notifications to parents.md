@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Students and Parents Resources
 variant: markdown
 ---
+[2025 November Notification to Parents.pdf](/files/Notification_to_Parents_November_2025_.pdf)
+
 [2025 October Notification to Parents.pdf](/files/Notification_to_Parents_October_2025_.pdf)
 
 [2025 September Notification to Parents.pdf](/files/Notification_to_Parents_September_2025.pdf)
