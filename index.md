@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/AIPS.gif
+      background: /images/2025_homepage_banner.gif
       key_highlights:
         - title: Announcements
           description: Click here for latest announcements!
