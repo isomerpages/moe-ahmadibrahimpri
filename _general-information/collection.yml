@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Acceptable Use Policy (AUP).md
       - Principal's Message.md
       - School Vision and Mission.md
       - School Organisation Chart.md
