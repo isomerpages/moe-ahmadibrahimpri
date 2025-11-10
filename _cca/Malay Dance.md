@@ -153,7 +153,6 @@ and commitment since joining the club in Primary 2.</p>
 conducted by Nadi Singapura, with Mr Yaziz Hassan as the lead trainer.
 The dancers were fortunate to learn from this award-winning musician, gaining
 valuable insights into the art form and its cultural significance.</p>
-<p>&nbsp;</p>
 <p>They will showcase what they have learnt through a special performance
 on Appreciation Day, 21 November 2025.</p>
 <p></p>
