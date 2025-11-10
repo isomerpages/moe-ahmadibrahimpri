@@ -67,7 +67,7 @@ celebrations, Welcome Tea (for new members) &amp; an annual Farewell Party
 </tbody>
 </table>
 <p></p>
-<h2><strong> P6 Graduation Party 2024</strong></h2>
+<h2><strong>P6 Graduation Party 2024</strong></h2>
 <p>It has become a cherished yearly tradition for our Dance Club to host
 a special party in honour of our graduating Primary 6 dancers. During this
 celebration, our members receive certificates in recognition of their contributions
