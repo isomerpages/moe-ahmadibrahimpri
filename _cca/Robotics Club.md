@@ -61,7 +61,17 @@ to embrace the future of technology with confidence.</p>
 </div>
 <h2>National Robotics Competition 2025</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic01.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic03.jpg">
+</div>
 <h2>National Primary Games Creation and Coding Competition 2025</h2>
 <p></p>
 <p></p>
