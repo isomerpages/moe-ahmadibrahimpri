@@ -94,7 +94,7 @@ The procedure for this, is as such
 * No medication can be administered to pupil without parent's consent.
 * Parents will be informed of injury, irregardless of severity.
 
-# Health@AIPS 2025: Building Awareness and Motivation for Holistic Health
+##### **Health@AIPS 2025: Building Awareness and Motivation for Holistic Health**
 
 In 2025, Health@AIPS embarked on a new initiative to raise awareness and motivation among students towards holistic health - nurturing the body, mind, and heart for overall well-being.
 Throughout the year, each term focused on a different aspect of health:
@@ -125,29 +125,6 @@ By engaging in these hands-on and heart-filled experiences, students not only de
 
 At AIPS, we believe that when students care for their body, mind, and relationships, they grow into confident, kind, and resilient individuals - truly embodying the Health@AIPS spirit of **“Healthy Me, Happy Us!”**
 
-# **Sports Education Programme**
-
-The Sports Education Programme (SEP) offers Primary 1 to 6 students the opportunity to explore and experience a variety of sports beyond their regular PE lessons. Through SEP, students can discover new interests, develop their skills, and nurture a lifelong love for being active — all while having fun!
-
-**Primary 1 – Wushu**
-
-Our Primary 1 students had an exciting introduction to Wushu! This fun and engaging programme introduced them to the basic movements and discipline of traditional Chinese martial arts. Through simple stances, hand forms, and coordination drills, students built balance, focus, and confidence while learning the values of respect and perseverance. Beyond promoting fitness, the Wushu SEP also nurtured an appreciation of Chinese culture and heritage through movement.
-
-![](/images/P1_SEP_Wushu.png)
-
-
-**Primary 2 – Lion and Dragon Dance**
-
-Our Primary 2 students had a roaring good time participating in the Lion and Dragon Dance! This vibrant programme introduced them to the traditions, rhythms, and teamwork behind these iconic performances. Through hands-on activities, students learned to coordinate movements, follow drum beats, and work together to bring the lion and dragon to life. The experience built rhythm, coordination, and cooperation, while deepening their appreciation of Chinese culture and festive traditions. The highlight was watching our young performers move with enthusiasm and pride, spreading joy and energy like a real lion and dragon dance!
-
-![](/images/P2_SEP_Dragon_Dance.png)
-
-![](/images/P2_SEP_Lion_Dance.png)
 
 
 
-**Primary 4 – Kin-Ball**
-
-Our Primary 4 students had a blast participating in the Kin-Ball Programme! This unique team sport, played with a giant lightweight ball, emphasized cooperation, communication, and teamwork. Students learned to serve, receive, and attack while ensuring everyone stayed actively involved. The inclusive nature of Kin-Ball fostered collaboration and mutual support, helping students build coordination, spatial awareness, and strong team spirit — key values both on and off the court!
-
-![](/images/P4_SEP_Kinball.png)
