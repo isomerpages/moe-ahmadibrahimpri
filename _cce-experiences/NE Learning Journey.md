@@ -4,6 +4,18 @@ permalink: /cce-experiences/ne-learning-journey/
 description: ""
 variant: markdown
 ---
+#### Museum-Based Learning Journeys (MBLJs)
+
+The Museum-Based Learning Journeys (MBLJs) are an integral part of our Character and Citizenship Education (CCE) programme. They are designed to enhance students’ 21st Century Competencies, while enabling a more inclusive and authentic learning experience through lessons at Singapore’s museums and historical/ heritage sites.
+
+
+P3 MBLJ to Geylang Serai Heritage Gallery (GSHG)
+
+The Primary 3 students went to GSHG on 2, 25 and 30 July 2025. It was the first time our P3s embarked on a MBLJ. The programme began with a precinct walk through Geylang Serai Market and Food Centre, where students learned why this vibrant neighbourhood holds a special place in the hearts of the Malay community in Singapore. As they walked, they marvelled at the Malay architecture, traditions and products sold in the market/ food centre. At the gallery, the students gained valuable insights into the history of Geylang Serai and experienced traditional games and crafts. Through interactive displays and stories, they gained a deeper appreciation of how the Malay community has contributed to Singapore’s development over the years.
+
+**
+
+
 #### 2024 P4 NE Learning Jouney
 The Primary Four National Education (NE) Learning Journey (LJ) was a Museum Based Learning (MBL) to Kreta Ayer Heritage Gallery (KAHG). It was held on 3rd July, 26 Sept and 27 Sept 2024. The NE Learning Journey aims to provide opportunities for students to understand the history, heritage and diversity within the Chinese community. They also learnt to recognise the contributions made by the Chinese community in Singapore towards nation-building; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage. There were various stations sharing about Chinese Opera, Chinese Tea Ceremony, Chinese Musical Instruments, Chinese Calligraphy and about the history of Telok Ayer. The students and teachers learnt more the Chinese community through the Museum Educators too. It was indeed an eye-opening journey for all.
 
