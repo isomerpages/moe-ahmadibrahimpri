@@ -124,7 +124,3 @@ Students celebrated the joy of connecting with others through fun and interactiv
 By engaging in these hands-on and heart-filled experiences, students not only deepened their understanding of holistic health but also built positive habits to sustain their physical, mental, and social well-being.
 
 At AIPS, we believe that when students care for their body, mind, and relationships, they grow into confident, kind, and resilient individuals - truly embodying the Health@AIPS spirit of **“Healthy Me, Happy Us!”**
-
-
-
-
