@@ -31,12 +31,12 @@ mental well-being.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Health_AIPS_Mental_Health.png">
 </div>
 <p></p>
-<p><strong>Term 3: Mental Health – “Happy Heart, Happy Mind”</strong>
+<p><strong>Term 4: Social Health – “Connecto-pillar!”</strong>
 </p>
-<p>Activities such as the Gratitude Tree, Crumple to Calm, Open Mic, Walking
-the Pet, and the Interactive Wall gave students meaningful ways to express
-themselves, build gratitude, and learn simple strategies to care for their
-mental well-being.</p>
+<p>Students celebrated the joy of connecting with others through fun and
+interactive activities such as gathering interests about their friends,
+playing paper ball with peers, exchanging and making loom bands, and contributing
+to the interactive wall.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Health_AIPS_Social_Health.png">
