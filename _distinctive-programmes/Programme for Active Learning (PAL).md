@@ -67,7 +67,7 @@ fun outdoor activities that built confidence, teamwork and care for others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_dil___S_G.jpg">
 </div>
-<p>
+<p>2025~
 <br>
 </p>
 <p></p>
