@@ -30,7 +30,15 @@ P4 MBLJ to Kreta Ayer Heritage Gallery (KAHG)
 
 The Primary 4 students went to KAHG on 29 and 30 October 2025. This opportunity enabled students to discover the history, heritage and diversity within the Chinese community. They learnt to recognise the contributions made by the Chinese community in Singapore towards nation-building; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage. There were interactive stations on Chinese Opera, Tea Ceremony, Chinese Musical Instruments, Chinese Calligraphy and the history of Telok Ayer. The students and teachers also appreciated Chinese culture through stories told by the Museum Educators.
 
+![](/images/P4___Buddha_tooth_relic_temple.jpg)
 
+![](/images/P4___chinatown_complex.jpg)
+
+![](/images/P4___Music___Tea.jpg)
+
+![](/images/P4___opera.jpg)
+
+![](/images/P4___precinct_walk.jpg)
 
 
 
