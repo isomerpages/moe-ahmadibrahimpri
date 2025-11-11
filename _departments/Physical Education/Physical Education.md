@@ -133,6 +133,8 @@ The Sports Education Programme (SEP) offers Primary 1 to 6 students the opportun
 
 Our Primary 1 students had an exciting introduction to Wushu! This fun and engaging programme introduced them to the basic movements and discipline of traditional Chinese martial arts. Through simple stances, hand forms, and coordination drills, students built balance, focus, and confidence while learning the values of respect and perseverance. Beyond promoting fitness, the Wushu SEP also nurtured an appreciation of Chinese culture and heritage through movement.
 
+![](/images/P1_SEP_Wushu.png)
+
 
 
 
