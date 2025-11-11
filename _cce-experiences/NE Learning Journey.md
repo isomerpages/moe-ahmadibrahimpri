@@ -19,10 +19,10 @@ The Primary 3 students went to GSHG on 2, 25 and 30 July 2025. It was the first 
 
 ![](/images/P3MBLJ03.png)
 
+![](/images/P3MBLJ04.png)
 
 
-
-#### 2024 P4 NE Learning Jouney
+P4 NE Learning Jouney
 The Primary Four National Education (NE) Learning Journey (LJ) was a Museum Based Learning (MBL) to Kreta Ayer Heritage Gallery (KAHG). It was held on 3rd July, 26 Sept and 27 Sept 2024. The NE Learning Journey aims to provide opportunities for students to understand the history, heritage and diversity within the Chinese community. They also learnt to recognise the contributions made by the Chinese community in Singapore towards nation-building; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage. There were various stations sharing about Chinese Opera, Chinese Tea Ceremony, Chinese Musical Instruments, Chinese Calligraphy and about the history of Telok Ayer. The students and teachers learnt more the Chinese community through the Museum Educators too. It was indeed an eye-opening journey for all.
 
 #### 2024 P6 Musuem Based Learning Journey
