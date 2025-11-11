@@ -13,7 +13,13 @@ P3 MBLJ to Geylang Serai Heritage Gallery (GSHG)
 
 The Primary 3 students went to GSHG on 2, 25 and 30 July 2025. It was the first time our P3s embarked on a MBLJ. The programme began with a precinct walk through Geylang Serai Market and Food Centre, where students learned why this vibrant neighbourhood holds a special place in the hearts of the Malay community in Singapore. As they walked, they marvelled at the Malay architecture, traditions and products sold in the market/ food centre. At the gallery, the students gained valuable insights into the history of Geylang Serai and experienced traditional games and crafts. Through interactive displays and stories, they gained a deeper appreciation of how the Malay community has contributed to Singapore’s development over the years.
 
-**
+![](/images/P3MBLJ01.png) 
+
+![](/images/P3MBLJ02.png)
+
+![](/images/P3MBLJ03.png)
+
+
 
 
 #### 2024 P4 NE Learning Jouney
