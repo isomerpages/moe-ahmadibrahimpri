@@ -49,14 +49,24 @@ Drama module.</p>
 <p><strong>Primary 1 PAL: Outdoor Education</strong>
 <br>P1 students learnt basic first aid, built tents and worked together through
 fun outdoor activities that built confidence, teamwork and care for others.</p>
-<p>*insert pictures</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_INT_OE_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outdoor_education.jpg">
+</div>
 <p><strong>Primary 2 PAL Sports and Games</strong>
 </p>
 <p>Students learn about communication and teamwork through Sports &amp; Games.</p>
-<p>*insert pictures</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_RES___S_G.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_dil___S_G.jpg">
+</div>
 <p>
 <br>
 </p>
