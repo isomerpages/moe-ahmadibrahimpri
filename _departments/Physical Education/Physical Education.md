@@ -94,5 +94,33 @@ The procedure for this, is as such
 * No medication can be administered to pupil without parent's consent.
 * Parents will be informed of injury, irregardless of severity.
 
+##### **Health@AIPS 2025: Building Awareness and Motivation for Holistic Health**
+
+In 2025, Health@AIPS embarked on a new initiative to raise awareness and motivation among students towards holistic health - nurturing the body, mind, and heart for overall well-being.
+Throughout the year, each term focused on a different aspect of health:
+
+**Term 2: Physical Health – “Move Well, Eat Well, Live Well”**
+
+Students learned how nutrition and physical activity work hand in hand to keep the body strong and healthy. They explored balanced diets, made thoughtful food choices, and discovered how eating well supports energy, growth, and overall vitality.
+
+![](/images/Health_AIPS_Physical_health.png)
 
 
+
+**Term 3: Mental Health – “Happy Heart, Happy Mind”**
+
+Activities such as the Gratitude Tree, Crumple to Calm, Open Mic, Walking the Pet, and the Interactive Wall gave students meaningful ways to express themselves, build gratitude, and learn simple strategies to care for their mental well-being.
+
+![](/images/Health_AIPS_Mental_Health.png)
+
+
+**Term 4: Social Health – “Connecto-pillar!”**
+
+Students celebrated the joy of connecting with others through fun and interactive activities such as gathering interests about their friends, playing paper ball with peers, exchanging and making loom bands, and contributing to the interactive wall.
+
+![](/images/Health_AIPS_Social_Health.png)
+
+
+By engaging in these hands-on and heart-filled experiences, students not only deepened their understanding of holistic health but also built positive habits to sustain their physical, mental, and social well-being.
+
+At AIPS, we believe that when students care for their body, mind, and relationships, they grow into confident, kind, and resilient individuals - truly embodying the Health@AIPS spirit of **“Healthy Me, Happy Us!”**

@@ -55,29 +55,41 @@ to embrace the future of technology with confidence.</p>
 </table>
 <h3>Highlights</h3>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/robotics1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/robotics2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/robotics3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/robotics4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics.jpg">
-</div>
-<p></p>
+<h2>First Lego League Competition 2025</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotic_2505.jpg">
 </div>
-<blockquote>
+<h2>National Robotics Competition 2025</h2>
 <p></p>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic03.jpg">
+</div>
+<h2>National Primary Games Creation and Coding Competition 2025</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games02.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games03.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games04.png">
+</div>
+<p></p>
 <p></p>
 <p>
 <br>
