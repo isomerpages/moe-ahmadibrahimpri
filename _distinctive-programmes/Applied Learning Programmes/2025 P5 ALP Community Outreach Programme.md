@@ -5,3 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Applied Learning Programmes
 ---
+<p>The P5 ALP Community Outreach Programme is an annual initiative that empowers
+our ALP Ambassadors to champion water conservation among preschoolers.
+Through the training sessions, our student ambassadors gain essential knowledge
+about water sustainability and develop key skills in design thinking, planning,
+facilitation, and oral presentation. They then apply these skills by designing
+and leading engaging activities for the preschoolers. This meaningful experience
+nurtures their Critical and Inventive Thinking, as well as their Communication
+and Collaboration skills, while fostering a strong sense of social responsibility
+and active contribution to the community.</p>
