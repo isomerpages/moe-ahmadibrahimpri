@@ -26,6 +26,8 @@ The Primary 3 students went to GSHG on 2, 25 and 30 July 2025. It was the first 
 ![](/images/P3MBLJ06.png)
 
 
+
+
 P4 MBLJ to Kreta Ayer Heritage Gallery (KAHG)
 
 The Primary 4 students went to KAHG on 29 and 30 October 2025. This opportunity enabled students to discover the history, heritage and diversity within the Chinese community. They learnt to recognise the contributions made by the Chinese community in Singapore towards nation-building; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage. There were interactive stations on Chinese Opera, Tea Ceremony, Chinese Musical Instruments, Chinese Calligraphy and the history of Telok Ayer. The students and teachers also appreciated Chinese culture through stories told by the Museum Educators.
@@ -39,6 +41,42 @@ The Primary 4 students went to KAHG on 29 and 30 October 2025. This opportunity 
 ![](/images/P4___opera.jpg)
 
 ![](/images/P4___precinct_walk.jpg)
+
+
+P5 MBLJ to Indian Heritage Centre (IHC) (Pics will be updated after LJ on 19 Nov 2025)
+
+The Primary 5 students went to IHC on 19 November 2025. The focus of the LJ was for students to understand the history, heritage and diversity within the Indian community; recognise the contributions made by the Indian community in Singapore towards nation-building; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage. The students visited stations about Indian Epics in Southeast Asia, Indian Dance and Costumes, Contributions of Early Indian Settlers, Our Indian Pioneers, Indian Garland Making and Indian Goldsmiths and Indian Cuisine. Through hands-on activities which utilised their senses, the students and teachers enjoyed learning more about Indian culture.
+
+
+
+
+
+**
+
+P6 MBLJ to Asian Civilisations Museum (ACM)
+
+The Primary 6 students went to the Asian Civilisations Museum (ACM) on 14 and 15 July 2025. The objective of this MBLJ was for students to understand the cultural and historical ties that have influence on Southeast Asian countries and explore how Singapore’s heritage has evolved over time, influenced by the diverse mix of cultures. The students explored 6 strikingly different stations. The first level galleries focused on Maritime Trade and they learnt about the Tang shipwreck and Maritime Trade. They were exposed to the works of the different cultures through the displays of Asian export art. The second level galleries focused on Faith and Belief. The students learnt about Ancestors and Rituals, Ancient Religion, Christian Act, Islamic Art and Scholars, while interacting with the Museum Educators. They were certainly engaged and inquisitive;  gaining knowledge beyond their textbooks.
+
+![](/images/P6MBLJ01.jpg)
+
+![](/images/P6MBLJ02.jpg)
+
+![](/images/P6MBLJ03.jpg)
+
+![](/images/P6MBLJ04.jpg)
+
+![](/images/P6MBLJ05.jpg)
+
+![](/images/P6MBLJ06.jpg)
+
+![](/images/P6MBLJ07.jpg)
+
+![](/images/P6MBLJ08.jpg)
+
+
+
+
+
 
 
 
