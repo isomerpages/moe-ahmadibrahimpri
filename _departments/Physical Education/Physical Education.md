@@ -93,4 +93,3 @@ The procedure for this, is as such
 * Principal will permit the call for ambulance.
 * No medication can be administered to pupil without parent's consent.
 * Parents will be informed of injury, irregardless of severity.
-
