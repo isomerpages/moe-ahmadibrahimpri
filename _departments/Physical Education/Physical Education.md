@@ -145,3 +145,11 @@ Our Primary 2 students had a roaring good time participating in the Lion and Dra
 ![](/images/P2_SEP_Lion_Dance.png)
 
 
+
+**Primary 4 – Kin-Ball**
+
+Our Primary 4 students had a blast participating in the Kin-Ball Programme! This unique team sport, played with a giant lightweight ball, emphasized cooperation, communication, and teamwork. Students learned to serve, receive, and attack while ensuring everyone stayed actively involved. The inclusive nature of Kin-Ball fostered collaboration and mutual support, helping students build coordination, spatial awareness, and strong team spirit — key values both on and off the court!
+
+![](/images/P4_SEP_Kinball.png)
+
+
