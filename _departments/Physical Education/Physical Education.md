@@ -125,4 +125,14 @@ By engaging in these hands-on and heart-filled experiences, students not only de
 
 At AIPS, we believe that when students care for their body, mind, and relationships, they grow into confident, kind, and resilient individuals - truly embodying the Health@AIPS spirit of **“Healthy Me, Happy Us!”**
 
+# **Sports Education Programme**
+
+The Sports Education Programme (SEP) offers Primary 1 to 6 students the opportunity to explore and experience a variety of sports beyond their regular PE lessons. Through SEP, students can discover new interests, develop their skills, and nurture a lifelong love for being active — all while having fun!
+
+**Primary 1 – Wushu**
+
+Our Primary 1 students had an exciting introduction to Wushu! This fun and engaging programme introduced them to the basic movements and discipline of traditional Chinese martial arts. Through simple stances, hand forms, and coordination drills, students built balance, focus, and confidence while learning the values of respect and perseverance. Beyond promoting fitness, the Wushu SEP also nurtured an appreciation of Chinese culture and heritage through movement.
+
+
+
 
