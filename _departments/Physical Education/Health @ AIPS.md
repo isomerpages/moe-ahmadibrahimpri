@@ -42,6 +42,14 @@ to the interactive wall.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Health_AIPS_Social_Health.png">
 </div>
 <p>
+<br>By engaging in these hands-on and heart-filled experiences, students not
+only deepened their understanding of holistic health but also built positive
+habits to sustain their physical, mental, and social well-being.</p>
+<p>At AIPS, we believe that when students care for their body, mind, and
+relationships, they grow into confident, kind, and resilient individuals
+- truly embodying the Health@AIPS spirit of <strong>“Healthy Me, Happy Us!”</strong>
+</p>
+<p>
 <br>
 <br>
 </p>
