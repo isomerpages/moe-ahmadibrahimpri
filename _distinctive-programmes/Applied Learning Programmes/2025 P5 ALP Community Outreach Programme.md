@@ -14,3 +14,13 @@ and leading engaging activities for the preschoolers. This meaningful experience
 nurtures their Critical and Inventive Thinking, as well as their Communication
 and Collaboration skills, while fostering a strong sense of social responsibility
 and active contribution to the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25coSlide1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25coSlide2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25coSlide3.jpg">
+</div>
+<p></p>
