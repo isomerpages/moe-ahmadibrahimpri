@@ -136,5 +136,12 @@ Our Primary 1 students had an exciting introduction to Wushu! This fun and engag
 ![](/images/P1_SEP_Wushu.png)
 
 
+**Primary 2 – Lion and Dragon Dance**
+
+Our Primary 2 students had a roaring good time participating in the Lion and Dragon Dance! This vibrant programme introduced them to the traditions, rhythms, and teamwork behind these iconic performances. Through hands-on activities, students learned to coordinate movements, follow drum beats, and work together to bring the lion and dragon to life. The experience built rhythm, coordination, and cooperation, while deepening their appreciation of Chinese culture and festive traditions. The highlight was watching our young performers move with enthusiasm and pride, spreading joy and energy like a real lion and dragon dance!
+
+![](/images/P2_SEP_Dragon_Dance.png)
+
+![](/images/P2_SEP_Lion_Dance.png)
 
 
