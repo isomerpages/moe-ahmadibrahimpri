@@ -72,6 +72,9 @@ The Primary 6 students went to the Asian Civilisations Museum (ACM) on 14 and 15
 
 ![](/images/P6MBLJ08.jpg)
 
+
+
+
                
 #### 2024 P4 NE Learning Journey
 
