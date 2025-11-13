@@ -9,46 +9,65 @@ experiences for our students to enjoy learning, explore with curiosity,
 express themselves confidently and creatively, and to extend their learning
 to their daily lives.</p>
 <p>The objectives of PAL are carried by the following domains.
-<br><strong>Primary 1</strong>: Visual Art, Drama, Dance and Outdoor Education
-<br><strong>Primary 2</strong>: Visual Art, Drama, Dance and Sports &amp;
-Games</p>
-<h4>Primary 1 PAL Dance: Ethnic Dance</h4>
-<p>Students learn to appreciate different cultures in Singapore through ethnic
-dance.</p>
+<br>Primary 1: Visual Art, Drama, Dance and Outdoor Education
+<br>Primary 2: Visual Art, Drama, Dance and Sports &amp; Games</p>
+<p><strong>PAL: Dance</strong>
+<br>Primary 1 – Ethnic Dance
+<br>P1 students explored graceful movements and traditional music, learning
+to appreciate Singapore’s rich cultural heritage.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal%201%202023.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_dil_ethnic_dance.jpg">
 </div>
-<h4>Primary 2 PAL Sports and Games</h4>
-<p>Students learn about communication and teamwork through Sports &amp; Games.</p>
+<p>Primary 2 – Modern Dance
+<br>P2 students expressed themselves through energetic modern dance moves,
+building confidence, rhythm and teamwork while having fun!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_PAL_SPORTS___GAMES_MODULE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2RL_dance.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_PAL_SPORTS_AND_GAMES_MODULE.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_PAL_SPORTS_AND_GAMES__Parachute_games.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_SPORTS___GAMES_MODULE_Parachute_games.jpg">
-</div>
-<h4>Primary 2 PAL Visual Art</h4>
+<p><strong>PAL Visual Art</strong>
+</p>
 <p>Students learn more about themselves, their friends, and the neighbourhood
 through the Visual Art module.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal%203%202023.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_VA___1_INT.jpg">
 </div>
 <p></p>
-<h4>Primary 2 PAL Drama</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_resi_VA__1_.jpg">
+</div>
+<p><strong>PAL:Drama</strong>
+</p>
 <p>Students learn more about expressing themselves creatively through the
 Drama module.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_PAL__DRAMA_MODULE.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_PAL___DRAMA_MODULE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_inte_drama_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_care___drama.jpg">
+</div>
+<p><strong>Primary 1 PAL: Outdoor Education</strong>
+<br>P1 students learnt basic first aid, built tents and worked together through
+fun outdoor activities that built confidence, teamwork and care for others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_INT_OE_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outdoor_education.jpg">
+</div>
+<p><strong>Primary 2 PAL Sports and Games</strong>
+</p>
+<p>Students learn about communication and teamwork through Sports &amp; Games.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_RES___S_G.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_dil___S_G.jpg">
+</div>
+<p>2025~
+<br>
+</p>
 <p></p>
