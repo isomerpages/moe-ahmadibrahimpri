@@ -56,4 +56,12 @@ fractions and fair division while nurturing teamwork.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_9673.jpg">
 </div>
 <h4>Primary 4 Puff Pastry Party</h4>
+<p>Building on prior knowledge, students apply their understanding of factors
+and multiples by planning and cutting puff pastry sheets into equal portions
+to make puff pastries. This challenges them to think critically, strategise,
+and apply mathematics with precision.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_39_15_AM__1_.jpg">
+</div>
 <p></p>
