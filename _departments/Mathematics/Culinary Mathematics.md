@@ -27,3 +27,7 @@ them to the concept of equal sharing in a concrete and relatable way.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_36_46_AM.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_37_31_AM__1_.jpg">
+</div>
+<p></p>
