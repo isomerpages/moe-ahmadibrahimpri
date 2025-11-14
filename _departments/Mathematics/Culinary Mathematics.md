@@ -41,7 +41,7 @@ it equally for sharing. This activity reinforces their understanding of
 fractions and fair division while nurturing teamwork.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_37_54_AM.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_37_54_AM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -77,3 +77,8 @@ and apply mathematics with precision.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_40_03_AM.jpg">
 </div>
 <p></p>
+<p>Through these activities, students are not only learning mathematics—they
+are also cultivating adaptive thinking, creativity, collaboration, and
+resilience. Culinary Mathematics allows them to see mathematics as practical,
+enjoyable, and relevant to daily life, leaving them with experiences that
+are both memorable and meaningful.</p>
