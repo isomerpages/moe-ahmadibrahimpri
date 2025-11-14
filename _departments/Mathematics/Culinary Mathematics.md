@@ -36,4 +36,7 @@ them to the concept of equal sharing in a concrete and relatable way.</p>
 </div>
 <p></p>
 <h4>Primary 3 Fractions Fiesta</h4>
+<p>In collaboration with peers, students bake a pizza and learn to divide
+it equally for sharing. This activity reinforces their understanding of
+fractions and fair division while nurturing teamwork.</p>
 <p></p>
