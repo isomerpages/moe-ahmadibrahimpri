@@ -30,3 +30,7 @@ of learning for everyone.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_4560.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_4565.jpg">
+</div>
+<p></p>
