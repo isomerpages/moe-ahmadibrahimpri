@@ -55,4 +55,4 @@ fractions and fair division while nurturing teamwork.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_9673.jpg">
 </div>
-<p></p>
+<p>Primary 4 Puff Pastry Party</p>
