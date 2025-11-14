@@ -65,3 +65,11 @@ and apply mathematics with precision.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_39_15_AM__1_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_39_15_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_39_42_AM.jpg">
+</div>
+<p></p>
