@@ -48,3 +48,7 @@ fractions and fair division while nurturing teamwork.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_9646.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_9663.jpg">
+</div>
+<p></p>
