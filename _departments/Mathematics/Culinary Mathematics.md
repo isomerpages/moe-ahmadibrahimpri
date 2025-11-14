@@ -40,3 +40,7 @@ them to the concept of equal sharing in a concrete and relatable way.</p>
 it equally for sharing. This activity reinforces their understanding of
 fractions and fair division while nurturing teamwork.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_09_at_11_37_54_AM.jpg">
+</div>
+<p></p>
