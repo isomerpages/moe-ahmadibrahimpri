@@ -155,7 +155,7 @@ voices. Congratulations to the brilliant trio!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vactor_02.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/vactor_02.jpg">
 </div>
 <p>&nbsp;</p>
 <p></p>
