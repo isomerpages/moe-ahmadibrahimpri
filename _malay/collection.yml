@@ -2,6 +2,10 @@ collections:
   malay:
     output: true
     order:
+      - Peraduan Karya Minda.md
+      - Katepella.md
+      - Pesta Bahasa Utara 2025 @ Chong Pang.md
+      - 2025 Rakan Bahasa.md
       - 2025 Learning Journey to Reflections at Bukit Chandu.md
       - 2025 Hari Raya Concert.md
       - Pesta Bahasa Utara @ Chong Pang 2024.md
@@ -11,5 +15,4 @@ collections:
       - 2023 Program Teman Membaca.md
       - 2023 Konsert Hari Raya.md
       - 2023 Rakan Bahasa.md
-      - 2022 Rakan Bahasa.md
       - 2022 Seminar Bahasa Melayu.md
