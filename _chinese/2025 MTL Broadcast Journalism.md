@@ -60,42 +60,42 @@ into interviewing and hosting skills — in their own MTLs!</p>
 and media to share their voices with confidence.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ01.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ02.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ03.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ04.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ04.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ05.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ05.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ06.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ06.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ07.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ07.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ08.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ08.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ09.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ09.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BJ10.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BJ10.jpg">
 </div>
 <p></p>
