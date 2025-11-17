@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 2025 Broadcast Journalism.md
       - 2025 National Text Recital Competition.md
       - 2025 P6 MT Fortnight.md
       - 2025 P2 MTL Cultural Camp.md
