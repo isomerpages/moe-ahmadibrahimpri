@@ -8,7 +8,7 @@ description: ""
 telah dinobatkan sebagai naik juara keseluruhan.</p>
 <p>Karya penulisan murid-murid telah mendapat penghargaan yang sangat memuaskan.
 Syabas buat semua peserta!</p>
-<p><a href="https://drive.google.com/file/d/1nrWygESjnkT7r-y3UHQbU1M5111NtbhA/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1nrWygESjnkT7r-y3UHQbU1M5111NtbhA/view?usp=drive_link</a> 
+<p><a href="https://drive.google.com/file/d/1nrWygESjnkT7r-y3UHQbU1M5111NtbhA/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1nrWygESjnkT7r-y3UHQbU1M5111NtbhA/view?usp=drive_link</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
