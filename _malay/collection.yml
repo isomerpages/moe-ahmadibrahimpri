@@ -2,7 +2,6 @@ collections:
   malay:
     output: true
     order:
-      - 2025 test.md
       - 2025 Peraduan Karya Minda.md
       - 2025 Katepella.md
       - 2025 Pesta Bahasa Utara @ Chong Pang.md
