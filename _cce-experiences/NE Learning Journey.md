@@ -46,7 +46,13 @@ The Primary 4 students went to KAHG on 29 and 30 October 2025. This opportunity 
 ##### P5 MBLJ to Indian Heritage Centre (IHC) 
 The Primary 5 students went to IHC on 19 November 2025. The focus of the LJ was for students to understand the history, heritage and diversity within the Indian community; recognise the contributions made by the Indian community in Singapore towards nation-building; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage. The students visited stations about Indian Epics in Southeast Asia, Indian Dance and Costumes, Contributions of Early Indian Settlers, Our Indian Pioneers, Indian Garland Making and Indian Goldsmiths and Indian Cuisine. Through hands-on activities which utilised their senses, the students and teachers enjoyed learning more about Indian culture.
 
+![](/images/p5LJ01.jpg)
 
+![](/images/p5LJ02.jpg)
+
+![](/images/p5LJ03.jpg)
+
+![](/images/p5LJ04.jpg)
 
 
 
