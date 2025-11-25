@@ -4,8 +4,6 @@ permalink: /cce-experiences/p6-service-learning/
 description: ""
 variant: markdown
 ---
-
-
 ### Ahmad Ibrahim Primary School and All Saints Home Partnership
 
   
@@ -46,4 +44,18 @@ The partnership has provided students with a unique opportunity to develop empat
 
 This collaboration not only highlights the school's commitment to community service and values education but also fosters a sense of belonging and happiness among the residents of All Saints Home. The positive impact of these interactions is a testament to the power of community engagement and the importance of nurturing relationships across generations.
 
-**
+![](/images/p6via01.jpg)
+
+![](/images/p6via02.jpg)
+
+![](/images/p6via03.jpg)
+
+![](/images/p6via04.jpg)
+
+![](/images/p6via05.jpg)
+
+
+
+
+
+
