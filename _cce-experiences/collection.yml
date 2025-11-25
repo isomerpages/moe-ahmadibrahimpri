@@ -2,6 +2,7 @@ collections:
   cce-experiences:
     output: true
     order:
+      - ECG 2025.md
       - AIPS Kindness Day 2025.md
       - "Brightspots@AIPS: Vibrant Classroom Award.md"
       - "Aspirations@AIPS: Putting Social Defence into Action!.md"
