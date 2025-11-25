@@ -14,7 +14,7 @@ Ahmad Ibrahim Primary School has proudly collaborated with All Saints Home (Yish
 
 ##### Engaging Activities
 
-During the recent sessions held from October 29 to November 10, students dedicated themselves to designing and delivering a variety of engaging activities and performances tailored for the residents. The program featured an impressive lineup of performances that included:
+During the recent sessions held from 29 October to 10 November 2025, students dedicated themselves to designing and delivering a variety of engaging activities and performances tailored for the residents. The program featured an impressive lineup of performances that included:
 
   
 
