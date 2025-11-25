@@ -1,6 +1,6 @@
 ---
-title: Pertandingan TeeVers 2024
-permalink: /pertandingan-teevers-2024/
+title: 2024 Pertandingan TeeVers
+permalink: /2024-pertandingan-teevers/
 variant: tiptap
 description: ""
 ---

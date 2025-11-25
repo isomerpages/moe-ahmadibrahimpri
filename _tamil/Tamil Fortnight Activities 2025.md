@@ -1,6 +1,6 @@
 ---
 title: Tamil Fortnight Activities 2025
-permalink: /tamil-fortnight-activities/
+permalink: /tamil/subpage1/
 variant: tiptap
 description: ""
 ---

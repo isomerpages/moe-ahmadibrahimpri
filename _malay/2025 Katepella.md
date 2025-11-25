@@ -1,6 +1,6 @@
 ---
-title: Katepella
-permalink: /katepella/
+title: 2025 Katepella
+permalink: /malay/2025katepella/
 variant: tiptap
 description: ""
 ---

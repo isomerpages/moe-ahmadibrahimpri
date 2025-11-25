@@ -1,6 +1,6 @@
 ---
-title: Peraduan Karya Minda
-permalink: /peraduan-karya-minda/
+title: 2025 Peraduan Karya Minda
+permalink: /malay/2025-peraduan-karya-minda/
 variant: tiptap
 description: ""
 ---

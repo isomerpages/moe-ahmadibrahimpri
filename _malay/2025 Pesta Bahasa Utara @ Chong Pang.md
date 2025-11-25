@@ -1,6 +1,6 @@
 ---
-title: Pesta Bahasa Utara 2025 @ Chong Pang
-permalink: /pesta-bahasa-utara-2025-chong-pang/
+title: 2025 Pesta Bahasa Utara @ Chong Pang
+permalink: /2025-pesta-bahasa-utara-chong-pang/
 variant: tiptap
 description: ""
 ---
