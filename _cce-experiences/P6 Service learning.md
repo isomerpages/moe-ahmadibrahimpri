@@ -53,9 +53,3 @@ This collaboration not only highlights the school's commitment to community serv
 ![](/images/p6via04.jpg)
 
 ![](/images/p6via05.jpg)
-
-
-
-
-
-
