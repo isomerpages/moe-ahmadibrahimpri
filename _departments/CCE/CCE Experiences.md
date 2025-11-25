@@ -11,6 +11,8 @@ in which students put their knowledge, skills and values into actions.
 These experiences enrich the learning of the students, thus nurturing them
 to be active and concerned citizens.</p>
 <p></p>
+<p><a href="/cce-experiences/brightspots-at-aips-vibrant-classroom-award/" rel="noopener nofollow" target="_blank">CCE Experiences</a>
+</p>
 <p><a href="/cce-experiences/brightspots-at-aips-vibrant-classroom-award/" rel="noopener noreferrer nofollow" target="_blank">Brightspots @ AIPS:&nbsp;</a><em><a href="/cce-experiences/brightspots-at-aips-vibrant-classroom-award/" rel="noopener noreferrer nofollow" target="_blank">Vibrant Classroom Award</a></em>
 <br><a href="/cce-experiences/aspirations-at-aips-putting-social-defence-into-action/" rel="noopener noreferrer nofollow" target="_blank">Aspirations@AIPS:&nbsp;</a><em><a href="/cce-experiences/aspirations-at-aips-putting-social-defence-into-action/" rel="noopener noreferrer nofollow" target="_blank">Putting Social Defence into Action!</a></em>
 <br><a href="/cce-experiences/singapore-kindness-movement-friends-of-singa/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement:&nbsp;</a><em><a href="/cce-experiences/singapore-kindness-movement-friends-of-singa/" rel="noopener noreferrer nofollow" target="_blank">Friends of Singa</a></em>
