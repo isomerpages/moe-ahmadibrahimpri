@@ -2,19 +2,54 @@
 title: P6 Service learning
 permalink: /cce-experiences/p6-service-learning/
 description: ""
+variant: markdown
 ---
-Our Primary 6 students embarked on a service learning project in collaboration with All Saints Home Yishun, where they would prepare care packs for the residents.
-
-Prior to the preparation of care packs, students learnt more about elders in elder care centers and our beneficiaries. The student leaders worked together to come up with a list of essential items to cater to the needs of the residents.
-
-During the service learning, the students demonstrated great teamwork and the packing was completed in good time for delivery. A total of 180 care packs were delivered by the staff of AIPS to the Home. 
+### Ahmad Ibrahim Primary School and All Saints Home Partnership
 
   
 
-This service learning project provided students with the platform  to contribute back to the community and the opportunity to show care for those in need through their actions.
+Ahmad Ibrahim Primary School has proudly collaborated with All Saints Home (Yishun) for several years to implement the Primary Six Values In Action (VIA) program. This initiative aims to foster meaningful interactions between students and residents of the home, enriching the lives of both groups.
 
-![P6 Service learning](/images/P6%20Service%20learning.jpg)
+  
 
-![P6 Service learning](/images/4.jpeg)
+##### Engaging Activities
 
-![P6 Service learning](/images/5.jpeg)
+During the recent sessions held from 29 October to 10 November 2025, students dedicated themselves to designing and delivering a variety of engaging activities and performances tailored for the residents. The program featured an impressive lineup of performances that included:
+
+  
+
+Musical Performances: Showcasing talents with guitars and pianos and singing.
+
+Dance and Movement: Including Zumba and martial arts demonstrations.
+
+Magic Tricks: Captivating the audience with illusions.
+
+  
+
+In addition to performances, students organized interactive games and activities, such as:
+
+Bingo
+
+Art & Craft: Including origami and coloring activities.
+
+Classic Games: Like Jenga, snakes and ladders, Connect-4, and UNO.
+
+Cognitive Games: Memory games and spot-the-difference challenges.
+
+  
+
+##### A Meaningful Experience
+
+The partnership has provided students with a unique opportunity to develop empathy and social skills while brightening the day of the residents. The dedication and effort put forth by the students to create a joyful and enriching experience were evident throughout the sessions.
+
+This collaboration not only highlights the school's commitment to community service and values education but also fosters a sense of belonging and happiness among the residents of All Saints Home. The positive impact of these interactions is a testament to the power of community engagement and the importance of nurturing relationships across generations.
+
+![](/images/p6via01.jpg)
+
+![](/images/p6via02.jpg)
+
+![](/images/p6via03.jpg)
+
+![](/images/p6via04.jpg)
+
+![](/images/p6via05.jpg)
