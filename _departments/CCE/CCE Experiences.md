@@ -11,5 +11,6 @@ in which students put their knowledge, skills and values into actions.
 These experiences enrich the learning of the students, thus nurturing them
 to be active and concerned citizens.</p>
 <p></p>
+<p>Click the link below to find out more</p>
 <p><a href="/cce-experiences/brightspots-at-aips-vibrant-classroom-award/" rel="noopener nofollow" target="_blank">CCE Experiences</a>
 </p>
