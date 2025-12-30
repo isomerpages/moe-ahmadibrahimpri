@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6759 2906
       - email: aips@moe.edu.sg
-      - other: Student Handbook (Issued annually to each student)
+      - other: ""
     title: General Enquiries & Feedback
 feedback: ""
 ---
