@@ -63,19 +63,3 @@ As a student of Ahmad Ibrahim Primary School, I will:
 7. keep trim and fit
 8. do well in my studies and in all that I do
 
-### School Rules and Regulation
-
-#### THE PRESCRIBED UNIFORM
-
-1. You must wear the full uniform / school attire, at school or on outings (including Saturdays, school holidays and camps in school).
-2. Name tags are to be worn at all times.
-
-Boys: Name tags to be placed on the upper edge of the pocket.
-
-Girls: Name tags to be placed below the school crest.
-
-The pupils’ name tags are colour-coded by cohort, as shown in the table below.
-Please help us to ensure that the name tags are ironed on / sewn on&nbsp;**BELOW THE SCHOOL BADGE**.
-
-![](/images/school%20uniform%202%202023.png)
-![](/images/school%20uniform%201%202023.png)
