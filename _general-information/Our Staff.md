@@ -137,19 +137,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Low Sue Gi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_sue_gi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_sue_gi@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P1 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,7 +388,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Integrity</p>
+<p>P2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nazhira bte Mohd Aini</p>
