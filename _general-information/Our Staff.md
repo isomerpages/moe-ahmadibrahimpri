@@ -659,6 +659,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P4 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Thea Ee Zia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rajeswari_ayahu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thea_ee_zia@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
