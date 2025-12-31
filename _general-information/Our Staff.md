@@ -900,10 +900,11 @@ variant: tiptap
 <p>P5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Ming Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>tan_ming_shan@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
