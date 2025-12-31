@@ -348,7 +348,7 @@ variant: tiptap
 <p>Ms Nerissa Ng Si Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_shaik@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nerissa_ng_si_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -360,7 +360,7 @@ variant: tiptap
 <p>Ms Aisyah binte Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shamala_devi_samikannu@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">aisyah_samat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -372,7 +372,7 @@ variant: tiptap
 <p>Ms Eileen Ong Yi Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">li_jia_yang@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ong_yi_ling_eileen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
