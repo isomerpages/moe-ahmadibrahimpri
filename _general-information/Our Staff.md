@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <p><strong><u>2026</u></strong>
 </p>
-<p></p>
 <p><strong>Primary 1</strong>
 </p>
 <table style="minWidth: 75px">
