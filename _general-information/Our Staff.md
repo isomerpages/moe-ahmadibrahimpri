@@ -191,7 +191,8 @@ variant: tiptap
 <p>Mdm Zoey Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yin_hong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -383,7 +384,8 @@ variant: tiptap
 <p>Miss Shanmugapriya Chandrasagaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shanmugapriya_chandrasagaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shanmugapriya_chandrasagaran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
