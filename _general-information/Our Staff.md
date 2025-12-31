@@ -180,7 +180,7 @@ variant: tiptap
 <p>Mr Wang Jun Hao Jordan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hajjah_seriyati_md_salleh@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wang_jun_hao_jordan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -204,8 +204,7 @@ variant: tiptap
 <p>Mdm Zoey Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nursyahirah_abdul_razak@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
