@@ -1021,7 +1021,7 @@ variant: tiptap
 <p>Mdm Sabrina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sabrina_binti_sabirin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sabrina_binti_sabirin@moe.edu.sg</a>
+<p><a href="mailto:sabrina_binti_sabirin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sabrina_sabirin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
