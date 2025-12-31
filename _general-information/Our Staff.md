@@ -35,7 +35,7 @@ variant: tiptap
 <p>Ms Lynn Lim Shi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_pei_ling_dawn@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui_lynn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mdm Yuslindah Bte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_abdul_latiff@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yuslindah_mohamed_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ variant: tiptap
 <p>Mdm Yvonne Ng Wai Keng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_yuxuan_delson@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_wai_keng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -68,11 +68,10 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad</p>
-<p>Hasyim Bin Mohamad Isa</p>
+<p>Mr Muhammad Hasyim Bin Mohamad Isa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shivani_subramaniam@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_hasyim_mohamad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -84,6 +83,8 @@ variant: tiptap
 <p>Mdm Shermeen Chan Soh Sum</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:shermeen_chan_soh_sum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shermeen_chan_soh_sum@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
