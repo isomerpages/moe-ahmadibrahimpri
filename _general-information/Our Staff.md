@@ -92,10 +92,11 @@ variant: tiptap
 <p>P1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Tan</p>
+<p>Ms Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_sock_keng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +104,7 @@ variant: tiptap
 <p>P1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Farhana Binte Ali</p>
+<p>Ms Nurul Farhana Binte Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_ali@moe.edu.sg</a>
@@ -187,10 +188,10 @@ variant: tiptap
 <p>P1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zoey Wong</p>
+<p>Ms Gitty Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yin_hong@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gitty_khoo_kim_swee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -421,7 +422,8 @@ variant: tiptap
 <p>Mdm Chloe Yeoh Hui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_tuck_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yeoh_hui_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -473,6 +475,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:madathi_velu_malathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">madathi_velu_malathi@moe.edu.sg</a>
 </p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p><strong>Primary 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -649,10 +665,10 @@ variant: tiptap
 <p>P3 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gitty Khoo</p>
+<p>Mdm Zoey Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gitty_khoo_kim_swee@moe.edu.sg</a>
+<p><a href="mailto:wong_yin_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_yin_hong@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
