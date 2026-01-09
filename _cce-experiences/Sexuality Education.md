@@ -101,17 +101,14 @@ of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SED_1_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/seSlide1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SED_2_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/seSlide2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_SED_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/seSlide3.jpg">
 </div>
-<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
