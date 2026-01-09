@@ -62,7 +62,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Ahmad Ibrahim Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Ahmad Ibrahim Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -120,8 +120,8 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="/files/SEd_Parent_Opt_Out_form.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed opt-out
-form is to be submitted by 31/01/2025.</p>
+start of the year and is also downloadable <a href="/files/SEd_2026_parent_opt_out_form.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed opt-out
+form is to be submitted by 23/01/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67592906 or email at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">aips@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
