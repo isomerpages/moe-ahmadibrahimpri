@@ -17,17 +17,7 @@ third_nav_title: Students and Parents Resources
 <p>Email : <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 <p></p>
-<p><strong>UNIFORM SUPPLIER (2025)</strong>
-</p>
-<p>Chop Kong Chong, The Uniform Specialist</p>
-<p>604 Sembawang Road</p>
-<p>Sembawang Shopping Centre, #02-13</p>
-<p>Singapore 758459</p>
-<p>Tel: 6753 1489</p>
-<p>Opening Hours:</p>
-<p>Monday to Saturday :11.30am to 8pm</p>
-<p></p>
-<p><strong>School Uniform Vendor (wef 2026)</strong>
+<p><strong>School Uniform Vendor (2026)</strong>
 </p>
 <p>KONG CHONG PTE. LTD.</p>
 <p>Sembawang Shopping Centre</p>
