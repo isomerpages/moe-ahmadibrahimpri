@@ -93,8 +93,3 @@ Primary 6
 | 6 Diligence     |  6 Excellence   | 6 Care   |
 
 Besides the presenting of the certifciates to the classes, 5 Gratitude was also presented tokens for their efforts in achieving the Gold awards consecutively for Term 2 and 3.
-
-
-
-
-
