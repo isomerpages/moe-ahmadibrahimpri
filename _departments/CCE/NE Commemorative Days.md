@@ -19,7 +19,6 @@ As part of the week’s programme, the school also commemorated Safer Internet D
 In support of Exercise SG Ready (ESR) 2026, students and staff experienced a digital connectivity disruption simulation on Wednesday, 11 February 2026. This exercise provided valuable insights into the importance of preparedness and adaptability during unexpected disruptions.
 ![](/images/Total_Defence_Day_2026___Website_Update_pptx__3_.jpg)
 
-
 ##### **Recess Fringe Activities**
 
 The students also participated in various recess fringe activities, including:
