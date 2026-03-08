@@ -22,9 +22,9 @@ in these events.</p>
 <p>Teachers-in-charge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriyanti Said (<a href="mailto:suriyanti_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suriyanti_said@moe.edu.sg</a>)</p>
 <p>Ms Chow Yuan Ling Abbi (<a href="mailto:chow_yuan_ling_abbi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_yuan_ling_abbi@moe.edu.sg</a>)</p>
-<p>Mdm Sarina Banu Mohaideen (<a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>)</p>
+<p>Ms Ong Lay Pheng (<a href="mailto:ong_lay_pheng_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_b@schools.gov.sg</a>)</p>
+<p>Miss Shanmugapriya Chandrasagaran(<a href="mailto:shanmugapriya_chandrasagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanmugapriya_chandrasagaran@schools.gov.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ in these events.</p>
 <p>Day and Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays 2pm to 4:30pm</p>
+<p>Tuesdays 2pm to 4:00pm</p>
 </td>
 </tr>
 </tbody>
