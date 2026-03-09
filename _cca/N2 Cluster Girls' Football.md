@@ -129,3 +129,11 @@ empowering every girl to grow holistically as a player and as an individual.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_Matches.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Sessions.png">
+</div>
+<p></p>
