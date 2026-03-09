@@ -24,6 +24,12 @@ Club.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Kavitha D/O Karunanithi (<a href="mailto:kavitha_karunanithi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_karunanithi@moe.edu.sg</a>)</p>
 <p>Ms Chan Si Zhen (<a href="mailto:chan_si_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_si_zhen@moe.edu.sg</a>)</p>
+<p>Ms Shivani SUBRAMANIAM</p>
+<p><a href="mailto:shivani_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(shivani_subramaniam@schools.gov.sg)</a>
+</p>
+<p>Ms Wendy Tan Yanwen</p>
+<p><a href="mailto:tan_yanwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_yanwen@moe.edu.sg)</a>
+</p>
 </td>
 </tr>
 <tr>
