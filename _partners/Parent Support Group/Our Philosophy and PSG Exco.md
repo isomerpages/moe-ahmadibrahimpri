@@ -6,7 +6,7 @@ third_nav_title: Parent Support Group
 variant: tiptap
 ---
 <p></p>
-<h3><strong>Partnering Parents Empowering Children</strong></h3>
+<h3><strong>Partnering Parents, Empowering Children</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parent Support Group" src="/images/PSG.jpg">
