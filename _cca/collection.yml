@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - N2 Cluster Girls' Football.md
       - Badminton.md
       - Rope Skipping.md
       - Basketball.md
