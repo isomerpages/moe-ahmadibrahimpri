@@ -22,6 +22,10 @@ our children’s growth and strengthen the home–school connection.</p>
 Through partnership and shared purpose, we create the best possible environment
 for every child to thrive.</p>
 <p>Join us in making a difference — together.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_PSG.jpg">
+</div>
 <p>
 <br>
 </p>
