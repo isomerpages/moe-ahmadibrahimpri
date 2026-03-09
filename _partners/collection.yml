@@ -2,11 +2,11 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/.keep
+      - Parent Support Group/Our Philosophy and PSG Exco.md
       - Parent Support Group/2026 Term 1 Highlight.md
       - Parent Support Group/2025 Term 4.md
       - Parent Support Group/2025 Term 3.md
-      - Parent Support Group/.keep
-      - Parent Support Group/Our Philosophy and PSG Exco.md
       - Parent Support Group/2025 Meet and Greet.md
       - Parent Support Group/2025 Recess Fringe Activities.md
       - Parent Support Group/2025 Canteen Duty.md
