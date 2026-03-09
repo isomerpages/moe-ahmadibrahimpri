@@ -48,7 +48,11 @@ in competitions.</p>
 </tr>
 </tbody>
 </table>
+<h4>NSG 2025 Sportsmanship Award</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide125_NSG.jpg">
+</div>
 <h4>2025 National Schools Games</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -61,24 +65,5 @@ in competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
-</div>
-<h4>2024 National Schools Games</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_rope_and_badminton.jpg">
-</div>
-<p></p>
-<h4>2023 National School Games: Senior division (Team Event)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%201%202023.JPG">
-</div>
-<h4>2023 National School Games: Junior division (Individual Event)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%202%202023.JPG">
 </div>
 <p></p>
