@@ -48,7 +48,7 @@ in competitions.</p>
 </tr>
 </tbody>
 </table>
-<h4>NSG 2025 Sportsmanship Award</h4>
+<h4>NSG 2025 Sportsmanship Awards</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_NSG.jpg">
