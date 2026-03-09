@@ -23,9 +23,9 @@ in these events.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chow Yuan Ling Abbi (<a href="mailto:chow_yuan_ling_abbi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_yuan_ling_abbi@moe.edu.sg</a>)</p>
-<p>Ms Ong Lay Pheng (<a href="mailto:ong_lay_pheng_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_b@schools.gov.sg</a>)</p>
+<p>Ms Ong Lay Pheng (<a href="mailto:ong_lay_pheng_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_b@moe.edu.sg</a>)</p>
 <p>Miss Shanmugapriya Chandrasagaran</p>
-<p>(<a href="mailto:shanmugapriya_chandrasagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanmugapriya_chandrasagaran@schools.gov.sg</a>)</p>
+<p>(<a href="mailto:shanmugapriya_chandrasagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanmugapriya_chandrasagaran@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
