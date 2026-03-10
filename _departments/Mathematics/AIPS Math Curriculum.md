@@ -7,8 +7,8 @@ third_nav_title: Mathematics
 ---
 <h4><strong><u>Use of manipulatives</u></strong></h4>
 <p>At AIPS, we believe that learning mathematics should be an engaging and
-hands-on experience。 One<a href="http://experience.One" rel="noopener noreferrer nofollow" target="_blank"> </a>of the key strategies we employ to achieve
-this is the use of manipulatives in our mathematics teaching. Manipulatives
+hands-on experience。 One of the key strategies we employ to achieve this
+is the use of manipulatives in our mathematics teaching. Manipulatives
 provide a concrete way for students to understand mathematical concepts.
 For instance, by using base ten blocks, students can physically construct
 numbers, allowing them to see the structure of place value rather than

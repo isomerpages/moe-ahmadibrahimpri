@@ -23,7 +23,8 @@ in competitions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Camilla Ho Yun Hui (<a href="mailto:ho_yun_hui_camilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yun_hui_camilia@moe.edu.sg</a>)</p>
-<p>Ms Cia Zhixian (<a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>)</p>
+<p>Ms Thea Ee Zia</p>
+<p>(<a href="mailto:thea_ee_zia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thea_ee_zia@moe.edu.sg</a>)</p>
 <p>Ms Lim Shi Hui Lynn (<a href="mailto:lim_shi_hui_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui_lynn@moe.edu.sg</a>)</p>
 <p>Mdm Chloe Yeoh (<a href="mailto:yeoh_hui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeoh_hui_lin@moe.edu.sg</a>)</p>
 </td>
@@ -47,7 +48,11 @@ in competitions.</p>
 </tr>
 </tbody>
 </table>
+<h4>NSG 2025 Sportsmanship Awards</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_NSG.jpg">
+</div>
 <h4>2025 National Schools Games</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -60,24 +65,5 @@ in competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
-</div>
-<h4>2024 National Schools Games</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_rope_and_badminton.jpg">
-</div>
-<p></p>
-<h4>2023 National School Games: Senior division (Team Event)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%201%202023.JPG">
-</div>
-<h4>2023 National School Games: Junior division (Individual Event)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%202%202023.JPG">
 </div>
 <p></p>
