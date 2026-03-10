@@ -59,14 +59,7 @@ smart instruments and loops.</p>
 on various drums. The students had fun exploring rhythms and learnt about
 teamwork and cooperation.</p>
 <p></p>
-<h4>Shine at AIPS 2023</h4>
-<p>Shine at AIPS is a music competition held virtually this year. The objective
-of this competition is to provide students with a platform to showcase
-their talent, and allow them to build stage confidence. This competition
-is open to all students. They could choose from the following categories:
-Dance, Instrument, or Voice.
-<br>
-</p>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
