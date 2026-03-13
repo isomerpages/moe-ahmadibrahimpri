@@ -85,6 +85,16 @@ a polished and captivating performance for the school community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/26t1Slide8.jpg">
 </div>
 <h2><strong>P6 Graduation Party 2025</strong></h2>
+<p>We recently celebrated and bid farewell to another batch of Malay Dance
+Club graduands in a joyful gathering filled with memories and laughter.
+As part of this annual tradition, the Malay Dance Club family came together
+to watch videos showcasing the students’ dance journey, listen to their
+heartfelt speeches, and share a meal in warm camaraderie.</p>
+<p>We also celebrated the birthdays of students born in Semester 2, adding
+to the festive atmosphere.</p>
+<p>We thank our graduating students for their dedication and contributions,
+and we wish them every success as they embark on their Secondary School
+journey.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/26Slide3.jpg">
@@ -101,7 +111,6 @@ a polished and captivating performance for the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/26Slide6.jpg">
 </div>
-<h2><strong>P6 Graduation Party 2024</strong></h2>
 <p>It has become a cherished yearly tradition for our Dance Club to host
 a special party in honour of our graduating Primary 6 dancers. During this
 celebration, our members receive certificates in recognition of their contributions
