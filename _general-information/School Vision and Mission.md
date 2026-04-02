@@ -13,6 +13,10 @@ Leaders of Character, Learners for Life
 
 To build character, develop life-long learners and strive for excellence.
 
+#### Values:
+
+Compassion, Responsiblity, Resilience, Respect, Integrity, Gratitude (CaR3Ing)
+
 #### Motto:
 Grow with resilience
 
@@ -62,4 +66,3 @@ As a student of Ahmad Ibrahim Primary School, I will:
 6. conduct myself in a manner worthy of my school
 7. keep trim and fit
 8. do well in my studies and in all that I do
-
