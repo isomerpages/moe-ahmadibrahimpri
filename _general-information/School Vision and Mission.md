@@ -13,7 +13,7 @@ Leaders of Character, Learners for Life
 
 To build character, develop life-long learners and strive for excellence.
 
-#### Values:
+#### Our Values:
 
 Compassion, Responsiblity, Resilience, Respect, Integrity, Gratitude (CaR3Ing)
 
