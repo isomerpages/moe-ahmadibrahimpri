@@ -15,7 +15,7 @@ To build character, develop life-long learners and strive for excellence.
 
 #### Our Values:
 
-Compassion, Responsiblity, Resilience, Respect, Integrity, Gratitude (CaR3Ing)
+Compassion, Responsibility, Resilience, Respect, Integrity, Gratitude (CaR3InG)
 
 #### Motto:
 Grow with resilience
