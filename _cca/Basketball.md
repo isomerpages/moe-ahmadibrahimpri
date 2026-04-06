@@ -26,6 +26,9 @@ and refining their skills so as to represent Ahmad Ibrahim Primary valiantly.</p
 <p>Mr Tham Tuck Kong (<a rel="noopener noreferrer nofollow" target="_blank">tham_tuck_kong@moe.edu.sg</a>)</p>
 <p>Mr Ahmad Sufyan Abdul Kahar (<a rel="noopener noreferrer nofollow" target="_blank">ahmad_sufyan_abdul_kahar@moe.edu.sg</a>)</p>
 <p>Ms Cia Zhi Xian (<a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>)</p>
+<p>Ms Tan Ming Shan</p>
+<p><a href="mailto:tan_ming_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_shan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
