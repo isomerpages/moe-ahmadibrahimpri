@@ -27,8 +27,8 @@ and refining their skills so as to represent Ahmad Ibrahim Primary valiantly.</p
 <p>Mr Ahmad Sufyan Abdul Kahar (<a rel="noopener noreferrer nofollow" target="_blank">ahmad_sufyan_abdul_kahar@moe.edu.sg</a>)</p>
 <p>Ms Cia Zhi Xian (<a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhi_xian_cia@moe.edu.sg</a>)</p>
 <p>Ms Tan Ming Shan</p>
-<p><a href="mailto:tan_ming_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_shan@moe.edu.sg</a>
-</p>
+<p>(<a href="mailto:tan_ming_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_shan@moe.edu.sg</a>)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -75,4 +75,4 @@ and refining their skills so as to represent Ahmad Ibrahim Primary valiantly.</p
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/Highlights3.jpeg">
 </div>
-<p></p>
+<p>(</p>
