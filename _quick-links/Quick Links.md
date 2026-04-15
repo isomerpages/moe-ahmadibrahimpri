@@ -9,3 +9,5 @@ variant: markdown
 [2026 Sexuality Education](/cce-experiences/sexuality-education/)
 
 [Home Based Learning instructions](/homebasedlearninginstructions)
+
+[Parents resources](https://www.ahmadibrahimpri.moe.edu.sg/partners/resources-for-parents-students/SchoolNotificationstoparents/)
