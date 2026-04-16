@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_banner_2.gif
+      background: /images/prefects_50_.jpg
       key_highlights:
         - title: Announcements
           description: Click here for latest announcements!
