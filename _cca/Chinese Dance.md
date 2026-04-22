@@ -49,8 +49,3 @@ Distinction for their excellent performance.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/chineseDanceTerm2_1.jpg">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chineseDanceTerm2_2.jpg">
-</div>
-<p></p>
