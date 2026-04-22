@@ -48,13 +48,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hydroponics%202%202023.JPG">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hydroponics%201%202023.JPG">
-</div>
 <h1><strong>Eco Garden</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco-Garden1.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eco%20garden%201.jpeg">
 </div>
@@ -80,9 +74,6 @@ variant: tiptap
 <h1><strong>NE Learning Space</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NE LEARNING SPACE 2023" src="/images/ne%20learning%20space%202023.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NE LEARNING SPACE" src="/images/NE%20Learning%20Space1.jpg">
 </div>
 <h1><strong>Holistic Health Hub</strong></h1>
 <div class="isomer-image-wrapper">
