@@ -148,12 +148,6 @@ emerged as one of the winners!</p>
 brought the classic tale of The Fisherman And His Wife to life with their
 voices. Congratulations to the brilliant trio!</p>
 <p>Scan the QR code to listen to their podcast!</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vactor_01.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/vactor_02.jpg">
 </div>
