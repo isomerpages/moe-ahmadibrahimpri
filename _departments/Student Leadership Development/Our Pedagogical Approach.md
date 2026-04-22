@@ -22,8 +22,6 @@ Leadership Framework.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLD_Our_Pedagogical_Approach_2.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
 <p>We provide opportunities for students to apply their leadership skills
 through values-in-action activities as they serve their peers, school and
 community. The student population engages and explores leadership opportunities
