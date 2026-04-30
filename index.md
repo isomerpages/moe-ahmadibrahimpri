@@ -21,4 +21,8 @@ sections:
         - title: AIPS instagram
           description: Click here for latest update!
           url: https://www.instagram.com/aips_official/?hl=en
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
