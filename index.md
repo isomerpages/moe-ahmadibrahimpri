@@ -21,16 +21,8 @@ sections:
         - title: AIPS instagram
           description: Click here for latest update!
           url: https://www.instagram.com/aips_official/?hl=en
-  - textcards:
-      title: annoucnement
-      id: textcards
-      cards:
-        - title: sdfsdaf
-          description: book lets
-          linktext: 22 Apr
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+  - resources:
+      title: ammountment
+      id: resources
+      button: adsfsdfsdf
 ---
