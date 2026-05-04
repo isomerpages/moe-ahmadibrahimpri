@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: 3 July 2026
       button: Click to find out more
-      url: https://www.ahmadibrahimpri.moe.edu.sg/departments/English/visionandmission/
+      url: /open-house/
       image: /images/psgSlide7.jpg
       alt: Image alt text
 ---
