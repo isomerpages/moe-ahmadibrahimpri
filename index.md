@@ -25,4 +25,34 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: test
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: test2
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: test3
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - infopic:
+      title: Open House
+      id: infopic
+      description: 3 July 2026
+      button: Click to find out more
+      url: https://www.ahmadibrahimpri.moe.edu.sg/departments/English/visionandmission/
+      image: /images/26Slide5.jpg
+      alt: Image alt text
 ---
