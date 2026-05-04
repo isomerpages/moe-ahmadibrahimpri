@@ -29,4 +29,8 @@ sections:
       url: /open-house/
       image: /images/psgSlide7.jpg
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
