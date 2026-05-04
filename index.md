@@ -27,6 +27,6 @@ sections:
       description: 3 July 2026
       button: Click to find out more
       url: https://www.ahmadibrahimpri.moe.edu.sg/departments/English/visionandmission/
-      image: /images/26Slide5.jpg
+      image: /images/psgSlide7.jpg
       alt: Image alt text
 ---
