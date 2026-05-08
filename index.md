@@ -29,7 +29,4 @@ sections:
       url: /open-house/
       image: /images/psgSlide7.jpg
       alt: Image alt text
-  - resources:
-      title: Our Achievements
-      id: resources
 ---
