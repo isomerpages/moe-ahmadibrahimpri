@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p>2026</p>
+<h2>2026</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -97,7 +97,56 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p>2025</p>
+<h2>2025</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>COMPETITION</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>ACHIEVEMENTS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 6 (2nd Position) - Senior Boys (2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
