@@ -34,4 +34,7 @@ and learning activities
 explore our gardens, and chat with our PSG members</p>
 <p></p>
 <h3>Register now at <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/aipsopenhouse2026</a><br></h3>
-<p></p>
+<p>Please note that photographs and videos taken during Ahmad Ibrahim Primary
+School's Open House may be used for publication and school publicity purposes.
+By attending the event, you consent to the use of your and your child's
+images in accordance with the PDPA.</p>
