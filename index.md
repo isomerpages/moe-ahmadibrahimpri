@@ -28,6 +28,6 @@ sections:
         Primary School
       button: Click to find out more
       url: /open-house/
-      image: /images/1mx2m_Banner_FA_P_compressed_page_0001_further.jpg
+      image: /images/1mx2m_Banner_FA_P_compressed_page_0001_further2.jpg
       alt: Image alt text
 ---
