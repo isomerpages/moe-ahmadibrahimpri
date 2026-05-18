@@ -24,7 +24,8 @@ sections:
   - infopic:
       title: Open House
       id: infopic
-      description: 📅 Friday, 3 July 2026, 2.30 pm – 5.00 pm at Ahmad Ibrahim Primary School
+      description: Join us for our Open House 2026 on 3 July (Friday), 2.30 pm – 5.00
+        pm at Ahmad Ibrahim Primary School.
       button: Click to find out more
       url: /open-house/
       image: /images/1mx2m_Banner_FA_P_compressed_page_0001_further2.jpg
