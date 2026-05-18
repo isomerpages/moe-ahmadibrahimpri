@@ -33,7 +33,7 @@ and learning activities
 <br>🍱 <strong>Canteen Fun</strong>: Visit our students’ favourite hangout,
 explore our gardens, and chat with our PSG members</p>
 <p></p>
-<h3>Register now at <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/aipsopenhouse2026</a><br></h3>
+<h3>Register now at <a href="https://go.gov.sg/aipsopenhouse2026" rel="noopener nofollow" target="_blank">go.gov.sg/aipsopenhouse2026</a><br></h3>
 <p>Please note that photographs and videos taken during Ahmad Ibrahim Primary
 School's Open House may be used for publication and school publicity purposes.
 By attending the event, you consent to the use of your and your child's
