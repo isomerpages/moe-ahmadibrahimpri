@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Applied Learning Programmes
 variant: markdown
 ---
-**2025 Primary 6 Eco Camp**
+##### P6 Eco-Camp 
 
-The Primary 6 students went to Gardens by the Bay and explored the plants and learnt about their adaptations. 
+ **The Primary 6 students went to the Singapore Oceanarium to explore fascinating marine animals. This is where the ocean’s past, present, and future come to life. 
 
-The objectives of this programme are:
- 
-·       To provide an authentic experience for students to apply their
-knowledge and skills learnt and embrace learning with joy.
-·       To better understand and appreciate the adaptations of organisms in an
-environment, and the importance of environmental conservation.
-![](/images/6_eco_Slide1.jpg)![](/images/6_eco_Slide2.jpg)
+  
+
+The objectives of this Eco-Camp are for students to:
+
+*   Explore the adaptations of marine animals that aid their survival
+    
+*   Compare how adaptations vary with habitat and ecological role
+    
+*   Relate animal adaptations to the development of human innovation and technology
+    
+*   Understand the importance of conservation of marine life**![](/images/Slide13c26.jpg)![](/images/Slide2ec26.jpg)![](/images/Slide3ec26.jpg)
