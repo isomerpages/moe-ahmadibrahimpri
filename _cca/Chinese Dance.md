@@ -40,12 +40,24 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>SYF-AP 2024&nbsp;</h4>
-<p>Our Chinese Dance team took part in the 2024 SYF Arts Presentation. The
-students demonstrated a strong sense of resilience and teamwork and achieved
-Distinction for their excellent performance.</p>
+<h4>SYF 2026</h4>
+<p>Our Chinese dancers took part the 2026 SYF performance on 14 April at
+the University Cultural Centre. After months of dedicated training and
+thorough preparation, they took to the stage with grace and confidence,
+delivering an outstanding performance and earning the Accomplishment Award.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chineseDanceTerm2_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2CD.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1CD.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3CD.jpg">
+</div>
+<p>
+<br>
+</p>
 <p></p>
