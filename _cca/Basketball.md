@@ -76,20 +76,6 @@ to cheer them on for the match. 🙏🏻</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4B.jpg">
 </div>
-<h4>NSG 2024</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_BBall_senior_boys.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards_bball_senior_girls.jpg">
-</div>
-<p></p>
 <h3>Highlights</h3>
 <hr>
 <div class="isomer-image-wrapper">
