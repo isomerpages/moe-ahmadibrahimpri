@@ -62,7 +62,17 @@ The CCE ambassadors and Mr. Nazreen shared more about IFD using AI-generated anc
 
 ![](/images/ifd03.jpg)
 
+   
 
+A variety of exciting recess fringe activities took place at the canteen on Friday, 10 April.
+
+•Booth 1: Race Across ASEAN – go on a quest to the ASEAN wall and the big board to seek clues to solve the activity sheet
+
+•Booth 2: ASEAN Dream Map – share with us your dreams of visiting the colorful places of ASEAN
+
+•Booth 3: ASEAN games corner – understand and play this year’s ASEAN host country, the Philippines, traditional games
+
+Booth 4: Sports Interactive Wall
 
 
 
