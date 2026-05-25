@@ -132,6 +132,14 @@ to cater to a range of verbal talents.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/readingcircle02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/readingcircle01.jpg">
+</div>
+<p></p>
 <p>Inter-school Debate Championship</p>
 <p>The Wits &amp; Words: Inter-school Debate Championship builds the oral
 competencies of verbally talented students.&nbsp;</p>
@@ -140,20 +148,15 @@ on 28 February 2026 in Nanyang Girls High School. The competition focuses
 on building the oral competencies of students. Team AIPS put on a tough
 fight with their rebuttals, giving their opponents a run for their money.
 Well done, team!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Presentation1.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p>
 <br>
 </p>
-<h4>Of Wits and Words</h4>
-<p>Team AIPS took part in the Wits and Words Inter-school Debate Championships
-on 22 Feburary 2025. The competition focuses on building the oral competencies
-of students. Team AIPS put on a tough fight with their rebuttals, giving
-their opponents a run for their money. Well done, team!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL25T101.jpg">
-</div>
 <h4><strong>Vactors Reading Stars Competition</strong></h4>
 <p>Our Primary 3 team which participated in the Vactors Reading Stars competition
 emerged as one of the winners!</p>
