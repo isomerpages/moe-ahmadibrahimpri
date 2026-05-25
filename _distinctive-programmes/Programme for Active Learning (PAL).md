@@ -52,22 +52,23 @@ fun outdoor activities that built confidence, teamwork and care for others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_INT_OE_3.jpg">
 </div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outdoor_education.jpg">
-</div>
 <p><strong>Primary 2 PAL Sports and Games</strong>
 </p>
-<p>Students learn about communication and teamwork through Sports &amp; Games.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_RES___S_G.jpg">
-</div>
+<p>P2 Sports and Games focuses on Games Creation, where students work together
+with their peers to create original and fun games for others to try. Through
+this process, students learn to share ideas, plan game rules, solve problems,
+and improve their games based on feedback. This helps to build teamwork,
+creativity, communication skills, and confidence, while allowing students
+to learn through play in a meaningful and enjoyable way.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_dil___S_G.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2pal.jpg">
 </div>
-<p>2025~
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1pal.jpg">
+</div>
+<p></p>
+<p>
 <br>
 </p>
 <p></p>
