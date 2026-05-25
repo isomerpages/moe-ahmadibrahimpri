@@ -16,4 +16,4 @@ What Students Learn & Do:
     
 *   Life Skills: Building teamwork, responsibility, and a genuine appreciation for where their food comes from.   
 
-More than just a science lesson, this programme connects our students directly to the natural world, one vibrant green shoot at a time!
+More than just a science lesson, this programme connects our students directly to the natural world, one vibrant green shoot at a time!![](/images/Slide1h.jpg)![](/images/Slide2h.jpg)![](/images/Slide3h26.jpg)
