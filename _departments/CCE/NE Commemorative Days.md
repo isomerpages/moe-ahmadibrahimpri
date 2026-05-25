@@ -7,7 +7,7 @@ variant: markdown
 ---
 These commemorative days are linked to important points in Singapore's history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students' experiences in National Education.
 
-### **Total Defence Day 2026**
+# **Total Defence Day 2026**
 Ahmad Ibrahim Primary School commemorated Total Defence Day 2026 on Friday, 13 February 2026. Although the actual day falls on 15 February, the school observed the occasion during Term 1 Week 6 (9–13 February 2026).
 
 This year’s theme, “Together We Keep Singapore Strong,” highlights Singapore’s readiness and resilience in the face of crises, threats, challenges and disruptions. Throughout the week, students and staff participated in meaningful activities to deepen their understanding of Total Defence.
@@ -35,6 +35,35 @@ The students also participated in various recess fringe activities, including:
 These activities encouraged active participation and reinforced the shared responsibility of keeping Singapore strong.
 
 ![](/images/Total_Defence_Day_2026___Website_Update_pptx__4_.jpg)
+
+
+# International Friendship Day 2026 
+
+
+This year, International Friendship Day (IFD) was on 10 April 2026. In commemoration of IFD, the school organised a series of activities to help students appreciate Singapore’s connections with the region and the world. The theme for 2025–2027 is "Singapore – Forging Friendships in a Complex World."  
+  
+
+The commemoration of IFD allows our students to be sensitised to Singapore’s geopolitical realities and to reflect on the importance of:
+
+• An active foreign policy to maintain Singapore’s international space  
+• Openness to the international flow of trade, ideas, and talent  
+• Cross-cultural skills and a global orientation  
+• The spirit of friendship and collaboration among different people.
+
+**
+![](/images/ifd01.jpg)
+
+   
+An external vendor, a string quartet, performed a musical item titled "ASEAN in Harmony" during the IFD programme on Tuesday assembly.
+
+The CCE ambassadors and Mr. Nazreen shared more about IFD using AI-generated ancestors and the recess fringe activities during the Thursday and Friday level assembly.
+
+![](/images/ifd02.jpg)
+
+![](/images/ifd03.jpg)
+
+
+
 
 
 
