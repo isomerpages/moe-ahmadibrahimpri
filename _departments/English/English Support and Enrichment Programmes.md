@@ -132,6 +132,19 @@ to cater to a range of verbal talents.</p>
 </tbody>
 </table>
 <p></p>
+<p>Inter-school Debate Championship</p>
+<p>The Wits &amp; Words: Inter-school Debate Championship builds the oral
+competencies of verbally talented students.&nbsp;</p>
+<p>Team AIPS took part in the Wits and Words Inter-school Debate Championships
+on 28 February 2026 in Nanyang Girls High School. The competition focuses
+on building the oral competencies of students. Team AIPS put on a tough
+fight with their rebuttals, giving their opponents a run for their money.
+Well done, team!</p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
 <h4>Of Wits and Words</h4>
 <p>Team AIPS took part in the Wits and Words Inter-school Debate Championships
 on 22 Feburary 2025. The competition focuses on building the oral competencies
