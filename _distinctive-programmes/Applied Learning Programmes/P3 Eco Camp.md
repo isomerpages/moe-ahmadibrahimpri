@@ -9,7 +9,7 @@ third_nav_title: Applied Learning Programmes
 <p>The Primary 6 students went to the Singapore Oceanarium to explore fascinating
 marine animals. This is where the ocean’s past, present, and future come
 to life.&nbsp;</p>
-<p>The objectives of this Eco-Camp are for students to:</p>
+<p><em>The objectives of this Eco-Camp are for students to </em>:</p>
 <ul>
 <li>
 <p>Explore the adaptations of marine animals that aid their survival.</p>
