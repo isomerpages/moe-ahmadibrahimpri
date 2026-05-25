@@ -66,19 +66,50 @@ celebrations, Welcome Tea (for new members) &amp; an annual Farewell Party
 </tr>
 </tbody>
 </table>
-<h2><strong>Hari Raya Concert 2026 – <br>Dikir Barat performance</strong></h2>
-<p>The Malay Dance Club’s recreational team is diligently preparing for their
-performance at the upcoming Hari Raya Concert in Term 2. Under the guidance
-of Mdm Shikin from Sri Warisan Performing Arts, the students have participated
-in eight dedicated training sessions to refine their skills and choreography.</p>
-<p>In this performance, <strong>Qistina</strong> will assume the role of <strong>Tok Juara (lead singer)</strong>,
-accompanied by four <strong>Tukang Karut (lead singers)</strong>: Nasuha,
-Iffah, Nur ‘Rianna, and Nur Qassandra. The team looks forward to presenting
-a polished and captivating performance for the school community.</p>
+<h3>SYF 2026</h3>
+<p>Another major highlight this term was the SYF Arts Presentation held on
+7 April. Despite balancing rigorous rehearsals during the fasting month
+of Ramadhan and the Hari Raya celebrations in Syawal, the students demonstrated
+remarkable commitment, resilience, and teamwork throughout their preparation
+journey. Their hard work paid off as the Malay Dance Club achieved an impressive
+Distinction Award — a milestone accomplishment and the club’s first Distinction
+in 11 years. This achievement reflects the students’ dedication, passion,
+and perseverance, as well as the unwavering support of their instructors
+and teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide7M.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide8M.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide9M.jpg">
+</div>
+<h3>Hari Raya Concert 2026 – <br>Dikir Barat performance</h3>
+<p>The Malay Dance Club had an exciting and meaningful Term 2, marked by
+outstanding performances and achievements. During the school’s Hari Raya
+Concert, the Dikir Barat team made their debut performance in front of
+the entire school community. In this special showcase, Qistina confidently
+took on the role of Tok Juara (lead singer), alongside four talented Tukang
+Karut (lead singers) — Nasuha, Iffah, Nur ‘Rianna, and Nur Qassandra. The
+SYF team also proudly presented their Singapore Youth Festival (SYF) piece, <em>Lelana Gemalai</em>,
+to the school audience for the very first time, captivating everyone with
+their graceful movements and strong stage presence.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3M.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5M.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4M.jpg">
+</div>
+<p></p>
+<p></p>
 <h2><strong>Appreciation Day 2025 – Dikir Barat performance</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
