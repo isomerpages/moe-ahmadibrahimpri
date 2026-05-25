@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/2026 Term2 Highlights.md
       - Parent Support Group/Partnering Parents, Empowering Children.md
       - Parent Support Group/.keep
       - Parent Support Group/2026 Term 1 Highlight.md
