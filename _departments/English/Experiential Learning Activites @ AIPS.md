@@ -105,8 +105,13 @@ lesson! Through this authentic learning experience, our students made the
 procedural text of ‘Making Ice Cream’ come alive. They followed the steps
 in the text, worked together and made their own ice cream. Great teamwork
 and patience paid off with them enjoying the sweet treat at the end.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELA_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ice_cream_making01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ice_cream_making02.jpg">
 </div>
 <ol start="2" data-tight="true" class="tight">
 <li>
