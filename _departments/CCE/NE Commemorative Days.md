@@ -7,7 +7,7 @@ variant: markdown
 ---
 These commemorative days are linked to important points in Singapore's history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students' experiences in National Education.
 
-# **Total Defence Day 2026**
+## **Total Defence Day 2026**
 Ahmad Ibrahim Primary School commemorated Total Defence Day 2026 on Friday, 13 February 2026. Although the actual day falls on 15 February, the school observed the occasion during Term 1 Week 6 (9–13 February 2026).
 
 This year’s theme, “Together We Keep Singapore Strong,” highlights Singapore’s readiness and resilience in the face of crises, threats, challenges and disruptions. Throughout the week, students and staff participated in meaningful activities to deepen their understanding of Total Defence.
@@ -37,8 +37,8 @@ These activities encouraged active participation and reinforced the shared respo
 ![](/images/Total_Defence_Day_2026___Website_Update_pptx__4_.jpg)
 
 
-# International Friendship Day 2026 
 
+### International Friendship Day 2026
 
 This year, International Friendship Day (IFD) was on 10 April 2026. In commemoration of IFD, the school organised a series of activities to help students appreciate Singapore’s connections with the region and the world. The theme for 2025–2027 is "Singapore – Forging Friendships in a Complex World."  
   
