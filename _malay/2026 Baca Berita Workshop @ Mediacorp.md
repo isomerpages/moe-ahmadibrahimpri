@@ -14,6 +14,20 @@ and effective news delivery. Through this engaging workshop, students developed
 a deeper appreciation for broadcast journalism and the importance of clear
 and confident communication.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Berita01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Language_Unit_Term_2_Updates_pptx__4_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Language_Unit_Term_2_Updates_pptx__5_.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
