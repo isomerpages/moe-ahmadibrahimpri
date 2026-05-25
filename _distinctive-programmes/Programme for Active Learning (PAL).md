@@ -35,6 +35,10 @@ through the Visual Art module.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_resi_VA__1_.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2pal.jpg">
+</div>
 <p><strong>PAL:Drama</strong>
 </p>
 <p>Students learn more about expressing themselves creatively through the
@@ -61,9 +65,6 @@ and improve their games based on feedback. This helps to build teamwork,
 creativity, communication skills, and confidence, while allowing students
 to learn through play in a meaningful and enjoyable way.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2pal.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1pal.jpg">
 </div>
