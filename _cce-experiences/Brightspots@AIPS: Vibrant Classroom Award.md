@@ -6,6 +6,16 @@ variant: markdown
 ---
 ## **Brightspots@AIPS 2026**
 
+#### **Classroom cleanliness awards Term 2**
+
+![](/images/Term_2_VIA_Brightspots_AIPS_2026_website_pptx.jpg)
+![](/images/Term_2_VIA_Brightspots_AIPS_2026_website_pptx__1_.jpg)
+![](/images/Term_2_VIA_Brightspots_AIPS_2026_website_pptx__2_.jpg)
+![](/images/Term_2_VIA_Brightspots_AIPS_2026_website_pptx__3_.jpg)
+
+![](/images/Term_2_VIA_Brightspots_AIPS_2026_website_pptx__4_.jpg)
+![](/images/Term_2_VIA_Brightspots_AIPS_2026_website_pptx__5_.jpg)
+![](/images/Term_2_VIA_Brightspots_AIPS_2026_website_pptx__6_.jpg)
 ##### **Vibrant Classroom Award (VCA)**
 
 Every Term 1, the Vibrant Classroom Award recognises classes that put in effort to decorate and ensure the cleanliness of their classrooms. The aim is to create a vibrant, welcoming, and conducive environment that supports learning and fosters a sense of pride in the classroom.
