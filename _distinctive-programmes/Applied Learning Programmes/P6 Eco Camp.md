@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Applied Learning Programmes
 variant: markdown
 ---
-##### P6 Eco-Camp 
+##### P6 Eco-Camp 2026
 
  The Primary 6 students went to the Singapore Oceanarium to explore fascinating marine animals. This is where the ocean’s past, present, and future come to life. 
 
