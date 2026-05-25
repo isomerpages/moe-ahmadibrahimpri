@@ -80,6 +80,33 @@ Booth 4: Sports Interactive Wall
 
 
 
+
+#### Total Defence Day 2025 @ Ahmad Ibrahim Primary School
+
+In conjunction with Exercise Singapore Ready 25, Ahmad Ibrahim Primary School commemorated Total Defence Day 2025 with a series of engaging and meaningful activities over two weeks. These experiences helped students understand the importance of being prepared and staying resilient in times of crisis.
+
+The commemoration kicked off with a Fire Evacuation Drill, where students and staff practised safe and orderly evacuation procedures. This was followed by a one-hour Power Disruption Exercise on 17 Feb, simulating real-life emergency situations to encourage adaptability and problem-solving.
+
+During recess, students were engaged in a variety of Fringe Activities, including:  
+✅ Interactive Wall Game – Played a fun and educational game reinforcing Social Defence messages  
+✅ Pledge Taking – Captured their commitment to Singapore at the Economic Defence&nbsp; photobooth  
+✅ CPR Experience – Practised life-saving skills as part of Civil Defence  
+✅ SAF Picture Matching – Matched the roles of the Singapore Armed Forces to understand Military Defence  
+✅ Digital Wellness on Internet Safety – Gained awareness on responsible online behaviour relating to Digital Defence  
+✅ Bookmark Making – Immersed in a creative activity highlighting TD pillars, to build Psychological Defence  
+✅ AI30 Commemorative Stamp &amp; Token Collection – Encouraged students to participate actively
+
+To deepen students’ understanding, the Assembly Programme featured the TD message video by our Deputy PM, Mr Gan Kim Yong,&nbsp; a sharing session by our Character and Citizenship Education (CCE) Ambassadors, as well as an interactive skit by Funplay Workshop. The performance creatively illustrated the six pillars of Total Defence, leaving a lasting impression on our young learners.
+
+Through these activities, students gained valuable insights into how every Singaporean plays a part in Total Defence. By equipping them with knowledge and hands-on experiences, we empower them to stay vigilant, prepared, and united in safeguarding our nation in times of crises.
+
+![TDD25](/images/TDD_pic_collage.jpg)
+
+
+
+
+
+
 ### International Friendship Day 2025 @ Ahmad Ibrahim Primary School
 
 
@@ -131,26 +158,6 @@ These activities helped students reflect on Singapore’s place in the world and
 ![](/images/IFD5.jpg)
 
 
-#### Total Defence Day 2025 @ Ahmad Ibrahim Primary School
-
-In conjunction with Exercise Singapore Ready 25, Ahmad Ibrahim Primary School commemorated Total Defence Day 2025 with a series of engaging and meaningful activities over two weeks. These experiences helped students understand the importance of being prepared and staying resilient in times of crisis.
-
-The commemoration kicked off with a Fire Evacuation Drill, where students and staff practised safe and orderly evacuation procedures. This was followed by a one-hour Power Disruption Exercise on 17 Feb, simulating real-life emergency situations to encourage adaptability and problem-solving.
-
-During recess, students were engaged in a variety of Fringe Activities, including:  
-✅ Interactive Wall Game – Played a fun and educational game reinforcing Social Defence messages  
-✅ Pledge Taking – Captured their commitment to Singapore at the Economic Defence&nbsp; photobooth  
-✅ CPR Experience – Practised life-saving skills as part of Civil Defence  
-✅ SAF Picture Matching – Matched the roles of the Singapore Armed Forces to understand Military Defence  
-✅ Digital Wellness on Internet Safety – Gained awareness on responsible online behaviour relating to Digital Defence  
-✅ Bookmark Making – Immersed in a creative activity highlighting TD pillars, to build Psychological Defence  
-✅ AI30 Commemorative Stamp &amp; Token Collection – Encouraged students to participate actively
-
-To deepen students’ understanding, the Assembly Programme featured the TD message video by our Deputy PM, Mr Gan Kim Yong,&nbsp; a sharing session by our Character and Citizenship Education (CCE) Ambassadors, as well as an interactive skit by Funplay Workshop. The performance creatively illustrated the six pillars of Total Defence, leaving a lasting impression on our young learners.
-
-Through these activities, students gained valuable insights into how every Singaporean plays a part in Total Defence. By equipping them with knowledge and hands-on experiences, we empower them to stay vigilant, prepared, and united in safeguarding our nation in times of crises.
-
-![TDD25](/images/TDD_pic_collage.jpg)
 
 #### Racial Harmony Day 2025 - Our Tapestry, Our Story
 
