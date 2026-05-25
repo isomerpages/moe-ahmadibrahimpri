@@ -19,4 +19,4 @@ The objectives of this Eco-Camp are for students to:
     
 *   Relate animal adaptations to the development of human innovation and technology
     
-*   Understand the importance of conservation of marine life**![](/images/Slide13c26.jpg)![](/images/Slide2ec26.jpg)![](/images/Slide3ec26.jpg)
+*   Understand the importance of conservation of marine life![](/images/Slide13c26.jpg)![](/images/Slide2ec26.jpg)![](/images/Slide3ec26.jpg)
