@@ -13,3 +13,10 @@ Izwan Othman, who shared useful tips on confident speech, pronunciation,
 and effective news delivery. Through this engaging workshop, students developed
 a deeper appreciation for broadcast journalism and the importance of clear
 and confident communication.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
