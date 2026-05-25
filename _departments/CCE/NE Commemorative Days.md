@@ -74,7 +74,9 @@ A variety of exciting recess fringe activities took place at the canteen on Frid
 
 Booth 4: Sports Interactive Wall
 
+![](/images/ifd05.jpg)
 
+![](/images/ifd04.jpg)
 
 
 
