@@ -7,7 +7,7 @@ variant: markdown
 ---
 ##### P6 Eco-Camp 
 
- **The Primary 6 students went to the Singapore Oceanarium to explore fascinating marine animals. This is where the ocean’s past, present, and future come to life. 
+ The Primary 6 students went to the Singapore Oceanarium to explore fascinating marine animals. This is where the ocean’s past, present, and future come to life. 
 
   
 
