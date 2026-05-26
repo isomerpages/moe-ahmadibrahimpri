@@ -41,7 +41,13 @@ by embracing challenges and striving for growth.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2342___Indu_ravindran.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG20260106093913___Suriyanti_Said.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_21_at_20_40_32__1_.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
@@ -118,4 +124,5 @@ and strengthening their approach to learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_5.jpg">
 </div>
+<p></p>
 <p></p>
