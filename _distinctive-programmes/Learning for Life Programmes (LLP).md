@@ -38,23 +38,14 @@ the various activities, embodying resilience and exemplifying leadership
 by embracing challenges and striving for growth.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_2.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2342___Indu_ravindran.jpg">
 </div>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_4.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
 <h4>Primary 4 Leadership Camp: Personal Effectiveness Workshop</h4>
 <p>Our P4 students participated in a leadership camp that emphasised cyber
 wellness and peer support. Through team games and activities, they honed
