@@ -58,6 +58,9 @@ third_nav_title: Arts
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/a302efc6_a299_4e1b_8c73_89c3d43e8dda.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d0cda8e5_f332_48fa_8491_ea24b00eaba3.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
