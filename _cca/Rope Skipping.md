@@ -46,7 +46,54 @@ programmes like National Day and Awards' Day celebrations.</p>
 </tr>
 </tbody>
 </table>
+<h4>National School Games 2026</h4>
+<p>One team, many victories. This year’s National School Games was one for
+the history books for our Rope Skipping CCA.&nbsp;</p>
+<p>We are incredibly proud to celebrate our Senior Boys as the Divisional
+Champions!&nbsp;</p>
+<p>Their journey of hard work and teamwork has culminated in this well-deserved
+win.</p>
+<p>Our Senior Boys had their amazing performance by clinching 3rd place in
+the Individual Artistic event, 2nd place in the Pair Artistic event, 1st
+place and 3rd place in the Individual Speed event, 6th place in the Double
+Under event, 3rd place in Double Dutch event and 1st place in Speed relay
+event!</p>
+<p>We also celebrate the stellar efforts of our other divisions:</p>
+<p>Our Senior Girls for coming in 8th place in the Double Dutch event!</p>
+<p>Our Junior Boys for clinching 4th place in the Individual Artistic event,
+8th place in the Individual Speed event, 3rd place for Double Dutch event
+and 2nd Place for Speed relay event!</p>
+<p>Our Junior Girls for coming in 8th place in the Double Dutch event!&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1rs26.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3rs26.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4rs26.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5rs26.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S6rs26.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S7rs26.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2rs26.jpg">
+</div>
+<p>
+<br>
+</p>
 <h4>NSG Rope Skipping Competition 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.jpg">
