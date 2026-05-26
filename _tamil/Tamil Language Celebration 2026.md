@@ -12,7 +12,11 @@ various fun activities and learned to use AI to create proverbs. It was
 a meaningful experience that helped our students appreciate the Tamil language
 and culture while learning in exciting new ways!&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIPS_website_update_Term_2___2026_pptx__3_.jpg">
+</div>
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIPS_website_update_Term_2___2026_pptx__2_.jpg">
+</div>
+<p></p>
