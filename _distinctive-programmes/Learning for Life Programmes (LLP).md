@@ -94,9 +94,7 @@ and strengthening their approach to learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260107_102320___Siti_Aishah_Junaidi.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260107_103409___Siti_Aishah_Junaidi.jpg">
+</div>
 <p></p>
