@@ -50,8 +50,6 @@ by embracing challenges and striving for growth.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
 <h4>Primary 4 Leadership Camp: Personal Effectiveness Workshop</h4>
 <p>Our P4 students participated in a leadership camp that emphasised cyber
 wellness and peer support. Through team games and activities, they honed
@@ -60,20 +58,14 @@ demonstrated resilience and teamwork, embodying the value of enabling others
 to take action during the leadership camp.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260107_094547___Rajes_Ayahui.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1498___Wan_Rong_Chia.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_4.jpg">
-</div>
 <h4>Primary 5 Leadership Camp: Intergenerational Mentoring Workshop</h4>
 <p>Our P5 students demonstrated the practice of encouraging the heart during
 their leadership camp. They developed empathy by putting themselves in
