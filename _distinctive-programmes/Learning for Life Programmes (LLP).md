@@ -77,21 +77,12 @@ them to service learning, deepening their understanding and appreciation
 for supporting individuals with various needs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4817___Weisheng_Tan.jpg">
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_4.jpg">
-</div>
+<p></p>
+<p></p>
 <p></p>
 <h4>Primary 6 Leadership Camp: Rise with Resilience Workshop</h4>
 <p>Our P6 students began the year with a resilience workshop, where they
