@@ -81,9 +81,6 @@ for supporting individuals with various needs.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Primary 6 Leadership Camp: Rise with Resilience Workshop</h4>
 <p>Our P6 students began the year with a resilience workshop, where they
 worked on building mental resilience and confidence to tackle challenges
