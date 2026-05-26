@@ -65,6 +65,9 @@ to take action during the leadership camp.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1498___Wan_Rong_Chia.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_21_at_20_40_32__3_.jpg">
+</div>
 <p></p>
 <h4>Primary 5 Leadership Camp: Intergenerational Mentoring Workshop</h4>
 <p>Our P5 students demonstrated the practice of encouraging the heart during
