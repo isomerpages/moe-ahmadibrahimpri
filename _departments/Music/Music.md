@@ -43,7 +43,7 @@ inter-cultural appreciation and harmony.</p>
 the recorder. Recorder is the main melodic instrument used in our school
 and we hope that our students will be able to master it well under the
 guidance of our music teachers.</p>
-<p>Recess Performance 2024</p>
+<p></p>
 <h4>Primary 4: Ukulele and Recorder</h4>
 <p>Our students have the opportunity of learning how to play the Ukulele
 in Primary 4. This is to ensure our students get the exposure to different
