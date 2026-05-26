@@ -30,8 +30,7 @@ to embrace the future of technology with confidence.</p>
 <p>Ms Erika Melisa Muhammad Rezal (<a href="mailto:erika_melisa_muhammad_rezal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">erika_melisa_muhammad_rezal@moe.edu.sg</a>)</p>
 <p>Mdm Lee Meihui (<a href="mailto:lee_meihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meihui@moe.edu.sg</a>)</p>
 <p>Mdm Siti Zubaidah Shaik (<a href="mailto:siti_zubaidah_shaik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_shaik@moe.edu.sg</a>)</p>
-<p>Ms Krithika</p>
-<p>(<a href="mailto:j_saikrithika@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">j_saikrithika@moe.edu.sg</a>)</p>
+<p>Ms Krithika (<a href="mailto:j_saikrithika@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">j_saikrithika@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
