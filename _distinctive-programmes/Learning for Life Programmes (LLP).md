@@ -90,25 +90,13 @@ worked on building mental resilience and confidence to tackle challenges
 in school. They exemplified resilience by fostering a determined mindset
 and strengthening their approach to learning.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260107_102320___Siti_Aishah_Junaidi.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_5.jpg">
-</div>
+<p></p>
 <p></p>
 <p></p>
