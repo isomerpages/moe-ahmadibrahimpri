@@ -31,9 +31,10 @@ different sounds together.</p>
 skills for music lessons. Thus, in Primary 1, our students learn to use
 their “singing voice” and to sing using the correct techniques. Students
 are introduced to various genre of music of different cultures and languages.</p>
-<h4>Primary 2: Kompang</h4>
-<p>Our students are introduced to the Kompang, a hand drum commonly used
-in traditional music.</p>
+<h4>Primary 2: Ethnic Percussion</h4>
+<p>Pupils are exposed to instruments and music from various cultures, promoting
+inter-cultural appreciation and harmony.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kompang.jpg">
 </div>
