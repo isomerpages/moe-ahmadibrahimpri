@@ -36,7 +36,7 @@ are introduced to various genre of music of different cultures and languages.</p
 inter-cultural appreciation and harmony.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kompang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_22_at_1_40_20_PM__1_.jpg">
 </div>
 <h4>Primary 3: Recorder</h4>
 <p>The Primary 3 students will start to learn the fundamentals of playing
