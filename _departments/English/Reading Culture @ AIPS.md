@@ -27,9 +27,11 @@ Students in the school are introduced to new books and encouraged to read throug
 Book promotions and mass borrowing:
 ![](/images/book%20promotion%202023.jpg)
 
-Mystery Guest Reader and Book Reading sessions:
+ 'English Ambassadors' Book Reading Session'
 
-![](/images/el_pic_3.png)
+![](/images/readingculture01.jpg)
+
+
 
 Meet-The- Author:
 

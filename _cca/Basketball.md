@@ -4,6 +4,10 @@ permalink: /cca/basketball/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1B.jpg">
+</div>
 <p>The Basketball CCA conducts its training once a week. Weekly training
 not only focus on fundamental skills, fitness conditioning and game play,
 it also emphasizes discipline and team building. In the pursuit of the
@@ -49,21 +53,29 @@ and refining their skills so as to represent Ahmad Ibrahim Primary valiantly.</p
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>NSG 2024</h4>
-<p></p>
+<h4>National School Games 2026</h4>
+<p>Our Basketball (Senior) boys put up a strong fight against tough opponents.
+🙌🏀</p>
+<p>We are proud of the team’s growth and resilience, especially as they stepped
+up to compete in a higher league this year. The improvement and determination
+shown have been commendable.</p>
+<p>As our seniors prepare to step down from CCA, we thank them for their
+dedication and leadership. Wishing them all the best as they pass the baton
+to the next generation.</p>
+<p>Keep training hard and continue pursuing your passion for the game. 💪🔥</p>
+<p>We are thankful to our School Leaders, Parents and Staff for coming by
+to cheer them on for the match. 🙏🏻</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2B.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_BBall_senior_boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3B.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards_bball_senior_girls.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4B.jpg">
 </div>
-<p></p>
 <h3>Highlights</h3>
 <hr>
 <div class="isomer-image-wrapper">

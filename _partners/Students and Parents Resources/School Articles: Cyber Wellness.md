@@ -20,3 +20,7 @@ variant: tiptap
 <p><a href="/files/Using%20Technology%20Meaningfully%20CW%20Infographic%20Sem%201%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">2022 Semester 1 sing Technology Meaningfully CW Infographic.pdf</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parental_tips.png">
+</div>
+<p></p>

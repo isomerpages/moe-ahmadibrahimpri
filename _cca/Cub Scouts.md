@@ -50,8 +50,64 @@ and diverse, there's always something interesting to do!</p>
 </tr>
 </tbody>
 </table>
-<h3>CCA Highlights</h3>
+<h3></h3>
 <hr>
+<h4>2026 Cub Scouts Rock Climbing at Northbrooks Secondary</h4>
+<p>The Cub Scouts recently scaled new heights during an exhilarating collaboration
+with the <strong>Outdoor Adventure Club (ODAC)</strong> at <strong>Northbrooks Secondary School</strong>.
+This immersive session was designed to introduce the scouts to the fundamentals
+of rock climbing while fostering a spirit of resilience and teamwork.</p>
+<blockquote>
+<p><strong>Scaling New Heights</strong>
+</p>
+</blockquote>
+<p>Under the expert guidance of the ODAC student leaders and instructors,
+the Cub Scouts were introduced to the essential gear and safety protocols
+of the sport. The energy in the indoor climbing facility was electric as
+the scouts learned about:</p>
+<ul>
+<li>
+<p><strong>Proper Harnessing:</strong> Understanding the "double-back" safety
+check.</p>
+</li>
+<li>
+<p><strong>Knot Tying:</strong> Mastering the Figure-8 Follow-Through, a staple
+for any climber.</p>
+</li>
+<li>
+<p><strong>Belay Techniques:</strong> Learning the importance of communication
+between the climber and the ground crew.</p>
+</li>
+</ul>
+<blockquote>
+<p><strong>Overcoming Challenges</strong>
+</p>
+</blockquote>
+<p>For many of the scouts, this was their first time facing a vertical wall.
+The Northbrooks ODAC members acted as fantastic mentors, patiently coaching
+the younger students through difficult "cruxes" and encouraging them to
+trust their footwork.</p>
+<p>Beyond the physical workout, the experience was a masterclass in <strong>growth mindset</strong>.
+Every reached hold was a celebration of confidence, and every fall was
+a lesson in trying again. The collaboration highlighted the strong community
+bond between the two schools, leaving the Cub Scouts with sore muscles,
+big smiles, and a newfound passion for the great outdoors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1r.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2rc.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4r.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3rc.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5r.jpg">
+</div>
+<h3>CCA Highlights</h3>
 <p>Our Cub Scouts in action, pitching the tents and cooking the eggs during
 the outdoor learning experience during the CCA sessions.</p>
 <div class="isomer-image-wrapper">

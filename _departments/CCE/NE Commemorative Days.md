@@ -7,7 +7,7 @@ variant: markdown
 ---
 These commemorative days are linked to important points in Singapore's history. In AIPS, we customise our learning activities and follow up with programmes to create holistic learning experiences and enriches students' experiences in National Education.
 
-### **Total Defence Day 2026**
+## **Total Defence Day 2026**
 Ahmad Ibrahim Primary School commemorated Total Defence Day 2026 on Friday, 13 February 2026. Although the actual day falls on 15 February, the school observed the occasion during Term 1 Week 6 (9–13 February 2026).
 
 This year’s theme, “Together We Keep Singapore Strong,” highlights Singapore’s readiness and resilience in the face of crises, threats, challenges and disruptions. Throughout the week, students and staff participated in meaningful activities to deepen their understanding of Total Defence.
@@ -35,6 +35,74 @@ The students also participated in various recess fringe activities, including:
 These activities encouraged active participation and reinforced the shared responsibility of keeping Singapore strong.
 
 ![](/images/Total_Defence_Day_2026___Website_Update_pptx__4_.jpg)
+
+
+
+### International Friendship Day 2026
+
+This year, International Friendship Day (IFD) was on 10 April 2026. In commemoration of IFD, the school organised a series of activities to help students appreciate Singapore’s connections with the region and the world. The theme for 2025–2027 is "Singapore – Forging Friendships in a Complex World."  
+  
+
+The commemoration of IFD allows our students to be sensitised to Singapore’s geopolitical realities and to reflect on the importance of:
+
+• An active foreign policy to maintain Singapore’s international space  
+• Openness to the international flow of trade, ideas, and talent  
+• Cross-cultural skills and a global orientation  
+• The spirit of friendship and collaboration among different people.
+
+**
+![](/images/ifd01.jpg)
+
+   
+An external vendor, a string quartet, performed a musical item titled "ASEAN in Harmony" during the IFD programme on Tuesday assembly.
+
+The CCE ambassadors and Mr. Nazreen shared more about IFD using AI-generated ancestors and the recess fringe activities during the Thursday and Friday level assembly.
+
+![](/images/ifd02.jpg)
+
+![](/images/ifd03.jpg)
+
+   
+
+A variety of exciting recess fringe activities took place at the canteen on Friday, 10 April.
+
+•Booth 1: Race Across ASEAN – go on a quest to the ASEAN wall and the big board to seek clues to solve the activity sheet
+
+•Booth 2: ASEAN Dream Map – share with us your dreams of visiting the colorful places of ASEAN
+
+•Booth 3: ASEAN games corner – understand and play this year’s ASEAN host country, the Philippines, traditional games
+
+Booth 4: Sports Interactive Wall
+
+![](/images/ifd05.jpg)
+
+![](/images/ifd04.jpg)
+
+
+
+
+#### Total Defence Day 2025 @ Ahmad Ibrahim Primary School
+
+In conjunction with Exercise Singapore Ready 25, Ahmad Ibrahim Primary School commemorated Total Defence Day 2025 with a series of engaging and meaningful activities over two weeks. These experiences helped students understand the importance of being prepared and staying resilient in times of crisis.
+
+The commemoration kicked off with a Fire Evacuation Drill, where students and staff practised safe and orderly evacuation procedures. This was followed by a one-hour Power Disruption Exercise on 17 Feb, simulating real-life emergency situations to encourage adaptability and problem-solving.
+
+During recess, students were engaged in a variety of Fringe Activities, including:  
+✅ Interactive Wall Game – Played a fun and educational game reinforcing Social Defence messages  
+✅ Pledge Taking – Captured their commitment to Singapore at the Economic Defence&nbsp; photobooth  
+✅ CPR Experience – Practised life-saving skills as part of Civil Defence  
+✅ SAF Picture Matching – Matched the roles of the Singapore Armed Forces to understand Military Defence  
+✅ Digital Wellness on Internet Safety – Gained awareness on responsible online behaviour relating to Digital Defence  
+✅ Bookmark Making – Immersed in a creative activity highlighting TD pillars, to build Psychological Defence  
+✅ AI30 Commemorative Stamp &amp; Token Collection – Encouraged students to participate actively
+
+To deepen students’ understanding, the Assembly Programme featured the TD message video by our Deputy PM, Mr Gan Kim Yong,&nbsp; a sharing session by our Character and Citizenship Education (CCE) Ambassadors, as well as an interactive skit by Funplay Workshop. The performance creatively illustrated the six pillars of Total Defence, leaving a lasting impression on our young learners.
+
+Through these activities, students gained valuable insights into how every Singaporean plays a part in Total Defence. By equipping them with knowledge and hands-on experiences, we empower them to stay vigilant, prepared, and united in safeguarding our nation in times of crises.
+
+![TDD25](/images/TDD_pic_collage.jpg)
+
+
 
 
 
@@ -90,26 +158,6 @@ These activities helped students reflect on Singapore’s place in the world and
 ![](/images/IFD5.jpg)
 
 
-#### Total Defence Day 2025 @ Ahmad Ibrahim Primary School
-
-In conjunction with Exercise Singapore Ready 25, Ahmad Ibrahim Primary School commemorated Total Defence Day 2025 with a series of engaging and meaningful activities over two weeks. These experiences helped students understand the importance of being prepared and staying resilient in times of crisis.
-
-The commemoration kicked off with a Fire Evacuation Drill, where students and staff practised safe and orderly evacuation procedures. This was followed by a one-hour Power Disruption Exercise on 17 Feb, simulating real-life emergency situations to encourage adaptability and problem-solving.
-
-During recess, students were engaged in a variety of Fringe Activities, including:  
-✅ Interactive Wall Game – Played a fun and educational game reinforcing Social Defence messages  
-✅ Pledge Taking – Captured their commitment to Singapore at the Economic Defence&nbsp; photobooth  
-✅ CPR Experience – Practised life-saving skills as part of Civil Defence  
-✅ SAF Picture Matching – Matched the roles of the Singapore Armed Forces to understand Military Defence  
-✅ Digital Wellness on Internet Safety – Gained awareness on responsible online behaviour relating to Digital Defence  
-✅ Bookmark Making – Immersed in a creative activity highlighting TD pillars, to build Psychological Defence  
-✅ AI30 Commemorative Stamp &amp; Token Collection – Encouraged students to participate actively
-
-To deepen students’ understanding, the Assembly Programme featured the TD message video by our Deputy PM, Mr Gan Kim Yong,&nbsp; a sharing session by our Character and Citizenship Education (CCE) Ambassadors, as well as an interactive skit by Funplay Workshop. The performance creatively illustrated the six pillars of Total Defence, leaving a lasting impression on our young learners.
-
-Through these activities, students gained valuable insights into how every Singaporean plays a part in Total Defence. By equipping them with knowledge and hands-on experiences, we empower them to stay vigilant, prepared, and united in safeguarding our nation in times of crises.
-
-![TDD25](/images/TDD_pic_collage.jpg)
 
 #### Racial Harmony Day 2025 - Our Tapestry, Our Story
 

@@ -4,6 +4,10 @@ permalink: /cca/choir/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1C.jpg">
+</div>
 <p>The AIPS Choir aims to provide joyful and fruitful learning experiences
 to our members to ensure their holistic development. The Choir takes part
 in the SYF Arts Presentation every two years and in school events annually.
@@ -46,6 +50,22 @@ in these events.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2C.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4C.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5C.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3C.jpg">
+</div>
 <h4>SYF-AP 2024</h4>
 <p></p>
 <div class="isomer-image-wrapper">

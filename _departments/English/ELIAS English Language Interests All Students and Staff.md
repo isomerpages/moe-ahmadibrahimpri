@@ -13,7 +13,10 @@ Students are provided with the opportunity to learn through play as they immerse
 English Week is never complete without a Character Parade! Everyone in school, including teachers, are encouraged to come dressed up as book characters. Books truly come alive that day!
 
 **Character Parade- book characters come alive:**
-![](/images/elias%202023.jpg)
+![](/images/characterparade01.jpg)
+
+![](/images/characterparade02.jpg)
+
 
 **ELIAS Week Games and activities:**
 ![](/images/ELIAS.jpg)

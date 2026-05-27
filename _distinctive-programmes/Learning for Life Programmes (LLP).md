@@ -38,23 +38,18 @@ the various activities, embodying resilience and exemplifying leadership
 by embracing challenges and striving for growth.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2342___Indu_ravindran.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG20260106093913___Suriyanti_Said.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_21_at_20_40_32__1_.jpg">
 </div>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Leadership_Camp_4.jpg">
-</div>
 <h4>Primary 4 Leadership Camp: Personal Effectiveness Workshop</h4>
 <p>Our P4 students participated in a leadership camp that emphasised cyber
 wellness and peer support. Through team games and activities, they honed
@@ -63,20 +58,17 @@ demonstrated resilience and teamwork, embodying the value of enabling others
 to take action during the leadership camp.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260107_094547___Rajes_Ayahui.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1498___Wan_Rong_Chia.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_21_at_20_40_32__3_.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Leadership_Camp_4.jpg">
-</div>
 <h4>Primary 5 Leadership Camp: Intergenerational Mentoring Workshop</h4>
 <p>Our P5 students demonstrated the practice of encouraging the heart during
 their leadership camp. They developed empathy by putting themselves in
@@ -85,21 +77,9 @@ them to service learning, deepening their understanding and appreciation
 for supporting individuals with various needs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4817___Weisheng_Tan.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_3.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Leadership_Camp_4.jpg">
-</div>
 <p></p>
 <h4>Primary 6 Leadership Camp: Rise with Resilience Workshop</h4>
 <p>Our P6 students began the year with a resilience workshop, where they
@@ -107,24 +87,11 @@ worked on building mental resilience and confidence to tackle challenges
 in school. They exemplified resilience by fostering a determined mindset
 and strengthening their approach to learning.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260107_102320___Siti_Aishah_Junaidi.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Leadership_Camp_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260107_103409___Siti_Aishah_Junaidi.jpg">
 </div>
 <p></p>

@@ -31,18 +31,19 @@ different sounds together.</p>
 skills for music lessons. Thus, in Primary 1, our students learn to use
 their “singing voice” and to sing using the correct techniques. Students
 are introduced to various genre of music of different cultures and languages.</p>
-<h4>Primary 2: Kompang</h4>
-<p>Our students are introduced to the Kompang, a hand drum commonly used
-in traditional music.</p>
+<h4>Primary 2: Ethnic Percussion</h4>
+<p>Pupils are exposed to instruments and music from various cultures, promoting
+inter-cultural appreciation and harmony.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kompang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_22_at_1_40_20_PM__1_.jpg">
 </div>
 <h4>Primary 3: Recorder</h4>
 <p>The Primary 3 students will start to learn the fundamentals of playing
 the recorder. Recorder is the main melodic instrument used in our school
 and we hope that our students will be able to master it well under the
 guidance of our music teachers.</p>
-<p>Recess Performance 2024</p>
+<p></p>
 <h4>Primary 4: Ukulele and Recorder</h4>
 <p>Our students have the opportunity of learning how to play the Ukulele
 in Primary 4. This is to ensure our students get the exposure to different
