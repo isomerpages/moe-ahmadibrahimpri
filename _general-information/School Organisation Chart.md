@@ -17,6 +17,7 @@ variant: markdown
 | Appointment | Name | Email |
 |:---:|:---:|:---:|
 | HOD CCE | Mdm Siti Aisha Said | siti_aisha_said@moe.edu.sg |
+| HOD SCIENCE | Mr Tay Soo Hong | tay_soo_hong@moe.edu.sg |
 | HOD ICT | Mrs Connie Chong  | ang_hong_cheng@moe.edu.sg |
 | HOD MTL | Ms Teo Xiwen | teo_xiwen@moe.edu.sg |
 | HOD PAM / CCA | Mr Sakthi Ganapathi | sakthi_ganapathi_ramachandra@moe.edu.sg |
