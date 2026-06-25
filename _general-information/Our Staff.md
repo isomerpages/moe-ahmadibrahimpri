@@ -1151,10 +1151,10 @@ variant: tiptap
 <p>P6 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cia Zhi Xian</p>
+<p>Mdm Mahalechime Udaykumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhi_xian_cia@moe.edu.sg</u></a>
+<p><a href="mailto:mahalechime_udaykumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahalechime_udaykumar@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1163,10 +1163,10 @@ variant: tiptap
 <p>P6 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahalechime Udaykumar</p>
+<p>Ms Cia Zhi Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahalechime_udaykumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahalechime_udaykumar@moe.edu.sg</u></a>
+<p><a href="mailto:zhi_xian_cia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhi_xian_cia@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
