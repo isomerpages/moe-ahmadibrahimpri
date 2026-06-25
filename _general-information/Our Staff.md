@@ -828,6 +828,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P4 Honesty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Soo Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_soo_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_soo_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -847,6 +859,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_aisha_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisha_said@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suzannah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suzannah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzannah_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -946,13 +970,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Darleana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:darleana_daut@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darleana_daut@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Chu Ting</p>
+<p>Mrs Michelle Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_chu_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_chu_ting_a@moe.edu.sg</u></a>
+<p><a href="mailto:michelle_tan_ni_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>michelle_tan_ni_ling@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -965,6 +1001,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:badrolhaizat_kamsin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>badrolhaizat_kamsin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yanwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yanwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
