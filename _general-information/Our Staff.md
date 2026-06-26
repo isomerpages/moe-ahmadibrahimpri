@@ -474,10 +474,10 @@ variant: tiptap
 <p>P2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Malathi d/o Velu</p>
+<p>Mr Thomas Lee Tuck Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:madathi_velu_malathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">madathi_velu_malathi@moe.edu.sg</a>
+<p><a href="mailto:madathi_velu_malathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tuck_pheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -578,6 +578,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P3 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amalraj Sahayarani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amalraj_sahayarani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amalraj_sahayarani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -633,6 +645,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ooi_ai_ling_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_ai_ling_jasmine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Parvathi Ballery D/O Sagar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:parvathi_ballery_sagar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parvathi_ballery_sagar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
