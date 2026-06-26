@@ -1151,6 +1151,18 @@ variant: tiptap
 <p>P6 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Zarena binte Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zarena_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zarena_abdul_rahim@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Mahalechime Udaykumar</p>
 </td>
 <td rowspan="1" colspan="1">
