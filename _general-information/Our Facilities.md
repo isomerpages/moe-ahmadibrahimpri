@@ -4,6 +4,19 @@ permalink: /general-information/Our-Facilities/
 description: ""
 variant: tiptap
 ---
+<h1><strong>Sunshine Garden</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sunshine1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sunshine2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sunshine3.jpg">
+</div>
 <h1><strong>English Learning Space</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/English%20Learning%20Space1.jpg">
