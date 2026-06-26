@@ -435,18 +435,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Thomas Lee Tuck Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_tuck_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tuck_pheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
