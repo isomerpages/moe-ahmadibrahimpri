@@ -64,6 +64,15 @@ description: ""
 <p>Issued annually to each student</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AIPS Feedback Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/aipsfeedbackform" rel="noopener nofollow" target="_blank">https://go.gov.sg/aipsfeedbackform</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
