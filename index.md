@@ -30,4 +30,14 @@ sections:
       url: /open-house/
       image: /images/1mx2m_Banner_FA_P_compressed_page_0001_further2.jpg
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: School General Office
+          date: 06 July 2026
+          announcement: General Office will be closed on 6 July 2026 due to Cluster Event.
+          link_text: ""
+          link_url: ""
 ---
