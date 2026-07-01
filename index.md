@@ -33,17 +33,10 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: School General Office
           date: 06 July 2026
           announcement: General Office will be closed on 6 July 2026 due to Cluster Event.
           link_text: ""
           link_url: ""
-  - infobar:
-      title: Notification to Parents
-      id: infobar
-      description: July 2026
-      button: Button Text
-      url: https://www.ahmadibrahimpri.moe.edu.sg/partners/resources-for-parents-students/SchoolNotificationstoparents/
 ---
