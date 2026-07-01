@@ -33,7 +33,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: School General Office
           date: 06 July 2026
