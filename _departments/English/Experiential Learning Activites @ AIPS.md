@@ -56,7 +56,7 @@ related to and identified farm animals during their visit to Hay Dairies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p1_Hay_Dairies_02.jpg">
 </div>
-<h5><strong>Primary2:</strong></h5>
+<h5><strong>Primary 2:</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>S’mores and Hipster Prata Making:</p>
