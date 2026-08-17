@@ -21,4 +21,11 @@ sections:
         - title: AIPS instagram
           description: Click here for latest update!
           url: https://www.instagram.com/aips_official/?hl=en
+  - infopic:
+      title: Teachers' Day 2026
+      id: infopic
+      button: Click to find out more
+      url: /teachersday
+      image: /images/Teachers__Day_2026.jpg
+      alt: Image alt text
 ---
