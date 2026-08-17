@@ -21,4 +21,16 @@ sections:
         - title: AIPS instagram
           description: Click here for latest update!
           url: https://www.instagram.com/aips_official/?hl=en
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Teachers' Day 2026
+          date: 03 September 2026
+          announcement: Come back, reconnect, and say thank you. 💛 Visit your teachers
+            and leave a little note of gratitude on our Padlet. Your words may
+            mean more than you know! 🌟                If you wish to come back
+            and visit us, please register here.
+          link_text: Click to continue
+          link_url: /teachers-day/
 ---
