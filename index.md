@@ -28,4 +28,16 @@ sections:
       url: /teachers-day/
       image: /images/teacher_s_day_2.png
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Teachers' Day 2026
+          date: 03 September 2026
+          announcement: Click here to register if you are coming back to visit your
+            teachers, or leave a post to show your gratitude and appreciation to
+            our teachers in AIPS
+          link_text: ""
+          link_url: ""
 ---
