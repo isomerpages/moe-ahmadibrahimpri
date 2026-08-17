@@ -26,6 +26,6 @@ sections:
       id: infopic
       button: Click to find out more
       url: /teachers-day/
-      image: /images/Teachers__Day_2026.jpg
+      image: /images/teacher_s_day_2.png
       alt: Image alt text
 ---
