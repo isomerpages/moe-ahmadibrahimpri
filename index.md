@@ -31,7 +31,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Teachers' Day 2026
           date: 03 September 2026
