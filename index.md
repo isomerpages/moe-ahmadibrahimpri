@@ -25,7 +25,7 @@ sections:
       title: Teachers' Day 2026
       id: infopic
       button: Click to find out more
-      url: /teachersday
+      url: /teachers-day/
       image: /images/Teachers__Day_2026.jpg
       alt: Image alt text
 ---
