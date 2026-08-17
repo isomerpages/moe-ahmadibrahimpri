@@ -35,9 +35,8 @@ sections:
       announcement_items:
         - title: Teachers' Day 2026
           date: 03 September 2026
-          announcement: Click here to register if you are coming back to visit your
-            teachers, or leave a post to show your gratitude and appreciation to
-            our teachers in AIPS
-          link_text: ""
-          link_url: ""
+          announcement: Register here, or leave a post to show your gratitude and
+            appreciation to our teachers in AIPS
+          link_text: Click to continue
+          link_url: /teachers-day/
 ---
